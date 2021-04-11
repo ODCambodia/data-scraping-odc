@@ -1,16 +1,20 @@
 {
+    "project_name": "",
+    "project_link": "/pid/project/home/view.castle?pid=b3d4bfb6-fde1-4a0a-a84d-ab9700a09a8d",
+    "contract_link": "/pid/contract/home/view.castle?id=010201190201",
+    "contract_id": "010201/19/02-01",
     "project_html_data": {
-        "Pid": "d9cacf04-582d-4782-acda-ab9700996c3e",
+        "Pid": "b3d4bfb6-fde1-4a0a-a84d-ab9700a09a8d",
         "ProjectSummary": [
             {
-                "Location": "[ 10203 ] Banteay Meanchey \\ Mongkol Borei \\ Chamnaom",
+                "Location": "[ 10201 ] Banteay Meanchey \\ Mongkol Borei \\ Banteay Neang",
                 "Sector": "Economic",
                 "Sub-Sector": "Rural Transport",
                 "TechnicalAssistant": "Peng Sovanna",
                 "NatureofProject": "Infrastructure",
                 "Name": "",
                 "Objective": "",
-                "Relatedcontract(s)": "010203/19/01-01 ",
+                "Relatedcontract(s)": "010201/19/02-01 ",
                 "CreatedBy": "Peng Sovanna",
                 "Mobile": "078 668 803"
             }
@@ -18,30 +22,30 @@
         "Budget": [
             {
                 "CalendarYear": "2019",
-                "NationalTransfer*": "79,500,000",
+                "NationalTransfer*": "80,751,420",
                 "LocalRevenue": "500,000",
                 "CarryOver": "0",
                 "Other": "0",
-                "Total": "80,000,000"
+                "Total": "81,251,420"
             }
         ],
         "Beneficiary": [
             {
                 "No": "1",
-                "Village": "RoungKouDaeum",
-                "BeneficiaryTotal": "810",
-                "BeneficiaryWomen": "387",
-                "Households": "157"
+                "Village": "Khilek",
+                "BeneficiaryTotal": "1,147",
+                "BeneficiaryWomen": "574",
+                "Households": "266"
             }
         ],
         "Outputs_Estimated_Cost": [
             {
                 "Nr.": "1",
-                "Village": "Roung Kou Chong",
-                "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 8,626.000 Volume of earth (m3)",
-                "Qty": "1.050 km",
-                "UnitCost": "63,727,973",
-                "Total": "66,914,372"
+                "Village": "Khilek",
+                "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,782.000 Volume of earth (m3)",
+                "Qty": "1.500 km",
+                "UnitCost": "42,981,571",
+                "Total": "64,472,357"
             }
         ],
         "Technical_Clearance": {
@@ -62,29 +66,29 @@
             ],
             "Signoff": [
                 {
-                    "Feasibilitystudycompletedon": "11-Apr-2019",
-                    "Technicalclearancesign-off": "30-Apr-2019"
+                    "Feasibilitystudycompletedon": "23-Aug-2019",
+                    "Technicalclearancesign-off": "03-Sep-2019"
                 }
             ]
         }
     },
     "contract_html_data": {
-        "Id": "010203190101",
+        "Id": "010201190201",
         "ContractSummary": [
             {
-                "AreaName": "[ 10203 ] Banteay Meanchey \\ Mongkol Borei \\ Chamnaom",
-                "Contract": "010203/19/01-01( 1 )",
+                "AreaName": "[ 10201 ] Banteay Meanchey \\ Mongkol Borei \\ Banteay Neang",
+                "Contract": "010201/19/02-01",
                 "TechnicalSupervisor": "Peng Sovanna",
                 "Project'sName": "",
                 "Sector": "Economic",
                 "Sub-Sector": "Rural Transport",
-                "Contractor": "Veung SoMeng, [ Mr.Veung SoMeng ]",
-                "Competitivebidding": "Yes ( 12-Aug-2019 )",
+                "Contractor": ", [  ]",
+                "Competitivebidding": "Yes ( 03-Oct-2019 )",
                 "Numberofcontractor": "4",
-                "Contractsigndate(Form50)": "30-Aug-2019",
+                "Contractsigndate(Form50)": "18-Oct-2019",
                 "Guaranteeperiod": "6 Month",
-                "Plannedworkstartdate": "02-Jan-2020",
-                "Plannedworkcompletiondate": "17-Mar-2020",
+                "Plannedworkstartdate": "07-Nov-2019",
+                "Plannedworkcompletiondate": "25-Dec-2019",
                 "CreatedBy": "Peng Sovanna",
                 "Mobile": "078 668 803",
                 "RILGPStatus": "Pending",
@@ -94,7 +98,7 @@
         "Budget": [
             {
                 "FundSource": "Commune/Sangkat Fund",
-                "Cost": "78,400,000"
+                "Cost": "80,440,000"
             },
             {
                 "FundSource": "Local Contribution",
@@ -104,37 +108,37 @@
         "Bidding": [
             {
                 "No": "1",
-                "Director'sName": "Mr.ChaoChiva",
-                "Contractor": "ChaoChiva",
-                "BidValue": "77,975,000R",
-                "DiscountRate": "-2%",
+                "Director'sName": "Mr.LayPhirun",
+                "Contractor": "LPR",
+                "BidValue": "79,950,000R",
+                "DiscountRate": "-1%",
                 "Rejected": "No",
                 "Reason": ""
             },
             {
                 "No": "2",
-                "Director'sName": "Mr.VeungSoMeng",
-                "Contractor": "VeungSoMeng",
-                "BidValue": "75,700,000R",
-                "DiscountRate": "-5%",
+                "Director'sName": "Mr.HangChhign",
+                "Contractor": "ChaoLignChhign",
+                "BidValue": "79,950,000R",
+                "DiscountRate": "-1%",
                 "Rejected": "No",
                 "Reason": ""
             },
             {
                 "No": "3",
-                "Director'sName": "Mr.HangChhign",
-                "Contractor": "ChaoLignChhign",
-                "BidValue": "77,550,000R",
-                "DiscountRate": "-3%",
+                "Director'sName": "",
+                "Contractor": "",
+                "BidValue": "77,900,000R",
+                "DiscountRate": "-4%",
                 "Rejected": "No",
                 "Reason": ""
             },
             {
                 "No": "4",
-                "Director'sName": "Mr.SimVathana",
-                "Contractor": "SimVathana",
-                "BidValue": "79,000,000R",
-                "DiscountRate": "-1%",
+                "Director'sName": "",
+                "Contractor": "",
+                "BidValue": "79,335,000R",
+                "DiscountRate": "-2%",
                 "Rejected": "No",
                 "Reason": ""
             }
@@ -142,33 +146,33 @@
         "Outputs_Actual_Cost": [
             {
                 "Nr.": "1",
-                "Totalcontractcostincludetax": "78,900,000",
-                "Village": "Roung Kou Chong",
-                "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 10,469.000 Volume of earth (m3)",
-                "Bid": "1.050 km",
-                "InContract": "1.100 km",
-                "Actualquantity": "1.100 km",
-                "UnitCost/Estimated": "64,000,000est. 63,727,973",
-                "DiscountRate": "0 %",
-                "Total": "70,400,000"
+                "Totalcontractcostincludetax": "80,940,000",
+                "Village": "Khilek",
+                "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,782.000 Volume of earth (m3)",
+                "Bid": "1.500 km",
+                "InContract": "1.500 km",
+                "Actualquantity": "1.500 km",
+                "UnitCost/Estimated": "38,000,000est. 42,981,571",
+                "DiscountRate": "-12 %",
+                "Total": "57,000,000"
             }
         ],
         "progress": [
             {
-                "Actualworkstartdate": "02-Jan-2020",
-                "Actualworkcompletiondate": "17-Mar-2020",
+                "Actualworkstartdate": "07-Nov-2019",
+                "Actualworkcompletiondate": "25-Dec-2019",
                 "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
                 "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
             },
             [
                 {
-                    "Date": "28-Feb-2020",
+                    "Date": "03-Dec-2019",
                     "Progress": "50 %",
                     "ReportBy": "Peng Sovanna",
                     "Note": ""
                 },
                 {
-                    "Date": "17-Mar-2020",
+                    "Date": "25-Dec-2019",
                     "Progress": "100 %",
                     "ReportBy": "Peng Sovanna",
                     "Note": ""
@@ -183,7 +187,7 @@
                 "ActualPaymentCumulativeToDate(A)Gross": "0R",
                 "ActualPaymentCumulativeToDate(A)Net": "0R",
                 "ActualPaymentCumulativeToDate(A)Tax": "0R",
-                "ContractValue(B)Gross": "78,900,000R",
+                "ContractValue(B)Gross": "80,940,000R",
                 "TaxDescription": "Tax Deduction Rate: 0 %"
             }
         ]

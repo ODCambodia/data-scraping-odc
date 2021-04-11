@@ -1,47 +1,51 @@
 {
+    "project_name": "Laterite road",
+    "project_link": "/pid/project/home/view.castle?pid=14d23ba0-a9c8-4a5a-8285-aa6000b7e206",
+    "contract_link": "/pid/contract/home/view.castle?id=010201180101",
+    "contract_id": "010201/18/01-01",
     "project_html_data": {
-        "Pid": "dbd28d5b-7361-4f4d-ba0f-ab97009146af",
+        "Pid": "14d23ba0-a9c8-4a5a-8285-aa6000b7e206",
         "ProjectSummary": [
             {
-                "Location": "[ 10202 ] Banteay Meanchey \\ Mongkol Borei \\ Bat Trang",
+                "Location": "[ 10201 ] Banteay Meanchey \\ Mongkol Borei \\ Banteay Neang",
                 "Sector": "Economic",
                 "Sub-Sector": "Rural Transport",
                 "TechnicalAssistant": "Peng Sovanna",
                 "NatureofProject": "Infrastructure",
-                "Name": "",
-                "Objective": "",
-                "Relatedcontract(s)": "010202/19/01-01 ",
+                "Name": "Laterite road",
+                "Objective": "By the end of 2018, there is a good road for people to travel to the village",
+                "Relatedcontract(s)": "010201/18/01-01 ",
                 "CreatedBy": "Peng Sovanna",
                 "Mobile": "078 668 803"
             }
         ],
         "Budget": [
             {
-                "CalendarYear": "2019",
-                "NationalTransfer*": "116,466,000",
-                "LocalRevenue": "300,000",
-                "CarryOver": "3,101,479",
+                "CalendarYear": "2018",
+                "NationalTransfer*": "138,540,000",
+                "LocalRevenue": "1,000,000",
+                "CarryOver": "37,031,320",
                 "Other": "0",
-                "Total": "119,867,479"
+                "Total": "176,571,320"
             }
         ],
         "Beneficiary": [
             {
                 "No": "1",
-                "Village": "AnlongThnganLech",
-                "BeneficiaryTotal": "938",
-                "BeneficiaryWomen": "465",
-                "Households": "223"
+                "Village": "OuThum",
+                "BeneficiaryTotal": "779",
+                "BeneficiaryWomen": "442",
+                "Households": "196"
             }
         ],
         "Outputs_Estimated_Cost": [
             {
                 "Nr.": "1",
-                "Village": "Anlong Thngan Lech",
-                "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,467.000 Volume of earth (m3)",
-                "Qty": "0.950 km",
-                "UnitCost": "37,808,105",
-                "Total": "35,917,700"
+                "Village": "Ou Thum",
+                "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 9,693.000 Volume of earth (m3)",
+                "Qty": "1.550 km",
+                "UnitCost": "38,882,952",
+                "Total": "60,268,576"
             }
         ],
         "Technical_Clearance": {
@@ -52,7 +56,8 @@
             ],
             "Land_Safeguard": [
                 {
-                    "Impact": "This project did not require land acquisition report.Public"
+                    "Impact": "This project did not require land acquisition report.Public",
+                    "Approvaldate": "01-May-2018"
                 }
             ],
             "Highland_Safeguard": [
@@ -62,29 +67,29 @@
             ],
             "Signoff": [
                 {
-                    "Feasibilitystudycompletedon": "25-Jun-2019",
-                    "Technicalclearancesign-off": "22-Jul-2019"
+                    "Feasibilitystudycompletedon": "15-Jun-2018",
+                    "Technicalclearancesign-off": "26-Jun-2018"
                 }
             ]
         }
     },
     "contract_html_data": {
-        "Id": "010202190101",
+        "Id": "010201180101",
         "ContractSummary": [
             {
-                "AreaName": "[ 10202 ] Banteay Meanchey \\ Mongkol Borei \\ Bat Trang",
-                "Contract": "010202/19/01-01( 1 )",
+                "AreaName": "[ 10201 ] Banteay Meanchey \\ Mongkol Borei \\ Banteay Neang",
+                "Contract": "010201/18/01-01( 2 )",
                 "TechnicalSupervisor": "Peng Sovanna",
-                "Project'sName": "",
+                "Project'sName": "Laterite road",
                 "Sector": "Economic",
                 "Sub-Sector": "Rural Transport",
                 "Contractor": "Sim Vathana, [ Mr. Sim Vathana ]",
-                "Competitivebidding": "Yes ( 22-Aug-2019 )",
-                "Numberofcontractor": "3",
-                "Contractsigndate(Form50)": "06-Sep-2019",
+                "Competitivebidding": "Yes ( 18-Jul-2018 )",
+                "Numberofcontractor": "4",
+                "Contractsigndate(Form50)": "15-Aug-2018",
                 "Guaranteeperiod": "6 Month",
-                "Plannedworkstartdate": "06-Sep-2019",
-                "Plannedworkcompletiondate": "08-Nov-2019",
+                "Plannedworkstartdate": "07-May-2019",
+                "Plannedworkcompletiondate": "31-Jul-2019",
                 "CreatedBy": "Peng Sovanna",
                 "Mobile": "078 668 803",
                 "RILGPStatus": "Pending",
@@ -94,20 +99,20 @@
         "Budget": [
             {
                 "FundSource": "Commune/Sangkat Fund",
-                "Cost": "119,484,000"
+                "Cost": "175,490,000"
             },
             {
                 "FundSource": "Local Contribution",
-                "Cost": "300,000"
+                "Cost": "1,000,000"
             }
         ],
         "Bidding": [
             {
                 "No": "1",
-                "Director'sName": "Mr.ChhourKongveng",
-                "Contractor": "ChhourKongveng",
-                "BidValue": "118,755,000R",
-                "DiscountRate": "0%",
+                "Director'sName": "Mr.TesNarin",
+                "Contractor": "TesNarin",
+                "BidValue": "174,997,550R",
+                "DiscountRate": "-1%",
                 "Rejected": "No",
                 "Reason": ""
             },
@@ -115,17 +120,26 @@
                 "No": "2",
                 "Director'sName": "MrsGnovChanty",
                 "Contractor": "R.M.T",
-                "BidValue": "118,125,000R",
-                "DiscountRate": "-1%",
+                "BidValue": "172,900,000R",
+                "DiscountRate": "-2%",
                 "Rejected": "No",
                 "Reason": ""
             },
             {
                 "No": "3",
+                "Director'sName": "Mr.VeungSoMeng",
+                "Contractor": "VeungSoMeng",
+                "BidValue": "174,720,000R",
+                "DiscountRate": "-1%",
+                "Rejected": "No",
+                "Reason": ""
+            },
+            {
+                "No": "4",
                 "Director'sName": "Mr.SimVathana",
                 "Contractor": "SimVathana",
-                "BidValue": "117,180,000R",
-                "DiscountRate": "-2%",
+                "BidValue": "168,350,000R",
+                "DiscountRate": "-5%",
                 "Rejected": "No",
                 "Reason": ""
             }
@@ -133,33 +147,33 @@
         "Outputs_Actual_Cost": [
             {
                 "Nr.": "1",
-                "Totalcontractcostincludetax": "119,784,000",
-                "Village": "Anlong Thngan Lech",
-                "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,467.000 Volume of earth (m3)",
-                "Bid": "0.950 km",
-                "InContract": "0.950 km",
-                "Actualquantity": "0.950 km",
-                "UnitCost/Estimated": "37,200,000est. 37,808,105",
-                "DiscountRate": "-2 %",
-                "Total": "35,340,000"
+                "Totalcontractcostincludetax": "176,490,000",
+                "Village": "Ou Thum",
+                "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 9,693.000 Volume of earth (m3)",
+                "Bid": "1.550 km",
+                "InContract": "1.550 km",
+                "Actualquantity": "1.550 km",
+                "UnitCost/Estimated": "37,000,000est. 38,882,952",
+                "DiscountRate": "-5 %",
+                "Total": "57,350,000"
             }
         ],
         "progress": [
             {
-                "Actualworkstartdate": "06-Sep-2019",
-                "Actualworkcompletiondate": "08-Nov-2019",
+                "Actualworkstartdate": "07-May-2019",
+                "Actualworkcompletiondate": "31-Jul-2019",
                 "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
                 "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
             },
             [
                 {
-                    "Date": "25-Oct-2019",
+                    "Date": "04-Jun-2019",
                     "Progress": "50 %",
                     "ReportBy": "Peng Sovanna",
                     "Note": ""
                 },
                 {
-                    "Date": "08-Nov-2019",
+                    "Date": "31-Jul-2019",
                     "Progress": "100 %",
                     "ReportBy": "Peng Sovanna",
                     "Note": ""
@@ -174,7 +188,7 @@
                 "ActualPaymentCumulativeToDate(A)Gross": "0R",
                 "ActualPaymentCumulativeToDate(A)Net": "0R",
                 "ActualPaymentCumulativeToDate(A)Tax": "0R",
-                "ContractValue(B)Gross": "119,784,000R",
+                "ContractValue(B)Gross": "176,490,000R",
                 "TaxDescription": "Tax Deduction Rate: 0 %"
             }
         ]
