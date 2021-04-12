@@ -1,0 +1,865 @@
+{
+    "location": {
+        "province": "Siemreap",
+        "district": "Svay Leu",
+        "commune": "Kantuot"
+    },
+    "projects": [
+        {
+            "project_name": "Laterite road repairing 1.400 Km",
+            "project_link": "/pid/project/home/view.castle?pid=60a868ba-f98d-4461-ac11-9c7a011b34e7",
+            "project_html_data": {
+                "Pid": "60a868ba-f98d-4461-ac11-9c7a011b34e7",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Younn Chea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repairing 1.400 Km",
+                        "Objective": "It is easily to travail and transport for villagers in all seasons.",
+                        "Relatedcontract(s)": "171302/09/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "28,996,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "29,196,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kantuot",
+                        "BeneficiaryTotal": "1,028",
+                        "BeneficiaryWomen": "513",
+                        "Households": "182"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kantuot",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,392.000 Volume of earth (m3)",
+                        "Qty": "1.400 km",
+                        "UnitCost": "20,854,286",
+                        "Total": "29,196,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project doesn't report land attachment file because to construction on the old road ."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There is not ethnic minority in this commune ."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Mar-2009",
+                            "Technicalclearancesign-off": "25-Jun-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171302/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171302090101",
+            "contract_html_data": {
+                "Id": "171302090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Contract": "171302/09/01-01",
+                        "TechnicalSupervisor": "Younn Chea",
+                        "Project'sName": "Laterite road repairing 1.400 Km",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sok Chanmony, [ Sok Chanmony ]",
+                        "Competitivebidding": "Yes ( 20-Jul-2009 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "11-Aug-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Aug-2009",
+                        "Plannedworkcompletiondate": "21-Oct-2009",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Excluded",
+                        "Confirmation": "09-Feb-2010",
+                        "Dateofabandon": "24-Dec-2009",
+                        "": "No translate ."
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "26,081,800"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SomRattha",
+                        "Contractor": "SomRattha",
+                        "BidValue": "29,196,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "UngLisour",
+                        "Contractor": "UngLisour",
+                        "BidValue": "29,160,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TonHeng",
+                        "Contractor": "TonHeng",
+                        "BidValue": "29,150,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SokChanmony",
+                        "Contractor": "SokChanmony",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Khouvicheth",
+                        "Contractor": "Khouvicheth",
+                        "BidValue": "25,900,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "26,181,800",
+                        "Village": "Kantuot",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,392.000 Volume of earth (m3)",
+                        "Bid": "1.400 km",
+                        "InContract": "1.400 km",
+                        "Actualquantity": "1.400 km",
+                        "UnitCost/Estimated": "17,142,845est. 20,854,286",
+                        "DiscountRate": "-18 %",
+                        "Total": "23,999,983"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "26,181,800R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Integrated farming system",
+            "project_link": "/pid/project/home/view.castle?pid=f6be25bb-1ef6-4966-b852-9dea00f442f9",
+            "project_html_data": {
+                "Pid": "f6be25bb-1ef6-4966-b852-9dea00f442f9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "TechnicalAssistant": "Srey Dol",
+                        "NatureofProject": "Service",
+                        "Name": "Integrated farming system",
+                        "Objective": "Increase Family Income .",
+                        "Relatedcontract(s)": "171302/10/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "25,900,000",
+                        "Total": "25,900,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kantuot",
+                        "BeneficiaryTotal": "50",
+                        "BeneficiaryWomen": "22",
+                        "Households": "12"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kantuot",
+                        "Description": "IFS trainings New [ 2010111 ]",
+                        "Qty": "1.000 course",
+                        "UnitCost": "1,834,800",
+                        "Total": "1,834,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The service project could not need report land ."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The service project dose not impact with ethic people ."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Apr-2010",
+                            "Technicalclearancesign-off": "04-May-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171302/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171302100101",
+            "contract_html_data": {
+                "Id": "171302100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Contract": "171302/10/01-01",
+                        "TechnicalSupervisor": "Srey Dol",
+                        "Project'sName": "Integrated farming system",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "Contractor": "Human Resource and Natural Development (HRND), [ Mean Someth ]",
+                        "Competitivebidding": "Yes ( 03-Jun-2010 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "25-Jun-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "28-Jun-2010",
+                        "Plannedworkcompletiondate": "31-Dec-2010",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Danida NRML",
+                        "Cost": "10,399,970"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "YeanYeat",
+                        "Contractor": "(FDA)",
+                        "BidValue": "15,434,760R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PengSakun",
+                        "Contractor": "FriendAssociationPionner(FAP)",
+                        "BidValue": "11,556,930R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NuonThearom",
+                        "Contractor": "EducationPopulationSupport(EPS)",
+                        "BidValue": "12,222,575R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PrumMao",
+                        "Contractor": "FederationforIntegratedDevelopmentofAgriculturalinCambodia(FIDAC)",
+                        "BidValue": "11,000,000R",
+                        "DiscountRate": "-53%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "TaingVanchan",
+                        "Contractor": "HumanResDevelopmentandRuralRconomicDevelopmentOrganization(HURREDO)",
+                        "BidValue": "11,000,000R",
+                        "DiscountRate": "-53%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MeanSometh",
+                        "Contractor": "HumanResourceandNaturalDevelopment(HRND)",
+                        "BidValue": "10,399,970R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "LyKhom",
+                        "Contractor": "BuddhismforDevelopmentKompongThom(BFDK)",
+                        "BidValue": "18,916,700R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SamSamAn",
+                        "Contractor": "AgricultureandNaturalResourceAssociation",
+                        "BidValue": "12,989,770R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "RoeunSovannarith",
+                        "Contractor": "TheCambodianRuralDevelopmentAgency",
+                        "BidValue": "20,652,033R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "EmEng",
+                        "Contractor": "DevelopmentAgricultureSystemforFamilyOrganizationinCambodia",
+                        "BidValue": "17,900,000R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "10,399,970",
+                        "Village": "Kantuot",
+                        "Description": "[ 2010168 ] Demonstration on vegetable home garden NewDimension #1 : 0.000 Dimension #2 : 0.000 ",
+                        "Bid": "12.000 demonstration",
+                        "InContract": "12.000 demonstration",
+                        "Actualquantity": " demonstration",
+                        "UnitCost/Estimated": "121,881est. 258,911",
+                        "DiscountRate": "-53 %",
+                        "Total": "1,462,568"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "10,399,970R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road and pip construction",
+            "project_link": "/pid/project/home/view.castle?pid=625989bf-6a44-47ae-ac2c-9fa900cbd00e",
+            "project_html_data": {
+                "Pid": "625989bf-6a44-47ae-ac2c-9fa900cbd00e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Mam Chantha",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road and pip construction",
+                        "Objective": "easily to travel and transport in all season .",
+                        "Relatedcontract(s)": "171302/11/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "73,911,983",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "74,111,983"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kantuot",
+                        "BeneficiaryTotal": "1,025",
+                        "BeneficiaryWomen": "530",
+                        "Households": "183"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kantuot",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 762.000 Volume of earth (m3)",
+                        "Qty": "1.400 km",
+                        "UnitCost": "16,801,581",
+                        "Total": "23,522,213"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project did not to be reported concerning owner property because it set up on the public property."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not related to an ethnic group because they don't live in this area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "18-Aug-2010",
+                            "Technicalclearancesign-off": "25-Oct-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171302/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171302110101",
+            "contract_html_data": {
+                "Id": "171302110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Contract": "171302/11/01-01( 1 )",
+                        "TechnicalSupervisor": "Mam Chantha",
+                        "Project'sName": "Laterite road and pip construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ton Heng, [ Ton Heng ]",
+                        "Competitivebidding": "Yes ( 25-Mar-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "11-Apr-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Jul-2011",
+                        "Plannedworkcompletiondate": "15-Nov-2011",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "81,400,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NhemChinda",
+                        "Contractor": "NhemChinda",
+                        "BidValue": "71,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimRina",
+                        "Contractor": "LimRina",
+                        "BidValue": "64,500,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TonHeng",
+                        "Contractor": "TonHeng",
+                        "BidValue": "63,000,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Ngovyothor",
+                        "Contractor": "Ngovyothor",
+                        "BidValue": "65,500,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "81,600,000",
+                        "Village": "Khnar Krau",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 0.600 Diameter (mm)Dimension #2 : 5.000 Length(m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "1,800,000est. 2,761,796",
+                        "DiscountRate": "-35 %",
+                        "Total": "3,600,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-May-2011",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "81,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pond building",
+            "project_link": "/pid/project/home/view.castle?pid=6460dcc9-01f4-4c18-a87d-a071009a29f7",
+            "project_html_data": {
+                "Pid": "6460dcc9-01f4-4c18-a87d-a071009a29f7",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "TechnicalAssistant": "Younn Chea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pond building",
+                        "Objective": "The people has water-logged  in all season .",
+                        "CreatedBy": "SENG Visal",
+                        "Mobile": "NA"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "47,510,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "47,510,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KhnarKrau",
+                        "BeneficiaryTotal": "1,316",
+                        "BeneficiaryWomen": "635",
+                        "Households": "288"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Khnar Krau",
+                        "Description": "Water supply pond Repair [ 1030401 ]Dimension #1 : 3.000 Depth (m)Dimension #2 : 4,788.000 Volume (m3)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "47,510,000",
+                        "Total": "47,510,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project did not to be reported concerning owner property because it set up on the public property."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not related to an ethnic group because they don't live in this area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Mar-2012",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "litterate  roal building",
+            "project_link": "/pid/project/home/view.castle?pid=7578a2bb-7486-463b-9341-a3f6010527a6",
+            "project_html_data": {
+                "Pid": "7578a2bb-7486-463b-9341-a3f6010527a6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Younn Chea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "litterate  roal building",
+                        "Objective": "There are easy to travail and transportation  in all season for people .",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "78,336,505",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "78,336,505"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KhnarKrau",
+                        "BeneficiaryTotal": "1,045",
+                        "BeneficiaryWomen": "499",
+                        "Households": "236"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Khnar Krau",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 4,838.000 Volume of earth (m3)",
+                        "Qty": "1.100 km",
+                        "UnitCost": "42,353,414",
+                        "Total": "46,588,755"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location .",
+                            "ApprovebyNCDDon": "18-Nov-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project don’t need land study because construction in the public property."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The location project no related with ethnic people because there is no ethnic alive."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Sep-2014",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "eat road contraction",
+            "project_link": "/pid/project/home/view.castle?pid=9eca2332-02ed-4129-bf26-a62d0101488a",
+            "project_html_data": {
+                "Pid": "9eca2332-02ed-4129-bf26-a62d0101488a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171302 ] Siemreap \\ Svay Leu \\ Kantuot",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Bin Rorth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "eat road contraction",
+                        "Objective": "There are easy to travail and transportation  in all season for people .",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "65,223,947",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,423,947"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kantuot",
+                        "BeneficiaryTotal": "1,741",
+                        "BeneficiaryWomen": "848",
+                        "Households": "381"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kantuot",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 6,114.000 Volume of earth (m3)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "41,983,221",
+                        "Total": "41,983,221"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location .",
+                            "ApprovebyNCDDon": "19-May-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "19-May-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project don’t need land study because construction in the public property.",
+                            "Approvaldate": "05-Apr-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The location project no related with ethnic people because there is no ethnic alive."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Apr-2016",
+                            "Technicalclearancesign-off": "05-May-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        }
+    ]
+}

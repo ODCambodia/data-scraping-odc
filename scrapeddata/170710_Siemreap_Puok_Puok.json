@@ -1,0 +1,979 @@
+{
+    "location": {
+        "province": "Siemreap",
+        "district": "Puok",
+        "commune": "Puok"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road repairing and culvert construction",
+            "project_link": "/pid/project/home/view.castle?pid=537a7bc0-f21c-4b29-9e76-9c76010c2d3b",
+            "project_html_data": {
+                "Pid": "537a7bc0-f21c-4b29-9e76-9c76010c2d3b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Mao Lak",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repairing and culvert construction",
+                        "Objective": "The villagers easy to travel and transportation",
+                        "Relatedcontract(s)": "170710/09/01-01 ",
+                        "CreatedBy": "Sou Somaly",
+                        "Mobile": "012 540 101"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "23,624,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "24,624,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Prayut",
+                        "BeneficiaryTotal": "1,056",
+                        "BeneficiaryWomen": "540",
+                        "Households": "183"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prayut",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,687.000 Volume of earth (m3)",
+                        "Qty": "0.512 km",
+                        "UnitCost": "39,656,250",
+                        "Total": "20,304,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project was repairing the existing road and not expand."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There were not any high land people living near by project location"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-Jan-2009",
+                            "Technicalclearancesign-off": "23-Mar-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "170710/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=170710090101",
+            "contract_html_data": {
+                "Id": "170710090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Contract": "170710/09/01-01",
+                        "TechnicalSupervisor": "Mao Lak",
+                        "Project'sName": "Earth road repairing and culvert construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sok Chanmony, [ Sok Chanmony ]",
+                        "Competitivebidding": "Yes ( 23-Jul-2009 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "13-Aug-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "13-Aug-2009",
+                        "Plannedworkcompletiondate": "30-Aug-2009",
+                        "CreatedBy": "Sou Somaly",
+                        "Mobile": "012 540 101",
+                        "RILGPStatus": "Excluded",
+                        "Confirmation": "15-Jan-2010",
+                        "Dateofabandon": "16-Oct-2009",
+                        "": "Contractor abandon this contract"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "25,618,200"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TeaChansovanna",
+                        "Contractor": "TeaChansovanna",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "RamThuhoun",
+                        "Contractor": "RamThuhoun",
+                        "BidValue": "35,150,000R",
+                        "DiscountRate": "43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UngLisour",
+                        "Contractor": "UngLisour",
+                        "BidValue": "28,000,000R",
+                        "DiscountRate": "14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SorKakvei",
+                        "Contractor": "SorKakvei",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KhoutDoeun",
+                        "Contractor": "KhoutDoeun",
+                        "BidValue": "29,000,000R",
+                        "DiscountRate": "18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SokChanmony",
+                        "Contractor": "SokChanmony",
+                        "BidValue": "24,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "26,618,200",
+                        "Village": "Prayut",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 600.000 Diameter (mm)Dimension #2 : 6.000 Length(m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": "2.000 Place",
+                        "UnitCost/Estimated": "2,150,000est. 2,160,000",
+                        "DiscountRate": "0 %",
+                        "Total": "4,300,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "26,618,200R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road - repair",
+            "project_link": "/pid/project/home/view.castle?pid=1a97403e-908e-426b-8627-9e5200e16855",
+            "project_html_data": {
+                "Pid": "1a97403e-908e-426b-8627-9e5200e16855",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Mao Lak",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repair",
+                        "Objective": "it is easy to travail and transport in all season .",
+                        "Relatedcontract(s)": "170710/10/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "108,084,734",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "109,084,734"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Prayut",
+                        "BeneficiaryTotal": "1,162",
+                        "BeneficiaryWomen": "584",
+                        "Households": "229"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prayut",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,614.230 Volume of earth (m3)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "84,259,592",
+                        "Total": "42,129,796"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "This project need report land attach file .",
+                            "Approvaldate": "20-Aug-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project not related with ethnic people because there is not ethnic people live in this commune ."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Aug-2010",
+                            "Technicalclearancesign-off": "24-Sep-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "170710/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=170710100101",
+            "contract_html_data": {
+                "Id": "170710100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Contract": "170710/10/01-01",
+                        "TechnicalSupervisor": "Mao Lak",
+                        "Project'sName": "Earth road - repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Rous Chamroeun, [ Rous Chamroeun ]",
+                        "Competitivebidding": "Yes ( 18-Nov-2010 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "09-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Dec-2010",
+                        "Plannedworkcompletiondate": "30-Jan-2011",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "10-Mar-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "108,566,360"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "RamThuhoun",
+                        "Contractor": "RamThuhoun",
+                        "BidValue": "108,620,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KhoutDoeun",
+                        "Contractor": "KhoutDoeun",
+                        "BidValue": "108,380,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "RousChamroeun",
+                        "Contractor": "RousChamroeun",
+                        "BidValue": "107,418,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "YiHoun",
+                        "Contractor": "YiHoun",
+                        "BidValue": "107,700,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "VikSokhy",
+                        "Contractor": "VikSokhy",
+                        "BidValue": "108,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "109,566,360",
+                        "Village": "Prayut",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 3,614.230 Volume of earth (m3)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "83,000,000est. 84,259,592",
+                        "DiscountRate": "-1 %",
+                        "Total": "41,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Dec-2010",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-Jan-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Ben Rath",
+                            "Note": "500m earth road and 4 places of culvert construction were completed."
+                        },
+                        {
+                            "Date": "18-Feb-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Ms. Touch Siphat",
+                            "Note": "No translate"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "27-Jan-2011",
+                        "Source": "CSF",
+                        "Description": "first",
+                        "Gross": "43826544R",
+                        "Net": "42537528R",
+                        "Tax": "1289016R",
+                        "Verified": "ChinViradeth"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "43,826,544R",
+                        "ActualPaymentCumulativeToDate(A)Net": "42,537,528R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,289,016R",
+                        "ContractValue(B)Gross": "109,566,360R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete road  construction",
+            "project_link": "/pid/project/home/view.castle?pid=c6fb1f5a-1e88-4f77-9760-a0470092be3d",
+            "project_html_data": {
+                "Pid": "c6fb1f5a-1e88-4f77-9760-a0470092be3d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Kang Thy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete road  construction",
+                        "Objective": "Easily to travel and transport in all season .",
+                        "Relatedcontract(s)": "170710/12/01-01 ",
+                        "CreatedBy": "SENG Visal",
+                        "Mobile": "NA"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "73,462,119",
+                        "LocalRevenue": "700,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "74,162,119"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KoukChuon",
+                        "BeneficiaryTotal": "603",
+                        "BeneficiaryWomen": "305",
+                        "Households": "108"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kouk Chuon",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.160 km",
+                        "UnitCost": "463,513,242",
+                        "Total": "74,162,119"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "ព្រោះគម្រោងនេះសាងសង់លើដីសារធារណៈ។This project did not to be reported concerning owner property because it set up on the public property."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not related to an ethnic group because they don't live in this area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Apr-2012",
+                            "Technicalclearancesign-off": "20-May-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "170710/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=170710120101",
+            "contract_html_data": {
+                "Id": "170710120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Contract": "170710/12/01-01",
+                        "TechnicalSupervisor": "Kang Thy",
+                        "Project'sName": "Concrete road  construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Chea Chamroeun, [ Chea Chamroeun ]",
+                        "Competitivebidding": "Yes ( 10-May-2012 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "28-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "29-May-2012",
+                        "Plannedworkcompletiondate": "15-Aug-2012",
+                        "CreatedBy": "SENG Visal",
+                        "Mobile": "NA",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "84,109,813"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "700,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KhoutDoeun",
+                        "Contractor": "KhoutDoeun",
+                        "BidValue": "74,200,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "RousChamroeun",
+                        "Contractor": "RousChamroeun",
+                        "BidValue": "73,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhortSokha",
+                        "Contractor": "KhortSokha",
+                        "BidValue": "73,850,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChhayChengly",
+                        "Contractor": "ChhayChengly",
+                        "BidValue": "82,000,000R",
+                        "DiscountRate": "11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HoutHeang",
+                        "Contractor": "HoutHeang",
+                        "BidValue": "77,000,000R",
+                        "DiscountRate": "4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "84,809,813",
+                        "Village": "Kouk Chuon",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.160 km",
+                        "InContract": "0.181 km",
+                        "Actualquantity": "0.181 km",
+                        "UnitCost/Estimated": "459,375,000est. 463,513,242",
+                        "DiscountRate": "-1 %",
+                        "Total": "83,146,875"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "29-May-2012",
+                        "Actualworkcompletiondate": "16-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Aug-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "SENG Visal",
+                            "Note": "No translate ,"
+                        },
+                        {
+                            "Date": "16-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "SENG Visal",
+                            "Note": "No translate ,"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "84,809,813R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "eath roal building",
+            "project_link": "/pid/project/home/view.castle?pid=45314a48-f830-486a-b75a-a3f4010be701",
+            "project_html_data": {
+                "Pid": "45314a48-f830-486a-b75a-a3f4010be701",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Kang Thy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "eath roal building",
+                        "Objective": "There are easy to travail and transportation  in all season for people .",
+                        "Relatedcontract(s)": "170710/14/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "74,041,125",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "74,441,125"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PuokChas",
+                        "BeneficiaryTotal": "1,520",
+                        "BeneficiaryWomen": "873",
+                        "Households": "220"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Puok Chas",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 8,360.000 Volume of earth (m3)",
+                        "Qty": "1.100 km",
+                        "UnitCost": "67,346,477",
+                        "Total": "74,081,125"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location .",
+                            "ApprovebyNCDDon": "24-Jul-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "28-Jul-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "This location project need to land study because impact with private property.",
+                            "Approvaldate": "30-Mar-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project doesn't need ethnic report , because this commune didn't ethnic people living ,"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Jun-2014",
+                            "Technicalclearancesign-off": "14-Jul-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "170710/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=170710140101",
+            "contract_html_data": {
+                "Id": "170710140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Contract": "170710/14/01-01",
+                        "TechnicalSupervisor": "Kang Thy",
+                        "Project'sName": "eath roal building",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Rous Chamroeun, [ Rous Chamroeun ]",
+                        "Competitivebidding": "Yes ( 02-Sep-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "12-Sep-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Sep-2014",
+                        "Plannedworkcompletiondate": "25-Dec-2014",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "74,570,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KhoutDoeun",
+                        "Contractor": "KhoutDoeun",
+                        "BidValue": "29,990,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HoutHeang",
+                        "Contractor": "HoutHeang",
+                        "BidValue": "29,300,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KimNeay",
+                        "Contractor": "KimNeay",
+                        "BidValue": "30,100,000R",
+                        "DiscountRate": "-59%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "74,970,000",
+                        "Village": "Puok Chas",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 8,360.000 Volume of earth (m3)",
+                        "Bid": "1.100 km",
+                        "InContract": "1.100 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "66,818,182est. 67,346,477",
+                        "DiscountRate": "-1 %",
+                        "Total": "73,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "19-Sep-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "74,970,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=357d574d-1a90-4082-98eb-a4eb00adbe54",
+            "project_html_data": {
+                "Pid": "357d574d-1a90-4082-98eb-a4eb00adbe54",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Kang Thy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "No translate",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "83,000,875",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "83,000,875"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KoukDoung",
+                        "BeneficiaryTotal": "1,402",
+                        "BeneficiaryWomen": "669",
+                        "Households": "223"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kouk Doung",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 352.000 Thickness of concrete (mm)",
+                        "Qty": "0.240 km",
+                        "UnitCost": "345,836,979",
+                        "Total": "83,000,875"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location .",
+                            "ApprovebyNCDDon": "20-Jul-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "21-Jul-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project don’t need land study because construction in the public property.",
+                            "Approvaldate": "20-Feb-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The location project no related with ethnic people because there is no ethnic alive."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "07-May-2015",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "Concreat Construction",
+            "project_link": "/pid/project/home/view.castle?pid=87355029-0023-4665-bf8c-a75d00ecf27a",
+            "project_html_data": {
+                "Pid": "87355029-0023-4665-bf8c-a75d00ecf27a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 170710 ] Siemreap \\ Puok \\ Puok",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Kang Thy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concreat Construction",
+                        "Objective": "There are easy to travail and transportation  in all season for people .",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "104,870,300",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "104,870,300"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KoukDoung",
+                        "BeneficiaryTotal": "1,402",
+                        "BeneficiaryWomen": "669",
+                        "Households": "291"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kouk Thmei",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.285 km",
+                        "UnitCost": "367,965,966",
+                        "Total": "104,870,300"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location .",
+                            "ApprovebyNCDDon": "08-Jul-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "08-Jul-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project don’t need land study because construction in the public property.",
+                            "Approvaldate": "03-Mar-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The location project no related with ethnic people because there is no ethnic alive."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-May-2016",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        }
+    ]
+}

@@ -1,0 +1,1877 @@
+{
+    "location": {
+        "province": "Kandal",
+        "district": "Lvea Aem",
+        "commune": "Sambuor"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=f3dce107-2512-4273-a09e-9c7f00f820f9",
+            "project_html_data": {
+                "Pid": "f3dce107-2512-4273-a09e-9c7f00f820f9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080612/09/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "43,147,021",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "43,547,021"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyChreae",
+                        "BeneficiaryTotal": "2,778",
+                        "BeneficiaryWomen": "1,520",
+                        "Households": "544"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Chreae",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 5,472.000 Volume of earth (m3)",
+                        "Qty": "1.950 km",
+                        "UnitCost": "19,883,436",
+                        "Total": "38,772,700"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road and no expansion",
+                            "Approvaldate": "19-Feb-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Mar-2009",
+                            "Technicalclearancesign-off": "11-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612090101",
+            "contract_html_data": {
+                "Id": "080612090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/09/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ong Seng, [ Ong Seng ]",
+                        "Competitivebidding": "Yes ( 22-May-2009 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "29-May-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jun-2009",
+                        "Plannedworkcompletiondate": "28-Jun-2009",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "31-Dec-2009",
+                        "Closeddateon": "18-Dec-2009"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "39,368,300"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "OngSeng",
+                        "Contractor": "OngSeng",
+                        "BidValue": "38,610,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HenChenda",
+                        "Contractor": "ChendaSangsang",
+                        "BidValue": "38,749,800R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhonKimlong",
+                        "Contractor": "PhonKimlong",
+                        "BidValue": "38,766,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,768,300",
+                        "Village": "Chrouy Chreae",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 5,472.000 Volume of earth (m3)",
+                        "Bid": "1.950 km",
+                        "InContract": "1.950 km",
+                        "Actualquantity": "1.950 km",
+                        "UnitCost/Estimated": "19,800,000est. 19,883,436",
+                        "DiscountRate": "0 %",
+                        "Total": "38,610,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jun-2009",
+                        "Actualworkcompletiondate": "18-Jun-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Jun-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "18-Jun-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "15907320R",
+                        "Net": "15430100R",
+                        "Tax": "477220R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "19-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "15507320R",
+                        "Net": "15042100R",
+                        "Tax": "465220R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "19-Aug-2009",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentat2ndstep(100%)",
+                        "Gross": "400000R",
+                        "Net": "388000R",
+                        "Tax": "12000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "04-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "7953660R",
+                        "Net": "7749800R",
+                        "Tax": "203860R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "39,768,300R",
+                        "ActualPaymentCumulativeToDate(A)Net": "38,610,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,158,300R",
+                        "ContractValue(B)Gross": "39,768,300R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=d289c654-3ce6-442a-9c3e-9dde01031c74",
+            "project_html_data": {
+                "Pid": "d289c654-3ce6-442a-9c3e-9dde01031c74",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "ETH SOTHEARY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "At the end of the year 2010 people will have good road for traveling",
+                        "Relatedcontract(s)": "080612/10/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "65,934,221",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,934,221"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekChar",
+                        "BeneficiaryTotal": "7,540",
+                        "BeneficiaryWomen": "4,045",
+                        "Households": "1,403"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Char",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 7,457.940 Volume of earth (m3)",
+                        "Qty": "1.700 km",
+                        "UnitCost": "35,190,919",
+                        "Total": "59,824,562"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road",
+                            "Approvaldate": "24-Dec-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Jun-2010",
+                            "Technicalclearancesign-off": "22-Jun-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612100101",
+            "contract_html_data": {
+                "Id": "080612100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/10/01-01( 1 )",
+                        "TechnicalSupervisor": "ETH SOTHEARY",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Va Khun, [ Va Khun ]",
+                        "Competitivebidding": "Yes ( 26-Jul-2010 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "05-Aug-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "06-Aug-2010",
+                        "Plannedworkcompletiondate": "22-Oct-2010",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "26-Oct-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "59,378,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "VaKhun",
+                        "Contractor": "VaKhun",
+                        "BidValue": "41,000,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "OngSeng",
+                        "Contractor": "OngSeng",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MaoLiva",
+                        "Contractor": "MaoLiva",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HenChenda",
+                        "Contractor": "ChendaSangsang",
+                        "BidValue": "59,200,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PhonKimlong",
+                        "Contractor": "PhonKimlong",
+                        "BidValue": "59,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MaoMuoyna",
+                        "Contractor": "MaoMuoyna",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "MaoLavy",
+                        "Contractor": "MaoLavy",
+                        "BidValue": "47,840,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "59,778,000",
+                        "Village": "Preaek Char",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 10,660.470 Volume of earth (m3)",
+                        "Bid": "1.700 km",
+                        "InContract": "2.430 km",
+                        "Actualquantity": "2.430 km",
+                        "UnitCost/Estimated": "24,117,647est. 35,190,919",
+                        "DiscountRate": "-31 %",
+                        "Total": "58,605,882"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-Aug-2010",
+                        "Actualworkcompletiondate": "22-Oct-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-Aug-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Oct-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": "Base on the minute of PMC 's evaluation meeting\n"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "20-Aug-2010",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "23911200R",
+                        "Net": "23207929R",
+                        "Tax": "703271R",
+                        "Verified": "KongSophea"
+                    },
+                    {
+                        "Date": "25-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "23511200R",
+                        "Net": "22819694R",
+                        "Tax": "691506R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "25-Oct-2010",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "400000R",
+                        "Net": "388235R",
+                        "Tax": "11765R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "25-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "3rdpmt",
+                        "Gross": "11955600R",
+                        "Net": "11603965R",
+                        "Tax": "351635R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "59,778,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "58,019,823R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,758,177R",
+                        "ContractValue(B)Gross": "59,778,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "single pipe culvert",
+            "project_link": "/pid/project/home/view.castle?pid=3d1cd1e5-512b-4024-932d-9ddf010ab507",
+            "project_html_data": {
+                "Pid": "3d1cd1e5-512b-4024-932d-9ddf010ab507",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "ETH SOTHEARY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "single pipe culvert",
+                        "Objective": "Accessible road  ",
+                        "Relatedcontract(s)": "080612/10/02-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "65,934,221",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,934,221"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekChar",
+                        "BeneficiaryTotal": "1,783",
+                        "BeneficiaryWomen": "896",
+                        "Households": "297"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Char",
+                        "Description": "Single pipe culvert 1.0m diameter  New [ 1010303 ]Dimension #1 : 1,000.000 Diameter (mm)Dimension #2 : 5.000 Length(m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "4,998,800",
+                        "Total": "4,998,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Repair on the existing drainage"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Repair on the existing drainage"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Jun-2010",
+                            "Technicalclearancesign-off": "22-Jun-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612100201",
+            "contract_html_data": {
+                "Id": "080612100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/10/02-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "single pipe culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ong Seng, [ Ong Seng ]",
+                        "Contractsigndate(Form50)": "28-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Apr-2011",
+                        "Plannedworkcompletiondate": "10-May-2011",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Dateofabandon": "03-May-2011",
+                        "": "The project flooded so the construction can not  implementation"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "4,745,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "4,845,000",
+                        "Village": "Preaek Char",
+                        "Description": "[ 1010303 ] Single pipe culvert 1.0m diameter  NewDimension #1 : 1,000.000 Diameter (mm)Dimension #2 : 5.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "4,750,000est. 4,998,800",
+                        "DiscountRate": "-5 %",
+                        "Total": "4,750,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "4,845,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=f8b9f723-0cbe-4b44-b69f-9f1a010f5cce",
+            "project_html_data": {
+                "Pid": "f8b9f723-0cbe-4b44-b69f-9f1a010f5cce",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080612/11/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "56,502,045",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "56,502,045"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "7,540",
+                        "BeneficiaryWomen": "4,054",
+                        "Households": "1,250"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sambuor",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,882.430 Volume of earth (m3)",
+                        "Qty": "0.686 km",
+                        "UnitCost": "34,120,280",
+                        "Total": "23,406,512"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "14-Feb-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-May-2011",
+                            "Technicalclearancesign-off": "10-Jun-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612110101",
+            "contract_html_data": {
+                "Id": "080612110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/11/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mao Liva, [ Mao Liva ]",
+                        "Competitivebidding": "Yes ( 27-Jun-2011 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "05-Jul-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jul-2011",
+                        "Plannedworkcompletiondate": "15-Aug-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Dateofabandon": "10-Jun-2012",
+                        "": "kldfh"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "29,290,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "290,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HuyVansy",
+                        "Contractor": "HuyVansy",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "OngSeng",
+                        "Contractor": "OngSeng",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MaoLiva",
+                        "Contractor": "MaoLiva",
+                        "BidValue": "29,000,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MenThan",
+                        "Contractor": "MenThan",
+                        "BidValue": "45,950,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SamSivon",
+                        "Contractor": "SamSivonConstruction",
+                        "BidValue": "48,438,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "Ms.MorpSothea",
+                        "Contractor": "MorpSothea",
+                        "BidValue": "0R",
+                        "DiscountRate": "-100%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "37,000,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "Mr.NavChou",
+                        "Contractor": "Diamond",
+                        "BidValue": "33,644,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "Lybunthien",
+                        "Contractor": "Lybunthien",
+                        "BidValue": "34,000,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "HeungKeng",
+                        "Contractor": "HeungKeng",
+                        "BidValue": "31,400,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "29,580,000",
+                        "Village": "Sambuor",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 3,882.430 Volume of earth (m3)",
+                        "Bid": "0.686 km",
+                        "InContract": "0.686 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "18,758,085est. 34,120,280",
+                        "DiscountRate": "-45 %",
+                        "Total": "12,868,047"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "29,580,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=5fbb7333-bb1e-4232-ba0d-a1c700a51e6b",
+            "project_html_data": {
+                "Pid": "5fbb7333-bb1e-4232-ba0d-a1c700a51e6b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "At the end of the year 2013 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080612/13/02-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "38,528,680",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "38,528,680"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "1,638",
+                        "BeneficiaryWomen": "859",
+                        "Households": "368"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sambuor",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 5,714.470 Volume of earth (m3)",
+                        "Qty": "0.184 km",
+                        "UnitCost": "209,394,999",
+                        "Total": "38,528,680"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It is not bad to water Resource and Forest"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road with more expansion",
+                            "Approvaldate": "18-Feb-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Feb-2013",
+                            "Technicalclearancesign-off": "07-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/13/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612130201",
+            "contract_html_data": {
+                "Id": "080612130201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/13/02-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Contractsigndate(Form50)": "03-May-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "04-May-2013",
+                        "Plannedworkcompletiondate": "31-May-2013",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "38,660,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "38,760,000",
+                        "Village": "Sambuor",
+                        "Description": "[ 1010101 ] Earth road NewDimension #1 : 6.000 Width (m)Dimension #2 : 5,714.470 Volume of earth (m3)",
+                        "Bid": "0.184 km",
+                        "InContract": "0.184 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "206,521,739est. 209,394,999",
+                        "DiscountRate": "-1 %",
+                        "Total": "38,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-May-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Jun-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Aug-2013",
+                            "Progress": "90 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "16-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "17-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "15504000R",
+                        "Net": "15048000R",
+                        "Tax": "456000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "15504000R",
+                        "Net": "15048000R",
+                        "Tax": "456000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "31,008,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "30,096,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "912,000R",
+                        "ContractValue(B)Gross": "38,760,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road Repair",
+            "project_link": "/pid/project/home/view.castle?pid=b713854a-f70e-4bfb-b5c2-a2eb00aaa8d2",
+            "project_html_data": {
+                "Pid": "b713854a-f70e-4bfb-b5c2-a2eb00aaa8d2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road Repair",
+                        "Objective": "Accessible road.",
+                        "Relatedcontract(s)": "080612/14/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "58,781,998",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "58,781,998"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "1,790",
+                        "BeneficiaryWomen": "931",
+                        "Households": "368"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sambuor",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 3,575.830 Volume of earth (m3)",
+                        "Qty": "0.315 km",
+                        "UnitCost": "186,609,518",
+                        "Total": "58,781,998"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project construct out of safeguard watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "28-Jan-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Jan-2014",
+                            "Technicalclearancesign-off": "12-Feb-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612140101",
+            "contract_html_data": {
+                "Id": "080612140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/14/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Road Repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "(M.L.V), [ Mao Lavy ]",
+                        "Competitivebidding": "Yes ( 28-Feb-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "07-Mar-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Mar-2014",
+                        "Plannedworkcompletiondate": "25-Apr-2014",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "57,530,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MaoLavy",
+                        "Contractor": "(M.L.V)",
+                        "BidValue": "56,500,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BoChakriya",
+                        "Contractor": "BoChakriya",
+                        "BidValue": "57,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "58,590,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "57,630,000",
+                        "Village": "Sambuor",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 3,575.830 Volume of earth (m3)",
+                        "Bid": "0.315 km",
+                        "InContract": "0.315 km",
+                        "Actualquantity": "0.315 km",
+                        "UnitCost/Estimated": "179,365,079est. 186,609,518",
+                        "DiscountRate": "-4 %",
+                        "Total": "56,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Mar-2014",
+                        "Actualworkcompletiondate": "05-May-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Apr-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "57,630,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Canal rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=d46988e4-fde7-4839-8233-a356009374fd",
+            "project_html_data": {
+                "Pid": "d46988e4-fde7-4839-8233-a356009374fd",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Canal rehabilitation",
+                        "Objective": "សម្រួលក្នុងការនាំទឹកសម្រាប់ស្រោចស្រប់ដំណាំស្រូវ",
+                        "Relatedcontract(s)": "080612/14/02-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "121,789,920",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "121,789,920"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekChar",
+                        "BeneficiaryTotal": "2,567",
+                        "BeneficiaryWomen": "1,398",
+                        "Households": "532"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Char",
+                        "Description": "Unlined Earth canal Upgrade [ 1020101 ]Dimension #1 : 2.320 Depth (m)Dimension #2 : 7.000 Average width (m)",
+                        "Qty": "2.500 km",
+                        "UnitCost": "28,115,032",
+                        "Total": "70,287,580"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "No needs to do assessment for environment screening"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "14-Mar-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No minority assessment"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "18-Mar-2014",
+                            "Technicalclearancesign-off": "23-Apr-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/14/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612140201",
+            "contract_html_data": {
+                "Id": "080612140201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/14/02-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Canal rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Pech Ay, [ Pech Ay ]",
+                        "Competitivebidding": "Yes ( 10-Jun-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "17-Jun-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jun-2014",
+                        "Plannedworkcompletiondate": "31-Jul-2014",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "129,400,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PechAy",
+                        "Contractor": "PechAy",
+                        "BidValue": "118,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BoChakriya",
+                        "Contractor": "BoChakriya",
+                        "BidValue": "119,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LyMengHak",
+                        "Contractor": "LYMENGHAK",
+                        "BidValue": "123,836,000R",
+                        "DiscountRate": "2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "129,800,000",
+                        "Village": "Chrouy Chreae",
+                        "Description": "[ 1020101 ] Unlined Earth canal UpgradeDimension #1 : 1.910 Depth (m)Dimension #2 : 6.500 Average width (m)",
+                        "Bid": "0.460 km",
+                        "InContract": "0.460 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "22,826,087est. 31,405,717",
+                        "DiscountRate": "-27 %",
+                        "Total": "10,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Jun-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "07-Jul-2014",
+                            "Progress": "35 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "04-May-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "08-Jun-2015",
+                            "Progress": "85 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "24-Jun-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "129,800,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal rehabilitation and culvert installation",
+            "project_link": "/pid/project/home/view.castle?pid=729b8788-50a0-4171-a2e5-a64e01016cf5",
+            "project_html_data": {
+                "Pid": "729b8788-50a0-4171-a2e5-a64e01016cf5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal rehabilitation and culvert installation",
+                        "Objective": "To make easier for irrigation and transport from filed to the road",
+                        "Relatedcontract(s)": "080612/16/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "134,953,897",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "134,953,897"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "1,639",
+                        "BeneficiaryWomen": "859",
+                        "Households": "368"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Chreae",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.470 Depth (m)Dimension #2 : 7.460 Average width (m)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "24,949,243",
+                        "Total": "37,423,865"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "25-Mar-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Mar-2016",
+                            "Technicalclearancesign-off": "06-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612160101",
+            "contract_html_data": {
+                "Id": "080612160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/16/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Canal rehabilitation and culvert installation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Diamond, [ Mr. Nav Chou ]",
+                        "Competitivebidding": "Yes ( 22-Jun-2016 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "01-Jul-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Jul-2016",
+                        "Plannedworkcompletiondate": "20-Aug-2016",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "74,091,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhonPoalong",
+                        "Contractor": "ChhonPoalong",
+                        "BidValue": "80,400,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "73,108,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.NavChou",
+                        "Contractor": "Diamond",
+                        "BidValue": "67,810,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Kryya",
+                        "Contractor": "Kryya",
+                        "BidValue": "105,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "68,990,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MoaLiva",
+                        "Contractor": "MoaLiva",
+                        "BidValue": "83,400,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "74,591,000",
+                        "Village": "Sambuor",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.500 Depth (m)Dimension #2 : 8.000 Average width (m)",
+                        "Bid": "2.182 km",
+                        "InContract": "2.182 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "30,000,000est. 28,072,687",
+                        "DiscountRate": "7 %",
+                        "Total": "65,460,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Jul-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Jul-2017",
+                            "Progress": "15 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "28-May-2018",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "12-Jun-2018",
+                            "Progress": "70 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Jun-2018",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "74,591,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road and culvert construction",
+            "project_link": "/pid/project/home/view.castle?pid=7dbe6e69-d4c6-4d59-8fb5-aa0d00b84728",
+            "project_html_data": {
+                "Pid": "7dbe6e69-d4c6-4d59-8fb5-aa0d00b84728",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road and culvert construction",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080612/17/01-01 ",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "143,997,891",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "143,997,891"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "1,639",
+                        "BeneficiaryWomen": "859",
+                        "Households": "368"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sambuor",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 9,810.000 Volume of earth (m3)",
+                        "Qty": "0.358 km",
+                        "UnitCost": "357,351,597",
+                        "Total": "127,931,872"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "27-Apr-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-May-2017",
+                            "Technicalclearancesign-off": "31-May-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080612/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080612170101",
+            "contract_html_data": {
+                "Id": "080612170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80612 ] Kandal \\ Lvea Aem \\ Sambuor",
+                        "Contract": "080612/17/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth road and culvert construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Moa Liva, [ Moa Liva ]",
+                        "Competitivebidding": "Yes ( 15-Jun-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "27-Jun-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Jun-2017",
+                        "Plannedworkcompletiondate": "27-Jul-2017",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "157,988,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "105,524,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "121,642,200R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MoaLiva",
+                        "Contractor": "MoaLiva",
+                        "BidValue": "115,240,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "120,968,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "158,488,000",
+                        "Village": "Sambuor",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 9,810.000 Volume of earth (m3)",
+                        "Bid": "0.358 km",
+                        "InContract": "0.461 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "280,000,000est. 357,351,597",
+                        "DiscountRate": "-22 %",
+                        "Total": "129,080,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "27-Jun-2017",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Jun-2018",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "158,488,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

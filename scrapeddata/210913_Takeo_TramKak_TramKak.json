@@ -1,0 +1,1591 @@
+{
+    "location": {
+        "province": "Takeo",
+        "district": "Tram Kak",
+        "commune": "Tram Kak"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=06c35c72-fd54-4a40-be92-9c6900a4513e",
+            "project_html_data": {
+                "Pid": "06c35c72-fd54-4a40-be92-9c6900a4513e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chorn Bunvanny",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "Good rural road for traveling",
+                        "Relatedcontract(s)": "210913/09/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "43,383,000",
+                        "LocalRevenue": "520,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "43,903,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrapeangRuessei",
+                        "BeneficiaryTotal": "537",
+                        "BeneficiaryWomen": "282",
+                        "Households": "120"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Ruessei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,741.350 Volume of earth (m3)",
+                        "Qty": "1.750 km",
+                        "UnitCost": "37,799,527",
+                        "Total": "66,149,172"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "06-Apr-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Apr-2009",
+                            "Technicalclearancesign-off": "05-May-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210913/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210913090101",
+            "contract_html_data": {
+                "Id": "210913090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Contract": "210913/09/01-01",
+                        "TechnicalSupervisor": "Chorn Bunvanny",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "DoungSambour, [ Doung Sambour ]",
+                        "Competitivebidding": "Yes ( 25-May-2009 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "25-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jul-2009",
+                        "Plannedworkcompletiondate": "10-Sep-2009",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "05-Aug-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "42,204,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "520,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NenNeng",
+                        "Contractor": "NenNeng",
+                        "BidValue": "38,065,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengPuthy",
+                        "Contractor": "SengPuthy",
+                        "BidValue": "37,700,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "OuchVuthy",
+                        "Contractor": "NeangSokha",
+                        "BidValue": "38,012,780R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "DoungSambour",
+                        "Contractor": "DoungSambour",
+                        "BidValue": "37,300,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "TongLiHour",
+                        "Contractor": "TongLiHour",
+                        "BidValue": "37,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "42,724,400",
+                        "Village": "Trapeang Ruessei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 5,313.500 Volume of earth (m3)",
+                        "Bid": "0.850 km",
+                        "InContract": "0.960 km",
+                        "Actualquantity": "0.960 km",
+                        "UnitCost/Estimated": "38,000,000est. 37,799,527",
+                        "DiscountRate": "1 %",
+                        "Total": "36,480,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Jul-2009",
+                        "Actualworkcompletiondate": "24-Mar-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Sep-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "24-Mar-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "07-Sep-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "16569800R",
+                        "Net": "16072706R",
+                        "Tax": "497094R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "07-Sep-2009",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "520000R",
+                        "Net": "504400R",
+                        "Tax": "15600R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "25-Mar-2010",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "17089800R",
+                        "Net": "16577106R",
+                        "Tax": "512694R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "06-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "8544800R",
+                        "Net": "8325788R",
+                        "Tax": "219012R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "42,724,400R",
+                        "ActualPaymentCumulativeToDate(A)Net": "41,480,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,244,400R",
+                        "ContractValue(B)Gross": "42,724,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=3b598630-d15e-4c98-acb1-9d8e01363ba6",
+            "project_html_data": {
+                "Pid": "3b598630-d15e-4c98-acb1-9d8e01363ba6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Chorn Bunvanny",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "To get good road for traveling",
+                        "Relatedcontract(s)": "210913/10/01-01 ",
+                        "CreatedBy": "Chea Rithy",
+                        "Mobile": "012 383 499"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "64,840,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,840,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "YeayLa",
+                        "BeneficiaryTotal": "1,017",
+                        "BeneficiaryWomen": "524",
+                        "Households": "250"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Yeay La",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,260.000 Volume of earth (m3)",
+                        "Qty": "1.075 km",
+                        "UnitCost": "18,856,282",
+                        "Total": "20,270,503"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There are no highland people stay in this area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Dec-2009",
+                            "Technicalclearancesign-off": "31-Dec-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210913/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210913100101",
+            "contract_html_data": {
+                "Id": "210913100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Contract": "210913/10/01-01",
+                        "TechnicalSupervisor": "Chorn Bunvanny",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "KouYunSvayBraVoath, [ Pang Sokhom ]",
+                        "Competitivebidding": "Yes ( 05-May-2010 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "09-Jul-2010 (65 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "13-Jul-2010",
+                        "Plannedworkcompletiondate": "30-Aug-2010",
+                        "CreatedBy": "Chea Rithy",
+                        "Mobile": "012 383 499",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "15-Feb-2011",
+                        "Closeddateon": "15-Mar-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "49,600,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SengPuthy",
+                        "Contractor": "SengPuthy",
+                        "BidValue": "49,440,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "DoungSambour",
+                        "Contractor": "DoungSambour",
+                        "BidValue": "49,900,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "DulSenghout",
+                        "Contractor": "DulSengHout",
+                        "BidValue": "46,030,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": "Validcontractorwiththesubmissionofthesecondlowestbidprice"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PangSokhom",
+                        "Contractor": "KouYunSvayBraVoath",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": "Validcontractorwiththesubmissionoflowestbidprice,PCdecidedtoprovidethebidaward"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PangKosal",
+                        "Contractor": "SamnangPangKosal",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": "Validcontractorwiththesubmissionofthirdlowestbidprice"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SuySopheap",
+                        "Contractor": "SuySopheap",
+                        "BidValue": "45,880,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "Yes",
+                        "Reason": "Representativewithoutauthorizedletterfromtheheadofcontractorfirmtojoinbiding"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,600,000",
+                        "Village": "Yeay La",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 1,260.000 Volume of earth (m3)",
+                        "Bid": "1.075 km",
+                        "InContract": "1.075 km",
+                        "Actualquantity": "1.075 km",
+                        "UnitCost/Estimated": "14,886,731est. 18,856,282",
+                        "DiscountRate": "-21 %",
+                        "Total": "16,003,236"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "13-Jul-2010",
+                        "Actualworkcompletiondate": "26-Aug-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "04-Aug-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Chea Rithy",
+                            "Note": "The work quality is acceptable to get paid for the first payment"
+                        },
+                        {
+                            "Date": "26-Aug-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chea Rithy",
+                            "Note": "The work quality is acceptable to get paid for the second payment"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Aug-2010",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "19240000R",
+                        "Net": "17490909R",
+                        "Tax": "1749091R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "06-Aug-2010",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "1000000R",
+                        "Net": "909091R",
+                        "Tax": "90909R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "13-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "20240000R",
+                        "Net": "18400000R",
+                        "Tax": "1840000R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "17-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "10120000R",
+                        "Net": "9200000R",
+                        "Tax": "920000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "50,600,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "46,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "4,600,000R",
+                        "ContractValue(B)Gross": "50,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Cravel road",
+            "project_link": "/pid/project/home/view.castle?pid=c3ec0bb6-4572-4f28-81fc-9f900096560b",
+            "project_html_data": {
+                "Pid": "c3ec0bb6-4572-4f28-81fc-9f900096560b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pes Parth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Cravel road",
+                        "Objective": "In 2011, people have a good road for traveling.",
+                        "Relatedcontract(s)": "210913/11/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "62,043,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "63,043,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrapeangChak",
+                        "BeneficiaryTotal": "721",
+                        "BeneficiaryWomen": "372",
+                        "Households": "171"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Chak",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 15.403 Volume of earth (m3)",
+                        "Qty": "2.700 km",
+                        "UnitCost": "61,707,748",
+                        "Total": "166,610,920"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "16-Aug-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There are no highland people staying in that area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Aug-2011",
+                            "Technicalclearancesign-off": "29-Aug-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210913/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210913110101",
+            "contract_html_data": {
+                "Id": "210913110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Contract": "210913/11/01-01",
+                        "TechnicalSupervisor": "Pes Parth",
+                        "Project'sName": "Cravel road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "PiphopthmeyAkphivat, [ Cheung Sokunthea ]",
+                        "Competitivebidding": "Yes ( 16-Sep-2011 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "03-Aug-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jan-2012",
+                        "Plannedworkcompletiondate": "31-Jan-2012",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "12-Dec-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "61,990,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengPong",
+                        "Contractor": "HengPong",
+                        "BidValue": "29,900,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NenNeng",
+                        "Contractor": "NenNeng",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KangRin",
+                        "Contractor": "KangRin",
+                        "BidValue": "34,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SengPuthy",
+                        "Contractor": "SengPuthy",
+                        "BidValue": "29,925,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "OuchVuthy",
+                        "Contractor": "NeangSokha",
+                        "BidValue": "32,518,969R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KangSoPhouen",
+                        "Contractor": "KangSoPhouen",
+                        "BidValue": "40,900,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "YinSamean",
+                        "Contractor": "YinSamean",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "CheungSokunthea",
+                        "Contractor": "PiphopthmeyAkphivat",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-58%",
+                        "Rejected": "No",
+                        "Reason": "Itislowprizeandhaslicense."
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "",
+                        "Contractor": "SamnoangAkphivatCompany",
+                        "BidValue": "33,500,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "62,990,400",
+                        "Village": "Trapeang Chak",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 4,731.000 Volume of earth (m3)",
+                        "Bid": "0.850 km",
+                        "InContract": "2.386 km",
+                        "Actualquantity": "2.386 km",
+                        "UnitCost/Estimated": "25,882,353est. 61,707,748",
+                        "DiscountRate": "-58 %",
+                        "Total": "61,755,294"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Nov-2011",
+                        "Actualworkcompletiondate": "11-Jun-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "02-Apr-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Prak",
+                            "Note": "The work quality is acceptable to get paid for the first payment"
+                        },
+                        {
+                            "Date": "11-Jun-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Prak",
+                            "Note": "The work quality is acceptable to get paid for the second payment \n\n\n"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "11-Apr-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "24196160R",
+                        "Net": "23484508R",
+                        "Tax": "711652R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Apr-2012",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "1000000R",
+                        "Net": "970588R",
+                        "Tax": "29412R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "25196160R",
+                        "Net": "24455096R",
+                        "Tax": "741064R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "12598080R",
+                        "Net": "12227549R",
+                        "Tax": "370531R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "62,990,400R",
+                        "ActualPaymentCumulativeToDate(A)Net": "61,137,741R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,852,659R",
+                        "ContractValue(B)Gross": "62,990,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "sand road",
+            "project_link": "/pid/project/home/view.castle?pid=d4befca7-723d-45b5-90c4-a0d200ffc04e",
+            "project_html_data": {
+                "Pid": "d4befca7-723d-45b5-90c4-a0d200ffc04e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pes Parth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "sand road",
+                        "Objective": "In 2012,people will have the road use.",
+                        "Relatedcontract(s)": "210913/12/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "40,142,000",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "40,542,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Niel",
+                        "BeneficiaryTotal": "709",
+                        "BeneficiaryWomen": "378",
+                        "Households": "168"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Chak",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 1,299.000 Volume of earth (m3)",
+                        "Qty": "0.400 km",
+                        "UnitCost": "38,443,721",
+                        "Total": "15,377,488"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.",
+                            "ApprovebyNCDDon": "16-Aug-2012 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "16-Aug-2012"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "22-Jun-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "not"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Jun-2012",
+                            "Technicalclearancesign-off": "03-Sep-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210913/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210913120101",
+            "contract_html_data": {
+                "Id": "210913120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Contract": "210913/12/01-01",
+                        "TechnicalSupervisor": "Pes Parth",
+                        "Project'sName": "sand road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SengPuthy, [ Seng Puthy ]",
+                        "Competitivebidding": "Yes ( 21-Sep-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "04-Oct-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Oct-2012",
+                        "Plannedworkcompletiondate": "23-Nov-2012",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "61,913,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KimPutthea",
+                        "Contractor": "KimPutthea",
+                        "BidValue": "55,588,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengPuthy",
+                        "Contractor": "SengPuthy",
+                        "BidValue": "44,500,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PangSokhom",
+                        "Contractor": "KouYunSvayBraVoath",
+                        "BidValue": "54,500,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "62,913,000",
+                        "Village": "Trapeang Chak",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 1,299.000 Volume of earth (m3)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.400 km",
+                        "Actualquantity": "0.400 km",
+                        "UnitCost/Estimated": "32,352,941est. 38,443,721",
+                        "DiscountRate": "-16 %",
+                        "Total": "12,941,176"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Oct-2012",
+                        "Actualworkcompletiondate": "12-Jul-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "18-Mar-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "12-Jul-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "62,913,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Gravel  earth road.",
+            "project_link": "/pid/project/home/view.castle?pid=21ff6e2b-87fd-4ec5-bee9-a2a1009c1c3b",
+            "project_html_data": {
+                "Pid": "21ff6e2b-87fd-4ec5-bee9-a2a1009c1c3b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pes Parth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Gravel  earth road.",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210913/13/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "78,090,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "5,331,870",
+                        "Other": "0",
+                        "Total": "84,421,870"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Niel",
+                        "BeneficiaryTotal": "1,107",
+                        "BeneficiaryWomen": "553",
+                        "Households": "259"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Niel",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 8,438.000 Volume of earth (m3)",
+                        "Qty": "2.385 km",
+                        "UnitCost": "35,404,153",
+                        "Total": "84,438,905"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "01-Nov-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "04-Nov-2013"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "21-Jun-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Jul-2013",
+                            "Technicalclearancesign-off": "20-Nov-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210913/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210913130101",
+            "contract_html_data": {
+                "Id": "210913130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Contract": "210913/13/01-01",
+                        "TechnicalSupervisor": "Pes Parth",
+                        "Project'sName": "Gravel  earth road.",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Tong Lihour, [ Tong Lihour ]",
+                        "Competitivebidding": "Yes ( 18-Dec-2013 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "27-Dec-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Dec-2013",
+                        "Plannedworkcompletiondate": "02-Feb-2014",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "83,392,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "YouLimbak",
+                        "Contractor": "YouLimbak",
+                        "BidValue": "39,900,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KimPutthea",
+                        "Contractor": "KimPutthea",
+                        "BidValue": "33,000,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BouNann",
+                        "Contractor": "BouNann",
+                        "BidValue": "37,975,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ThavKeav",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "45,570,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "60,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SengPuthy",
+                        "Contractor": "SengPuthy",
+                        "BidValue": "49,367,500R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "TongLihour",
+                        "Contractor": "TongLihour",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "ChengKoab",
+                        "Contractor": "chengkab",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "84,391,999",
+                        "Village": "Niel",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 3,485.000 Volume of earth (m3)",
+                        "Bid": "0.250 km",
+                        "InContract": "1.710 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "32,000,000est. 35,404,153",
+                        "DiscountRate": "-10 %",
+                        "Total": "54,720,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "30-Dec-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Jan-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "84,392,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite earth road.",
+            "project_link": "/pid/project/home/view.castle?pid=15ecca84-7d93-4fc1-95a0-a3ef0110ef39",
+            "project_html_data": {
+                "Pid": "15ecca84-7d93-4fc1-95a0-a3ef0110ef39",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chorn Bunvanny",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite earth road.",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210913/14/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "67,592,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "159,500",
+                        "Other": "0",
+                        "Total": "68,751,500"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChreyTnaot",
+                        "BeneficiaryTotal": "1,123",
+                        "BeneficiaryWomen": "554",
+                        "Households": "320"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Kaev",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 4,160.000 Volume of earth (m3)",
+                        "Qty": "1.200 km",
+                        "UnitCost": "36,510,283",
+                        "Total": "43,812,340"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "01-Sep-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "02-Sep-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "17-Apr-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Apr-2014",
+                            "Technicalclearancesign-off": "15-Sep-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210913/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210913140101",
+            "contract_html_data": {
+                "Id": "210913140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Contract": "210913/14/01-01",
+                        "TechnicalSupervisor": "Chorn Bunvanny",
+                        "Project'sName": "Laterite earth road.",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Bou Nann, [ Bou Nann ]",
+                        "Competitivebidding": "Yes ( 02-Oct-2014 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "20-Oct-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "12-Nov-2014",
+                        "Plannedworkcompletiondate": "20-Jan-2015",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "57,937,552"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LachPhan",
+                        "Contractor": "LachPhanPonleuAkphiwat",
+                        "BidValue": "40,100,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengSreyka",
+                        "Contractor": "LybunhengHongakphivatCompany",
+                        "BidValue": "43,900,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BouNann",
+                        "Contractor": "BouNann",
+                        "BidValue": "33,000,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TongLihour",
+                        "Contractor": "TongLihour",
+                        "BidValue": "42,200,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "58,937,553",
+                        "Village": "Thma Kaev",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 4,160.000 Volume of earth (m3)",
+                        "Bid": "1.200 km",
+                        "InContract": "1.200 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "16,755,319est. 36,510,283",
+                        "DiscountRate": "-54 %",
+                        "Total": "20,106,383"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Nov-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "05-Mar-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "08-Sep-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "58,937,552R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=7a4c3598-6c3c-4b25-bbcb-a6fa00a30ff5",
+            "project_html_data": {
+                "Pid": "7a4c3598-6c3c-4b25-bbcb-a6fa00a30ff5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chheng Chanthy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210913/16/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "98,495,183",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "99,495,183"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChreyTnaot",
+                        "BeneficiaryTotal": "1,135",
+                        "BeneficiaryWomen": "578",
+                        "Households": "344"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrey Tnaot",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 3,198.000 Volume of earth (m3)",
+                        "Qty": "1.260 km",
+                        "UnitCost": "38,513,032",
+                        "Total": "48,526,420"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.",
+                            "ApprovebyNCDDon": "07-Oct-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "10-Oct-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "29-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Jun-2016",
+                            "Technicalclearancesign-off": "10-Oct-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210913/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210913160101",
+            "contract_html_data": {
+                "Id": "210913160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210913 ] Takeo \\ Tram Kak \\ Tram Kak",
+                        "Contract": "210913/16/01-01",
+                        "TechnicalSupervisor": "Chheng Chanthy",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Tong Lihour, [ Tong Lihour ]",
+                        "Competitivebidding": "Yes ( 11-Nov-2016 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "30-Nov-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jan-2017",
+                        "Plannedworkcompletiondate": "20-Mar-2017",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "98,495,183"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "76,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "54,000,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TongLihour",
+                        "Contractor": "TongLihour",
+                        "BidValue": "48,400,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "keobunmeanghak",
+                        "Contractor": "keobunmeanghak",
+                        "BidValue": "74,920,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "99,495,182",
+                        "Village": "Chrey Tnaot",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 1,995.000 Volume of earth (m3)",
+                        "Bid": "1.260 km",
+                        "InContract": "1.260 km",
+                        "Actualquantity": "1.260 km",
+                        "UnitCost/Estimated": "11,904,762est. 38,513,032",
+                        "DiscountRate": "-69 %",
+                        "Total": "15,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jan-2017",
+                        "Actualworkcompletiondate": "20-Mar-2017",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "20-Mar-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Un Bunchannalin",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "99,495,183R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

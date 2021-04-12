@@ -1,0 +1,1938 @@
+{
+    "location": {
+        "province": "Preah Sihanouk",
+        "district": "Prey Nob",
+        "commune": "Tuek L'ak"
+    },
+    "projects": [
+        {
+            "project_name": "Laterite road and culvert",
+            "project_link": "/pid/project/home/view.castle?pid=96b8bd7d-a80a-4b0a-81bb-9c63010b0236",
+            "project_html_data": {
+                "Pid": "96b8bd7d-a80a-4b0a-81bb-9c63010b0236",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "OK SAM PHORS",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road and culvert",
+                        "Objective": "At the end of year 2009 people in village have good road uses",
+                        "Relatedcontract(s)": "180211/09/01-01 ",
+                        "CreatedBy": "Tith Vath",
+                        "Mobile": "011 960 097"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "60,000,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "60,300,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Tuol",
+                        "BeneficiaryTotal": "1,388",
+                        "BeneficiaryWomen": "695",
+                        "Households": "285"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 998.600 Volume of earth (m3)",
+                        "Qty": "0.300 km",
+                        "UnitCost": "47,975,300",
+                        "Total": "14,392,590"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "Voluntary land contribution report",
+                            "Approvaldate": "04-May-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No high land people in village."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-May-2009",
+                            "Technicalclearancesign-off": "10-Aug-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211090101",
+            "contract_html_data": {
+                "Id": "180211090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/09/01-01",
+                        "TechnicalSupervisor": "OK SAM PHORS",
+                        "Project'sName": "Laterite road and culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "ENG TEAM, [ ENG TEAM ]",
+                        "Competitivebidding": "Yes ( 28-Aug-2009 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "12-Oct-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2009",
+                        "Plannedworkcompletiondate": "30-Dec-2009",
+                        "CreatedBy": "Tith Vath",
+                        "Mobile": "011 960 097",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "19-Jan-2010",
+                        "Closeddateon": "13-Jul-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "26,112,900"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.NorngSabath",
+                        "Contractor": "SambatAkphivath",
+                        "BidValue": "21,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SayMav",
+                        "Contractor": "SayMav",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NamSrun",
+                        "Contractor": "SahakKreasSamnarngNamSrun",
+                        "BidValue": "25,500,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornBunnara",
+                        "Contractor": "BunnaraAkphivoath",
+                        "BidValue": "27,380,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PHANSOPHOEUN",
+                        "Contractor": "PHANSOPHOEUN",
+                        "BidValue": "21,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SOURNROTANAKPHY",
+                        "Contractor": "SOURNROTANAKPHY",
+                        "BidValue": "26,100,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "GNETKANHA",
+                        "Contractor": "GNETKANHA",
+                        "BidValue": "20,980,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "HONGPHENG",
+                        "Contractor": "HONGPHENG",
+                        "BidValue": "22,857,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "LENGTHY",
+                        "Contractor": "LENGTHY",
+                        "BidValue": "19,999,999R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "ENGTEAM",
+                        "Contractor": "ENGTEAM",
+                        "BidValue": "19,449,925R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "CHANTHOU",
+                        "Contractor": "CHANTHOU",
+                        "BidValue": "28,600,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "26,412,854",
+                        "Village": "Tuol",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 998.600 Volume of earth (m3)",
+                        "Bid": "0.300 km",
+                        "InContract": "0.300 km",
+                        "Actualquantity": "0.300 km",
+                        "UnitCost/Estimated": "26,666,666est. 47,975,300",
+                        "DiscountRate": "-44 %",
+                        "Total": "8,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Dec-2009",
+                        "Actualworkcompletiondate": "04-Jan-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Dec-2009",
+                            "Progress": "25 %",
+                            "ReportBy": "Tith Vath",
+                            "Note": "Completed earth embankment 1 road section"
+                        },
+                        {
+                            "Date": "21-Dec-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Tith Vath",
+                            "Note": "PMC has meeting to approve 1st installment."
+                        },
+                        {
+                            "Date": "04-Jan-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Tith Vath",
+                            "Note": "PMC meeting for issues 2nd payment."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "25-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "1st40%paymentofLateriteroadandculvert",
+                        "Gross": "10565200R",
+                        "Net": "10248244R",
+                        "Tax": "316956R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "26-Jan-2010",
+                        "Source": "CSF",
+                        "Description": "2nd40%paymentofLateriteroadandculvert",
+                        "Gross": "10265200R",
+                        "Net": "9957244R",
+                        "Tax": "307956R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "26-Jan-2010",
+                        "Source": "LC",
+                        "Description": "2nd40%paymentofLateriteroadandculvert",
+                        "Gross": "300000R",
+                        "Net": "291000R",
+                        "Tax": "9000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "13-Jul-2010",
+                        "Source": "CSF",
+                        "Description": "3rd20%paymentofLateriteroadandculvert",
+                        "Gross": "5282500R",
+                        "Net": "5147012R",
+                        "Tax": "135488R",
+                        "Verified": "KongSophea"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "26,412,900R",
+                        "ActualPaymentCumulativeToDate(A)Net": "25,643,500R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "769,400R",
+                        "ContractValue(B)Gross": "26,412,900R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road and culverts",
+            "project_link": "/pid/project/home/view.castle?pid=8e002b24-4a3a-46d2-9e6c-9df30106ed85",
+            "project_html_data": {
+                "Pid": "8e002b24-4a3a-46d2-9e6c-9df30106ed85",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "OK SAM PHORS",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road and culverts",
+                        "Objective": "At the end of year 2010 the villagers in Tuol and Crorlerng will have a good laterite road for using.",
+                        "Relatedcontract(s)": "180211/10/01-01 ",
+                        "CreatedBy": "Tith Vath",
+                        "Mobile": "011 960 097"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "54,883,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "55,183,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Tuol",
+                        "BeneficiaryTotal": "1,439",
+                        "BeneficiaryWomen": "696",
+                        "Households": "285"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrolong",
+                        "Description": "Laterite road New [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 4,236.000 Volume of earth (m3)",
+                        "Qty": "0.910 km",
+                        "UnitCost": "43,677,920",
+                        "Total": "39,746,907"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.",
+                            "Approvebydepartmenton": "Environmental report on 26/04/2010"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "28-May-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Jun-2010",
+                            "Technicalclearancesign-off": "21-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211100101",
+            "contract_html_data": {
+                "Id": "180211100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/10/01-01",
+                        "TechnicalSupervisor": "OK SAM PHORS",
+                        "Project'sName": "Laterite road and culverts",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SOURN ROTANAKPHY, [ SOURN ROTANAK PHY ]",
+                        "Competitivebidding": "Yes ( 20-Aug-2010 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "09-Sep-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Nov-2010",
+                        "Plannedworkcompletiondate": "10-Dec-2010",
+                        "CreatedBy": "Tith Vath",
+                        "Mobile": "011 960 097",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "09-Feb-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "58,607,611"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NamSrun",
+                        "Contractor": "SahakKreasSamnarngNamSrun",
+                        "BidValue": "35,840,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MenThan",
+                        "Contractor": "MenThan",
+                        "BidValue": "32,456,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HornBunnara",
+                        "Contractor": "BunnaraAkphivoath",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SOURNROTANAKPHY",
+                        "Contractor": "SOURNROTANAKPHY",
+                        "BidValue": "26,100,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KIMHAK",
+                        "Contractor": "KIMHAK",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PREABHUL",
+                        "Contractor": "PREABHUL",
+                        "BidValue": "34,400,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "KEANSOU",
+                        "Contractor": "KEANSOU",
+                        "BidValue": "28,199,999R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "ChhunChoan",
+                        "Contractor": "ChhunChoan",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "58,907,611",
+                        "Village": "Chrolong",
+                        "Description": "[ 1010102 ] Laterite road NewDimension #1 : 4.000 Width (m)Dimension #2 : 4,236.000 Volume of earth (m3)",
+                        "Bid": "0.410 km",
+                        "InContract": "0.910 km",
+                        "Actualquantity": "0.910 km",
+                        "UnitCost/Estimated": "22,195,121est. 43,677,920",
+                        "DiscountRate": "-49 %",
+                        "Total": "20,197,560"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Dec-2010",
+                        "Actualworkcompletiondate": "28-Dec-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "20-Dec-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Tith Vath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "28-Dec-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Tith Vath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "21-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "1st40%paymentofLateriteroadandCulverts",
+                        "Gross": "23263045R",
+                        "Net": "22578838R",
+                        "Tax": "684207R",
+                        "Verified": "LyDavy"
+                    },
+                    {
+                        "Date": "21-Dec-2010",
+                        "Source": "LC",
+                        "Description": "1st40%paymentofLateriteroadandCulverts",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": "LyDavy"
+                    },
+                    {
+                        "Date": "30-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "2nd40%paymentofLateriteroadandCulverts",
+                        "Gross": "23563045R",
+                        "Net": "22870014R",
+                        "Tax": "693031R",
+                        "Verified": "LyDavy"
+                    },
+                    {
+                        "Date": "29-Jun-2011",
+                        "Source": "CSF",
+                        "Description": "3rd20%paymentofLateriteroadandCulverts",
+                        "Gross": "11781521R",
+                        "Net": "11435006R",
+                        "Tax": "346515R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "58,907,611R",
+                        "ActualPaymentCumulativeToDate(A)Net": "57,175,034R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,732,577R",
+                        "ContractValue(B)Gross": "58,907,611R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road and culverts",
+            "project_link": "/pid/project/home/view.castle?pid=07ad84eb-faaa-40a9-ac86-9f020103a51d",
+            "project_html_data": {
+                "Pid": "07ad84eb-faaa-40a9-ac86-9f020103a51d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "OK SAM PHORS",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road and culverts",
+                        "Objective": "At the end of year 2011 inhabitants in village Prek P'hav Kampong Smach Touch have good road access and uses.",
+                        "Relatedcontract(s)": "180211/11/01-01 ",
+                        "CreatedBy": "Tith Vath",
+                        "Mobile": "011 960 097"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "42,993,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "43,293,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Tuol",
+                        "BeneficiaryTotal": "1,486",
+                        "BeneficiaryWomen": "718",
+                        "Households": "331"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ph'av",
+                        "Description": "Natural Gravel road New [ 1010103 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 2,086.000 Volume of earth (m3)",
+                        "Qty": "1.210 km",
+                        "UnitCost": "25,608,731",
+                        "Total": "30,986,565"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Approvebydepartmenton": "This project required environment study.New road project"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "24-May-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "31-May-2011",
+                            "Technicalclearancesign-off": "22-Aug-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211110101",
+            "contract_html_data": {
+                "Id": "180211110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/11/01-01",
+                        "TechnicalSupervisor": "OK SAM PHORS",
+                        "Project'sName": "Laterite road and culverts",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lao Meang Chheang, [ Lao Meang Chheang ]",
+                        "Competitivebidding": "Yes ( 28-Sep-2011 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "24-Oct-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Nov-2011",
+                        "Plannedworkcompletiondate": "10-Dec-2011",
+                        "CreatedBy": "Tith Vath",
+                        "Mobile": "011 960 097",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "42,555,559"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LENGTHY",
+                        "Contractor": "LENGTHY",
+                        "BidValue": "42,750,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SORNCHOEURN",
+                        "Contractor": "SORNCHOEURN",
+                        "BidValue": "43,350,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KEANSOU",
+                        "Contractor": "KEANSOU",
+                        "BidValue": "41,880,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LaoMeangChheang",
+                        "Contractor": "LaoMeangChheang",
+                        "BidValue": "41,194,600R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Thaisoknaum",
+                        "Contractor": "Thaisoknaum",
+                        "BidValue": "43,875,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SornNget",
+                        "Contractor": "SornNget",
+                        "BidValue": "41,358,800R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "SornKong",
+                        "BidValue": "43,565,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "",
+                        "Contractor": "HourPo",
+                        "BidValue": "42,121,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "42,855,559",
+                        "Village": "Preaek Ph'av",
+                        "Description": "[ 1010103 ] Natural Gravel road NewDimension #1 : 3.000 Width (m)Dimension #2 : 2,086.000 Volume of earth (m3)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.510 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "30,394,600est. 25,608,731",
+                        "DiscountRate": "19 %",
+                        "Total": "15,501,246"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "30-Nov-2011",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Dec-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Tith Vath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "14-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "1st40%paymentofLateriteroadandculverts",
+                        "Gross": "16842224R",
+                        "Net": "16346864R",
+                        "Tax": "495360R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Dec-2011",
+                        "Source": "LC",
+                        "Description": "1st40%paymentofLateriteroadandculverts",
+                        "Gross": "300000R",
+                        "Net": "291177R",
+                        "Tax": "8823R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "29-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2nd40%paymentofLateriteroadandculverts",
+                        "Gross": "17142224R",
+                        "Net": "16638041R",
+                        "Tax": "504183R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Sep-2012",
+                        "Source": "CSF",
+                        "Description": "3rd20%paymentofLateriteroadandculverts",
+                        "Gross": "8571111R",
+                        "Net": "8319019R",
+                        "Tax": "252092R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "42,855,559R",
+                        "ActualPaymentCumulativeToDate(A)Net": "41,595,101R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,260,458R",
+                        "ContractValue(B)Gross": "42,855,559R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=6987546c-a66d-4106-9234-a0ba00bca1c2",
+            "project_html_data": {
+                "Pid": "6987546c-a66d-4106-9234-a0ba00bca1c2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180211/12/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "48,038,118",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "48,038,118"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPh'av",
+                        "BeneficiaryTotal": "746",
+                        "BeneficiaryWomen": "415",
+                        "Households": "158"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Smach Touch",
+                        "Description": "Natural Gravel road New [ 1010103 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 2,309.000 Volume of earth (m3)",
+                        "Qty": "0.470 km",
+                        "UnitCost": "36,838,605",
+                        "Total": "17,314,144"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.New road project"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "",
+                            "Approvaldate": "18-May-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-May-2012",
+                            "Technicalclearancesign-off": "30-Jul-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211120101",
+            "contract_html_data": {
+                "Id": "180211120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/12/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lao Meang Chheang, [ Lao Meang Chheang ]",
+                        "Competitivebidding": "Yes ( 11-Sep-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "24-Oct-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "07-Nov-2012",
+                        "Plannedworkcompletiondate": "24-Dec-2012",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "47,611,594"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LENGTHY",
+                        "Contractor": "LENGTHY",
+                        "BidValue": "41,747,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SORNCHOEURN",
+                        "Contractor": "SORNCHOEURN",
+                        "BidValue": "42,524,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LaoMeangChheang",
+                        "Contractor": "LaoMeangChheang",
+                        "BidValue": "41,246,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "47,911,594",
+                        "Village": "Kampong Smach Touch",
+                        "Description": "[ 1010103 ] Natural Gravel road NewDimension #1 : 3.000 Width (m)Dimension #2 : 2,309.000 Volume of earth (m3)",
+                        "Bid": "0.470 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "34,995,745est. 36,838,605",
+                        "DiscountRate": "-5 %",
+                        "Total": "17,497,873"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Dec-2012",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Dec-2012",
+                            "Progress": "0 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Dec-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "47,911,594R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite and culvert",
+            "project_link": "/pid/project/home/view.castle?pid=b0796b96-ba3f-4de4-9dbf-a28c0105a85b",
+            "project_html_data": {
+                "Pid": "b0796b96-ba3f-4de4-9dbf-a28c0105a85b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite and culvert",
+                        "Objective": "The people in Kampong Smach toch village will have new road easy to travel",
+                        "Relatedcontract(s)": "180211/13/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "60,375,303",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "60,575,303"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPh'av",
+                        "BeneficiaryTotal": "1,382",
+                        "BeneficiaryWomen": "848",
+                        "Households": "305"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Smach Touch",
+                        "Description": "Natural Gravel road New [ 1010103 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 1,673.000 Volume of earth (m3)",
+                        "Qty": "0.400 km",
+                        "UnitCost": "48,047,120",
+                        "Total": "19,218,848"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "16-Oct-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "17-Oct-2013"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "09-Aug-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Sep-2013",
+                            "Technicalclearancesign-off": "01-Oct-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211130101",
+            "contract_html_data": {
+                "Id": "180211130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/13/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "Laterite and culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lao Meang Chheang, [ Lao Meang Chheang ]",
+                        "Competitivebidding": "Yes ( 15-Oct-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "28-Nov-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2013",
+                        "Plannedworkcompletiondate": "23-Dec-2013",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "60,362,981"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LaoMeangChheang",
+                        "Contractor": "LaoMeangChheang",
+                        "BidValue": "52,900,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LengThy",
+                        "Contractor": "LengThy",
+                        "BidValue": "53,300,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "LengMalis",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "60,562,981",
+                        "Village": "Kampong Smach Touch",
+                        "Description": "[ 1010103 ] Natural Gravel road NewDimension #1 : 3.000 Width (m)Dimension #2 : 1,673.000 Volume of earth (m3)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.369 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "62,264,150est. 48,047,120",
+                        "DiscountRate": "30 %",
+                        "Total": "22,975,471"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-Dec-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "11-Dec-2013",
+                            "Progress": "55 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "60,562,981R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Latterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=ce86d1f2-0f1c-4d3c-9369-a4e600bb5b44",
+            "project_html_data": {
+                "Pid": "ce86d1f2-0f1c-4d3c-9369-a4e600bb5b44",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sy Heng",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Latterite Road",
+                        "Objective": "",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "50,400,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,400,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "Emptybeneficiary..."
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "This project doesn't have any output yet."
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=d0cd51b4-c90f-4ebb-8528-a561010e7967",
+            "project_html_data": {
+                "Pid": "d0cd51b4-c90f-4ebb-8528-a561010e7967",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sy Heng",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180211/15/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "53,520,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "53,520,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPh'av",
+                        "BeneficiaryTotal": "1,382",
+                        "BeneficiaryWomen": "848",
+                        "Households": "305"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrolong",
+                        "Description": "Natural Gravel road New [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,573.000 Volume of earth (m3)",
+                        "Qty": "0.680 km",
+                        "UnitCost": "47,592,842",
+                        "Total": "32,363,133"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "06-Aug-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "07-Aug-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Voluntary",
+                            "Approvaldate": "26-Jun-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Jun-2015",
+                            "Technicalclearancesign-off": "11-Aug-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211150101",
+            "contract_html_data": {
+                "Id": "180211150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/15/01-01",
+                        "TechnicalSupervisor": "Sy Heng",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Meng Khunteng, [ Meng Khunteng ]",
+                        "Competitivebidding": "Yes ( 28-Aug-2015 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "08-Oct-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Nov-2015",
+                        "Plannedworkcompletiondate": "23-Nov-2015",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "44,900,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MengKhunteng",
+                        "Contractor": "MengKhunteng",
+                        "BidValue": "32,040,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SORNCHOEURN",
+                        "Contractor": "SORNCHOEURN",
+                        "BidValue": "48,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhearnNith",
+                        "Contractor": "KhearnNith",
+                        "BidValue": "47,800,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LengThy",
+                        "Contractor": "LengThy",
+                        "BidValue": "34,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LavMengcheang",
+                        "Contractor": "LavMengcheang",
+                        "BidValue": "47,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "45,100,000",
+                        "Village": "Chrolong",
+                        "Description": "[ 1010103 ] Natural Gravel road NewDimension #1 : 4.000 Width (m)Dimension #2 : 2,573.000 Volume of earth (m3)",
+                        "Bid": "0.680 km",
+                        "InContract": "0.850 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "28,000,000est. 47,592,842",
+                        "DiscountRate": "-41 %",
+                        "Total": "23,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "20-Dec-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "45,100,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Letterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=1f5f9d25-1a0f-455c-a402-a7760091408c",
+            "project_html_data": {
+                "Pid": "1f5f9d25-1a0f-455c-a402-a7760091408c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Letterite Road",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180211/16/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "65,000,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,200,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Tuol",
+                        "BeneficiaryTotal": "1,505",
+                        "BeneficiaryWomen": "735",
+                        "Households": "365"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol",
+                        "Description": "Natural Gravel road New [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,764.000 Volume of earth (m3)",
+                        "Qty": "0.870 km",
+                        "UnitCost": "55,665,259",
+                        "Total": "48,428,775"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "08-Aug-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "09-Aug-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "02-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "07-Jun-2016",
+                            "Technicalclearancesign-off": "24-Aug-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211160101",
+            "contract_html_data": {
+                "Id": "180211160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/16/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "Letterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Van Sokthy, [ Van Sokthy ]",
+                        "Competitivebidding": "Yes ( 03-Oct-2016 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "07-Nov-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Nov-2016",
+                        "Plannedworkcompletiondate": "30-Nov-2016",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "66,129,999"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LengThy",
+                        "Contractor": "LengThy",
+                        "BidValue": "40,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "VanSokthy",
+                        "Contractor": "VanSokthy",
+                        "BidValue": "29,300,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LavMengcheang",
+                        "Contractor": "LavMengcheang",
+                        "BidValue": "37,400,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SounNget",
+                        "Contractor": "SounNget",
+                        "BidValue": "62,700,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "66,329,999",
+                        "Village": "Tuol",
+                        "Description": "[ 1010103 ] Natural Gravel road NewDimension #1 : 4.000 Width (m)Dimension #2 : 6,764.000 Volume of earth (m3)",
+                        "Bid": "0.000 km",
+                        "InContract": "1.800 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "33,333,333est. 55,665,259",
+                        "DiscountRate": "-40 %",
+                        "Total": "59,999,999"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Dec-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "31-Dec-2016",
+                            "Progress": "40 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "66,329,999R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=8708d56c-4e15-4fdf-a3e1-aa0300aa01a6",
+            "project_html_data": {
+                "Pid": "8708d56c-4e15-4fdf-a3e1-aa0300aa01a6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pich Kisereirath",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "CreatedBy": "Sy Heng",
+                        "Mobile": "016 208 756"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "150,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "150,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPh'av",
+                        "BeneficiaryTotal": "787",
+                        "BeneficiaryWomen": "426",
+                        "Households": "181"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Smach Touch",
+                        "Description": "Natural Gravel road New [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,816.000 Volume of earth (m3)",
+                        "Qty": "0.100 km",
+                        "UnitCost": "45,533,971",
+                        "Total": "4,553,397"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "18-Oct-2017 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "19-Oct-2017"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=de31af29-6a64-4373-b3b0-aa6f0169002c",
+            "project_html_data": {
+                "Pid": "de31af29-6a64-4373-b3b0-aa6f0169002c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sy Heng",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180211/18/01-01 ",
+                        "CreatedBy": "Sy Heng",
+                        "Mobile": "016 208 756"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "235,758,600",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "235,758,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Tuol",
+                        "BeneficiaryTotal": "1,521",
+                        "BeneficiaryWomen": "744",
+                        "Households": "410"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol",
+                        "Description": "Laterite road New [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 434.500 Volume of earth (m3)",
+                        "Qty": "0.340 km",
+                        "UnitCost": "63,912,952",
+                        "Total": "21,730,404"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.",
+                            "ApprovebyNCDDon": "10-Oct-2018 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "15-Oct-2018"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Approvaldate": "15-Nov-2018"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Dec-2018",
+                            "Technicalclearancesign-off": "25-Dec-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180211/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180211180101",
+            "contract_html_data": {
+                "Id": "180211180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180211 ] Preah Sihanouk \\ Prey Nob \\ Tuek L'ak",
+                        "Contract": "180211/18/01-01",
+                        "TechnicalSupervisor": "Sy Heng",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lav Mengcheang, [ Lav Mengcheang ]",
+                        "Competitivebidding": "Yes ( 11-Jan-2019 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "18-Jan-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Jan-2019",
+                        "Plannedworkcompletiondate": "17-Feb-2019",
+                        "CreatedBy": "Sy Heng",
+                        "Mobile": "016 208 756",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,799,999"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LengThy",
+                        "Contractor": "LengThy",
+                        "BidValue": "71,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LavMengcheang",
+                        "Contractor": "LavMengcheang",
+                        "BidValue": "69,909,488R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LengMalis",
+                        "Contractor": "LengMalis",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "64,999,999",
+                        "Village": "Preaek Ph'av",
+                        "Description": "[ 1010102 ] Laterite road NewDimension #1 : 4.000 Width (m)Dimension #2 : 575.100 Volume of earth (m3)",
+                        "Bid": "0.000 km",
+                        "InContract": "0.450 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "44,444,444est. 64,000,234",
+                        "DiscountRate": "-31 %",
+                        "Total": "20,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Mar-2019",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Mar-2019",
+                            "Progress": "0 %",
+                            "ReportBy": "Sy Heng",
+                            "Note": "Finiash all"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "64,999,999R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

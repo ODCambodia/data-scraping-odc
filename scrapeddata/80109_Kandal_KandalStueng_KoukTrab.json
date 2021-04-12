@@ -1,0 +1,2784 @@
+{
+    "location": {
+        "province": "Kandal",
+        "district": "Kandal Stueng",
+        "commune": "Kouk Trab"
+    },
+    "projects": [
+        {
+            "project_name": "Sand road repair and double pipe culvert",
+            "project_link": "/pid/project/home/view.castle?pid=a42a4fa0-a766-4384-b8da-9c7900b9c657",
+            "project_html_data": {
+                "Pid": "a42a4fa0-a766-4384-b8da-9c7900b9c657",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "KHIEV SAMATH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand road repair and double pipe culvert",
+                        "Objective": "Ease land traffic and improve people living standard.",
+                        "Relatedcontract(s)": "080109/09/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "37,753,370",
+                        "LocalRevenue": "342,700",
+                        "CarryOver": "3,136,970",
+                        "Other": "0",
+                        "Total": "41,233,040"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThmey",
+                        "BeneficiaryTotal": "436",
+                        "BeneficiaryWomen": "248",
+                        "Households": "98"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Krang Thmey",
+                        "Description": "Double pipe culvert 1.0m diameter  New [ 1010306 ]Dimension #1 : 1,000.000 Diameter (mm)Dimension #2 : 6.000 Length(m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "9,908,200",
+                        "Total": "9,908,200"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road outside the environmental protected area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "09-Feb-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Jan-2009",
+                            "Technicalclearancesign-off": "10-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109090101",
+            "contract_html_data": {
+                "Id": "080109090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/09/01-01",
+                        "TechnicalSupervisor": "KHIEV SAMATH",
+                        "Project'sName": "Sand road repair and double pipe culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ly Sokim, [ Ly Sokim ]",
+                        "Competitivebidding": "Yes ( 25-May-2009 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jun-2009",
+                        "Plannedworkcompletiondate": "15-Jul-2009",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Excluded",
+                        "Confirmation": "23-Mar-2010",
+                        "Closeddateon": "15-Jan-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "30,557,300"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "342,700"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LySokim",
+                        "Contractor": "LySokim",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LyKimsieng",
+                        "Contractor": "LyKimsieng",
+                        "BidValue": "33,290,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ThanSaran",
+                        "Contractor": "SamnangSambor",
+                        "BidValue": "33,290,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "30,900,000",
+                        "Village": "Krang Thmey",
+                        "Description": "[ 1010306 ] Double pipe culvert 1.0m diameter  NewDimension #1 : 1,000.000 Diameter (mm)Dimension #2 : 6.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "10,000,000est. 9,908,200",
+                        "DiscountRate": "1 %",
+                        "Total": "10,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jun-2009",
+                        "Actualworkcompletiondate": "15-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "22-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstalmentpayment(40%)",
+                        "Gross": "12360000R",
+                        "Net": "11989200R",
+                        "Tax": "370800R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "20-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstalmentpayment(accum.80%)",
+                        "Gross": "12017300R",
+                        "Net": "11656781R",
+                        "Tax": "360519R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "20-Aug-2009",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentat2ndstep(100%)",
+                        "Gross": "342700R",
+                        "Net": "332419R",
+                        "Tax": "10281R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "28-Jan-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "6180000R",
+                        "Net": "6021600R",
+                        "Tax": "158400R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "30,900,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "30,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "900,000R",
+                        "ContractValue(B)Gross": "30,900,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth dam-Double pipe culvert 1.0m diameter with stop logs",
+            "project_link": "/pid/project/home/view.castle?pid=4833c155-62e6-40b2-b0b2-9d2900b22053",
+            "project_html_data": {
+                "Pid": "4833c155-62e6-40b2-b0b2-9d2900b22053",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "KHIEV SAMATH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth dam-Double pipe culvert 1.0m diameter with stop logs",
+                        "Objective": "",
+                        "Relatedcontract(s)": "080109/09/02-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "31,517,670",
+                        "LocalRevenue": "271,700",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "31,789,370"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KbalSeh",
+                        "BeneficiaryTotal": "440",
+                        "BeneficiaryWomen": "229",
+                        "Households": "94"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kbal Seh",
+                        "Description": "Earth dam Repair [ 1020301 ]Dimension #1 : 0.700 Max. height (m)Dimension #2 : 2,698.000 Volume (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "15,721,867",
+                        "Total": "23,582,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project renovate on existing dam do not affected to water resource or fish"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "21-Jul-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Jan-2009",
+                            "Technicalclearancesign-off": "14-Feb-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/09/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109090201",
+            "contract_html_data": {
+                "Id": "080109090201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/09/02-01",
+                        "TechnicalSupervisor": "KHIEV SAMATH",
+                        "Project'sName": "Earth dam-Double pipe culvert 1.0m diameter with stop logs",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "KorngSokKhim, [ Korng SokKhim ]",
+                        "Competitivebidding": "Yes ( 24-Dec-2009 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "31-Dec-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jan-2010",
+                        "Plannedworkcompletiondate": "05-Feb-2010",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "24-Jun-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "21,437,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "271,700"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LySokim",
+                        "Contractor": "LySokim",
+                        "BidValue": "25,800,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SoeunSengly",
+                        "Contractor": "DarySamnang",
+                        "BidValue": "23,605,720R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SokLy",
+                        "Contractor": "SokLy",
+                        "BidValue": "23,000,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ThanSaran",
+                        "Contractor": "SamnangSambor",
+                        "BidValue": "30,799,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KhinThach",
+                        "Contractor": "KhinThach",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KongSamnang",
+                        "Contractor": "KongSamnang",
+                        "BidValue": "28,082,800R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "19,900,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "21,709,091",
+                        "Village": "Kbal Seh",
+                        "Description": "[ 1020301 ] Earth dam RepairDimension #1 : 0.700 Max. height (m)Dimension #2 : 2,698.000 Volume (m3)",
+                        "Bid": "1.500 km",
+                        "InContract": "1.500 km",
+                        "Actualquantity": "1.500 km",
+                        "UnitCost/Estimated": "8,600,000est. 15,721,867",
+                        "DiscountRate": "-45 %",
+                        "Total": "12,900,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "11-Jan-2010",
+                        "Actualworkcompletiondate": "06-Apr-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Feb-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Apr-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": "Base on the minute of PMC 's evaluation meeting\n"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "11-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "8683640R",
+                        "Net": "7894218R",
+                        "Tax": "789422R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "08-Apr-2010",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "8411940R",
+                        "Net": "7647218R",
+                        "Tax": "764722R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "08-Apr-2010",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentat2ndstep(100%)",
+                        "Gross": "271700R",
+                        "Net": "247000R",
+                        "Tax": "24700R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "25-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "4341820R",
+                        "Net": "3947109R",
+                        "Tax": "394711R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "21,709,100R",
+                        "ActualPaymentCumulativeToDate(A)Net": "19,735,545R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,973,555R",
+                        "ContractValue(B)Gross": "21,709,100R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand Road and Double pipe culvert with stop logs",
+            "project_link": "/pid/project/home/view.castle?pid=c2718868-14e8-45ed-b0f8-9e46009039f9",
+            "project_html_data": {
+                "Pid": "c2718868-14e8-45ed-b0f8-9e46009039f9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Srey Heang",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road and Double pipe culvert with stop logs",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080109/10/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "30,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "30,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KbalSeh",
+                        "BeneficiaryTotal": "397",
+                        "BeneficiaryWomen": "213",
+                        "Households": "82"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kbal Seh",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 537.070 Volume of earth (m3)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "33,460,380",
+                        "Total": "16,730,190"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Voluntary",
+                            "Reason": "It is not bad to the land of the people",
+                            "Approvaldate": "11-Feb-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Nov-2010",
+                            "Technicalclearancesign-off": "17-Nov-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109100101",
+            "contract_html_data": {
+                "Id": "080109100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/10/01-01",
+                        "TechnicalSupervisor": "Srey Heang",
+                        "Project'sName": "Sand Road and Double pipe culvert with stop logs",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Kong Samnang, [ Kong Samnang ]",
+                        "Competitivebidding": "Yes ( 28-Dec-2010 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "05-Jan-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jan-2011",
+                        "Plannedworkcompletiondate": "25-Feb-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "28-Aug-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "17,512,115"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SoeunSengly",
+                        "Contractor": "DarySamnang",
+                        "BidValue": "20,468,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KhinThach",
+                        "Contractor": "KhinThach",
+                        "BidValue": "10,960,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KongSamnang",
+                        "Contractor": "KongSamnang",
+                        "BidValue": "17,462,858R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "18,300,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "BunThy",
+                        "Contractor": "BunThy",
+                        "BidValue": "25,200,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "17,812,115",
+                        "Village": "Kbal Seh",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 286.000 Volume of earth (m3)",
+                        "Bid": "0.118 km",
+                        "InContract": "0.118 km",
+                        "Actualquantity": "0.118 km",
+                        "UnitCost/Estimated": "23,888,999est. 50,818,076",
+                        "DiscountRate": "-53 %",
+                        "Total": "2,818,902"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jan-2011",
+                        "Actualworkcompletiondate": "28-Feb-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Feb-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "28-Feb-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "11-Feb-2011",
+                        "Source": "CSF",
+                        "Description": "1stpmt",
+                        "Gross": "7124846R",
+                        "Net": "6915292R",
+                        "Tax": "209554R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "2ndpmt",
+                        "Gross": "6824846R",
+                        "Net": "6624116R",
+                        "Tax": "200730R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-Mar-2011",
+                        "Source": "LC",
+                        "Description": "2ndpmt",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "21-Sep-2011",
+                        "Source": "CSF",
+                        "Description": "3rdpmt",
+                        "Gross": "3562423R",
+                        "Net": "3457645R",
+                        "Tax": "104778R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "17,812,115R",
+                        "ActualPaymentCumulativeToDate(A)Net": "17,288,229R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "523,886R",
+                        "ContractValue(B)Gross": "17,812,115R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Medium size water gate Single pipe culvert",
+            "project_link": "/pid/project/home/view.castle?pid=6d12d05c-87e4-454d-afe4-9e46009f1802",
+            "project_html_data": {
+                "Pid": "6d12d05c-87e4-454d-afe4-9e46009f1802",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Srey Heang",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Medium size water gate Single pipe culvert",
+                        "Objective": "At the end of 2010 people will have enough water for their crop ",
+                        "Relatedcontract(s)": "080109/10/02-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "18,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "18,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Char",
+                        "BeneficiaryTotal": "480",
+                        "BeneficiaryWomen": "251",
+                        "Households": "113"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Kaeut",
+                        "Description": "Medium size water gate New [ 1020201 ]Dimension #1 : 1.500 Height (m)Dimension #2 : 5.500 Length (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "8,996,100",
+                        "Total": "8,996,100"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project renovate on existing canal It is not bad to water Resource and Forest"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project renovate on existing canal It is not bad to the land of the people",
+                            "Approvaldate": "11-Feb-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Nov-2010",
+                            "Technicalclearancesign-off": "19-Nov-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109100201",
+            "contract_html_data": {
+                "Id": "080109100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/10/02-01",
+                        "TechnicalSupervisor": "Srey Heang",
+                        "Project'sName": "Medium size water gate Single pipe culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Dy Sothea, [ Dy Sothea ]",
+                        "Contractsigndate(Form50)": "11-Jan-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jan-2011",
+                        "Plannedworkcompletiondate": "20-Feb-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "22-Aug-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "16,501,352"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "137,500"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "16,638,852",
+                        "Village": "Svay Kaeut",
+                        "Description": "[ 1020201 ] Medium size water gate NewDimension #1 : 1.500 Height (m)Dimension #2 : 5.500 Length (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "10,112,600est. 8,996,100",
+                        "DiscountRate": "12 %",
+                        "Total": "10,112,600"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jan-2011",
+                        "Actualworkcompletiondate": "22-Feb-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "11-Feb-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Feb-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "25-Feb-2011",
+                        "Source": "CSF",
+                        "Description": "1stpmt",
+                        "Gross": "6655541R",
+                        "Net": "6459790R",
+                        "Tax": "195751R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "2ndpmt",
+                        "Gross": "6518041R",
+                        "Net": "6326334R",
+                        "Tax": "191707R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Mar-2011",
+                        "Source": "LC",
+                        "Description": "2ndpmt",
+                        "Gross": "137500R",
+                        "Net": "133456R",
+                        "Tax": "4044R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Sep-2011",
+                        "Source": "CSF",
+                        "Description": "3rdpmt",
+                        "Gross": "3327770R",
+                        "Net": "3229894R",
+                        "Tax": "97876R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "16,638,852R",
+                        "ActualPaymentCumulativeToDate(A)Net": "16,149,474R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "489,378R",
+                        "ContractValue(B)Gross": "16,638,852R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand Road",
+            "project_link": "/pid/project/home/view.castle?pid=e5146e51-405e-4323-996b-9f8200fab1b0",
+            "project_html_data": {
+                "Pid": "e5146e51-405e-4323-996b-9f8200fab1b0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Srey Heang",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080109/11/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "67,992,284",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "67,992,284"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThmey",
+                        "BeneficiaryTotal": "479",
+                        "BeneficiaryWomen": "245",
+                        "Households": "104"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kouk Trab",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 585.270 Volume of earth (m3)",
+                        "Qty": "0.650 km",
+                        "UnitCost": "27,765,038",
+                        "Total": "18,047,275"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Jul-2011",
+                            "Technicalclearancesign-off": "04-Nov-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109110101",
+            "contract_html_data": {
+                "Id": "080109110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/11/01-01",
+                        "TechnicalSupervisor": "Srey Heang",
+                        "Project'sName": "Sand Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "KorngSokKhim, [ Korng SokKhim ]",
+                        "Competitivebidding": "Yes ( 25-Nov-2011 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "03-Dec-2011",
+                        "Plannedworkcompletiondate": "25-Jan-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "17-Aug-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "73,274,900"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "425,100"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhonPoalong",
+                        "Contractor": "ChhonPoalong",
+                        "BidValue": "68,605,000R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LySokim",
+                        "Contractor": "LySokim",
+                        "BidValue": "67,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "67,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "73,700,000",
+                        "Village": "Krang Thmey",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 67.400 Volume of earth (m3)",
+                        "Bid": "0.100 km",
+                        "InContract": "0.100 km",
+                        "Actualquantity": "0.100 km",
+                        "UnitCost/Estimated": "27,324,633est. 24,041,473",
+                        "DiscountRate": "14 %",
+                        "Total": "2,732,463"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "03-Dec-2011",
+                        "Actualworkcompletiondate": "17-Feb-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-Dec-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Feb-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "29480000R",
+                        "Net": "26800000R",
+                        "Tax": "2680000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "29054900R",
+                        "Net": "26413545R",
+                        "Tax": "2641355R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Feb-2012",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "425100R",
+                        "Net": "386455R",
+                        "Tax": "38645R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Sep-2012",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "14740000R",
+                        "Net": "13400000R",
+                        "Tax": "1340000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "73,700,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "67,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "6,700,000R",
+                        "ContractValue(B)Gross": "73,700,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Single pipe culvert with stop logs",
+            "project_link": "/pid/project/home/view.castle?pid=99bef011-60c7-4bd4-9ff1-9f8201088f25",
+            "project_html_data": {
+                "Pid": "99bef011-60c7-4bd4-9ff1-9f8201088f25",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Srey Heang",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Single pipe culvert with stop logs",
+                        "Objective": "At the end of 2011 people will have water for irrigation their crop in dry season",
+                        "Relatedcontract(s)": "080109/11/02-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "5,317,041",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "5,317,041"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Liek",
+                        "BeneficiaryTotal": "493",
+                        "BeneficiaryWomen": "256",
+                        "Households": "133"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Liek",
+                        "Description": "Single pipe culvert 0.8m diameter with stop logs New [ 1020203 ]Dimension #1 : 800.000 Diameter (mm)Dimension #2 : 7.000 Length (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "5,317,041",
+                        "Total": "5,317,041"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project renovate on existing canal"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Jul-2011",
+                            "Technicalclearancesign-off": "21-Oct-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/11/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109110201",
+            "contract_html_data": {
+                "Id": "080109110201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/11/02-01",
+                        "TechnicalSupervisor": "Srey Heang",
+                        "Project'sName": "Single pipe culvert with stop logs",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Dary Samnang, [ Soeun Sengly ]",
+                        "Competitivebidding": "Yes ( 21-Nov-2011 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "12-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jan-2012",
+                        "Plannedworkcompletiondate": "10-Feb-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "13-Oct-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "4,980,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "120,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LachPhan",
+                        "Contractor": "LachPhanPonleuAkphiwat",
+                        "BidValue": "5,170,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SoeunSengly",
+                        "Contractor": "DarySamnang",
+                        "BidValue": "5,000,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BunThy",
+                        "Contractor": "BunThy",
+                        "BidValue": "5,100,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "5,100,000",
+                        "Village": "Liek",
+                        "Description": "[ 1020203 ] Single pipe culvert 0.8m diameter with stop logs NewDimension #1 : 800.000 Diameter (mm)Dimension #2 : 7.000 Length (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "5,000,000est. 5,317,041",
+                        "DiscountRate": "-6 %",
+                        "Total": "5,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Jan-2012",
+                        "Actualworkcompletiondate": "13-Mar-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "02-Mar-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        },
+                        {
+                            "Date": "13-Mar-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Apr-2012",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "2040000R",
+                        "Net": "1980000R",
+                        "Tax": "60000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Apr-2012",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "1920000R",
+                        "Net": "1863529R",
+                        "Tax": "56471R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Apr-2012",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "120000R",
+                        "Net": "116471R",
+                        "Tax": "3529R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Oct-2012",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "1020000R",
+                        "Net": "990000R",
+                        "Tax": "30000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "5,100,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "4,950,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "150,000R",
+                        "ContractValue(B)Gross": "5,100,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Steel reinforcement concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=145778b1-0ed4-479f-9aeb-a0ae00ac37d5",
+            "project_html_data": {
+                "Pid": "145778b1-0ed4-479f-9aeb-a0ae00ac37d5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Steel reinforcement concrete road",
+                        "Objective": "Accessible road ",
+                        "Relatedcontract(s)": "080109/12/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "51,678,672",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "51,678,672"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChheuNeang",
+                        "BeneficiaryTotal": "929",
+                        "BeneficiaryWomen": "486",
+                        "Households": "179"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chheu Neang",
+                        "Description": "Steel-reinforced concrete road Repair [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.190 km",
+                        "UnitCost": "271,993,011",
+                        "Total": "51,678,672"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Jul-2012",
+                            "Technicalclearancesign-off": "02-Aug-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109120101",
+            "contract_html_data": {
+                "Id": "080109120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/12/01-01",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "Steel reinforcement concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "S.T.E.C.Co.Ltd, [ Sim Thoeun ]",
+                        "Competitivebidding": "Yes ( 05-Sep-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "14-Sep-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "14-Sep-2012",
+                        "Plannedworkcompletiondate": "24-Oct-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "07-May-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "58,163,537"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "512,500"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "DySothea",
+                        "Contractor": "DySothea",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "BalPhun",
+                        "BidValue": "51,420,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SimThoeun",
+                        "Contractor": "S.T.E.C.Co.Ltd",
+                        "BidValue": "46,510,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "58,676,037",
+                        "Village": "Chheu Neang",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.190 km",
+                        "InContract": "0.235 km",
+                        "Actualquantity": "0.235 km",
+                        "UnitCost/Estimated": "244,789,472est. 271,993,011",
+                        "DiscountRate": "-10 %",
+                        "Total": "57,525,526"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "14-Sep-2012",
+                        "Actualworkcompletiondate": "30-Oct-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Oct-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "46428330R",
+                        "Net": "45062791R",
+                        "Tax": "1365539R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Dec-2012",
+                        "Source": "LC",
+                        "Description": "1st",
+                        "Gross": "512500R",
+                        "Net": "497426R",
+                        "Tax": "15074R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "16-May-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "11735207R",
+                        "Net": "11390054R",
+                        "Tax": "345153R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "58,676,037R",
+                        "ActualPaymentCumulativeToDate(A)Net": "56,950,271R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,725,766R",
+                        "ContractValue(B)Gross": "58,676,037R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "concret road",
+            "project_link": "/pid/project/home/view.castle?pid=0b3afb49-8442-412a-b7d5-a1b200b7eee2",
+            "project_html_data": {
+                "Pid": "0b3afb49-8442-412a-b7d5-a1b200b7eee2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "concret road",
+                        "Objective": "At the end of the year 2013 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080109/13/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "63,254,903",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "63,254,903"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChheuNeang",
+                        "BeneficiaryTotal": "929",
+                        "BeneficiaryWomen": "486",
+                        "Households": "179"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chheu Neang",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.196 km",
+                        "UnitCost": "322,729,097",
+                        "Total": "63,254,903"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It is not bad to water Resource and Forest"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Feb-2013",
+                            "Technicalclearancesign-off": "22-Feb-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109130101",
+            "contract_html_data": {
+                "Id": "080109130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/13/01-01",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "concret road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 14-Mar-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "22-Mar-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Mar-2013",
+                        "Plannedworkcompletiondate": "25-Apr-2013",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "28-Oct-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "69,761,428"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "DySothea",
+                        "Contractor": "DySothea",
+                        "BidValue": "63,200,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "DyYaMong",
+                        "BidValue": "63,254,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "63,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "70,161,428",
+                        "Village": "Chheu Neang",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.196 km",
+                        "InContract": "0.214 km",
+                        "Actualquantity": "0.214 km",
+                        "UnitCost/Estimated": "321,428,570est. 322,729,097",
+                        "DiscountRate": "0 %",
+                        "Total": "68,785,714"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Mar-2013",
+                        "Actualworkcompletiondate": "24-Apr-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-Apr-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "24-Apr-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "28064571R",
+                        "Net": "27239143R",
+                        "Tax": "825428R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "27664571R",
+                        "Net": "26850907R",
+                        "Tax": "813664R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-Aug-2013",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "400000R",
+                        "Net": "388236R",
+                        "Tax": "11764R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Dec-2013",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "14032286R",
+                        "Net": "13619571R",
+                        "Tax": "412715R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "70,161,428R",
+                        "ActualPaymentCumulativeToDate(A)Net": "68,097,857R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,063,571R",
+                        "ContractValue(B)Gross": "70,161,428R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Gravel mixed sand road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=220f9c84-470c-4341-b615-a465009043af",
+            "project_html_data": {
+                "Pid": "220f9c84-470c-4341-b615-a465009043af",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Van Sophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Gravel mixed sand road rehabilitation",
+                        "Objective": "To facilitated for transport",
+                        "Relatedcontract(s)": "080109/14/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "55,371,524",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "55,371,524"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChheuNeang",
+                        "BeneficiaryTotal": "445",
+                        "BeneficiaryWomen": "234",
+                        "Households": "93"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chheu Neang",
+                        "Description": "Crushed stone road Upgrade [ 1010105 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 228.000 Volume of earth (m3)",
+                        "Qty": "0.161 km",
+                        "UnitCost": "85,601,112",
+                        "Total": "13,781,779"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project doesn't located in watchlist"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "31-Jan-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project doesn't located in watch list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Jun-2014",
+                            "Technicalclearancesign-off": "20-Jun-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109140101",
+            "contract_html_data": {
+                "Id": "080109140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/14/01-01",
+                        "TechnicalSupervisor": "Van Sophal",
+                        "Project'sName": "Gravel mixed sand road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Phat Sophal Construction Enterprise, [ Phat Sophal ]",
+                        "Competitivebidding": "Yes ( 04-Jul-2014 )",
+                        "Numberofcontractor": "2",
+                        "Contractsigndate(Form50)": "16-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "07-Aug-2014",
+                        "Plannedworkcompletiondate": "24-Sep-2014",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "61,030,216"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NOVSENGHAK",
+                        "Contractor": "NOVSENGHAK",
+                        "BidValue": "55,364,422R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "55,215,060R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "61,530,216",
+                        "Village": "Chheu Neang",
+                        "Description": "[ 1010105 ] Crushed stone road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 228.000 Volume of earth (m3)",
+                        "Bid": "0.161 km",
+                        "InContract": "0.161 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "72,450,000est. 85,601,112",
+                        "DiscountRate": "-15 %",
+                        "Total": "11,664,450"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "07-Aug-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Aug-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "01-Sep-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "61,530,216R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Gravel mixed sand road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=3ebc2c21-4e87-4479-a83d-a56e00f374e3",
+            "project_html_data": {
+                "Pid": "3ebc2c21-4e87-4479-a83d-a56e00f374e3",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Van Sophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Gravel mixed sand road rehabilitation",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080109/15/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "56,764,253",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "56,764,253"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SvayLech",
+                        "BeneficiaryTotal": "736",
+                        "BeneficiaryWomen": "386",
+                        "Households": "167"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Lech",
+                        "Description": "Crushed stone road Upgrade [ 1010105 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 337.000 Volume of earth (m3)",
+                        "Qty": "0.200 km",
+                        "UnitCost": "93,016,200",
+                        "Total": "18,603,240"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "27-Jan-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Jul-2015",
+                            "Technicalclearancesign-off": "30-Jul-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109150101",
+            "contract_html_data": {
+                "Id": "080109150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/15/01-01",
+                        "TechnicalSupervisor": "Van Sophal",
+                        "Project'sName": "Gravel mixed sand road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "RS Gr.Development, [ Chem Pisal ]",
+                        "Competitivebidding": "Yes ( 14-Aug-2015 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "04-Sep-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "08-Sep-2015",
+                        "Plannedworkcompletiondate": "08-Oct-2015",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "34,892,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhonPoalong",
+                        "Contractor": "ChhonPoalong",
+                        "BidValue": "49,446,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TournKhannra",
+                        "Contractor": "RaVengAkphiwat",
+                        "BidValue": "38,999,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChemPisal",
+                        "Contractor": "RSGr.Development",
+                        "BidValue": "30,375,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MormSocheat",
+                        "Contractor": "MormSoCheatContruction",
+                        "BidValue": "32,841,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "NOVSENGHAK",
+                        "Contractor": "NOVSENGHAK",
+                        "BidValue": "36,789,579R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SeapSophack",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "35,900,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "35,392,500",
+                        "Village": "Svay Lech",
+                        "Description": "[ 1010105 ] Crushed stone road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 484.000 Volume of earth (m3)",
+                        "Bid": "0.367 km",
+                        "InContract": "0.367 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "40,000,000est. 70,657,014",
+                        "DiscountRate": "-43 %",
+                        "Total": "14,680,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "08-Sep-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Oct-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Oct-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "35,392,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand Road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=554e6933-c719-458d-84a7-a572010d1849",
+            "project_html_data": {
+                "Pid": "554e6933-c719-458d-84a7-a572010d1849",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Van Sophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road rehabilitation",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080109/15/02-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "24,918,959",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "24,918,959"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SvayLech",
+                        "BeneficiaryTotal": "736",
+                        "BeneficiaryWomen": "386",
+                        "Households": "167"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Lech",
+                        "Description": "Crushed stone road Repair [ 1010105 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 626.000 Volume of earth (m3)",
+                        "Qty": "0.219 km",
+                        "UnitCost": "94,289,489",
+                        "Total": "20,649,398"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "04-Sep-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Oct-2015",
+                            "Technicalclearancesign-off": "02-Nov-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/15/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109150201",
+            "contract_html_data": {
+                "Id": "080109150201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/15/02-01",
+                        "TechnicalSupervisor": "Van Sophal",
+                        "Project'sName": "Sand Road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "RS Gr.Development, [ Chem Pisal ]",
+                        "Competitivebidding": "Yes ( 19-Nov-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "14-Dec-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Dec-2015",
+                        "Plannedworkcompletiondate": "07-Jan-2016",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "19,014,117"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LachPhan",
+                        "Contractor": "LachPhanPonleuAkphiwat",
+                        "BidValue": "17,227,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhonPoalong",
+                        "Contractor": "ChhonPoalong",
+                        "BidValue": "24,294,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChemPisal",
+                        "Contractor": "RSGr.Development",
+                        "BidValue": "13,000,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "19,114,118",
+                        "Village": "Svay Lech",
+                        "Description": "[ 1010105 ] Crushed stone road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 101.000 Volume of earth (m3)",
+                        "Bid": "0.085 km",
+                        "InContract": "0.147 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "70,588,238est. 50,230,129",
+                        "DiscountRate": "41 %",
+                        "Total": "10,376,471"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Dec-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Dec-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "09-May-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "19,114,117R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand mixed gravel  road Construction",
+            "project_link": "/pid/project/home/view.castle?pid=1a0d029f-47f5-46a7-9780-a75100b9b6c6",
+            "project_html_data": {
+                "Pid": "1a0d029f-47f5-46a7-9780-a75100b9b6c6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Van Sophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand mixed gravel  road Construction",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080109/16/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "61,198,019",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "61,198,019"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThmey",
+                        "BeneficiaryTotal": "460",
+                        "BeneficiaryWomen": "238",
+                        "Households": "101"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Char",
+                        "Description": "Crushed stone road Repair [ 1010105 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 324.000 Volume of earth (m3)",
+                        "Qty": "0.280 km",
+                        "UnitCost": "49,773,400",
+                        "Total": "13,936,552"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "19-Feb-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-May-2016",
+                            "Technicalclearancesign-off": "13-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109160101",
+            "contract_html_data": {
+                "Id": "080109160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/16/01-01",
+                        "TechnicalSupervisor": "Van Sophal",
+                        "Project'sName": "Sand mixed gravel  road Construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Diamond, [ Mr. Nav Chou ]",
+                        "Competitivebidding": "Yes ( 03-Aug-2016 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "02-Sep-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "12-Sep-2016",
+                        "Plannedworkcompletiondate": "12-Oct-2016",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "41,179,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.NavChou",
+                        "Contractor": "Diamond",
+                        "BidValue": "24,075,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TournKhannra",
+                        "Contractor": "RaVengAkphiwat",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MormSocheat",
+                        "Contractor": "MormSoCheatContruction",
+                        "BidValue": "31,681,200R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "57,787,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SengVouchHeang",
+                        "Contractor": "SengVouchHeang",
+                        "BidValue": "29,380,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "41,679,000",
+                        "Village": "Kouk Pring",
+                        "Description": "[ 1010105 ] Crushed stone road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 1,552.000 Volume of earth (m3)",
+                        "Bid": "0.920 km",
+                        "InContract": "1.020 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "8,000,000est. 43,107,297",
+                        "DiscountRate": "-81 %",
+                        "Total": "8,160,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Sep-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Feb-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "10-Mar-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "41,679,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=b6fe1949-4147-46fd-97a6-a9f200a6c8d1",
+            "project_html_data": {
+                "Pid": "b6fe1949-4147-46fd-97a6-a9f200a6c8d1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Van Sophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "concrete road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080109/17/01-01 ",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "81,851,721",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "81,851,721"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KbalSeh",
+                        "BeneficiaryTotal": "502",
+                        "BeneficiaryWomen": "267",
+                        "Households": "113"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kbal Seh",
+                        "Description": "Steel-reinforced concrete road Repair [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.237 km",
+                        "UnitCost": "345,365,912",
+                        "Total": "81,851,721"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road and no expansion"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "04-Jan-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Mar-2017",
+                            "Technicalclearancesign-off": "21-Apr-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080109/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080109170101",
+            "contract_html_data": {
+                "Id": "080109170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80109 ] Kandal \\ Kandal Stueng \\ Kouk Trab",
+                        "Contract": "080109/17/01-01",
+                        "TechnicalSupervisor": "Van Sophal",
+                        "Project'sName": "concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khu Chamnan Construction, [ Khu Chamnan ]",
+                        "Competitivebidding": "Yes ( 05-May-2017 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "24-May-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "26-Jun-2017",
+                        "Plannedworkcompletiondate": "26-Jul-2017",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "90,381,350"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SemSophea",
+                        "Contractor": "SemSophea",
+                        "BidValue": "49,296,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TounKhanra",
+                        "Contractor": "RaVengAphivath",
+                        "BidValue": "42,470,400R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhuChamnan",
+                        "Contractor": "KhuChamnanConstruction",
+                        "BidValue": "42,200,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "90,881,350",
+                        "Village": "Kbal Seh",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.237 km",
+                        "InContract": "0.464 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "178,059,072est. 345,365,912",
+                        "DiscountRate": "-48 %",
+                        "Total": "82,619,409"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "26-Jun-2017",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Jun-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "08-Aug-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "90,881,350R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

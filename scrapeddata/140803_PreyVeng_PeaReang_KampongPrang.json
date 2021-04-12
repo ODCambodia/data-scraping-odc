@@ -1,0 +1,3301 @@
+{
+    "location": {
+        "province": "Prey Veng",
+        "district": "Pea Reang",
+        "commune": "Kampong Prang"
+    },
+    "projects": [
+        {
+            "project_name": "Dam repair",
+            "project_link": "/pid/project/home/view.castle?pid=96ad3852-fcbe-4ece-98a5-9ce7010ce8ab",
+            "project_html_data": {
+                "Pid": "96ad3852-fcbe-4ece-98a5-9ce7010ce8ab",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "San  Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Dam repair",
+                        "Objective": "At the end of 2009, the farmers in commune will have enough water for agriculture purpose.",
+                        "Relatedcontract(s)": "140803/09/02-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "48,505,000",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "48,905,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKaRoatn",
+                        "BeneficiaryTotal": "1,611",
+                        "BeneficiaryWomen": "787",
+                        "Households": "322"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "Earth dam Repair [ 1020301 ]Dimension #1 : 1.800 Max. height (m)Dimension #2 : 7,286.000 Volume (m3)",
+                        "Qty": "0.900 km",
+                        "UnitCost": "41,929,400",
+                        "Total": "37,736,460"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It will not cause any damage to forest, Wildlife Park and area of other cultural temples."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project will be constructed on existing road, it will not cause any damage to people's land."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Nov-2009",
+                            "Technicalclearancesign-off": "01-Dec-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/09/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803090201",
+            "contract_html_data": {
+                "Id": "140803090201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/09/02-01",
+                        "TechnicalSupervisor": "San  Vibol",
+                        "Project'sName": "Dam repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Sroy Kok Kheang, [ Sroy Kok Kheang ]",
+                        "Competitivebidding": "Yes ( 25-Dec-2009 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "31-Dec-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jan-2010",
+                        "Plannedworkcompletiondate": "20-Mar-2010",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "29-Oct-2010",
+                        "Closeddateon": "08-Dec-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "66,103,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "61,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MoavLyva",
+                        "Contractor": "MoavLyva",
+                        "BidValue": "62,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MeiPhorn",
+                        "Contractor": "LyBunChhay",
+                        "BidValue": "61,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SroyKokPheng",
+                        "Contractor": "SroyKokPheng",
+                        "BidValue": "61,162,500R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PenAsda",
+                        "Contractor": "PenAsda",
+                        "BidValue": "66,000,000R",
+                        "DiscountRate": "6%",
+                        "Rejected": "Yes",
+                        "Reason": "Wrongcalculationandthecontractordidnotcometocorrectit."
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "66,503,392",
+                        "Village": "Kampong Prang",
+                        "Description": "[ 1020301 ] Earth dam RepairDimension #1 : 1.500 Max. height (m)Dimension #2 : 2,561.000 Volume (m3)",
+                        "Bid": "0.350 km",
+                        "InContract": "0.320 km",
+                        "Actualquantity": "0.320 km",
+                        "UnitCost/Estimated": "41,120,000est. 41,929,400",
+                        "DiscountRate": "-2 %",
+                        "Total": "13,158,400"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "26-Mar-2010",
+                        "Actualworkcompletiondate": "26-May-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "08-Apr-2010",
+                            "Progress": "70 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "18-Apr-2010",
+                            "Progress": "90 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "20-May-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Jul-2010",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "26601400R",
+                        "Net": "25826602R",
+                        "Tax": "774798R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "28-Jul-2010",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "26601400R",
+                        "Net": "25826601R",
+                        "Tax": "774799R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "24-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "3rdinstallment",
+                        "Gross": "12900600R",
+                        "Net": "12524847R",
+                        "Tax": "375753R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "24-Dec-2010",
+                        "Source": "LC",
+                        "Description": "3rdinstallment",
+                        "Gross": "400000R",
+                        "Net": "388350R",
+                        "Tax": "11650R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "66,503,400R",
+                        "ActualPaymentCumulativeToDate(A)Net": "64,566,400R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,937,000R",
+                        "ContractValue(B)Gross": "66,503,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Dam repair",
+            "project_link": "/pid/project/home/view.castle?pid=76c57131-5d3a-47b9-a5e8-9dff00b7d682",
+            "project_html_data": {
+                "Pid": "76c57131-5d3a-47b9-a5e8-9dff00b7d682",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "San  Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Dam repair",
+                        "Objective": "At the end of 2010, the farmers in commune will have enough water for dry rice season and with high yield.",
+                        "Relatedcontract(s)": "140803/10/03-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "62,461,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "62,761,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KampongPrang",
+                        "BeneficiaryTotal": "1,165",
+                        "BeneficiaryWomen": "585",
+                        "Households": "237"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Prang",
+                        "Description": "Earth dam Repair [ 1020301 ]Dimension #1 : 1.200 Max. height (m)Dimension #2 : 11,288.960 Volume (m3)",
+                        "Qty": "0.954 km",
+                        "UnitCost": "51,330,362",
+                        "Total": "48,969,165"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It will not cause any damage to forest, Wildlife Park and area of other cultural temples. This project is not in forest, wildlife conservation and other temples"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "09-Jul-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Jul-2010",
+                            "Technicalclearancesign-off": "09-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/10/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803100301",
+            "contract_html_data": {
+                "Id": "140803100301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/10/03-01( 1 )",
+                        "TechnicalSupervisor": "San  Vibol",
+                        "Project'sName": "Dam repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Din Sok, [ Din Sok ]",
+                        "Competitivebidding": "Yes ( 26-Aug-2010 )",
+                        "Numberofcontractor": "18",
+                        "Contractsigndate(Form50)": "09-Sep-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Mar-2011",
+                        "Plannedworkcompletiondate": "30-Mar-2011",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "20-Jan-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "32,766,360"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PhonTep",
+                        "Contractor": "PhonTep",
+                        "BidValue": "35,700,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SayMav",
+                        "Contractor": "SayMav",
+                        "BidValue": "29,500,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MaoLiva",
+                        "Contractor": "MaoLiva",
+                        "BidValue": "23,500,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChhunYeang",
+                        "Contractor": "ChhunYeang",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimNhor",
+                        "Contractor": "LimNhor",
+                        "BidValue": "26,515,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "Yes",
+                        "Reason": "Wrongcalculationandthecontractordidnotcometocorrectit"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "21,120,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "PhonVuthy",
+                        "Contractor": "PhonVuthy",
+                        "BidValue": "20,545,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "HayTeak",
+                        "Contractor": "HayTeak",
+                        "BidValue": "26,882,500R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "PrumYorn",
+                        "Contractor": "PrumYorn",
+                        "BidValue": "20,955,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "ChimSarin",
+                        "Contractor": "ChimSarin",
+                        "BidValue": "24,193,800R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "HoeunDara",
+                        "Contractor": "HoeunDara",
+                        "BidValue": "28,000,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "ThoeunSopheak",
+                        "Contractor": "ThoeunSopheak",
+                        "BidValue": "34,700,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "ChheungChanny",
+                        "Contractor": "ChheungChanny",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "Yes",
+                        "Reason": "Thebidrequestwasinvalidduetothecontractorsubmitteddifferencecommunebidform."
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "NouBunThan",
+                        "Contractor": "NouBunThan",
+                        "BidValue": "37,202,100R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "15",
+                        "Director'sName": "ChhoyBory",
+                        "Contractor": "ChhoyBory",
+                        "BidValue": "24,800,000R",
+                        "DiscountRate": "-53%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "16",
+                        "Director'sName": "VannLoeun",
+                        "Contractor": "VannLoeun",
+                        "BidValue": "22,251,500R",
+                        "DiscountRate": "-58%",
+                        "Rejected": "Yes",
+                        "Reason": "Wrongcalculationandthecontractordidnotcometocorrectit"
+                    },
+                    {
+                        "No": "17",
+                        "Director'sName": "ChunVay",
+                        "Contractor": "ChunVay",
+                        "BidValue": "34,350,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "18",
+                        "Director'sName": "DinSok",
+                        "Contractor": "DinSok",
+                        "BidValue": "20,065,000R",
+                        "DiscountRate": "-62%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "33,066,360",
+                        "Village": "Kampong Prang",
+                        "Description": "[ 1020301 ] Earth dam RepairDimension #1 : 1.200 Max. height (m)Dimension #2 : 11,288.960 Volume (m3)",
+                        "Bid": "0.945 km",
+                        "InContract": "0.954 km",
+                        "Actualquantity": "0.954 km",
+                        "UnitCost/Estimated": "17,000,000est. 51,330,362",
+                        "DiscountRate": "-67 %",
+                        "Total": "16,218,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-Mar-2011",
+                        "Actualworkcompletiondate": "20-Jul-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "14-Mar-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "20-Jul-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Chin Vanna",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "12-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "13226500R",
+                        "Net": "12837500R",
+                        "Tax": "389000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "27-Jul-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "13226500R",
+                        "Net": "12837500R",
+                        "Tax": "389000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "6313360R",
+                        "Net": "6127644R",
+                        "Tax": "185716R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Feb-2012",
+                        "Source": "LC",
+                        "Description": "3rdPayment",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "33,066,360R",
+                        "ActualPaymentCumulativeToDate(A)Net": "32,093,820R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "972,540R",
+                        "ContractValue(B)Gross": "33,066,360R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Literite road maintainance",
+            "project_link": "/pid/project/home/view.castle?pid=4bda73e2-ccce-4623-90d7-9e4800a183c4",
+            "project_html_data": {
+                "Pid": "4bda73e2-ccce-4623-90d7-9e4800a183c4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "San  Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Literite road maintainance",
+                        "Objective": "At the end of 2010, the people in commune will have good road for traveling and transport agriculture products.",
+                        "Relatedcontract(s)": "140803/10/02-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "50,500",
+                        "CarryOver": "0",
+                        "Other": "3,049,500",
+                        "Total": "3,100,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "1,296",
+                        "BeneficiaryWomen": "672",
+                        "Households": "299"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sambuor",
+                        "Description": "Laterite road Routine maintenance [ 1010102 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 125.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "2,460,333",
+                        "Total": "3,690,500"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The construction of the project will not cause any damage to any place that is important for environment or cultural reasons, as such forest, a wildlife park or temple due to this project construct in the existing road."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "It will be constructed on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Oct-2010",
+                            "Technicalclearancesign-off": "06-Oct-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803100201",
+            "contract_html_data": {
+                "Id": "140803100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/10/02-01",
+                        "TechnicalSupervisor": "San  Vibol",
+                        "Project'sName": "Literite road maintainance",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhoun Thorn, [ Chhoun Thorn ]",
+                        "Contractsigndate(Form50)": "13-Oct-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "15-Oct-2010",
+                        "Plannedworkcompletiondate": "21-Oct-2010",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "27-Oct-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "25,250"
+                    },
+                    {
+                        "FundSource": "IFAD CIDF",
+                        "Cost": "1,820,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "1,845,250",
+                        "Village": "Sambuor",
+                        "Description": "[ 1010102 ] Laterite road Routine maintenanceDimension #1 : 6.000 Width (m)Dimension #2 : 65.000 Volume of earth (m3)",
+                        "Bid": "0.750 km",
+                        "InContract": "0.750 km",
+                        "Actualquantity": "0.750 km",
+                        "UnitCost/Estimated": "2,460,333est. 2,460,333",
+                        "DiscountRate": "0 %",
+                        "Total": "1,845,250"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Oct-2010",
+                        "Actualworkcompletiondate": "27-Oct-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Oct-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "09-Dec-2010",
+                        "Source": "IFAD",
+                        "Description": "1stinstallment",
+                        "Gross": "1820000R",
+                        "Net": "1820000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Dec-2010",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "25250R",
+                        "Net": "25250R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "1,845,250R",
+                        "ActualPaymentCumulativeToDate(A)Net": "1,845,250R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "1,845,250R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Literite road maintainance",
+            "project_link": "/pid/project/home/view.castle?pid=49fd6587-1e64-4d6d-9877-9e4800ade63c",
+            "project_html_data": {
+                "Pid": "49fd6587-1e64-4d6d-9877-9e4800ade63c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "San  Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Literite road maintainance",
+                        "Objective": "At the end of 2010, the people in commune will have good road for traveling and transport agriculture products.",
+                        "Relatedcontract(s)": "140803/10/04-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "50,500",
+                        "CarryOver": "0",
+                        "Other": "3,049,500",
+                        "Total": "3,100,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "1,296",
+                        "BeneficiaryWomen": "672",
+                        "Households": "299"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sambuor",
+                        "Description": "Laterite road Routine maintenance [ 1010102 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 125.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "2,460,333",
+                        "Total": "3,690,500"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The construction of the project will not cause any damage to any place that is important for environment or cultural reasons, as such forest, a wildlife park or temple due to this project construct in the existing road."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "It will be constructed on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Oct-2010",
+                            "Technicalclearancesign-off": "05-Oct-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/10/04-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803100401",
+            "contract_html_data": {
+                "Id": "140803100401",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/10/04-01",
+                        "TechnicalSupervisor": "San  Vibol",
+                        "Project'sName": "Literite road maintainance",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhoun Thorn, [ Chhoun Thorn ]",
+                        "Contractsigndate(Form50)": "27-Oct-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "28-Oct-2010",
+                        "Plannedworkcompletiondate": "04-Nov-2010",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "08-Nov-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "25,250"
+                    },
+                    {
+                        "FundSource": "IFAD CIDF",
+                        "Cost": "1,820,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "1,845,250",
+                        "Village": "Sambuor",
+                        "Description": "[ 1010102 ] Laterite road Routine maintenanceDimension #1 : 6.000 Width (m)Dimension #2 : 60.000 Volume of earth (m3)",
+                        "Bid": "0.750 km",
+                        "InContract": "0.750 km",
+                        "Actualquantity": "0.750 km",
+                        "UnitCost/Estimated": "2,460,333est. 2,460,333",
+                        "DiscountRate": "0 %",
+                        "Total": "1,845,250"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "28-Oct-2010",
+                        "Actualworkcompletiondate": "08-Nov-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "05-Nov-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "03-Mar-2011",
+                        "Source": "IFAD",
+                        "Description": "1stinstallment",
+                        "Gross": "1820000R",
+                        "Net": "1820000R",
+                        "Tax": "0R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "Date": "03-Mar-2011",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "25250R",
+                        "Net": "25250R",
+                        "Tax": "0R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "1,845,250R",
+                        "ActualPaymentCumulativeToDate(A)Net": "1,845,250R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "1,845,250R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road Maintainence",
+            "project_link": "/pid/project/home/view.castle?pid=37d33d55-57af-4825-b33b-9e4800b92d7d",
+            "project_html_data": {
+                "Pid": "37d33d55-57af-4825-b33b-9e4800b92d7d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "San  Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road Maintainence",
+                        "Objective": "At the end of 2010, the people in commune will have good road for traveling and transport agriculture products",
+                        "Relatedcontract(s)": "140803/10/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "9,978",
+                        "CarryOver": "0",
+                        "Other": "2,990,022",
+                        "Total": "3,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKaRoatn",
+                        "BeneficiaryTotal": "1,630",
+                        "BeneficiaryWomen": "799",
+                        "Households": "322"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "Laterite road Routine maintenance [ 1010102 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 83.660 Volume of earth (m3)",
+                        "Qty": "1.200 km",
+                        "UnitCost": "2,058,315",
+                        "Total": "2,469,978"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The construction of the project will not cause any damage to any place that is important for environment or cultural reasons, as such forest, a wildlife park or temple due to this project construct in the existing road."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "It will be constructed on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Sep-2010",
+                            "Technicalclearancesign-off": "05-Oct-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803100101",
+            "contract_html_data": {
+                "Id": "140803100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/10/01-01",
+                        "TechnicalSupervisor": "San  Vibol",
+                        "Project'sName": "Laterite Road Maintainence",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Tep Path, [ Tep Path ]",
+                        "Contractsigndate(Form50)": "12-Oct-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "18-Oct-2010",
+                        "Plannedworkcompletiondate": "25-Oct-2010",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "01-Nov-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "9,978"
+                    },
+                    {
+                        "FundSource": "IFAD CIDF",
+                        "Cost": "2,460,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "2,469,978",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "[ 1010102 ] Laterite road Routine maintenanceDimension #1 : 6.000 Width (m)Dimension #2 : 83.660 Volume of earth (m3)",
+                        "Bid": "1.200 km",
+                        "InContract": "1.200 km",
+                        "Actualquantity": "1.200 km",
+                        "UnitCost/Estimated": "2,058,315est. 2,058,315",
+                        "DiscountRate": "0 %",
+                        "Total": "2,469,978"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Oct-2010",
+                        "Actualworkcompletiondate": "01-Nov-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "28-Oct-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "03-Mar-2011",
+                        "Source": "IFAD",
+                        "Description": "1stinstallment",
+                        "Gross": "2460000R",
+                        "Net": "2460000R",
+                        "Tax": "0R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "Date": "03-Mar-2011",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "9978R",
+                        "Net": "9978R",
+                        "Tax": "0R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "2,469,978R",
+                        "ActualPaymentCumulativeToDate(A)Net": "2,469,978R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "2,469,978R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth dam repaire",
+            "project_link": "/pid/project/home/view.castle?pid=ead1b061-4574-4b9b-ba80-9e6300801fa5",
+            "project_html_data": {
+                "Pid": "ead1b061-4574-4b9b-ba80-9e6300801fa5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "San  Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth dam repaire",
+                        "Objective": "At the end of 2010, the farmers in commune will have enough water for dry rice season and with high yield.",
+                        "Relatedcontract(s)": "140803/10/05-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "31,790,500",
+                        "LocalRevenue": "189,500",
+                        "CarryOver": "0",
+                        "Other": "1,900,000",
+                        "Total": "33,880,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekChruk",
+                        "BeneficiaryTotal": "893",
+                        "BeneficiaryWomen": "412",
+                        "Households": "185"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Chruk",
+                        "Description": "Earth dam Repair [ 1020301 ]Dimension #1 : 1.200 Max. height (m)Dimension #2 : 7,752.910 Volume (m3)",
+                        "Qty": "0.800 km",
+                        "UnitCost": "49,798,708",
+                        "Total": "39,838,966"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It will not cause any damage to forest, Wildlife Park and area of other cultural temples. "
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "It will be constructed on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Nov-2010",
+                            "Technicalclearancesign-off": "04-Nov-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/10/05-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803100501",
+            "contract_html_data": {
+                "Id": "140803100501",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/10/05-01",
+                        "TechnicalSupervisor": "San  Vibol",
+                        "Project'sName": "Earth dam repaire",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Sroy Kok Kheang, [ Sroy Kok Kheang ]",
+                        "Competitivebidding": "Yes ( 01-Dec-2010 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "09-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "22-Dec-2010",
+                        "Plannedworkcompletiondate": "10-Feb-2011",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "13-Sep-2011",
+                        "Closeddateon": "21-Feb-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "15,556,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "189,500"
+                    },
+                    {
+                        "FundSource": "IFAD CIDF",
+                        "Cost": "1,900,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ThoeunSophoeun",
+                        "Contractor": "ThoeunSophoeun",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "12,680,000R",
+                        "DiscountRate": "-62%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PrumYorn",
+                        "Contractor": "PrumYorn",
+                        "BidValue": "20,440,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SimKimCHhun",
+                        "Contractor": "SimKimCHhun",
+                        "BidValue": "15,766,600R",
+                        "DiscountRate": "-53%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SrengChan",
+                        "Contractor": "SrengChan",
+                        "BidValue": "21,223,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MaoMuoyna",
+                        "Contractor": "MaoMuoyna",
+                        "BidValue": "21,000,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "DinSok",
+                        "Contractor": "DinSok",
+                        "BidValue": "33,101,300R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "17,646,000",
+                        "Village": "Preaek Chruk",
+                        "Description": "[ 1020301 ] Earth dam RepairDimension #1 : 1.200 Max. height (m)Dimension #2 : 7,752.910 Volume (m3)",
+                        "Bid": "0.580 km",
+                        "InContract": "0.800 km",
+                        "Actualquantity": "0.800 km",
+                        "UnitCost/Estimated": "21,000,000est. 49,798,708",
+                        "DiscountRate": "-58 %",
+                        "Total": "16,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "07-May-2011",
+                        "Actualworkcompletiondate": "06-Jul-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-May-2011",
+                            "Progress": "40 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "16-May-2011",
+                            "Progress": "90 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Jul-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Chin Vanna",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Aug-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "12216800R",
+                        "Net": "11857482R",
+                        "Tax": "359318R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "16-Aug-2011",
+                        "Source": "IFAD",
+                        "Description": "1stPayment",
+                        "Gross": "1900000R",
+                        "Net": "1844118R",
+                        "Tax": "55882R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "12-Apr-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "3339700R",
+                        "Net": "3241474R",
+                        "Tax": "98226R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "12-Apr-2012",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "189500R",
+                        "Net": "183926R",
+                        "Tax": "5574R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "17,646,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "17,127,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "519,000R",
+                        "ContractValue(B)Gross": "17,646,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal Rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=9e46e8a1-bcfe-4da9-85dd-9fa901005a20",
+            "project_html_data": {
+                "Pid": "9e46e8a1-bcfe-4da9-85dd-9fa901005a20",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Bun Sam ath",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal Rehabilitation",
+                        "Objective": "In the year 2011 commune have water for rice watering dry season rice of people",
+                        "Relatedcontract(s)": "140803/11/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "63,241,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "63,241,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekChruk",
+                        "BeneficiaryTotal": "893",
+                        "BeneficiaryWomen": "412",
+                        "Households": "185"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.370 Depth (m)Dimension #2 : 13.110 Average width (m)",
+                        "Qty": "1.850 km",
+                        "UnitCost": "25,876,092",
+                        "Total": "47,870,770"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Aug-2011",
+                            "Technicalclearancesign-off": "23-Sep-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803110101",
+            "contract_html_data": {
+                "Id": "140803110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/11/01-01",
+                        "TechnicalSupervisor": "Bun Sam ath",
+                        "Project'sName": "Canal Rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Ly Limheng, [  ]",
+                        "Competitivebidding": "Yes ( 19-Oct-2011 )",
+                        "Numberofcontractor": "15",
+                        "Contractsigndate(Form50)": "31-Oct-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "16-Dec-2011",
+                        "Plannedworkcompletiondate": "16-Feb-2012",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "30,443,150"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "700,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PoaIp",
+                        "Contractor": "SamNangSok",
+                        "BidValue": "37,125,500R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KreangSambath",
+                        "Contractor": "KreangSambath",
+                        "BidValue": "19,900,000R",
+                        "DiscountRate": "-62%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HeungKeng",
+                        "Contractor": "HeungKeng",
+                        "BidValue": "21,200,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PrakThong",
+                        "Contractor": "PrakThong",
+                        "BidValue": "31,350,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "Yes",
+                        "Reason": "notsignature"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ThoeunSophoeun",
+                        "Contractor": "ThoeunSophoeun",
+                        "BidValue": "41,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "CheaSarin",
+                        "Contractor": "CheaSarin",
+                        "BidValue": "42,400,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SoemKimchhun",
+                        "Contractor": "SoemKimchhun",
+                        "BidValue": "21,550,000R",
+                        "DiscountRate": "-59%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "ChhitHach",
+                        "Contractor": "ChhitHach",
+                        "BidValue": "31,750,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "BangSroy",
+                        "Contractor": "BangSroy",
+                        "BidValue": "26,445,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "DinSok",
+                        "Contractor": "DinSok",
+                        "BidValue": "21,984,000R",
+                        "DiscountRate": "-59%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "HunSamAng",
+                        "Contractor": "YinKimchheang",
+                        "BidValue": "26,650,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "RosChantha",
+                        "Contractor": "RosChantha",
+                        "BidValue": "31,310,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "TounBunThoeun",
+                        "Contractor": "TounBunThoeun",
+                        "BidValue": "36,900,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "KoeKemmara",
+                        "Contractor": "KoeKemmara",
+                        "BidValue": "42,436,791R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "15",
+                        "Director'sName": "",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "18,900,000R",
+                        "DiscountRate": "-64%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "31,143,150",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 2.370 Depth (m)Dimension #2 : 13.110 Average width (m)",
+                        "Bid": "1.850 km",
+                        "InContract": "1.850 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "7,421,622est. 25,876,092",
+                        "DiscountRate": "-71 %",
+                        "Total": "13,730,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Feb-2012",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "18-Jun-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "25-Jun-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "12457260R",
+                        "Net": "12090870R",
+                        "Tax": "366390R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "12457260R",
+                        "Net": "12090870R",
+                        "Tax": "366390R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "24,914,520R",
+                        "ActualPaymentCumulativeToDate(A)Net": "24,181,740R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "732,780R",
+                        "ContractValue(B)Gross": "31,143,150R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Unlined  Earth Canal",
+            "project_link": "/pid/project/home/view.castle?pid=d1c0de86-2563-4e86-8bc0-a12d009ecdb0",
+            "project_html_data": {
+                "Pid": "d1c0de86-2563-4e86-8bc0-a12d009ecdb0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "San Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Unlined  Earth Canal",
+                        "Objective": "In the year 2012 commune have water for rice watering dry season rice of people",
+                        "Relatedcontract(s)": "140803/12/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "76,442,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "76,442,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKaRoatn",
+                        "BeneficiaryTotal": "1,744",
+                        "BeneficiaryWomen": "906",
+                        "Households": "322"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.250 Depth (m)Dimension #2 : 8.750 Average width (m)",
+                        "Qty": "0.510 km",
+                        "UnitCost": "21,274,717",
+                        "Total": "10,850,106"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Aug-2012",
+                            "Technicalclearancesign-off": "20-Aug-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803120101",
+            "contract_html_data": {
+                "Id": "140803120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/12/01-01",
+                        "TechnicalSupervisor": "San Vibol",
+                        "Project'sName": "Unlined  Earth Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Ly Menghak, [  ]",
+                        "Competitivebidding": "Yes ( 03-Oct-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-Nov-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Feb-2013",
+                        "Plannedworkcompletiondate": "05-Apr-2013",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "62,050,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "650,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "57,657,900R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MaoMouyna",
+                        "Contractor": "MaoMouyna",
+                        "BidValue": "60,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "LyMenghak",
+                        "BidValue": "57,000,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "62,700,000",
+                        "Village": "Lvea Kaong",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.640 Depth (m)Dimension #2 : 6.920 Average width (m)",
+                        "Bid": "1.700 km",
+                        "InContract": "1.700 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "17,194,570est. 21,274,717",
+                        "DiscountRate": "-19 %",
+                        "Total": "29,230,769"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "07-May-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-May-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Jun-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "25-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "25080000R",
+                        "Net": "22800000R",
+                        "Tax": "2280000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "25080000R",
+                        "Net": "22800000R",
+                        "Tax": "2280000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "50,160,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "45,600,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "4,560,000R",
+                        "ContractValue(B)Gross": "62,700,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Not Translate",
+            "project_link": "/pid/project/home/view.castle?pid=57091805-2c84-46c3-b532-a21d00f88ca2",
+            "project_html_data": {
+                "Pid": "57091805-2c84-46c3-b532-a21d00f88ca2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "San Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Not Translate",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140803/13/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "84,867,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "84,867,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekChruk",
+                        "BeneficiaryTotal": "1,109",
+                        "BeneficiaryWomen": "549",
+                        "Households": "185"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.860 Depth (m)Dimension #2 : 4.720 Average width (m)",
+                        "Qty": "0.700 km",
+                        "UnitCost": "13,360,791",
+                        "Total": "9,352,554"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Jun-2013",
+                            "Technicalclearancesign-off": "18-Jun-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803130101",
+            "contract_html_data": {
+                "Id": "140803130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/13/01-01",
+                        "TechnicalSupervisor": "San Vibol",
+                        "Project'sName": "Not Translate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Chhun Yeang, [ Chhun Yeang ]",
+                        "Competitivebidding": "Yes ( 09-Jul-2013 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "07-Aug-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Feb-2014",
+                        "Plannedworkcompletiondate": "20-Mar-2014",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "60,231,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhunYeang",
+                        "Contractor": "ChhunYeang",
+                        "BidValue": "55,210,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "57,692,200R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "IngKokpheng",
+                        "Contractor": "IngKokpheng",
+                        "BidValue": "70,917,500R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LimSokhy",
+                        "Contractor": "LimSokhy",
+                        "BidValue": "70,659,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MaoLavy",
+                        "Contractor": "(M.L.V)",
+                        "BidValue": "70,300,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "Yes",
+                        "Reason": "NotTranslate"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "HengLyty",
+                        "Contractor": "HengLyty",
+                        "BidValue": "71,015,600R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "60,731,000",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.860 Depth (m)Dimension #2 : 4.720 Average width (m)",
+                        "Bid": "0.700 km",
+                        "InContract": "0.700 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "13,000,000est. 13,360,791",
+                        "DiscountRate": "-3 %",
+                        "Total": "9,100,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "60,731,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=8adee332-9d68-4fc2-ba8d-a35a008c8fb5",
+            "project_html_data": {
+                "Pid": "8adee332-9d68-4fc2-ba8d-a35a008c8fb5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "San Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "At the end of 2014,  commune will have good road for traveling and transport products",
+                        "Relatedcontract(s)": "140803/14/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "137,969,481",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "137,969,481"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LveaKaong",
+                        "BeneficiaryTotal": "1,443",
+                        "BeneficiaryWomen": "749",
+                        "Households": "248"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Peak Sbai",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,623.000 Volume of earth (m3)",
+                        "Qty": "1.600 km",
+                        "UnitCost": "33,453,301",
+                        "Total": "53,525,282"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "12-May-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-May-2014",
+                            "Technicalclearancesign-off": "07-Jun-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803140101",
+            "contract_html_data": {
+                "Id": "140803140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/14/01-01",
+                        "TechnicalSupervisor": "San Vibol",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sroy Kok Kheang, [ Sroy Kok Kheang ]",
+                        "Competitivebidding": "Yes ( 24-Jun-2014 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "10-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jul-2014",
+                        "Plannedworkcompletiondate": "10-Oct-2014",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "129,290,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PangSroy",
+                        "Contractor": "PangSroy",
+                        "BidValue": "119,320,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "117,900,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LimSokhy",
+                        "Contractor": "LimSokhy",
+                        "BidValue": "118,330,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChhimKimhour",
+                        "Contractor": "CHHIMKIMHOUR",
+                        "BidValue": "118,850,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "129,690,000",
+                        "Village": "Peak Sbai",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 6,623.000 Volume of earth (m3)",
+                        "Bid": "1.600 km",
+                        "InContract": "1.600 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "33,000,000est. 33,453,301",
+                        "DiscountRate": "-1 %",
+                        "Total": "52,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-Apr-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-May-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Jul-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "129,690,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=e7dea9b9-3664-48c9-9379-a4d600a61469",
+            "project_html_data": {
+                "Pid": "e7dea9b9-3664-48c9-9379-a4d600a61469",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "San Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140803/15/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "72,100,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "72,100,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sambuor",
+                        "BeneficiaryTotal": "1,215",
+                        "BeneficiaryWomen": "613",
+                        "Households": "240"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sambuor",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 11,840.000 Volume of earth (m3)",
+                        "Qty": "2.400 km",
+                        "UnitCost": "31,469,262",
+                        "Total": "75,526,229"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "02-Feb-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Feb-2015",
+                            "Technicalclearancesign-off": "27-Feb-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803150101",
+            "contract_html_data": {
+                "Id": "140803150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/15/01-01",
+                        "TechnicalSupervisor": "San Vibol",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sroy Kok Kheang, [ Sroy Kok Kheang ]",
+                        "Competitivebidding": "Yes ( 21-Apr-2015 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "12-May-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "21-May-2015",
+                        "Plannedworkcompletiondate": "10-Jul-2015",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "54,050,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PangSroy",
+                        "Contractor": "PangSroy",
+                        "BidValue": "64,585,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "39,250,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LimSokhy",
+                        "Contractor": "LimSokhy",
+                        "BidValue": "64,460,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChesHeab",
+                        "Contractor": "ChesHeab",
+                        "BidValue": "65,390,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SOSOVANNDARA",
+                        "Contractor": "SOSOVANNDARA",
+                        "BidValue": "38,030,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MoaMouyna",
+                        "Contractor": "Moamouyna",
+                        "BidValue": "53,400,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "TesChanSovann",
+                        "Contractor": "Teschansovann",
+                        "BidValue": "34,500,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "54,450,000",
+                        "Village": "Sambuor",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 11,840.000 Volume of earth (m3)",
+                        "Bid": "1.900 km",
+                        "InContract": "2.400 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "20,500,000est. 31,469,262",
+                        "DiscountRate": "-35 %",
+                        "Total": "49,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "21-May-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "02-Jun-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Jul-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "54,450,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Raod",
+            "project_link": "/pid/project/home/view.castle?pid=1ae4711b-15c6-4fe2-8023-a6560100eb05",
+            "project_html_data": {
+                "Pid": "1ae4711b-15c6-4fe2-8023-a6560100eb05",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "San Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Raod",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140803/16/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "78,889,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "78,889,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKaRoatn",
+                        "BeneficiaryTotal": "1,758",
+                        "BeneficiaryWomen": "913",
+                        "Households": "327"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Prang",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 13,468.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "47,485,138",
+                        "Total": "71,227,707"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "18-Feb-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Feb-2016",
+                            "Technicalclearancesign-off": "15-Mar-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803160101",
+            "contract_html_data": {
+                "Id": "140803160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/16/01-01",
+                        "TechnicalSupervisor": "San Vibol",
+                        "Project'sName": "Earth Raod",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhun Yeang, [ Chhun Yeang ]",
+                        "Competitivebidding": "Yes ( 31-Mar-2016 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "12-May-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "12-May-2016",
+                        "Plannedworkcompletiondate": "10-Jun-2016",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,962,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhunYeang",
+                        "Contractor": "ChhunYeang",
+                        "BidValue": "30,820,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PangSroy",
+                        "Contractor": "PangSroy",
+                        "BidValue": "70,420,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "33,800,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LimSokhy",
+                        "Contractor": "LimSokhy",
+                        "BidValue": "69,300,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "YosSambath",
+                        "Contractor": "YosSambath",
+                        "BidValue": "33,400,000R",
+                        "DiscountRate": "-53%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "31,700,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "MoaMouyna",
+                        "Contractor": "Moamouyna",
+                        "BidValue": "50,900,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SinSocheat",
+                        "Contractor": "SINSOCHEATConstruction",
+                        "BidValue": "40,204,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "MonDavid",
+                        "Contractor": "DevidDevelopment",
+                        "BidValue": "32,070,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "SounSophear",
+                        "Contractor": "SOUNSOPHEAR",
+                        "BidValue": "35,100,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "65,362,000",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 7,320.000 Volume of earth (m3)",
+                        "Bid": "0.000 km",
+                        "InContract": "1.200 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "22,000,000est. 47,485,138",
+                        "DiscountRate": "-54 %",
+                        "Total": "26,400,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "65,362,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Not Translate",
+            "project_link": "/pid/project/home/view.castle?pid=28de4828-f087-4c0b-be52-a9aa00df9cfc",
+            "project_html_data": {
+                "Pid": "28de4828-f087-4c0b-be52-a9aa00df9cfc",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "San Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Not Translate",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140803/17/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "90,647,600",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "90,647,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekChruk",
+                        "BeneficiaryTotal": "1,120",
+                        "BeneficiaryWomen": "556",
+                        "Households": "190"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,419.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "27,651,004",
+                        "Total": "41,476,506"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "24-Mar-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Mar-2017",
+                            "Technicalclearancesign-off": "30-Mar-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803170101",
+            "contract_html_data": {
+                "Id": "140803170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/17/01-01",
+                        "TechnicalSupervisor": "San Vibol",
+                        "Project'sName": "Not Translate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sroy Kok Kheang, [ Sroy Kok Kheang ]",
+                        "Competitivebidding": "Yes ( 26-Apr-2017 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "18-May-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "22-May-2017",
+                        "Plannedworkcompletiondate": "10-Jul-2017",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "90,075,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "79,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimSokhy",
+                        "Contractor": "LimSokhy",
+                        "BidValue": "79,600,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KongYon",
+                        "Contractor": "KongYon",
+                        "BidValue": "79,760,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "90,475,000",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 6,419.000 Volume of earth (m3)",
+                        "Bid": "1.250 km",
+                        "InContract": "1.350 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "27,500,000est. 27,651,004",
+                        "DiscountRate": "-1 %",
+                        "Total": "37,125,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "90,475,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=e200b3b6-e5ac-429c-b4e8-ab1300f0a580",
+            "project_html_data": {
+                "Pid": "e200b3b6-e5ac-429c-b4e8-ab1300f0a580",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "Not translate",
+                        "Relatedcontract(s)": "140803/18/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "88,927,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "88,927,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LveaKaong",
+                        "BeneficiaryTotal": "1,169",
+                        "BeneficiaryWomen": "587",
+                        "Households": "250"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Peak Sbai",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 4,575.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "46,098,299",
+                        "Total": "69,147,449"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Feb-2018",
+                            "Technicalclearancesign-off": "19-Mar-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803180101",
+            "contract_html_data": {
+                "Id": "140803180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/18/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sroy Kok Kheang, [ Sroy Kok Kheang ]",
+                        "Competitivebidding": "Yes ( 15-Jun-2018 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "15-Jun-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jul-2018",
+                        "Plannedworkcompletiondate": "20-Aug-2018",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "86,910,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "87,210,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "YosSambath",
+                        "Contractor": "YosSambath",
+                        "BidValue": "87,400,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SreySiemhoung",
+                        "Contractor": "SreySiemhoungconstruction",
+                        "BidValue": "87,305,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "87,210,000",
+                        "Village": "Lvea Kaong",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 4.500 Width (m)Dimension #2 : 1,150.000 Volume of earth (m3)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.400 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "45,900,000est. 46,098,299",
+                        "DiscountRate": "0 %",
+                        "Total": "18,360,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "87,210,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=bafe15a4-c57c-42c3-b397-aba300f626d2",
+            "project_html_data": {
+                "Pid": "bafe15a4-c57c-42c3-b397-aba300f626d2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "Not translate",
+                        "Relatedcontract(s)": "140803/19/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "117,227,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "117,227,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKaRoatn",
+                        "BeneficiaryTotal": "1,787",
+                        "BeneficiaryWomen": "915",
+                        "Households": "334"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 10,330.000 Volume of earth (m3)",
+                        "Qty": "1.450 km",
+                        "UnitCost": "56,962,220",
+                        "Total": "82,595,219"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Mar-2019",
+                            "Technicalclearancesign-off": "10-Apr-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140803/19/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140803190101",
+            "contract_html_data": {
+                "Id": "140803190101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140803 ] Prey Veng \\ Pea Reang \\ Kampong Prang",
+                        "Contract": "140803/19/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sroy Kok Kheang, [ Sroy Kok Kheang ]",
+                        "Competitivebidding": "Yes ( 09-May-2019 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "30-May-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jun-2019",
+                        "Plannedworkcompletiondate": "20-Jul-2019",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "99,842,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "71,582,000R",
+                        "DiscountRate": "31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "102,600,000R",
+                        "DiscountRate": "87%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhalSophan",
+                        "Contractor": "PHALSOPHAN",
+                        "BidValue": "103,027,000R",
+                        "DiscountRate": "88%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "100,142,000",
+                        "Village": "Preaek Ka Roatn",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 600.000 Diameter (mm)Dimension #2 : 6.000 Length(m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "100,200est. 4,447,900",
+                        "DiscountRate": "-98 %",
+                        "Total": "200,400"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "100,142,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2538 @@
+{
+    "location": {
+        "province": "Battambang",
+        "district": "Thma Koul",
+        "commune": "Boeng Pring"
+    },
+    "projects": [
+        {
+            "project_name": "Unlined Earth canal and pipe",
+            "project_link": "/pid/project/home/view.castle?pid=4d932404-a756-4534-bad4-9c7d00aaf888",
+            "project_html_data": {
+                "Pid": "4d932404-a756-4534-bad4-9c7d00aaf888",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Unlined Earth canal and pipe",
+                        "Objective": "Have enough irrigation system",
+                        "Relatedcontract(s)": "020207/09/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "42,974,300",
+                        "LocalRevenue": "1,289,200",
+                        "CarryOver": "1,900",
+                        "Other": "0",
+                        "Total": "44,265,400"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "4,901",
+                        "BeneficiaryWomen": "2,533",
+                        "Households": "991"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Boeng Pring",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 0.950 Depth (m)Dimension #2 : 2.000 Average width (m)",
+                        "Qty": "2.660 km",
+                        "UnitCost": "12,338,722",
+                        "Total": "32,821,001"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Because the project will be on the old unlined earth canal ,so it  doesn't have impact anywhere."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No any high land people living there."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Jan-2009",
+                            "Technicalclearancesign-off": "06-Aug-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207090101",
+            "contract_html_data": {
+                "Id": "020207090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/09/01-01( 1 )",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "Unlined Earth canal and pipe",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Hong Chhay Heng, [ Chhay Sitha ]",
+                        "Competitivebidding": "Yes ( 28-Sep-2009 )",
+                        "Numberofcontractor": "12",
+                        "Contractsigndate(Form50)": "15-Oct-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Feb-2010",
+                        "Plannedworkcompletiondate": "30-Mar-2010",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "23-Mar-2010",
+                        "Closeddateon": "01-Oct-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "17,838,600"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,289,200"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.HulSenghab",
+                        "Contractor": "HulSenghab",
+                        "BidValue": "31,855,708R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.CheaSang",
+                        "Contractor": "CheaSang",
+                        "BidValue": "14,815,400R",
+                        "DiscountRate": "-63%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChhaySitha",
+                        "Contractor": "HongChhayHeng",
+                        "BidValue": "14,000,000R",
+                        "DiscountRate": "-65%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PenSambo",
+                        "Contractor": "BoPov",
+                        "BidValue": "34,000,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ThorngKong",
+                        "Contractor": "KongMeng",
+                        "BidValue": "38,920,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SamSophorn",
+                        "Contractor": "PovSophornbo",
+                        "BidValue": "33,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HangSarin",
+                        "Contractor": "PonloeuPhnomPenh",
+                        "BidValue": "17,000,000R",
+                        "DiscountRate": "-57%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "OeungKimLy",
+                        "Contractor": "HongHourtLy",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "23,800,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "YamKinh",
+                        "Contractor": "YamKinh",
+                        "BidValue": "18,000,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "ProeungLina",
+                        "Contractor": "KroyBang",
+                        "BidValue": "20,231,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "HEMCHANVANNAK",
+                        "Contractor": "HEMCHANVANNAK",
+                        "BidValue": "18,000,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "19,127,818",
+                        "Village": "Boeng Pring",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 0.950 Depth (m)Dimension #2 : 2.000 Average width (m)",
+                        "Bid": "2.660 km",
+                        "InContract": "3.600 km",
+                        "Actualquantity": "3.600 km",
+                        "UnitCost/Estimated": "3,759,398est. 12,338,722",
+                        "DiscountRate": "-70 %",
+                        "Total": "13,533,833"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "08-Mar-2010",
+                        "Actualworkcompletiondate": "30-Mar-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Mar-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Oun Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Mar-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Oun Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Mar-2010",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "7651000R",
+                        "Net": "6955455R",
+                        "Tax": "695545R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "07-Apr-2010",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "7651000R",
+                        "Net": "6955455R",
+                        "Tax": "695545R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "19-Oct-2010",
+                        "Source": "LC",
+                        "Description": "3rdpayment",
+                        "Gross": "1289200R",
+                        "Net": "1172000R",
+                        "Tax": "117200R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "19-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "2536600R",
+                        "Net": "2450905R",
+                        "Tax": "85695R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "19,127,800R",
+                        "ActualPaymentCumulativeToDate(A)Net": "17,533,815R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,593,985R",
+                        "ContractValue(B)Gross": "19,127,800R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=0ffbfa46-e7f4-4cc0-a0cc-9e04012f5044",
+            "project_html_data": {
+                "Pid": "0ffbfa46-e7f4-4cc0-a0cc-9e04012f5044",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road",
+                        "Objective": "People can be easily to travel and transport the agriculture product.",
+                        "Relatedcontract(s)": "020207/10/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "122,720,600",
+                        "LocalRevenue": "3,681,600",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "126,402,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "763",
+                        "BeneficiaryWomen": "459",
+                        "Households": "153"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Paoy Ta Sek",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 0.010 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "22,237,380",
+                        "Total": "33,356,070"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Because the project will be construct on the existing road.",
+                            "Approvaldate": "23-Jul-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No any high land people living there."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "24-Jun-2010",
+                            "Technicalclearancesign-off": "16-Aug-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207100101",
+            "contract_html_data": {
+                "Id": "020207100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/10/01-01( 1 )",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Loeung Chor, [ Loeung Chor ]",
+                        "Competitivebidding": "Yes ( 13-Oct-2010 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "26-Oct-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Mar-2011",
+                        "Plannedworkcompletiondate": "25-Apr-2011",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "14-Feb-2011",
+                        "Closeddateon": "13-Jan-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "116,973,972"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "3,681,600"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ThorngKong",
+                        "Contractor": "KongMeng",
+                        "BidValue": "105,499,100R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "78,400,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NhemChinda",
+                        "Contractor": "NhemChinda",
+                        "BidValue": "105,499,100R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "120,655,572",
+                        "Village": "Snuol Kaong",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 0.010 Volume of earth (m3)",
+                        "Bid": "1.500 km",
+                        "InContract": "2.500 km",
+                        "Actualquantity": "2.500 km",
+                        "UnitCost/Estimated": "17,333,333est. 21,917,764",
+                        "DiscountRate": "-21 %",
+                        "Total": "43,333,333"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Mar-2011",
+                        "Actualworkcompletiondate": "12-Jul-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Jul-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "12-Jul-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Jul-2011",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "48262229R",
+                        "Net": "43874754R",
+                        "Tax": "4387475R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Jul-2011",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "48262229R",
+                        "Net": "43874754R",
+                        "Tax": "4387475R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Jan-2012",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "20449514R",
+                        "Net": "18590467R",
+                        "Tax": "1859047R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Jan-2012",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "3681600R",
+                        "Net": "3346909R",
+                        "Tax": "334691R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "120,655,572R",
+                        "ActualPaymentCumulativeToDate(A)Net": "109,686,884R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "10,968,688R",
+                        "ContractValue(B)Gross": "120,655,572R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=e81ddafe-1341-4a5b-a04d-9f240109fc88",
+            "project_html_data": {
+                "Pid": "e81ddafe-1341-4a5b-a04d-9f240109fc88",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/11/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "64,129,200",
+                        "LocalRevenue": "1,673,700",
+                        "CarryOver": "30,884,228",
+                        "Other": "0",
+                        "Total": "96,687,128"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "4,703",
+                        "BeneficiaryWomen": "2,397",
+                        "Households": "979"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Boeng Pring",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 350.000 Width (m)Dimension #2 : 0.001 Volume of earth (m3)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "31,411,307",
+                        "Total": "31,411,307"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-Jun-2011",
+                            "Technicalclearancesign-off": "02-Aug-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207110101",
+            "contract_html_data": {
+                "Id": "020207110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/11/01-01( 1 )",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Kroy Bang, [ Proeung Lina ]",
+                        "Competitivebidding": "Yes ( 19-Aug-2011 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "30-Aug-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "21-Nov-2011",
+                        "Plannedworkcompletiondate": "15-Dec-2011",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "84,463,700"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "3,855,300"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LimSuyvutha",
+                        "Contractor": "HengChhat",
+                        "BidValue": "79,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ThorngKong",
+                        "Contractor": "KongMeng",
+                        "BidValue": "77,700,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TangSengBou",
+                        "Contractor": "LeangBou",
+                        "BidValue": "78,372,500R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "Yes",
+                        "Reason": "becauseitdoes'thavethenameofcompanyandnumberofidentificationcard"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "79,414,088R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChhaySothea",
+                        "Contractor": "HongVanly",
+                        "BidValue": "80,000,000R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ProeungLina",
+                        "Contractor": "KroyBang",
+                        "BidValue": "76,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "88,319,000",
+                        "Village": "Paoy Ta Sek",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 0.001 Volume of earth (m3)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": "0.500 km",
+                        "UnitCost/Estimated": "30,000,000est. 31,105,319",
+                        "DiscountRate": "-4 %",
+                        "Total": "15,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "31-Aug-2011",
+                        "Actualworkcompletiondate": "07-Dec-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Sep-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "07-Dec-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "09-Sep-2011",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "35327600R",
+                        "Net": "3211600R",
+                        "Tax": "32116000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "35327600R",
+                        "Net": "3211600R",
+                        "Tax": "32116000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "15-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "13808500R",
+                        "Net": "12553182R",
+                        "Tax": "1255318R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "15-Jun-2012",
+                        "Source": "LC",
+                        "Description": "3rd",
+                        "Gross": "3855300R",
+                        "Net": "3504818R",
+                        "Tax": "350482R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "88,319,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "22,481,200R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "65,837,800R",
+                        "ContractValue(B)Gross": "88,319,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Not yet translate",
+            "project_link": "/pid/project/home/view.castle?pid=cb95b57f-2ce1-4da2-bd82-a09f00a5498d",
+            "project_html_data": {
+                "Pid": "cb95b57f-2ce1-4da2-bd82-a09f00a5498d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Not yet translate",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/12/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "75,418,483",
+                        "LocalRevenue": "2,053,300",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "77,471,783"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PaoyTaSek",
+                        "BeneficiaryTotal": "1,638",
+                        "BeneficiaryWomen": "841",
+                        "Households": "312"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Paoy Ta Sek",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 20.000 Volume of earth (m3)",
+                        "Qty": "2.215 km",
+                        "UnitCost": "32,021,721",
+                        "Total": "70,928,112"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Mar-2012",
+                            "Technicalclearancesign-off": "19-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207120101",
+            "contract_html_data": {
+                "Id": "020207120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/12/01-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "Not yet translate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Kroy Bang, [ Proeung Lina ]",
+                        "Competitivebidding": "Yes ( 06-Jul-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "16-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jul-2012",
+                        "Plannedworkcompletiondate": "05-Aug-2012",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "75,418,483"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,053,300"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhaySitha",
+                        "Contractor": "HongChhayHeng",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "65,700,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ProeungLina",
+                        "Contractor": "KroyBang",
+                        "BidValue": "60,000,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "77,471,783",
+                        "Village": "Paoy Ta Sek",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 20.000 Volume of earth (m3)",
+                        "Bid": "2.215 km",
+                        "InContract": "2.600 km",
+                        "Actualquantity": "2.600 km",
+                        "UnitCost/Estimated": "27,088,036est. 32,021,721",
+                        "DiscountRate": "-15 %",
+                        "Total": "70,428,894"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Jul-2012",
+                        "Actualworkcompletiondate": "31-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Jul-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "31-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "09-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "",
+                        "Gross": "30988713R",
+                        "Net": "28171557R",
+                        "Tax": "2817156R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Oct-2012",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "30988713R",
+                        "Net": "28171557R",
+                        "Tax": "2817156R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Feb-2013",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "13441057R",
+                        "Net": "12219143R",
+                        "Tax": "1221914R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Feb-2013",
+                        "Source": "LC",
+                        "Description": "3rd",
+                        "Gross": "2053300R",
+                        "Net": "1866636R",
+                        "Tax": "186664R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "77,471,783R",
+                        "ActualPaymentCumulativeToDate(A)Net": "70,428,893R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "7,042,890R",
+                        "ContractValue(B)Gross": "77,471,783R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=65dfefd9-c2e0-4ad6-a1e1-a23d00fc9dfb",
+            "project_html_data": {
+                "Pid": "65dfefd9-c2e0-4ad6-a1e1-a23d00fc9dfb",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/13/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "75,046,400",
+                        "LocalRevenue": "2,251,300",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "77,297,700"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "4,682",
+                        "BeneficiaryWomen": "2,386",
+                        "Households": "973"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ou Nhor",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 100.000 Volume of earth (m3)",
+                        "Qty": "1.150 km",
+                        "UnitCost": "31,541,266",
+                        "Total": "36,272,456"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "25-Jul-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-Jul-2013",
+                            "Technicalclearancesign-off": "23-Jul-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207130101",
+            "contract_html_data": {
+                "Id": "020207130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/13/01-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Heng Chhat, [ Lim Suyvutha ]",
+                        "Competitivebidding": "Yes ( 04-Sep-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "20-Sep-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-Sep-2013",
+                        "Plannedworkcompletiondate": "23-Oct-2013",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "76,398,700"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,251,300"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhaySitha",
+                        "Contractor": "HongChhayHeng",
+                        "BidValue": "63,000,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimSuyvutha",
+                        "Contractor": "HengChhat",
+                        "BidValue": "58,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ProeungLina",
+                        "Contractor": "KroyBang",
+                        "BidValue": "63,900,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "78,650,000",
+                        "Village": "Boeng Pring",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.000 Width (m)Dimension #2 : 100.000 Volume of earth (m3)",
+                        "Bid": "1.100 km",
+                        "InContract": "1.550 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "30,000,000est. 31,541,266",
+                        "DiscountRate": "-5 %",
+                        "Total": "46,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "23-Nov-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "04-Dec-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Dec-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Jan-2014",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "31460000R",
+                        "Net": "28600000R",
+                        "Tax": "2860000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Jan-2014",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "31460000R",
+                        "Net": "28600000R",
+                        "Tax": "2860000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "62,920,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "57,200,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "5,720,000R",
+                        "ContractValue(B)Gross": "78,650,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=7b514552-907b-4a92-b024-a3e20109c6a5",
+            "project_html_data": {
+                "Pid": "7b514552-907b-4a92-b024-a3e20109c6a5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/14/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "65,598,105",
+                        "LocalRevenue": "1,909,400",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "67,507,505"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "9,332",
+                        "BeneficiaryWomen": "4,792",
+                        "Households": "971"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Boeng Pring",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 0.000 Volume of earth (m3)",
+                        "Qty": "0.700 km",
+                        "UnitCost": "41,410,273",
+                        "Total": "28,987,191"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "20-Aug-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "22-Aug-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Aug-2014",
+                            "Technicalclearancesign-off": "03-Sep-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207140101",
+            "contract_html_data": {
+                "Id": "020207140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/14/01-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Loeung Chor, [ Loeung Chor ]",
+                        "Competitivebidding": "Yes ( 06-Oct-2014 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "17-Oct-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Oct-2014",
+                        "Plannedworkcompletiondate": "05-Nov-2014",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "63,660,814"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,909,400"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhaySitha",
+                        "Contractor": "HongChhayHeng",
+                        "BidValue": "43,000,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimSuyvutha",
+                        "Contractor": "HengChhat",
+                        "BidValue": "39,200,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ThorngKong",
+                        "Contractor": "KongMeng",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "37,700,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ProeungLina",
+                        "Contractor": "KroyBang",
+                        "BidValue": "44,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "CheaKimsong",
+                        "Contractor": "CheaSang",
+                        "BidValue": "49,980,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "65,570,214",
+                        "Village": "Boeng Pring",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.000 Width (m)Dimension #2 : 0.000 Volume of earth (m3)",
+                        "Bid": "0.700 km",
+                        "InContract": "1.529 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "26,428,571est. 41,410,273",
+                        "DiscountRate": "-36 %",
+                        "Total": "40,409,286"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Oct-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "28-Oct-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "04-Dec-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Nou Chantha",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "65,570,214R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=6fa9945f-a04a-4d22-9c26-a57e009ee886",
+            "project_html_data": {
+                "Pid": "6fa9945f-a04a-4d22-9c26-a57e009ee886",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/15/02-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "66,072,691",
+                        "LocalRevenue": "1,923,600",
+                        "CarryOver": "13,114,042",
+                        "Other": "0",
+                        "Total": "81,110,333"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PaoyTaSek",
+                        "BeneficiaryTotal": "1,633",
+                        "BeneficiaryWomen": "841",
+                        "Households": "375"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Paoy Ta Sek",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.000 Depth (m)Dimension #2 : 1.000 Average width (m)",
+                        "Qty": "0.670 km",
+                        "UnitCost": "14,562,681",
+                        "Total": "9,756,996"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "21-Oct-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "22-Oct-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Oct-2015",
+                            "Technicalclearancesign-off": "22-Oct-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/15/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207150201",
+            "contract_html_data": {
+                "Id": "020207150201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/15/02-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Chan Sothy, [ Chan Sothy ]",
+                        "Competitivebidding": "Yes ( 20-Nov-2015 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "16-Dec-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "04-Jan-2016",
+                        "Plannedworkcompletiondate": "17-Jan-2016",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "8,966,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,923,600"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "9,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ProeungLina",
+                        "Contractor": "KroyBang",
+                        "BidValue": "8,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChanSothy",
+                        "Contractor": "ChanSothy",
+                        "BidValue": "6,030,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.VeungSoMeng",
+                        "Contractor": "VeungSoMeng",
+                        "BidValue": "7,973,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "8,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "10,890,000",
+                        "Village": "Paoy Ta Sek",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 2.000 Depth (m)Dimension #2 : 1.000 Average width (m)",
+                        "Bid": "0.670 km",
+                        "InContract": "1.100 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "9,000,000est. 14,562,681",
+                        "DiscountRate": "-38 %",
+                        "Total": "9,900,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "10,890,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=901b31ab-2e2d-4ade-bd3e-a57e00b644c5",
+            "project_html_data": {
+                "Pid": "901b31ab-2e2d-4ade-bd3e-a57e00b644c5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/15/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "66,072,691",
+                        "LocalRevenue": "1,923,600",
+                        "CarryOver": "13,114,042",
+                        "Other": "0",
+                        "Total": "81,110,333"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "891",
+                        "BeneficiaryWomen": "416",
+                        "Households": "172"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Snuol Kaong",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 5,033.000 Volume of earth (m3)",
+                        "Qty": "0.700 km",
+                        "UnitCost": "31,821,320",
+                        "Total": "22,274,924"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "21-Oct-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "22-Oct-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Oct-2015",
+                            "Technicalclearancesign-off": "22-Oct-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207150101",
+            "contract_html_data": {
+                "Id": "020207150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/15/01-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 20-Nov-2015 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "16-Dec-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jan-2016",
+                        "Plannedworkcompletiondate": "10-Feb-2016",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "55,159,505"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "27,513,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-68%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ProeungLina",
+                        "Contractor": "KroyBang",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-67%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChanSothy",
+                        "Contractor": "ChanSothy",
+                        "BidValue": "26,100,000R",
+                        "DiscountRate": "-65%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.VeungSoMeng",
+                        "Contractor": "VeungSoMeng",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-68%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "21,900,000R",
+                        "DiscountRate": "-71%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "82,672,505",
+                        "Village": "Ou Nhor",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 6,020.000 Volume of earth (m3)",
+                        "Bid": "0.800 km",
+                        "InContract": "3.250 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "9,954,546est. 35,281,495",
+                        "DiscountRate": "-72 %",
+                        "Total": "32,352,275"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "82,672,505R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=68acbad9-a83e-431a-810f-a6b000f1ceb8",
+            "project_html_data": {
+                "Pid": "68acbad9-a83e-431a-810f-a6b000f1ceb8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/16/01-01 ",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "79,204,000",
+                        "LocalRevenue": "1,923,600",
+                        "CarryOver": "9,007,995",
+                        "Other": "0",
+                        "Total": "90,135,595"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "5,381",
+                        "BeneficiaryWomen": "2,815",
+                        "Households": "1,200"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Boeng Pring",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 0.000 Volume of earth (m3)",
+                        "Qty": "1.150 km",
+                        "UnitCost": "28,510,719",
+                        "Total": "32,787,327"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "09-Aug-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "10-Aug-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Aug-2016",
+                            "Technicalclearancesign-off": "09-Aug-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207160101",
+            "contract_html_data": {
+                "Id": "020207160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/16/01-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Loeung Chor, [ Loeung Chor ]",
+                        "Competitivebidding": "Yes ( 16-Sep-2016 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "04-Oct-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Jan-2017",
+                        "Plannedworkcompletiondate": "15-Feb-2017",
+                        "CreatedBy": "Nou Chantha",
+                        "Mobile": "012 536 340",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "76,891,391"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhaySitha",
+                        "Contractor": "HongChhayHeng",
+                        "BidValue": "46,500,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "39,500,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SivLuiHva",
+                        "Contractor": "SivLuiHva",
+                        "BidValue": "57,500,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LoeungYungSinh",
+                        "Contractor": "VengHeng",
+                        "BidValue": "40,200,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimSuyvutha",
+                        "Contractor": "HengChhat",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "79,191,391",
+                        "Village": "Boeng Pring",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.000 Width (m)Dimension #2 : 0.000 Volume of earth (m3)",
+                        "Bid": "1.150 km",
+                        "InContract": "2.739 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "16,521,739est. 28,510,719",
+                        "DiscountRate": "-42 %",
+                        "Total": "45,253,043"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "79,191,391R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=75e371df-7432-4675-bc01-ab4800ad61e6",
+            "project_html_data": {
+                "Pid": "75e371df-7432-4675-bc01-ab4800ad61e6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/18/01-01 ",
+                        "CreatedBy": "Cheat Sothearoeun",
+                        "Mobile": "០៧៨ ៩៦៩ ៧៩៨"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "29,980,800",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "29,980,800"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuNhor",
+                        "BeneficiaryTotal": "2,329",
+                        "BeneficiaryWomen": "1,218",
+                        "Households": "538"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ou Nhor",
+                        "Description": "Earth road​ width 5.1-6m Repair [ 1010109 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 4,355.000 Volume of earth (m3)",
+                        "Qty": "0.900 km",
+                        "UnitCost": "35,905,458",
+                        "Total": "32,314,912"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "28-Aug-2018 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "30-Aug-2018"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Aug-2018",
+                            "Technicalclearancesign-off": "28-Aug-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207180101",
+            "contract_html_data": {
+                "Id": "020207180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/18/01-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chao Lign Chhign, [ Mr. Hang Chhign ]",
+                        "Competitivebidding": "Yes ( 07-Nov-2018 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "16-Nov-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2018",
+                        "Plannedworkcompletiondate": "15-Dec-2018",
+                        "CreatedBy": "Cheat Sothearoeun",
+                        "Mobile": "០៧៨ ៩៦៩ ៧៩៨",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "29,980,800"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhaySitha",
+                        "Contractor": "HongChhayHeng",
+                        "BidValue": "29,200,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.HangChhign",
+                        "Contractor": "ChaoLignChhign",
+                        "BidValue": "28,974,500R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LimSuyvutha",
+                        "Contractor": "HengChhat",
+                        "BidValue": "29,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "29,980,800",
+                        "Village": "Ou Nhor",
+                        "Description": "[ 1010109 ] Earth road​ width 5.1-6m RepairDimension #1 : 5.000 Width (m)Dimension #2 : 4,355.000 Volume of earth (m3)",
+                        "Bid": "0.000 km",
+                        "InContract": "0.864 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "34,700,000est. 35,905,458",
+                        "DiscountRate": "-3 %",
+                        "Total": "29,980,800"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2018",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "29,980,800R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=55218694-ee43-40fb-8589-ab60008e2b3b",
+            "project_html_data": {
+                "Pid": "55218694-ee43-40fb-8589-ab60008e2b3b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/18/02-01 ",
+                        "CreatedBy": "Cheat Sothearoeun",
+                        "Mobile": "០៧៨ ៩៦៩ ៧៩៨"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "58,928,485",
+                        "LocalRevenue": "900,700",
+                        "CarryOver": "0",
+                        "Other": "30,427,500",
+                        "Total": "90,256,685"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "5,351",
+                        "BeneficiaryWomen": "2,780",
+                        "Households": "1,200"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Boeng Pring",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.320 Depth (m)Dimension #2 : 5.000 Average width (m)",
+                        "Qty": "0.980 km",
+                        "UnitCost": "25,665,462",
+                        "Total": "25,152,153"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "01-Nov-2018 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "03-Nov-2018"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Nov-2018",
+                            "Technicalclearancesign-off": "27-Nov-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/18/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207180201",
+            "contract_html_data": {
+                "Id": "020207180201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/18/02-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "L C W H Construction Co.,ltd, [ HENG CHANTHA ]",
+                        "Competitivebidding": "Yes ( 20-Dec-2018 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "28-Dec-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-Jan-2019",
+                        "Plannedworkcompletiondate": "31-Jan-2019",
+                        "CreatedBy": "Cheat Sothearoeun",
+                        "Mobile": "០៧៨ ៩៦៩ ៧៩៨",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "58,928,485"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "900,700"
+                    },
+                    {
+                        "FundSource": "ASPIRE",
+                        "Cost": "30,427,500"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChanSothy",
+                        "Contractor": "ChanSothy",
+                        "BidValue": "60,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimSuyvutha",
+                        "Contractor": "HengChhat",
+                        "BidValue": "59,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HENGCHANTHA",
+                        "Contractor": "LCWHConstructionCo.,ltd",
+                        "BidValue": "58,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "90,256,685",
+                        "Village": "Boeng Pring",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.320 Depth (m)Dimension #2 : 5.000 Average width (m)",
+                        "Bid": "0.000 km",
+                        "InContract": "1.530 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "25,600,000est. 25,665,462",
+                        "DiscountRate": "0 %",
+                        "Total": "39,168,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "02-Jan-2019",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "90,256,685R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=1dcbbf08-d5e5-4988-8ace-abb2010284c6",
+            "project_html_data": {
+                "Pid": "1dcbbf08-d5e5-4988-8ace-abb2010284c6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Vay Sokunthea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "020207/19/01-01 ",
+                        "CreatedBy": "Cheat Sothearoeun",
+                        "Mobile": "០៧៨ ៩៦៩ ៧៩៨"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "78,808,525",
+                        "LocalRevenue": "933,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "79,741,525"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengPring",
+                        "BeneficiaryTotal": "5,351",
+                        "BeneficiaryWomen": "2,780",
+                        "Households": "1,200"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Snuol Kaong",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 35.000 Width (m)Dimension #2 : 0.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "33,882,322",
+                        "Total": "50,823,483"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "08-Jun-2019 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "09-Jun-2019"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "31-May-2019",
+                            "Technicalclearancesign-off": "10-Jun-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "020207/19/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=020207190101",
+            "contract_html_data": {
+                "Id": "020207190101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 20207 ] Battambang \\ Thma Koul \\ Boeng Pring",
+                        "Contract": "020207/19/01-01",
+                        "TechnicalSupervisor": "Vay Sokunthea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Loeung Chor, [ Loeung Chor ]",
+                        "Competitivebidding": "Yes ( 12-Jul-2019 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "22-Jul-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Nov-2019",
+                        "Plannedworkcompletiondate": "30-Nov-2019",
+                        "CreatedBy": "Cheat Sothearoeun",
+                        "Mobile": "០៧៨ ៩៦៩ ៧៩៨",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "78,808,525"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "933,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhaySitha",
+                        "Contractor": "HongChhayHeng",
+                        "BidValue": "79,700,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LoeungChor",
+                        "Contractor": "LoeungChor",
+                        "BidValue": "76,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HENGCHANTHA",
+                        "Contractor": "LCWHConstructionCo.,ltd",
+                        "BidValue": "78,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "79,741,525",
+                        "Village": "Boeng Pring",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 0.000 Volume of earth (m3)",
+                        "Bid": "0.000 km",
+                        "InContract": "1.460 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "32,415,254est. 33,882,322",
+                        "DiscountRate": "-4 %",
+                        "Total": "47,326,271"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Nov-2019",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "79,741,525R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

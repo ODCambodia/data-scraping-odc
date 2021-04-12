@@ -1,0 +1,2816 @@
+{
+    "location": {
+        "province": "Takeo",
+        "district": "Bati",
+        "commune": "Lumpong"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=06e008a4-aa94-4d2d-91e6-9c6100988b4f",
+            "project_html_data": {
+                "Pid": "06e008a4-aa94-4d2d-91e6-9c6100988b4f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "Good rural road for traveling",
+                        "Relatedcontract(s)": "210208/09/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "37,484,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "37,784,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrapeangKruos",
+                        "BeneficiaryTotal": "370",
+                        "BeneficiaryWomen": "184",
+                        "Households": "78"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Kralaong",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,778.320 Volume of earth (m3)",
+                        "Qty": "1.235 km",
+                        "UnitCost": "27,147,948",
+                        "Total": "33,527,716"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other culural area"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-May-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No high land people"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-May-2009",
+                            "Technicalclearancesign-off": "01-Jun-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208090101",
+            "contract_html_data": {
+                "Id": "210208090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/09/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Samnang K.T, [ Horn Koantray ]",
+                        "Competitivebidding": "Yes ( 17-Jun-2009 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "25-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Jun-2009",
+                        "Plannedworkcompletiondate": "25-Jul-2009",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "23-Apr-2010",
+                        "Closeddateon": "29-Jan-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "26,353,200"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "SamnangTouTaoBunchenda",
+                        "BidValue": "24,060,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KimChai",
+                        "Contractor": "KimChaiSamnangTouTao",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KakSe",
+                        "Contractor": "SamnangSieha",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornTaiheng",
+                        "Contractor": "SamnangT.H",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "23,900,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,Winner"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "26,553,194",
+                        "Village": "Trapeang Kralaong",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 2,159.660 Volume of earth (m3)",
+                        "Bid": "0.890 km",
+                        "InContract": "0.960 km",
+                        "Actualquantity": "0.960 km",
+                        "UnitCost/Estimated": "26,853,958est. 27,147,948",
+                        "DiscountRate": "-1 %",
+                        "Total": "25,779,800"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "30-Jun-2009",
+                        "Actualworkcompletiondate": "22-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "14-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Koam Sothun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Koam Sothun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "10421300R",
+                        "Net": "10108661R",
+                        "Tax": "312639R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "23-Jul-2009",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "200000R",
+                        "Net": "194000R",
+                        "Tax": "6000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "23-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "10621300R",
+                        "Net": "10302661R",
+                        "Tax": "318639R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "05-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "5310600R",
+                        "Net": "5174478R",
+                        "Tax": "136122R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "26,553,200R",
+                        "ActualPaymentCumulativeToDate(A)Net": "25,779,800R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "773,400R",
+                        "ContractValue(B)Gross": "26,553,200R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Water gate",
+            "project_link": "/pid/project/home/view.castle?pid=bfd7795b-06a7-4be1-b55d-9c630101d1f2",
+            "project_html_data": {
+                "Pid": "bfd7795b-06a7-4be1-b55d-9c630101d1f2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Water gate",
+                        "Objective": "For irrigation",
+                        "Relatedcontract(s)": "210208/09/02-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "9,785,000",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "9,885,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrayuengKhpos",
+                        "BeneficiaryTotal": "202",
+                        "BeneficiaryWomen": "110",
+                        "Households": "49"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Kralanh",
+                        "Description": "Medium size water gate New [ 1020201 ]Dimension #1 : 2.000 Height (m)Dimension #2 : 5.000 Length (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "9,714,900",
+                        "Total": "9,714,900"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.",
+                            "Reason": "Public land"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Apr-2009",
+                            "Technicalclearancesign-off": "28-May-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/09/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208090201",
+            "contract_html_data": {
+                "Id": "210208090201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/09/02-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Water gate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Samnang K.T, [ Horn Koantray ]",
+                        "Competitivebidding": "Yes ( 17-Jun-2009 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "25-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2009",
+                        "Plannedworkcompletiondate": "30-Dec-2009",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "23-Apr-2010",
+                        "Closeddateon": "03-Aug-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "9,685,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PheNget",
+                        "Contractor": "SamnangPheNget",
+                        "BidValue": "9,600,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HornTaiheng",
+                        "Contractor": "SamnangT.H",
+                        "BidValue": "9,600,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "9,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "9,785,000",
+                        "Village": "Trapeang Kralanh",
+                        "Description": "[ 1020201 ] Medium size water gate NewDimension #1 : 2.000 Height (m)Dimension #2 : 5.000 Length (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "9,500,000est. 9,714,900",
+                        "DiscountRate": "-2 %",
+                        "Total": "9,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2009",
+                        "Actualworkcompletiondate": "29-Jan-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Jan-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "7728000R",
+                        "Net": "7496160R",
+                        "Tax": "231840R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "05-Feb-2010",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "100000R",
+                        "Net": "97000R",
+                        "Tax": "3000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "04-Aug-2010",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "1957000R",
+                        "Net": "1906840R",
+                        "Tax": "50160R",
+                        "Verified": "KongSophea"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "9,785,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "9,500,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "285,000R",
+                        "ContractValue(B)Gross": "9,785,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=cdc8905a-de46-4333-99a1-9e41009399e2",
+            "project_html_data": {
+                "Pid": "cdc8905a-de46-4333-99a1-9e41009399e2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "Good rural road for treveling",
+                        "Relatedcontract(s)": "210208/10/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "69,766,600",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "70,066,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PunPhnum",
+                        "BeneficiaryTotal": "550",
+                        "BeneficiaryWomen": "114",
+                        "Households": "285"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Sa",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,023.000 Volume of earth (m3)",
+                        "Qty": "0.300 km",
+                        "UnitCost": "39,342,467",
+                        "Total": "11,802,740"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.",
+                            "Approvebydepartmenton": "12-Apr-2010"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "08-Apr-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Apr-2010",
+                            "Technicalclearancesign-off": "14-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208100101",
+            "contract_html_data": {
+                "Id": "210208100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/10/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Meibopha, [ Kak  Sovann ]",
+                        "Competitivebidding": "Yes ( 18-Aug-2010 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "30-Aug-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Nov-2010",
+                        "Plannedworkcompletiondate": "30-Dec-2010",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "15-Sep-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "34,839,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChiemKak",
+                        "Contractor": "ChiemKak",
+                        "BidValue": "33,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "SamnangTouTaoBunchenda",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-53%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornTaiheng",
+                        "Contractor": "SamnangT.H",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "25,200,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "EaChhaitek",
+                        "Contractor": "EaChhaitek",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "VengKimLeng",
+                        "Contractor": "VengKimLeng",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KetKimsreang",
+                        "Contractor": "SuonVichet",
+                        "BidValue": "46,800,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "KhunChitr",
+                        "Contractor": "SamnangPuthSorAkpivoath",
+                        "BidValue": "25,479,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "KakSovann",
+                        "Contractor": "Meibopha",
+                        "BidValue": "20,000,000R",
+                        "DiscountRate": "-58%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "35,139,000",
+                        "Village": "Thma Sa",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,023.000 Volume of earth (m3)",
+                        "Bid": "0.300 km",
+                        "InContract": "0.300 km",
+                        "Actualquantity": "0.300 km",
+                        "UnitCost/Estimated": "16,666,667est. 39,342,467",
+                        "DiscountRate": "-58 %",
+                        "Total": "5,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Nov-2010",
+                        "Actualworkcompletiondate": "01-Mar-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Feb-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Prak",
+                            "Note": "It is possible to get paid for the first payment"
+                        },
+                        {
+                            "Date": "01-Mar-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Prak",
+                            "Note": "It is possible to get paid"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Feb-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "13755600R",
+                        "Net": "13351024R",
+                        "Tax": "404576R",
+                        "Verified": "ChinViradeth"
+                    },
+                    {
+                        "Date": "23-Feb-2011",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": "ChinViradeth"
+                    },
+                    {
+                        "Date": "17-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "14055600R",
+                        "Net": "13642200R",
+                        "Tax": "413400R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "10-Oct-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "7027800R",
+                        "Net": "6821100R",
+                        "Tax": "206700R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "35,139,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "34,105,500R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,033,500R",
+                        "ContractValue(B)Gross": "35,139,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Water gate",
+            "project_link": "/pid/project/home/view.castle?pid=24da7b65-321e-4b81-8d3f-9f17009d93f2",
+            "project_html_data": {
+                "Pid": "24da7b65-321e-4b81-8d3f-9f17009d93f2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Water gate",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210208/11/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "69,766,600",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "70,066,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThum",
+                        "BeneficiaryTotal": "1,158",
+                        "BeneficiaryWomen": "564",
+                        "Households": "234"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Krang Thum",
+                        "Description": "Medium size water gate New [ 1020201 ]Dimension #1 : 3.000 Height (m)Dimension #2 : 12.000 Length (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "53,588,498",
+                        "Total": "53,588,498"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Apr-2011",
+                            "Technicalclearancesign-off": "05-May-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208110101",
+            "contract_html_data": {
+                "Id": "210208110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/11/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Water gate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "SamnangHimSien, [ Him Sien ]",
+                        "Competitivebidding": "Yes ( 25-May-2011 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "14-Jun-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jun-2011",
+                        "Plannedworkcompletiondate": "29-Jul-2011",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "08-Feb-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "39,601,380"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "GnivBunhoeun",
+                        "Contractor": "Diamangconstraction",
+                        "BidValue": "44,900,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimOu",
+                        "Contractor": "LimOu",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MamDavy",
+                        "Contractor": "SamnangTouTao",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TongLiHour",
+                        "Contractor": "TongLiHour",
+                        "BidValue": "44,900,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KakSe",
+                        "Contractor": "SamnangSieha",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "HimSien",
+                        "Contractor": "SamnangHimSien",
+                        "BidValue": "39,119,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,Lowestbidprice,winner."
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "42,500,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "PhonSophanny",
+                        "Contractor": "SamnangMoulathan",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "KakSovann",
+                        "Contractor": "Meibopha",
+                        "BidValue": "48,500,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "PrumPhalla",
+                        "Contractor": "KresnaSamnang",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,901,380",
+                        "Village": "Krang Thum",
+                        "Description": "[ 1020201 ] Medium size water gate NewDimension #1 : 3.000 Height (m)Dimension #2 : 12.000 Length (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "39,119,000est. 53,588,498",
+                        "DiscountRate": "-27 %",
+                        "Total": "39,119,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jun-2011",
+                        "Actualworkcompletiondate": "05-Aug-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "22-Jul-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "05-Aug-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "25-Aug-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "15660552R",
+                        "Net": "15199948R",
+                        "Tax": "460604R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Aug-2011",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Aug-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "15960552R",
+                        "Net": "15491124R",
+                        "Tax": "469428R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "7980276R",
+                        "Net": "7745562R",
+                        "Tax": "234714R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "39,901,380R",
+                        "ActualPaymentCumulativeToDate(A)Net": "38,727,810R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,173,570R",
+                        "ContractValue(B)Gross": "39,901,380R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road.",
+            "project_link": "/pid/project/home/view.castle?pid=602c7548-09b5-45a0-a3ed-a09700f4ef96",
+            "project_html_data": {
+                "Pid": "602c7548-09b5-45a0-a3ed-a09700f4ef96",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road.",
+                        "Objective": "To get a good road for traveling",
+                        "Relatedcontract(s)": "210208/12/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "15,165,383",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "15,465,383"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PunPhnum",
+                        "BeneficiaryTotal": "558",
+                        "BeneficiaryWomen": "286",
+                        "Households": "119"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Sa",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,799.000 Volume of earth (m3)",
+                        "Qty": "0.690 km",
+                        "UnitCost": "33,468,610",
+                        "Total": "23,093,341"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The construction area is far away from clean water source, custom temple and tourism area; it is outside safeguard watchlist area"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "24-Apr-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There are no highland people staying in that area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Apr-2012",
+                            "Technicalclearancesign-off": "25-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208120101",
+            "contract_html_data": {
+                "Id": "210208120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/12/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Earth road.",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "CheaKoi, [ Chea Koi ]",
+                        "Competitivebidding": "Yes ( 19-Jul-2012 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "30-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Nov-2012",
+                        "Plannedworkcompletiondate": "30-Dec-2012",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "36,990,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KangRin",
+                        "Contractor": "KangRin",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HuthSrorn",
+                        "Contractor": "HuthSrorn",
+                        "BidValue": "39,125,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "CheaKoi",
+                        "Contractor": "CheaKoi",
+                        "BidValue": "33,900,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "37,000,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KakSovann",
+                        "Contractor": "Meibopha",
+                        "BidValue": "37,000,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PangSarindy",
+                        "Contractor": "VanSokChea",
+                        "BidValue": "34,000,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "37,290,000",
+                        "Village": "Thma Sa",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 2,799.000 Volume of earth (m3)",
+                        "Bid": "0.690 km",
+                        "InContract": "0.690 km",
+                        "Actualquantity": "0.690 km",
+                        "UnitCost/Estimated": "21,661,342est. 33,468,610",
+                        "DiscountRate": "-35 %",
+                        "Total": "14,946,326"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Nov-2012",
+                        "Actualworkcompletiondate": "27-Feb-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "13-Feb-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "27-Feb-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "37,290,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pond rehabitation (UNCDF)",
+            "project_link": "/pid/project/home/view.castle?pid=12fd6e1f-f0d1-4e78-97be-a0ba011cb402",
+            "project_html_data": {
+                "Pid": "12fd6e1f-f0d1-4e78-97be-a0ba011cb402",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pond rehabitation (UNCDF)",
+                        "Objective": "For water using",
+                        "Relatedcontract(s)": "210208/12/02-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "24,400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "24,400,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PeanMeasKhangKaeut",
+                        "BeneficiaryTotal": "1,097",
+                        "BeneficiaryWomen": "511",
+                        "Households": "231"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pean Meas Khang Kaeut",
+                        "Description": "Water supply pond Repair [ 1030401 ]Dimension #1 : 2.000 Depth (m)Dimension #2 : 3,371.000 Volume (m3)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "21,704,165",
+                        "Total": "21,704,165"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land.",
+                            "Approvaldate": "18-May-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "14-Jun-2012",
+                            "Technicalclearancesign-off": "25-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/12/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208120201",
+            "contract_html_data": {
+                "Id": "210208120201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/12/02-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Pond rehabitation (UNCDF)",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "Contractor": "Sum Chan, [ Sum Chan ]",
+                        "Competitivebidding": "Yes ( 19-Jul-2012 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "30-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Nov-2012",
+                        "Plannedworkcompletiondate": "21-Dec-2012",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "15,300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KangRin",
+                        "Contractor": "KangRin",
+                        "BidValue": "17,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HuthSrorn",
+                        "Contractor": "HuthSrorn",
+                        "BidValue": "21,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HornTaiheng",
+                        "Contractor": "SamnangT.H",
+                        "BidValue": "20,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "19,000,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KhunChitr",
+                        "Contractor": "SamnangPuthSorAkpivoath",
+                        "BidValue": "21,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SumChan",
+                        "Contractor": "SumChan",
+                        "BidValue": "15,900,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "15,300,000",
+                        "Village": "Pean Meas Khang Kaeut",
+                        "Description": "[ 1030401 ] Water supply pond RepairDimension #1 : 2.000 Depth (m)Dimension #2 : 3,371.000 Volume (m3)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "15,000,000est. 21,704,165",
+                        "DiscountRate": "-31 %",
+                        "Total": "15,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "15,300,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road.",
+            "project_link": "/pid/project/home/view.castle?pid=6aeecd37-10ac-4013-882a-a1cd00c5200c",
+            "project_html_data": {
+                "Pid": "6aeecd37-10ac-4013-882a-a1cd00c5200c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road.",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210208/13/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "55,587,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "16,790,790",
+                        "Other": "0",
+                        "Total": "72,677,790"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kandal",
+                        "BeneficiaryTotal": "615",
+                        "BeneficiaryWomen": "510",
+                        "Households": "123"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Sa",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 2,799.000 Volume of earth (m3)",
+                        "Qty": "1.600 km",
+                        "UnitCost": "14,607,864",
+                        "Total": "23,372,582"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "07-Mar-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-Mar-2013",
+                            "Technicalclearancesign-off": "22-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208130101",
+            "contract_html_data": {
+                "Id": "210208130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/13/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Laterite road.",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation, [ Kork Sae ]",
+                        "Competitivebidding": "Yes ( 10-Apr-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "24-Apr-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-May-2013",
+                        "Plannedworkcompletiondate": "15-Jun-2013",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "70,840,385"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KorkSae",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "64,900,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KorkSovann",
+                        "Contractor": "MeyBopha",
+                        "BidValue": "65,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChinLitheavy",
+                        "Contractor": "Lipauv",
+                        "BidValue": "65,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "71,140,385",
+                        "Village": "Thma Sa",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 2,799.000 Volume of earth (m3)",
+                        "Bid": "1.600 km",
+                        "InContract": "1.600 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "14,683,258est. 14,607,864",
+                        "DiscountRate": "1 %",
+                        "Total": "23,493,213"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "02-May-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-May-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "05-Jun-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "71,140,385R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=65b396a3-35e2-4dc6-8e29-a393008ddd6f",
+            "project_html_data": {
+                "Pid": "65b396a3-35e2-4dc6-8e29-a393008ddd6f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210208/14/01-01 ",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "53,732,500",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "30,217,500",
+                        "Total": "84,250,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThum",
+                        "BeneficiaryTotal": "1,198",
+                        "BeneficiaryWomen": "597",
+                        "Households": "260"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Kralaong",
+                        "Description": "Water supply pond Upgrade [ 1030401 ]Dimension #1 : 4.500 Depth (m)Dimension #2 : 2,288.000 Volume (m3)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "20,890,800",
+                        "Total": "20,890,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "17-Jun-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Jul-2014",
+                            "Technicalclearancesign-off": "04-Aug-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208140101",
+            "contract_html_data": {
+                "Id": "210208140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/14/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "Contractor": "Not yet translation., [ Horn Korntrai ]",
+                        "Competitivebidding": "Yes ( 10-Sep-2014 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "19-Sep-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Sep-2014",
+                        "Plannedworkcompletiondate": "28-Oct-2014",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "46,482,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "30,217,500"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MormSocheat",
+                        "Contractor": "MormSoCheatContruction",
+                        "BidValue": "81,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "YChamroeun",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "83,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "OumChantha",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornKorntrai",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "Samnongpiseth",
+                        "BidValue": "83,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "77,000,000",
+                        "Village": "Trapeang Kruos",
+                        "Description": "[ 1030401 ] Water supply pond UpgradeDimension #1 : 4.000 Depth (m)Dimension #2 : 2,215.000 Volume (m3)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "13,000,000est. 20,661,800",
+                        "DiscountRate": "-37 %",
+                        "Total": "13,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "77,000,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=b2a25bee-62bc-4e67-8244-a611009ab1b9",
+            "project_html_data": {
+                "Pid": "b2a25bee-62bc-4e67-8244-a611009ab1b9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "TechnicalAssistant": "Chheng Vanna",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210208/15/01-01 ",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "13,023,000",
+                        "LocalRevenue": "150,000",
+                        "CarryOver": "0",
+                        "Other": "15,285,000",
+                        "Total": "28,458,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PunPhnum",
+                        "BeneficiaryTotal": "286",
+                        "BeneficiaryWomen": "140",
+                        "Households": "67"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Sa",
+                        "Description": "Water supply pond Repair [ 1030401 ]Dimension #1 : 2.000 Depth (m)Dimension #2 : 4,819.660 Volume (m3)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "19,127,245",
+                        "Total": "19,127,245"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "22-Jun-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Jul-2015",
+                            "Technicalclearancesign-off": "10-Aug-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208150101",
+            "contract_html_data": {
+                "Id": "210208150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/15/01-01",
+                        "TechnicalSupervisor": "Chheng Vanna",
+                        "Project'sName": "",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "Contractor": "NGI OEUN, [ Sok Heang ]",
+                        "Competitivebidding": "Yes ( 02-Sep-2015 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "15-Sep-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Sep-2015",
+                        "Plannedworkcompletiondate": "05-Oct-2015",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "13,023,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "150,000"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "15,285,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MormSocheat",
+                        "Contractor": "MormSoCheatContruction",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhimVantha",
+                        "Contractor": "ChhimVantha",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SokHeang",
+                        "Contractor": "NGIOEUN",
+                        "BidValue": "27,900,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornKorntrai",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "39,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "28,458,000",
+                        "Village": "Thma Sa",
+                        "Description": "[ 1030401 ] Water supply pond RepairDimension #1 : 2.000 Depth (m)Dimension #2 : 4,819.660 Volume (m3)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "12,000,000est. 19,127,245",
+                        "DiscountRate": "-37 %",
+                        "Total": "12,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "28,458,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=87f61a8d-96e9-4cad-99f3-a6f700aa4a53",
+            "project_html_data": {
+                "Pid": "87f61a8d-96e9-4cad-99f3-a6f700aa4a53",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Un Bunchanratha",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210208/16/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "61,840,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "62,040,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThum",
+                        "BeneficiaryTotal": "1,243",
+                        "BeneficiaryWomen": "616",
+                        "Households": "267"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Bak Ronoas",
+                        "Description": "Laterite road New [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,722.000 Volume of earth (m3)",
+                        "Qty": "0.900 km",
+                        "UnitCost": "41,406,040",
+                        "Total": "37,265,436"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "06-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Jun-2016",
+                            "Technicalclearancesign-off": "12-Aug-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208160101",
+            "contract_html_data": {
+                "Id": "210208160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/16/01-01",
+                        "TechnicalSupervisor": "Un Bunchanratha",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Morm SoCheat Contruction, [ Morm Socheat ]",
+                        "Competitivebidding": "Yes ( 05-Sep-2016 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "04-Oct-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Oct-2016",
+                        "Plannedworkcompletiondate": "10-Nov-2016",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "61,840,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KimPutthea",
+                        "Contractor": "KimPutthea",
+                        "BidValue": "18,500,000R",
+                        "DiscountRate": "-68%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MormSocheat",
+                        "Contractor": "MormSoCheatContruction",
+                        "BidValue": "19,844,000R",
+                        "DiscountRate": "-66%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NgournSophorl",
+                        "Contractor": "SeakPhally",
+                        "BidValue": "23,298,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-54%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KorkSae",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "20,000,000R",
+                        "DiscountRate": "-66%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SenChanlackhena",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "41,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "62,040,000",
+                        "Village": "Bak Ronoas",
+                        "Description": "[ 1010102 ] Laterite road NewDimension #1 : 5.000 Width (m)Dimension #2 : 3,722.000 Volume of earth (m3)",
+                        "Bid": "0.900 km",
+                        "InContract": "0.900 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "1,000,000est. 41,406,040",
+                        "DiscountRate": "-98 %",
+                        "Total": "900,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "62,040,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=c1f86a51-46d5-4570-8275-a6f700ad83fb",
+            "project_html_data": {
+                "Pid": "c1f86a51-46d5-4570-8275-a6f700ad83fb",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Un Bunchanratha",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210208/16/02-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "19,650,000",
+                        "LocalRevenue": "150,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "19,800,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BakRonoas",
+                        "BeneficiaryTotal": "959",
+                        "BeneficiaryWomen": "494",
+                        "Households": "209"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Bak Ronoas",
+                        "Description": "Water supply pond Repair [ 1030401 ]Dimension #1 : 3.000 Depth (m)Dimension #2 : 5,031.000 Volume (m3)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "44,531,679",
+                        "Total": "44,531,679"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "06-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Jun-2016",
+                            "Technicalclearancesign-off": "12-Aug-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/16/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208160201",
+            "contract_html_data": {
+                "Id": "210208160201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/16/02-01",
+                        "TechnicalSupervisor": "Un Bunchanratha",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 05-Sep-2016 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "23-Sep-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-Sep-2016",
+                        "Plannedworkcompletiondate": "17-Oct-2016",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "19,650,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "150,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KimPutthea",
+                        "Contractor": "KimPutthea",
+                        "BidValue": "26,000,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChoemChola",
+                        "Contractor": "ChoemChola",
+                        "BidValue": "30,500,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KorkSae",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KaemChanthy",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "28,500,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SenChanlackhena",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "32,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "18,000,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "19,800,000",
+                        "Village": "Bak Ronoas",
+                        "Description": "[ 1030401 ] Water supply pond RepairDimension #1 : 3.000 Depth (m)Dimension #2 : 5,031.000 Volume (m3)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "18,000,000est. 44,531,679",
+                        "DiscountRate": "-60 %",
+                        "Total": "18,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "19,800,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=e03cf618-15f7-4296-a10c-a9fa00eb12a8",
+            "project_html_data": {
+                "Pid": "e03cf618-15f7-4296-a10c-a9fa00eb12a8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210208/17/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "70,948,400",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "42,811,600",
+                        "Total": "113,960,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThum",
+                        "BeneficiaryTotal": "1,198",
+                        "BeneficiaryWomen": "597",
+                        "Households": "260"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Kralanh",
+                        "Description": "Water supply pond Repair [ 1030401 ]Dimension #1 : 4.000 Depth (m)Dimension #2 : 2,537.000 Volume (m3)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "25,113,300",
+                        "Total": "25,113,300"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "12-Jun-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Jun-2017",
+                            "Technicalclearancesign-off": "14-Aug-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208170101",
+            "contract_html_data": {
+                "Id": "210208170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/17/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Morm SoCheat Contruction, [ Morm Socheat ]",
+                        "Competitivebidding": "Yes ( 26-Sep-2017 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "06-Oct-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Nov-2017",
+                        "Plannedworkcompletiondate": "20-Feb-2018",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "70,948,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "42,811,600"
+                    }
+                ],
+                "Bidding": [],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "113,960,000",
+                        "Village": "Trapeang Kralanh",
+                        "Description": "[ 1030401 ] Water supply pond RepairDimension #1 : 4.000 Depth (m)Dimension #2 : 2,537.000 Volume (m3)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "10,000,000est. 25,113,300",
+                        "DiscountRate": "-60 %",
+                        "Total": "10,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "113,960,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=82201daa-6905-4930-8ad7-ab52009fa686",
+            "project_html_data": {
+                "Pid": "82201daa-6905-4930-8ad7-ab52009fa686",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ngoun Vicheth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210208/18/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "43,348,683",
+                        "LocalRevenue": "350,000",
+                        "CarryOver": "0",
+                        "Other": "50,775,000",
+                        "Total": "94,473,683"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangThum",
+                        "BeneficiaryTotal": "636",
+                        "BeneficiaryWomen": "322",
+                        "Households": "135"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pean Meas Khang Kaeut",
+                        "Description": "Laterite road​ width 5.1-6m Repair [ 1010114 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 150.000 Volume of earth (m3)",
+                        "Qty": "0.600 km",
+                        "UnitCost": "37,754,164",
+                        "Total": "22,652,498"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Aug-2018",
+                            "Technicalclearancesign-off": "30-Oct-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210208/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210208180101",
+            "contract_html_data": {
+                "Id": "210208180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210208 ] Takeo \\ Bati \\ Lumpong",
+                        "Contract": "210208/18/01-01",
+                        "TechnicalSupervisor": "Ngoun Vicheth",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [ Bun Chitra ]",
+                        "Competitivebidding": "Yes ( 15-Nov-2018 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "07-Dec-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "08-Dec-2018",
+                        "Plannedworkcompletiondate": "08-Feb-2019",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "43,348,683"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "350,000"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "50,775,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KorkSovan",
+                        "Contractor": "MeiBopha",
+                        "BidValue": "82,800,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SeapSophack",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "156,180,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SeakSokhim",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "63,705,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SrauyHeang",
+                        "Contractor": "SrauyHeang",
+                        "BidValue": "90,000,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "114,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "114,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "154,536,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "BunChitra",
+                        "Contractor": "",
+                        "BidValue": "80,000,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "94,473,677",
+                        "Village": "Pean Meas Khang Kaeut",
+                        "Description": "[ 1010114 ] Laterite road​ width 5.1-6m RepairDimension #1 : 6.000 Width (m)Dimension #2 : 150.000 Volume of earth (m3)",
+                        "Bid": "0.600 km",
+                        "InContract": "0.600 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "2,083,333est. 37,754,164",
+                        "DiscountRate": "-94 %",
+                        "Total": "1,250,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "94,473,683R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

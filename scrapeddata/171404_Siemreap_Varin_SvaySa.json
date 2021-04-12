@@ -1,0 +1,1630 @@
+{
+    "location": {
+        "province": "Siemreap",
+        "district": "Varin",
+        "commune": "Svay Sa"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=a1f82d14-6cdb-4f86-aa15-9c7900b5cc89",
+            "project_html_data": {
+                "Pid": "a1f82d14-6cdb-4f86-aa15-9c7900b5cc89",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Dorn Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "It is easily to travail and transport for villagers in all seasons .",
+                        "Relatedcontract(s)": "171404/09/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "31,200,000",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "31,300,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "RuesseiThum",
+                        "BeneficiaryTotal": "1,019",
+                        "BeneficiaryWomen": "542",
+                        "Households": "211"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ruessei Thum",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 4,880.000 Volume of earth (m3)",
+                        "Qty": "0.700 km",
+                        "UnitCost": "38,394,286",
+                        "Total": "26,876,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "This project need report land attachment file because to made on the private land .",
+                            "Approvaldate": "27-Feb-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There is not highland people in this commune ."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Jan-2009",
+                            "Technicalclearancesign-off": "02-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171404/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171404090101",
+            "contract_html_data": {
+                "Id": "171404090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Contract": "171404/09/01-01",
+                        "TechnicalSupervisor": "Dorn Sopheap",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ton Heng, [ Ton Heng ]",
+                        "Competitivebidding": "Yes ( 23-Apr-2009 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "11-May-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "11-May-2009",
+                        "Plannedworkcompletiondate": "27-May-2009",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "26-Dec-2009",
+                        "Closeddateon": "07-Dec-2009"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "31,830,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChetSovannarith",
+                        "Contractor": "ChetSovannarith",
+                        "BidValue": "31,186,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "UngLisour",
+                        "Contractor": "UngLisour",
+                        "BidValue": "31,200,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SorKakvei",
+                        "Contractor": "SorKakvei",
+                        "BidValue": "33,800,000R",
+                        "DiscountRate": "8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HourChhoy",
+                        "Contractor": "HourChhoy",
+                        "BidValue": "31,273,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KhoutDoeun",
+                        "Contractor": "KhoutDoeun",
+                        "BidValue": "31,200,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "TonHeng",
+                        "Contractor": "TonHeng",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "Khouvicheth",
+                        "Contractor": "Khouvicheth",
+                        "BidValue": "31,100,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "31,930,000",
+                        "Village": "Ruessei Thum",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 600.000 Diameter (mm)Dimension #2 : 6.000 Length(m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": "2.000 Place",
+                        "UnitCost/Estimated": "1,100,000est. 2,212,000",
+                        "DiscountRate": "-50 %",
+                        "Total": "2,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "11-May-2009",
+                        "Actualworkcompletiondate": "01-Jun-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-May-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Ben Rath",
+                            "Note": "No translate ."
+                        },
+                        {
+                            "Date": "01-Jun-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Ben Rath",
+                            "Note": "No translate ."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Jun-2009",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "12772000R",
+                        "Net": "12388840R",
+                        "Tax": "383160R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "08-Jun-2009",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "12772000R",
+                        "Net": "12388840R",
+                        "Tax": "383160R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "19-Jan-2010",
+                        "Source": "CSF",
+                        "Description": "final",
+                        "Gross": "6286000R",
+                        "Net": "6124890R",
+                        "Tax": "161110R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "19-Jan-2010",
+                        "Source": "LC",
+                        "Description": "final",
+                        "Gross": "100000R",
+                        "Net": "97430R",
+                        "Tax": "2570R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "31,930,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "31,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "930,000R",
+                        "ContractValue(B)Gross": "31,930,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road - repair",
+            "project_link": "/pid/project/home/view.castle?pid=b2defa32-2be5-4913-960b-9e5200f2fc58",
+            "project_html_data": {
+                "Pid": "b2defa32-2be5-4913-960b-9e5200f2fc58",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Dorn Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repair",
+                        "Objective": "it is easy to travail and transport in all season .",
+                        "Relatedcontract(s)": "171404/10/02-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "45,608,047",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "46,608,047"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Ou",
+                        "BeneficiaryTotal": "772",
+                        "BeneficiaryWomen": "399",
+                        "Households": "157"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ou",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 1.000 Width (m)Dimension #2 : 6,649.000 Volume of earth (m3)",
+                        "Qty": "0.830 km",
+                        "UnitCost": "56,154,274",
+                        "Total": "46,608,047"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "This project need report land attach file .",
+                            "Approvaldate": "28-Jul-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project not related with ethnic people because there is not ethnic people live in this commune ."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Aug-2010",
+                            "Technicalclearancesign-off": "24-Oct-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171404/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171404100201",
+            "contract_html_data": {
+                "Id": "171404100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Contract": "171404/10/02-01",
+                        "TechnicalSupervisor": "Dorn Sopheap",
+                        "Project'sName": "Earth road - repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ung Lisour, [ Ung Lisour ]",
+                        "Competitivebidding": "Yes ( 15-Nov-2010 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "03-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "04-Dec-2010",
+                        "Plannedworkcompletiondate": "15-Dec-2010",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "31-Dec-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "49,400,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NgorChhut",
+                        "Contractor": "NgorChhut",
+                        "BidValue": "45,105,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "UngLisour",
+                        "Contractor": "UngLisour",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SorKakvei",
+                        "Contractor": "SorKakvei",
+                        "BidValue": "56,100,000R",
+                        "DiscountRate": "20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KhoutDoeun",
+                        "Contractor": "KhoutDoeun",
+                        "BidValue": "46,300,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "TonHeng",
+                        "Contractor": "TonHeng",
+                        "BidValue": "45,600,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "49,500,000",
+                        "Village": "Ou",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 1.000 Width (m)Dimension #2 : 6,649.000 Volume of earth (m3)",
+                        "Bid": "0.830 km",
+                        "InContract": "0.830 km",
+                        "Actualquantity": "0.830 km",
+                        "UnitCost/Estimated": "54,216,867est. 56,154,274",
+                        "DiscountRate": "-3 %",
+                        "Total": "45,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-Dec-2010",
+                        "Actualworkcompletiondate": "21-Dec-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-Dec-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Ben Rath",
+                            "Note": "830m of earth road construction were completed."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "29-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "first",
+                        "Gross": "39600000R",
+                        "Net": "36000000R",
+                        "Tax": "3600000R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "23-Jun-2011",
+                        "Source": "CSF",
+                        "Description": "final",
+                        "Gross": "9800000R",
+                        "Net": "8909091R",
+                        "Tax": "890909R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "23-Jun-2011",
+                        "Source": "LC",
+                        "Description": "final",
+                        "Gross": "100000R",
+                        "Net": "90909R",
+                        "Tax": "9091R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "49,500,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "45,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "4,500,000R",
+                        "ContractValue(B)Gross": "49,500,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "White road building and to bury a highway drainage pipe",
+            "project_link": "/pid/project/home/view.castle?pid=f87a4b91-df4c-4060-8f75-9fb900f3ef52",
+            "project_html_data": {
+                "Pid": "f87a4b91-df4c-4060-8f75-9fb900f3ef52",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Dorn Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "White road building and to bury a highway drainage pipe",
+                        "Objective": "Easily to travel and transport in all season .",
+                        "Relatedcontract(s)": "171404/11/01-01 ",
+                        "CreatedBy": "SENG Visal",
+                        "Mobile": "NA"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "38,970,440",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "39,970,440"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Ou",
+                        "BeneficiaryTotal": "819",
+                        "BeneficiaryWomen": "423",
+                        "Households": "162"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ruessei Touch",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,838.730 Volume of earth (m3)",
+                        "Qty": "0.790 km",
+                        "UnitCost": "37,337,392",
+                        "Total": "29,496,540"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project did not to be reported concerning owner property because it set up on the public property."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not related to an ethnic group because they don't live in this area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Aug-2011",
+                            "Technicalclearancesign-off": "05-Sep-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171404/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171404110101",
+            "contract_html_data": {
+                "Id": "171404110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Contract": "171404/11/01-01( 1 )",
+                        "TechnicalSupervisor": "Dorn Sopheap",
+                        "Project'sName": "White road building and to bury a highway drainage pipe",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ton Heng, [ Ton Heng ]",
+                        "Competitivebidding": "Yes ( 04-Oct-2011 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "21-Oct-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jan-2012",
+                        "Plannedworkcompletiondate": "15-Feb-2012",
+                        "CreatedBy": "SENG Visal",
+                        "Mobile": "NA",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "42,805,848"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NgorChhut",
+                        "Contractor": "NgorChhut",
+                        "BidValue": "38,573,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SorKakvei",
+                        "Contractor": "SorKakvei",
+                        "BidValue": "38,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhoutDoeun",
+                        "Contractor": "KhoutDoeun",
+                        "BidValue": "32,100,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TonHeng",
+                        "Contractor": "TonHeng",
+                        "BidValue": "27,300,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Ngovyothor",
+                        "Contractor": "Ngovyothor",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "SimOdom",
+                        "BidValue": "34,000,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "42,905,848",
+                        "Village": "Ruessei Touch",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,838.730 Volume of earth (m3)",
+                        "Bid": "0.790 km",
+                        "InContract": "1.270 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "30,759,494est. 37,337,392",
+                        "DiscountRate": "-18 %",
+                        "Total": "39,064,557"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Nov-2011",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "42,905,848R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Erite road building",
+            "project_link": "/pid/project/home/view.castle?pid=2b0d10a9-b84f-4a31-974b-a04700ee1e83",
+            "project_html_data": {
+                "Pid": "2b0d10a9-b84f-4a31-974b-a04700ee1e83",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Dorn Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Erite road building",
+                        "Objective": "Easily to travel and transport in all season .",
+                        "Relatedcontract(s)": "171404/12/01-01 ",
+                        "CreatedBy": "SENG Visal",
+                        "Mobile": "NA"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "60,884,520",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "60,984,520"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Ou",
+                        "BeneficiaryTotal": "847",
+                        "BeneficiaryWomen": "432",
+                        "Households": "179"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kambaor",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 4.500 Volume of earth (m3)",
+                        "Qty": "0.550 km",
+                        "UnitCost": "40,173,355",
+                        "Total": "22,095,345"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project did not to be reported concerning owner property because it set up on the public property."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not related to an ethnic group because they don't live in this area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Mar-2012",
+                            "Technicalclearancesign-off": "20-Mar-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171404/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171404120101",
+            "contract_html_data": {
+                "Id": "171404120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Contract": "171404/12/01-01( 1 )",
+                        "TechnicalSupervisor": "Dorn Sopheap",
+                        "Project'sName": "Erite road building",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Hour Chhoy, [ Hour Chhoy ]",
+                        "Competitivebidding": "Yes ( 24-May-2012 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "30-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jun-2012",
+                        "Plannedworkcompletiondate": "15-Jul-2012",
+                        "CreatedBy": "SENG Visal",
+                        "Mobile": "NA",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "66,450,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HourChhoy",
+                        "Contractor": "HourChhoy",
+                        "BidValue": "60,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TonHeng",
+                        "Contractor": "TonHeng",
+                        "BidValue": "66,000,000R",
+                        "DiscountRate": "8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "LiChang",
+                        "BidValue": "61,500,000R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Englysou",
+                        "Contractor": "Englysou",
+                        "BidValue": "60,900,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "kourvichet",
+                        "Contractor": "kourvichet",
+                        "BidValue": "60,700,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "66,550,000",
+                        "Village": "Ou",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.500 Width (m)Dimension #2 : 1,451.000 Volume of earth (m3)",
+                        "Bid": "1.000 km",
+                        "InContract": "1.000 km",
+                        "Actualquantity": "1.000 km",
+                        "UnitCost/Estimated": "39,032,258est. 38,889,175",
+                        "DiscountRate": "0 %",
+                        "Total": "39,032,258"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jun-2012",
+                        "Actualworkcompletiondate": "15-Jul-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Jul-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "SENG Visal",
+                            "Note": "No translate ."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "66,550,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repairing and laterite spreading",
+            "project_link": "/pid/project/home/view.castle?pid=82ff9b7a-afba-4442-8f70-a20400b7ff99",
+            "project_html_data": {
+                "Pid": "82ff9b7a-afba-4442-8f70-a20400b7ff99",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Dorn Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repairing and laterite spreading",
+                        "Objective": "Villagers will have good road to access in 2013",
+                        "Relatedcontract(s)": "171404/13/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "61,954,256",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "62,054,256"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SvaySa",
+                        "BeneficiaryTotal": "714",
+                        "BeneficiaryWomen": "359",
+                        "Households": "158"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Sa",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 1,842.250 Volume of earth (m3)",
+                        "Qty": "0.750 km",
+                        "UnitCost": "48,142,254",
+                        "Total": "36,106,691"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location .",
+                            "ApprovebyNCDDon": "28-Apr-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "28-Apr-2013"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project was built on the old road without expansion of its original size"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The road was  not built on the land area of minority group"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Apr-2013",
+                            "Technicalclearancesign-off": "30-Apr-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171404/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171404130101",
+            "contract_html_data": {
+                "Id": "171404130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Contract": "171404/13/01-01",
+                        "TechnicalSupervisor": "Dorn Sopheap",
+                        "Project'sName": "Earth road repairing and laterite spreading",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ngov yothor, [ Ngov yothor ]",
+                        "Competitivebidding": "Yes ( 05-Jul-2013 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "17-Jul-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Jul-2013",
+                        "Plannedworkcompletiondate": "10-Aug-2013",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "67,281,200"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NgorChhut",
+                        "Contractor": "NgorChhut",
+                        "BidValue": "62,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Ngovyothor",
+                        "Contractor": "Ngovyothor",
+                        "BidValue": "61,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Englysou",
+                        "Contractor": "Englysou",
+                        "BidValue": "61,600,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "UomLor",
+                        "Contractor": "UomLor",
+                        "BidValue": "62,500,000R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "67,381,200",
+                        "Village": "Svay Sa",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 1,842.250 Volume of earth (m3)",
+                        "Bid": "0.750 km",
+                        "InContract": "0.760 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "48,000,000est. 48,142,254",
+                        "DiscountRate": "0 %",
+                        "Total": "36,480,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Jul-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "67,381,200R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "eath roal building",
+            "project_link": "/pid/project/home/view.castle?pid=27bcc8c8-2dd7-4a65-9b8d-a3f600fb6dcb",
+            "project_html_data": {
+                "Pid": "27bcc8c8-2dd7-4a65-9b8d-a3f600fb6dcb",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Dorn Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "eath roal building",
+                        "Objective": "There are easy to travail and transportation  in all season for people .",
+                        "Relatedcontract(s)": "171404/14/01-01 ",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "50,781,118",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,881,118"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SvaySa",
+                        "BeneficiaryTotal": "564",
+                        "BeneficiaryWomen": "207",
+                        "Households": "165"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Sa",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,170.000 Volume of earth (m3)",
+                        "Qty": "0.339 km",
+                        "UnitCost": "34,307,934",
+                        "Total": "11,630,390"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location .",
+                            "ApprovebyNCDDon": "02-Jun-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "05-Jun-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project don’t need land study because construction in the public property.",
+                            "Approvaldate": "04-Feb-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The location project no related with ethnic people because there is no ethnic alive."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-May-2014",
+                            "Technicalclearancesign-off": "05-May-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171404/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171404140101",
+            "contract_html_data": {
+                "Id": "171404140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Contract": "171404/14/01-01",
+                        "TechnicalSupervisor": "Dorn Sopheap",
+                        "Project'sName": "eath roal building",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "T E H A, [  ]",
+                        "Competitivebidding": "Yes ( 16-Jul-2014 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "31-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Oct-2014",
+                        "Plannedworkcompletiondate": "15-Nov-2014",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "55,421,971"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HourChhoy",
+                        "Contractor": "HourChhoy",
+                        "BidValue": "50,881,100R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "VanSokthy",
+                        "Contractor": "VanSokthy",
+                        "BidValue": "50,600,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MinhAre",
+                        "Contractor": "MinhAre",
+                        "BidValue": "50,749,800R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "UomLor",
+                        "Contractor": "UomLor",
+                        "BidValue": "49,427,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Changmom",
+                        "Contractor": "Changmom",
+                        "BidValue": "41,999,842R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "TEHA",
+                        "BidValue": "37,800,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "UmChamrien",
+                        "Contractor": "UmChamrien",
+                        "BidValue": "50,865,700R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "55,521,971",
+                        "Village": "Svay Sa",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,170.000 Volume of earth (m3)",
+                        "Bid": "0.339 km",
+                        "InContract": "0.339 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "32,614,323est. 34,307,934",
+                        "DiscountRate": "-5 %",
+                        "Total": "11,056,255"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Oct-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "55,521,971R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=e3c9df34-0fc1-48fa-b78b-a544010e7fef",
+            "project_html_data": {
+                "Pid": "e3c9df34-0fc1-48fa-b78b-a544010e7fef",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Dorn Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "There are easy to travail and transportation  in all season for people .",
+                        "CreatedBy": "Ben Rath",
+                        "Mobile": "092 624 375"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "44,785,878",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "44,785,878"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Ou",
+                        "BeneficiaryTotal": "911",
+                        "BeneficiaryWomen": "488",
+                        "Households": "196"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Sa",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,283.000 Volume of earth (m3)",
+                        "Qty": "0.200 km",
+                        "UnitCost": "49,788,389",
+                        "Total": "9,957,678"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=0aa3daf6-cd03-47f1-98a3-a673010a3f4e",
+            "project_html_data": {
+                "Pid": "0aa3daf6-cd03-47f1-98a3-a673010a3f4e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Proeun Tanravuth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "There are easy to travail and transportation  in all season for people.",
+                        "Relatedcontract(s)": "171404/16/01-01 ",
+                        "CreatedBy": "Preoun Tanravuth",
+                        "Mobile": "012983464"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "51,509,983",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "51,609,983"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "RuesseiThum",
+                        "BeneficiaryTotal": "1,332",
+                        "BeneficiaryWomen": "690",
+                        "Households": "324"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ruessei Thum",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,528.000 Volume of earth (m3)",
+                        "Qty": "0.440 km",
+                        "UnitCost": "97,083,416",
+                        "Total": "42,716,703"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project need environmental study because the project in the watch list location.",
+                            "ApprovebyNCDDon": "10-Jun-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "14-Jun-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project don’t need land study because construction in the public property.",
+                            "Approvaldate": "29-Mar-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The location project no related with ethnic people because there is no ethnic alive."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Apr-2016",
+                            "Technicalclearancesign-off": "26-Apr-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "171404/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=171404160101",
+            "contract_html_data": {
+                "Id": "171404160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 171404 ] Siemreap \\ Varin \\ Svay Sa",
+                        "Contract": "171404/16/01-01",
+                        "TechnicalSupervisor": "Kim Bun Nang",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Uom Lor, [ Uom Lor ]",
+                        "Competitivebidding": "Yes ( 19-Aug-2016 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "31-Aug-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Sep-2016",
+                        "Plannedworkcompletiondate": "15-Dec-2016",
+                        "CreatedBy": "Preoun Tanravuth",
+                        "Mobile": "012983464",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "57,210,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "CheaMakara",
+                        "Contractor": "C.M.R",
+                        "BidValue": "23,380,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HoutHeang",
+                        "Contractor": "HoutHeang",
+                        "BidValue": "26,000,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Englysou",
+                        "Contractor": "Englysou",
+                        "BidValue": "51,300,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "OuleangHong",
+                        "Contractor": "OuleangHong",
+                        "BidValue": "19,900,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Mr.VeungSoMeng",
+                        "Contractor": "VeungSoMeng",
+                        "BidValue": "27,832,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "UomLor",
+                        "Contractor": "UomLor",
+                        "BidValue": "17,700,000R",
+                        "DiscountRate": "-66%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "UmChamrien",
+                        "Contractor": "UmChamrien",
+                        "BidValue": "21,804,000R",
+                        "DiscountRate": "-58%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SrengBunnary",
+                        "Contractor": "KhmerAphiwat",
+                        "BidValue": "26,600,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "MaunhSun",
+                        "Contractor": "Sirivathani",
+                        "BidValue": "40,600,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "MoeurngSarom",
+                        "Contractor": "MoeurngSarom",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "LangSochantra",
+                        "Contractor": "SakarachConstrcution",
+                        "BidValue": "18,900,000R",
+                        "DiscountRate": "-63%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "57,310,000",
+                        "Village": "Ruessei Thum",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 5.000 Width (m)Dimension #2 : 3,528.000 Volume of earth (m3)",
+                        "Bid": "0.440 km",
+                        "InContract": "1.300 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "40,000,000est. 97,083,416",
+                        "DiscountRate": "-59 %",
+                        "Total": "52,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "57,310,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

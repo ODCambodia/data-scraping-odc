@@ -1,0 +1,2123 @@
+{
+    "location": {
+        "province": "Takeo",
+        "district": "Bati",
+        "commune": "Komar Reachea"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=f98b0ec1-b79c-4a39-bc4b-9c5c010bc6a1",
+            "project_html_data": {
+                "Pid": "f98b0ec1-b79c-4a39-bc4b-9c5c010bc6a1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "Not yet translate",
+                        "Relatedcontract(s)": "210205/09/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "46,605,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "47,105,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kanhchang",
+                        "BeneficiaryTotal": "478",
+                        "BeneficiaryWomen": "247",
+                        "Households": "72"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kanhchang",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,575.500 Volume of earth (m3)",
+                        "Qty": "0.400 km",
+                        "UnitCost": "28,829,819",
+                        "Total": "11,531,928"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "26-Mar-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "31-Mar-2009",
+                            "Technicalclearancesign-off": "04-Jun-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205090101",
+            "contract_html_data": {
+                "Id": "210205090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/09/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "HuthSrorn, [ Huth Srorn ]",
+                        "Competitivebidding": "Yes ( 07-Jul-2009 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "16-Jul-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jul-2009",
+                        "Plannedworkcompletiondate": "17-Aug-2009",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "23-Apr-2010",
+                        "Closeddateon": "16-Feb-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "45,807,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "SamnangTouTaoBunchenda",
+                        "BidValue": "41,180,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PheNget",
+                        "Contractor": "SamnangPheNget",
+                        "BidValue": "41,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "YiSou",
+                        "Contractor": "SamnangYiSou",
+                        "BidValue": "41,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HuthSrorn",
+                        "Contractor": "HuthSrorn",
+                        "BidValue": "41,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Volidbid,lowestbidprice,winner"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KakSe",
+                        "Contractor": "SamnangSieha",
+                        "BidValue": "41,470,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "46,307,404",
+                        "Village": "Kanhchang",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 1,575.500 Volume of earth (m3)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.400 km",
+                        "Actualquantity": "0.400 km",
+                        "UnitCost/Estimated": "28,275,862est. 28,829,819",
+                        "DiscountRate": "-2 %",
+                        "Total": "11,310,345"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Jul-2009",
+                        "Actualworkcompletiondate": "13-Aug-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "31-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Koam Sothun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "13-Aug-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Koam Sothun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "18022900R",
+                        "Net": "17482213R",
+                        "Tax": "540687R",
+                        "Verified": "LyDavy"
+                    },
+                    {
+                        "Date": "05-Aug-2009",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "500000R",
+                        "Net": "485000R",
+                        "Tax": "15000R",
+                        "Verified": "LyDavy"
+                    },
+                    {
+                        "Date": "17-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "18522900R",
+                        "Net": "17967213R",
+                        "Tax": "555687R",
+                        "Verified": "LyDavy"
+                    },
+                    {
+                        "Date": "22-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "9261600R",
+                        "Net": "9024174R",
+                        "Tax": "237426R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "46,307,400R",
+                        "ActualPaymentCumulativeToDate(A)Net": "44,958,600R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,348,800R",
+                        "ContractValue(B)Gross": "46,307,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=2786fd34-e094-443e-b8b6-9e0600a353e7",
+            "project_html_data": {
+                "Pid": "2786fd34-e094-443e-b8b6-9e0600a353e7",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "Good rural road for traveling",
+                        "Relatedcontract(s)": "210205/10/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "72,550,600",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "73,050,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kanhchang",
+                        "BeneficiaryTotal": "825",
+                        "BeneficiaryWomen": "253",
+                        "Households": "150"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kanhchang",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 517.000 Volume of earth (m3)",
+                        "Qty": "0.300 km",
+                        "UnitCost": "25,044,517",
+                        "Total": "7,513,355"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-May-2010",
+                            "Technicalclearancesign-off": "23-Jun-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205100101",
+            "contract_html_data": {
+                "Id": "210205100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/10/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "KorngSokKhim, [ Korng SokKhim ]",
+                        "Competitivebidding": "Yes ( 18-Aug-2010 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "14-Sep-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "16-Sep-2010",
+                        "Plannedworkcompletiondate": "20-Oct-2010",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "05-Oct-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "29,896,102"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SengPov",
+                        "Contractor": "SengPov",
+                        "BidValue": "34,500,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "SamnangTouTaoBunchenda",
+                        "BidValue": "36,900,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "29,800,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": "Validbit,lowestbitprice,winner"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KakSe",
+                        "Contractor": "SamnangSieha",
+                        "BidValue": "32,000,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HornTaiheng",
+                        "Contractor": "SamnangT.H",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "35,500,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "ThoeunSopheak",
+                        "Contractor": "ThoeunSopheak",
+                        "BidValue": "38,999,390R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "PhonSophanny",
+                        "Contractor": "SamnangMoulathan",
+                        "BidValue": "32,300,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "KhunChitr",
+                        "Contractor": "SamnangPuthSorAkpivoath",
+                        "BidValue": "38,327,700R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "KakSovann",
+                        "Contractor": "Meibopha",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "Yes",
+                        "Reason": "invalidbid,biddernotdatedandsignatureonethicalform."
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "SeamYim",
+                        "Contractor": "SeamYim",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "30,396,102",
+                        "Village": "Kanhchum",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 2,471.000 Volume of earth (m3)",
+                        "Bid": "1.430 km",
+                        "InContract": "1.430 km",
+                        "Actualquantity": "1.430 km",
+                        "UnitCost/Estimated": "17,225,491est. 25,044,518",
+                        "DiscountRate": "-31 %",
+                        "Total": "24,632,453"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Sep-2010",
+                        "Actualworkcompletiondate": "21-Mar-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Dec-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "21-Mar-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "11658441R",
+                        "Net": "11315546R",
+                        "Tax": "342895R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "23-Dec-2010",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "25-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "12158441R",
+                        "Net": "11800840R",
+                        "Tax": "357601R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Oct-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "6079220R",
+                        "Net": "5900419R",
+                        "Tax": "178801R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "30,396,102R",
+                        "ActualPaymentCumulativeToDate(A)Net": "29,502,099R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "894,003R",
+                        "ContractValue(B)Gross": "30,396,102R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road Prey khla",
+            "project_link": "/pid/project/home/view.castle?pid=df71b1df-b9f8-4039-9374-9f60009f13c4",
+            "project_html_data": {
+                "Pid": "df71b1df-b9f8-4039-9374-9f60009f13c4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road Prey khla",
+                        "Objective": "We have a good road for tour.",
+                        "Relatedcontract(s)": "210205/11/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "56,595,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "25,908,223",
+                        "Other": "0",
+                        "Total": "83,003,223"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyKhla",
+                        "BeneficiaryTotal": "608",
+                        "BeneficiaryWomen": "329",
+                        "Households": "120"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Khla",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 7,000.000 Volume of earth (m3)",
+                        "Qty": "1.100 km",
+                        "UnitCost": "40,241,312",
+                        "Total": "44,265,443"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "That is an old road without expanding of it width. Additionally this location is outside environmental watchlist"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "25-May-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The commune located outside the safeguard watchlist  and there are no any highland people staying that area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Jul-2011",
+                            "Technicalclearancesign-off": "29-Jul-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205110101",
+            "contract_html_data": {
+                "Id": "210205110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/11/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Earth road Prey khla",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SamnangSieha, [ Kak Se ]",
+                        "Competitivebidding": "Yes ( 17-Aug-2011 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "26-Aug-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-Nov-2011",
+                        "Plannedworkcompletiondate": "10-Dec-2011",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "26-Sep-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "78,527,827"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NuthPho",
+                        "Contractor": "NuthPhoSamnangTouTao",
+                        "BidValue": "74,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KakSe",
+                        "Contractor": "SamnangSieha",
+                        "BidValue": "72,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhonSophanny",
+                        "Contractor": "SamnangMoulathan",
+                        "BidValue": "73,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KakSovann",
+                        "Contractor": "Meibopha",
+                        "BidValue": "73,800,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChhinLithearvy",
+                        "Contractor": "LyPao",
+                        "BidValue": "73,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "79,027,827",
+                        "Village": "Prey Khla",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 7,000.000 Volume of earth (m3)",
+                        "Bid": "1.100 km",
+                        "InContract": "1.100 km",
+                        "Actualquantity": "1.100 km",
+                        "UnitCost/Estimated": "39,130,435est. 40,241,312",
+                        "DiscountRate": "-3 %",
+                        "Total": "43,043,478"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "23-Nov-2011",
+                        "Actualworkcompletiondate": "21-Mar-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Mar-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Prak",
+                            "Note": "The work quality is acceptable to get paid for the first payment"
+                        },
+                        {
+                            "Date": "21-Mar-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Prak",
+                            "Note": "The work quality is acceptable to get paid for the second payment \n\n\n"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "09-Mar-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "31111131R",
+                        "Net": "30196098R",
+                        "Tax": "915033R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Mar-2012",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "500000R",
+                        "Net": "485000R",
+                        "Tax": "15000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-Mar-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "31611131R",
+                        "Net": "30681392R",
+                        "Tax": "929739R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "04-Oct-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "15805565R",
+                        "Net": "15340695R",
+                        "Tax": "464870R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "79,027,827R",
+                        "ActualPaymentCumulativeToDate(A)Net": "76,703,185R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,324,642R",
+                        "ContractValue(B)Gross": "79,027,827R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road and  pip culvert",
+            "project_link": "/pid/project/home/view.castle?pid=cbc875b7-29f4-4fa9-a4bc-a08d00945898",
+            "project_html_data": {
+                "Pid": "cbc875b7-29f4-4fa9-a4bc-a08d00945898",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road and  pip culvert",
+                        "Objective": "To get a good road for traveling",
+                        "Relatedcontract(s)": "210205/12/01-01 ",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "62,964,535",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "63,464,535"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Thmei",
+                        "BeneficiaryTotal": "1,339",
+                        "BeneficiaryWomen": "688",
+                        "Households": "259"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thmei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,315.000 Volume of earth (m3)",
+                        "Qty": "1.780 km",
+                        "UnitCost": "28,440,197",
+                        "Total": "50,623,551"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The construction area is far away from clean water source, custom temple and tourism area; it is outside from the safeguard watchlist"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "11-Apr-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There are no highland people staying in that area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Apr-2012",
+                            "Technicalclearancesign-off": "25-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205120101",
+            "contract_html_data": {
+                "Id": "210205120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/12/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Earth road and  pip culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "CheaKoi, [ Chea Koi ]",
+                        "Competitivebidding": "Yes ( 19-Jul-2012 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "30-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Nov-2012",
+                        "Plannedworkcompletiondate": "30-Dec-2012",
+                        "CreatedBy": "Long Prak",
+                        "Mobile": "097 778 3437",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "45,590,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KangRin",
+                        "Contractor": "KangRin",
+                        "BidValue": "53,300,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "CheaKoi",
+                        "Contractor": "CheaKoi",
+                        "BidValue": "39,900,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": "Lowestpriceanotherone."
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HornKoantray",
+                        "Contractor": "SamnangK.T",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PangSarindy",
+                        "Contractor": "VanSokChea",
+                        "BidValue": "40,040,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PangLyHouy",
+                        "Contractor": "PangLyHouy",
+                        "BidValue": "48,500,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "Chambak",
+                        "BidValue": "47,600,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "46,089,999",
+                        "Village": "Thmei",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 0.600 Diameter (mm)Dimension #2 : 5.000 Length(m)",
+                        "Bid": "4.000 Place",
+                        "InContract": "6.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "1,000,000est. 2,140,164",
+                        "DiscountRate": "-53 %",
+                        "Total": "6,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Nov-2012",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Apr-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Jul-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Prak",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "46,090,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road and put culvert across the road",
+            "project_link": "/pid/project/home/view.castle?pid=56036e34-1b52-4ea4-a81f-a1cd00becfcc",
+            "project_html_data": {
+                "Pid": "56036e34-1b52-4ea4-a81f-a1cd00becfcc",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hang Sopheap",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road and put culvert across the road",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210205/13/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "68,275,800",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "9,104,966",
+                        "Other": "0",
+                        "Total": "77,880,766"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kanhchum",
+                        "BeneficiaryTotal": "1,380",
+                        "BeneficiaryWomen": "680",
+                        "Households": "251"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kanhchum",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,315.000 Volume of earth (m3)",
+                        "Qty": "1.540 km",
+                        "UnitCost": "42,434,275",
+                        "Total": "65,348,784"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land.",
+                            "Approvaldate": "04-Mar-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Mar-2013",
+                            "Technicalclearancesign-off": "22-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205130101",
+            "contract_html_data": {
+                "Id": "210205130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/13/01-01",
+                        "TechnicalSupervisor": "Hang Sopheap",
+                        "Project'sName": "Earth road and put culvert across the road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khmer, [ Aun Srun ]",
+                        "Competitivebidding": "Yes ( 10-Apr-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "24-Apr-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "29-Apr-2013",
+                        "Plannedworkcompletiondate": "30-May-2013",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "69,268,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HoutSrorn",
+                        "Contractor": "HoutSrorn",
+                        "BidValue": "69,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KorkSovann",
+                        "Contractor": "MeyBopha",
+                        "BidValue": "69,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "AunSrun",
+                        "Contractor": "Khmer",
+                        "BidValue": "68,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "69,768,000",
+                        "Village": "Kanhchum",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 7,304.000 Volume of earth (m3)",
+                        "Bid": "1.540 km",
+                        "InContract": "1.540 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "41,558,442est. 42,434,275",
+                        "DiscountRate": "-2 %",
+                        "Total": "64,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "29-Apr-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-May-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "27-May-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "69,768,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pont Excavation",
+            "project_link": "/pid/project/home/view.castle?pid=e1bc5a11-8b64-4a97-a671-a25e00aa567f",
+            "project_html_data": {
+                "Pid": "e1bc5a11-8b64-4a97-a671-a25e00aa567f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "TechnicalAssistant": "kong mao",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pont Excavation",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210205/13/02-01 ",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "30,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "15,000,000",
+                        "Total": "45,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KhnarTong",
+                        "BeneficiaryTotal": "1,453",
+                        "BeneficiaryWomen": "787",
+                        "Households": "304"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Khnar Tong",
+                        "Description": "Water supply pond Repair [ 1030401 ]Dimension #1 : 3.000 Depth (m)Dimension #2 : 3,715.000 Volume (m3)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "40,486,624",
+                        "Total": "40,486,624"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "That is an old road without expanding of it width.Additionally this location is outside environmental watchlist"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "28-Jun-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There are no highland people staying in that area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Aug-2013",
+                            "Technicalclearancesign-off": "26-Aug-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/13/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205130201",
+            "contract_html_data": {
+                "Id": "210205130201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/13/02-01",
+                        "TechnicalSupervisor": "kong mao",
+                        "Project'sName": "Pont Excavation",
+                        "Sector": "Social",
+                        "Sub-Sector": "Rural Domestic Water Supplies",
+                        "Contractor": "Not yet translation., [ Horn Taiheng ]",
+                        "Competitivebidding": "Yes ( 12-Sep-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "11-Oct-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2013",
+                        "Plannedworkcompletiondate": "31-Dec-2013",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "15,248,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "250,000"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "15,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "YChamroeun",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "40,105,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HornKorntrai",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "29,900,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SarKharth",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "33,900,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "30,498,000",
+                        "Village": "Khnar Tong",
+                        "Description": "[ 1030401 ] Water supply pond RepairDimension #1 : 3.000 Depth (m)Dimension #2 : 3,715.000 Volume (m3)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "29,900,000est. 40,486,624",
+                        "DiscountRate": "-26 %",
+                        "Total": "29,900,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2013",
+                        "Actualworkcompletiondate": "30-Jun-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Jun-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Morm Vichet",
+                            "Note": "100% work completed"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "30,498,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=e90b460d-ad8c-4315-b4d3-a61001062cc5",
+            "project_html_data": {
+                "Pid": "e90b460d-ad8c-4315-b4d3-a61001062cc5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chheng Vanna",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210205/15/01-01 ",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "45,243,320",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "13,043,200",
+                        "Total": "58,286,520"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrapeangPhlong",
+                        "BeneficiaryTotal": "522",
+                        "BeneficiaryWomen": "278",
+                        "Households": "92"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Khnar Tong",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 516.340 Volume of earth (m3)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "28,490,779",
+                        "Total": "14,245,390"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "25-Jun-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Jul-2015",
+                            "Technicalclearancesign-off": "08-Aug-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205150101",
+            "contract_html_data": {
+                "Id": "210205150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/15/01-01",
+                        "TechnicalSupervisor": "Chheng Vanna",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation., [ Norng Tu ]",
+                        "Competitivebidding": "Yes ( 06-Oct-2015 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "26-Oct-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Dec-2015",
+                        "Plannedworkcompletiondate": "20-Jan-2016",
+                        "CreatedBy": "Morm Vichet",
+                        "Mobile": "077 460 678",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "45,243,320"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "13,043,200"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "YosSambath",
+                        "Contractor": "YosSambath",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "31,300,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NorngTu",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "19,500,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HornKorntrai",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "58,286,520",
+                        "Village": "Khnar Tong",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 516.340 Volume of earth (m3)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "15,931,373est. 28,490,779",
+                        "DiscountRate": "-44 %",
+                        "Total": "7,965,686"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "58,286,520R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=dcece56e-5255-4838-9742-a6f2010419b1",
+            "project_html_data": {
+                "Pid": "dcece56e-5255-4838-9742-a6f2010419b1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Un Bunchanratha",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210205/16/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "198,078,124",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "198,278,124"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyKhla",
+                        "BeneficiaryTotal": "664",
+                        "BeneficiaryWomen": "344",
+                        "Households": "132"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thmei",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 2,032.000 Volume of earth (m3)",
+                        "Qty": "0.800 km",
+                        "UnitCost": "41,725,786",
+                        "Total": "33,380,629"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "17-Aug-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Aug-2016",
+                            "Technicalclearancesign-off": "15-Sep-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205160101",
+            "contract_html_data": {
+                "Id": "210205160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/16/01-01",
+                        "TechnicalSupervisor": "Un Bunchanratha",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 26-Oct-2016 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "18-Nov-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Nov-2016",
+                        "Plannedworkcompletiondate": "25-Jan-2017",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "198,078,124"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PangSarindy",
+                        "Contractor": "VanSokChea",
+                        "BidValue": "158,360,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "158,000,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "165,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "AemBunthoeun",
+                        "Contractor": "HengChetra",
+                        "BidValue": "172,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HoutSophack",
+                        "Contractor": "ChamBork",
+                        "BidValue": "164,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "198,278,124",
+                        "Village": "Thmei",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 2,282.000 Volume of earth (m3)",
+                        "Bid": "0.800 km",
+                        "InContract": "0.800 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "38,105,046est. 41,725,786",
+                        "DiscountRate": "-9 %",
+                        "Total": "30,484,037"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "198,278,124R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=e8b86242-54b7-44da-adda-a9ad00f5d55a",
+            "project_html_data": {
+                "Pid": "e8b86242-54b7-44da-adda-a9ad00f5d55a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210205/17/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "48,496,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "48,000,000",
+                        "Total": "96,696,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangPongro",
+                        "BeneficiaryTotal": "844",
+                        "BeneficiaryWomen": "431",
+                        "Households": "167"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Krang Pongro",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 1,534.000 Volume of earth (m3)",
+                        "Qty": "0.850 km",
+                        "UnitCost": "37,491,504",
+                        "Total": "31,867,778"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Jul-2017",
+                            "Technicalclearancesign-off": "18-Aug-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205170101",
+            "contract_html_data": {
+                "Id": "210205170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/17/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mei Bopha, [ Kork Sovan ]",
+                        "Competitivebidding": "Yes ( 05-Sep-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "15-Sep-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "16-Sep-2017",
+                        "Plannedworkcompletiondate": "27-Oct-2017",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "48,496,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    },
+                    {
+                        "FundSource": "Other Fund Source",
+                        "Cost": "48,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KorkSae",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "98,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HornKorntrai",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "99,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KorkSovan",
+                        "Contractor": "MeiBopha",
+                        "BidValue": "94,800,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChinLitheavy",
+                        "Contractor": "LiPov",
+                        "BidValue": "95,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "96,696,000",
+                        "Village": "Krang Pongro",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.500 Width (m)Dimension #2 : 1,534.000 Volume of earth (m3)",
+                        "Bid": "0.850 km",
+                        "InContract": "0.850 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "37,473,325est. 37,491,504",
+                        "DiscountRate": "0 %",
+                        "Total": "31,852,326"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "96,696,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=f26070d4-f2f4-4962-99aa-ab5000a9a598",
+            "project_html_data": {
+                "Pid": "f26070d4-f2f4-4962-99aa-ab5000a9a598",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chheng Chanthy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210205/18/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "119,480,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "119,680,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KrangPongro",
+                        "BeneficiaryTotal": "854",
+                        "BeneficiaryWomen": "437",
+                        "Households": "168"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Krang Pongro",
+                        "Description": "Steel-reinforced concrete road width 4.1-5m New [ 1010220 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 150.000 ",
+                        "Qty": "0.500 km",
+                        "UnitCost": "420,399,808",
+                        "Total": "210,199,904"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Jun-2018",
+                            "Technicalclearancesign-off": "11-Jul-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210205/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210205180101",
+            "contract_html_data": {
+                "Id": "210205180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210205 ] Takeo \\ Bati \\ Komar Reachea",
+                        "Contract": "210205/18/01-01",
+                        "TechnicalSupervisor": "Chheng Chanthy",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 13-Aug-2018 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "30-Aug-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Sep-2018",
+                        "Plannedworkcompletiondate": "20-Oct-2018",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "119,480,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KorkSae",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "118,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HornKorntrai",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "117,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "96,900,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "119,680,000",
+                        "Village": "Krang Pongro",
+                        "Description": "[ 1010220 ] Steel-reinforced concrete road width 4.1-5m NewDimension #1 : 5.000 Width (m)Dimension #2 : 150.000 ",
+                        "Bid": "0.285 km",
+                        "InContract": "0.352 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "340,000,000est. 420,399,808",
+                        "DiscountRate": "-19 %",
+                        "Total": "119,680,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "119,680,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

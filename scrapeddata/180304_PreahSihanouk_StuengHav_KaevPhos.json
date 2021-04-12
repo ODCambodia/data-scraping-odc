@@ -1,0 +1,962 @@
+{
+    "location": {
+        "province": "Preah Sihanouk",
+        "district": "Stueng Hav",
+        "commune": "Kaev Phos"
+    },
+    "projects": [
+        {
+            "project_name": "Literate road repair",
+            "project_link": "/pid/project/home/view.castle?pid=99bcf975-44ba-4b87-9445-a28900f5c66e",
+            "project_html_data": {
+                "Pid": "99bcf975-44ba-4b87-9445-a28900f5c66e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Literate road repair",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180304/13/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "72,598,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "72,798,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KaevPhos",
+                        "BeneficiaryTotal": "1,780",
+                        "BeneficiaryWomen": "890",
+                        "Households": "356"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kaev Phos",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 2,091.000 Volume of earth (m3)",
+                        "Qty": "0.420 km",
+                        "UnitCost": "30,089,825",
+                        "Total": "12,637,727"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "22-Apr-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Jul-2013",
+                            "Technicalclearancesign-off": "10-Jul-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180304/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180304130101",
+            "contract_html_data": {
+                "Id": "180304130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Contract": "180304/13/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "Literate road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mong chanthal, [ Mong chanthal ]",
+                        "Competitivebidding": "Yes ( 14-Aug-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "18-Sep-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Sep-2013",
+                        "Plannedworkcompletiondate": "20-Oct-2013",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "72,344,705"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KIMHAK",
+                        "Contractor": "KIMHAK",
+                        "BidValue": "65,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "TepNoeun",
+                        "BidValue": "65,600,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mongchanthal",
+                        "Contractor": "Mongchanthal",
+                        "BidValue": "64,201,600R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "72,544,705",
+                        "Village": "Kaev Phos",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 2,091.000 Volume of earth (m3)",
+                        "Bid": "0.420 km",
+                        "InContract": "0.650 km",
+                        "Actualquantity": "0.650 km",
+                        "UnitCost/Estimated": "30,089,825est. 30,089,825",
+                        "DiscountRate": "0 %",
+                        "Total": "19,558,386"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "22-Nov-2013",
+                        "Actualworkcompletiondate": "11-Dec-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Dec-2013",
+                            "Progress": "70 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "11-Dec-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "72,544,705R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Repaire Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=04f6956f-c0c5-48ea-85bb-a3c000a50d61",
+            "project_html_data": {
+                "Pid": "04f6956f-c0c5-48ea-85bb-a3c000a50d61",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Repaire Laterite Road",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180304/14/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "55,363,050",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "55,563,050"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KaevPhos",
+                        "BeneficiaryTotal": "780",
+                        "BeneficiaryWomen": "362",
+                        "Households": "156"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kaev Phos",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 2,171.000 Volume of earth (m3)",
+                        "Qty": "0.450 km",
+                        "UnitCost": "32,780,885",
+                        "Total": "14,751,398"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "14-Jul-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "15-Jul-2014",
+                            "Approvebydepartmenton": "15-Jul-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Jun-2014",
+                            "Technicalclearancesign-off": "15-Jul-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180304/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180304140101",
+            "contract_html_data": {
+                "Id": "180304140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Contract": "180304/14/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "Repaire Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mong chanthal, [ Mong chanthal ]",
+                        "Competitivebidding": "Yes ( 29-Jul-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "28-Aug-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "13-Oct-2014",
+                        "Plannedworkcompletiondate": "10-Nov-2014",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "55,094,200"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KIMHAK",
+                        "Contractor": "KIMHAK",
+                        "BidValue": "50,600,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HourPo",
+                        "Contractor": "ហ៊ួរប៉ូ",
+                        "BidValue": "49,298,787R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mongchanthal",
+                        "Contractor": "Mongchanthal",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "55,294,200",
+                        "Village": "Kaev Phos",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 2,171.000 Volume of earth (m3)",
+                        "Bid": "0.450 km",
+                        "InContract": "0.538 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "80,000,000est. 32,780,885",
+                        "DiscountRate": "144 %",
+                        "Total": "43,040,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "11-Nov-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Dec-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "55,294,200R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Reinforcement Concrete Road",
+            "project_link": "/pid/project/home/view.castle?pid=e31649a6-0a0d-4257-8e27-a50200ff3e92",
+            "project_html_data": {
+                "Pid": "e31649a6-0a0d-4257-8e27-a50200ff3e92",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Reinforcement Concrete Road",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180304/15/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "52,280,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "52,280,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Rithy1",
+                        "BeneficiaryTotal": "929",
+                        "BeneficiaryWomen": "456",
+                        "Households": "207"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Rithy 1",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.104 km",
+                        "UnitCost": "461,212,916",
+                        "Total": "47,966,143"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "30-Jul-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "04-Aug-2015",
+                            "Approvebydepartmenton": "07-Aug-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "23-Mar-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Mar-2015",
+                            "Technicalclearancesign-off": "10-Aug-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180304/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180304150101",
+            "contract_html_data": {
+                "Id": "180304150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Contract": "180304/15/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "Reinforcement Concrete Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "KIM HAK, [ KIM HAK ]",
+                        "Competitivebidding": "Yes ( 07-Sep-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "09-Oct-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-Nov-2015",
+                        "Plannedworkcompletiondate": "16-Nov-2015",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "51,852,490"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KIMHAK",
+                        "Contractor": "KIMHAK",
+                        "BidValue": "45,567,837R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mongchanthal",
+                        "Contractor": "Mongchanthal",
+                        "BidValue": "47,100,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LengThy",
+                        "Contractor": "LengThy",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "52,052,490",
+                        "Village": "Rithy 1",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.104 km",
+                        "InContract": "0.108 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "438,152,269est. 461,212,916",
+                        "DiscountRate": "-5 %",
+                        "Total": "47,320,445"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "24-Nov-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Dec-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "52,052,490R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete Road",
+            "project_link": "/pid/project/home/view.castle?pid=0b2d6fb6-962f-4172-9986-a72f00926e63",
+            "project_html_data": {
+                "Pid": "0b2d6fb6-962f-4172-9986-a72f00926e63",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete Road",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180304/16/01-01 ",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "55,135,760",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "55,335,760"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Rithy1",
+                        "BeneficiaryTotal": "1,143",
+                        "BeneficiaryWomen": "566",
+                        "Households": "221"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Rithy 1",
+                        "Description": "Steel-reinforced concrete road Upgrade [ 1010203 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.175 km",
+                        "UnitCost": "530,835,342",
+                        "Total": "92,896,185"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "24-Aug-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "26-Aug-2016",
+                            "Approvebydepartmenton": "26-Aug-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "10-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-May-2016",
+                            "Technicalclearancesign-off": "28-Aug-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180304/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180304160101",
+            "contract_html_data": {
+                "Id": "180304160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Contract": "180304/16/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "Concrete Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Van Sokthy, [ Van Sokthy ]",
+                        "Competitivebidding": "Yes ( 29-Sep-2016 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "07-Nov-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2016",
+                        "Plannedworkcompletiondate": "19-Dec-2016",
+                        "CreatedBy": "Sok Chanthoeun",
+                        "Mobile": "092 812 591",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "55,570,660"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HourPo",
+                        "Contractor": "ហ៊ួរប៉ូ",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mongchanthal",
+                        "Contractor": "Mongchanthal",
+                        "BidValue": "45,590,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LengThy",
+                        "Contractor": "LengThy",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VanSokthy",
+                        "Contractor": "VanSokthy",
+                        "BidValue": "39,983,400R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SounNget",
+                        "Contractor": "SounNget",
+                        "BidValue": "49,939,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "55,770,660",
+                        "Village": "Rithy 1",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road UpgradeDimension #1 : 6.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.097 km",
+                        "InContract": "0.123 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "412,200,000est. 530,835,342",
+                        "DiscountRate": "-22 %",
+                        "Total": "50,700,600"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-Dec-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Dec-2016",
+                            "Progress": "50 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "19-Dec-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Chanthoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "55,770,660R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=e1b21edb-4546-4607-a45c-aa5a010afeb1",
+            "project_html_data": {
+                "Pid": "e1b21edb-4546-4607-a45c-aa5a010afeb1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YIN NORAK RITH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "180304/18/01-01 ",
+                        "CreatedBy": "Sy Heng",
+                        "Mobile": "016 208 756"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "167,027,933",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "167,027,933"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KaevPhos",
+                        "BeneficiaryTotal": "1,110",
+                        "BeneficiaryWomen": "548",
+                        "Households": "243"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kaev Phos",
+                        "Description": "Steel-reinforced concrete road Repair [ 1010203 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.089 km",
+                        "UnitCost": "668,119,734",
+                        "Total": "59,462,656"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.",
+                            "Submissiondate": "10-Sep-2018 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "10-Sep-2018",
+                            "Approvebydepartmenton": "17-Sep-2018"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Aug-2018",
+                            "Technicalclearancesign-off": "30-Sep-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "180304/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=180304180101",
+            "contract_html_data": {
+                "Id": "180304180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 180304 ] Preah Sihanouk \\ Stueng Hav \\ Kaev Phos",
+                        "Contract": "180304/18/01-01",
+                        "TechnicalSupervisor": "YIN NORAK RITH",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Yin sok, [ Yin sok ]",
+                        "Competitivebidding": "Yes ( 07-Dec-2018 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "28-Dec-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jan-2019",
+                        "Plannedworkcompletiondate": "22-Jan-2019",
+                        "CreatedBy": "Sy Heng",
+                        "Mobile": "016 208 756",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "67,777,212"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LengThy",
+                        "Contractor": "LengThy",
+                        "BidValue": "67,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SouHeileang",
+                        "Contractor": "SouHeileang",
+                        "BidValue": "68,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Yinsok",
+                        "Contractor": "Yinsok",
+                        "BidValue": "66,644,326R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "67,977,212",
+                        "Village": "Kaev Phos",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.000 km",
+                        "InContract": "0.105 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "634,707,865est. 668,119,734",
+                        "DiscountRate": "-5 %",
+                        "Total": "66,644,326"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jan-2019",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Jan-2019",
+                            "Progress": "50 %",
+                            "ReportBy": "Sy Heng",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Jan-2019",
+                            "Progress": "100 %",
+                            "ReportBy": "Sy Heng",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "67,977,212R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

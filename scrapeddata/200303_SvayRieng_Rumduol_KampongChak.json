@@ -1,0 +1,2872 @@
+{
+    "location": {
+        "province": "Svay Rieng",
+        "district": "Rumduol",
+        "commune": "Kampong Chak"
+    },
+    "projects": [
+        {
+            "project_name": "Road repair and culverts",
+            "project_link": "/pid/project/home/view.castle?pid=31033b3f-1786-4a7a-a01c-9c5e00f2f0ee",
+            "project_html_data": {
+                "Pid": "31033b3f-1786-4a7a-a01c-9c5e00f2f0ee",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "SEN SOVANN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Road repair and culverts",
+                        "Objective": "Poverty alleviation",
+                        "Relatedcontract(s)": "200303/09/01-01 ",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "35,730,429",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "36,030,429"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "1,881",
+                        "BeneficiaryWomen": "948",
+                        "Households": "479"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chh'oeng Pos",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 5,405.000 Volume of earth (m3)",
+                        "Qty": "1.850 km",
+                        "UnitCost": "15,672,900",
+                        "Total": "28,994,865"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The repair work is out of the watch list ares."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "16-Mar-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No high land people in this area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Feb-2009",
+                            "Technicalclearancesign-off": "01-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303090101",
+            "contract_html_data": {
+                "Id": "200303090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/09/01-01",
+                        "TechnicalSupervisor": "SEN SOVANN",
+                        "Project'sName": "Road repair and culverts",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sophy Sambath, [ Kong Sophy ]",
+                        "Competitivebidding": "Yes ( 27-Apr-2009 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "17-Jun-2009 (51 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jun-2009",
+                        "Plannedworkcompletiondate": "26-Jun-2009",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "04-Jan-2010",
+                        "Closeddateon": "22-Jan-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "28,805,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KeoRy",
+                        "Contractor": "AmRa",
+                        "BidValue": "27,800,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": "Mr.VannKitingsengattendedthebidmeeting"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KongSophy",
+                        "Contractor": "SophySambath",
+                        "BidValue": "23,480,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "InSokhom",
+                        "Contractor": "InSokhom",
+                        "BidValue": "27,800,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MeasPretheka",
+                        "Contractor": "HakHeng",
+                        "BidValue": "25,200,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "25,920,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "OnSour",
+                        "Contractor": "Arya",
+                        "BidValue": "24,880,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "MeakSaphan",
+                        "Contractor": "MeakSaphan",
+                        "BidValue": "26,540,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SokKunthea",
+                        "Contractor": "SokKunthea",
+                        "BidValue": "23,731,200R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "PutChanSeila",
+                        "Contractor": "PutChanSeila",
+                        "BidValue": "29,540,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "SumYoeun",
+                        "Contractor": "SumYoeun",
+                        "BidValue": "28,500,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "29,105,455",
+                        "Village": "Chh'oeng Pos",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 5,405.000 Volume of earth (m3)",
+                        "Bid": "1.600 km",
+                        "InContract": "1.850 km",
+                        "Actualquantity": "1.850 km",
+                        "UnitCost/Estimated": "12,800,000est. 15,672,900",
+                        "DiscountRate": "-18 %",
+                        "Total": "23,680,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Jun-2009",
+                        "Actualworkcompletiondate": "19-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-Jun-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Som Chandarith",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "19-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Som Chandarith",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Jun-2009",
+                        "Source": "CSF",
+                        "Description": "Firstpayment(1st)",
+                        "Gross": "11642200R",
+                        "Net": "10583818R",
+                        "Tax": "1058382R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "09-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "Secondpayment(2nd)",
+                        "Gross": "11642200R",
+                        "Net": "10583818R",
+                        "Tax": "1058382R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "29-Jan-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(3rd)",
+                        "Gross": "5521100R",
+                        "Net": "5237405R",
+                        "Tax": "283695R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "29-Jan-2010",
+                        "Source": "LC",
+                        "Description": "Finalpayment(3rd)",
+                        "Gross": "300000R",
+                        "Net": "275000R",
+                        "Tax": "25000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "29,105,500R",
+                        "ActualPaymentCumulativeToDate(A)Net": "26,680,041R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,425,459R",
+                        "ContractValue(B)Gross": "29,105,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road and Culverts",
+            "project_link": "/pid/project/home/view.castle?pid=ed06f68f-e549-4284-91e0-9ddc008a0333",
+            "project_html_data": {
+                "Pid": "ed06f68f-e549-4284-91e0-9ddc008a0333",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "SEN SOVANN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road and Culverts",
+                        "Objective": "Poverty alleviation to the people living in the commune.",
+                        "Relatedcontract(s)": "200303/10/01-01 200303/10/02-01 ",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "50,626,482",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,926,482"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "1,889",
+                        "BeneficiaryWomen": "960",
+                        "Households": "480"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chambak Kaong",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 3,210.000 Volume of earth (m3)",
+                        "Qty": "0.990 km",
+                        "UnitCost": "21,052,468",
+                        "Total": "20,841,943"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The repair and construction works are out of watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "03-Feb-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people living here."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-Aug-2010",
+                            "Technicalclearancesign-off": "23-Aug-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303100201",
+            "contract_html_data": {
+                "Id": "200303100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/10/02-01",
+                        "TechnicalSupervisor": "SEN SOVANN",
+                        "Project'sName": "Earth road and Culverts",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Neang Samoeun, [ Neang Samoeun ]",
+                        "Competitivebidding": "Yes ( 17-Dec-2010 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "24-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "28-Dec-2010",
+                        "Plannedworkcompletiondate": "23-Jan-2011",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "18-Aug-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "10,927,200"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "150,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TryMarady",
+                        "Contractor": "TryMarady",
+                        "BidValue": "0R",
+                        "DiscountRate": "-100%",
+                        "Rejected": "Yes",
+                        "Reason": "Didnotfillthenameofcontractor,companyandsignatureinbidrequest."
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NuonPisit",
+                        "Contractor": "NuonPisit",
+                        "BidValue": "11,140,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LunEangly",
+                        "Contractor": "LunEangly",
+                        "BidValue": "0R",
+                        "DiscountRate": "-100%",
+                        "Rejected": "Yes",
+                        "Reason": "Didnotfillthenameofcontractorandcompanyinbidrequest."
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PhornAng",
+                        "Contractor": "PichBopear",
+                        "BidValue": "13,800,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MeakSaphan",
+                        "Contractor": "MeakSaphan",
+                        "BidValue": "13,000,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "NeangSamoeun",
+                        "Contractor": "NeangSamoeun",
+                        "BidValue": "10,860,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SenEng",
+                        "Contractor": "SenEng",
+                        "BidValue": "13,500,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "11,077,200",
+                        "Village": "Chak",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 600.000 Diameter (mm)Dimension #2 : 5.000 Length(m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": "2.000 Place",
+                        "UnitCost/Estimated": "1,340,000est. 2,021,294",
+                        "DiscountRate": "-34 %",
+                        "Total": "2,680,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "28-Dec-2010",
+                        "Actualworkcompletiondate": "09-Feb-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Feb-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Som Chandarith",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Feb-2011",
+                        "Source": "CSF",
+                        "Description": "FirstpaymentCSFRef.209",
+                        "Gross": "4430800R",
+                        "Net": "4300482R",
+                        "Tax": "130318R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "15-Feb-2011",
+                        "Source": "CSF",
+                        "Description": "SecondpaymentCSFRef.210",
+                        "Gross": "4430800R",
+                        "Net": "4300482R",
+                        "Tax": "130318R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "11-Aug-2011",
+                        "Source": "CSF",
+                        "Description": "3rdinstallment",
+                        "Gross": "2065600R",
+                        "Net": "2004847R",
+                        "Tax": "60753R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Aug-2011",
+                        "Source": "LC",
+                        "Description": "3rdinstallment",
+                        "Gross": "150000R",
+                        "Net": "145589R",
+                        "Tax": "4411R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "11,077,200R",
+                        "ActualPaymentCumulativeToDate(A)Net": "10,751,400R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "325,800R",
+                        "ContractValue(B)Gross": "11,077,200R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal Rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=b4b4a9b4-1228-4461-806b-9f4a00b8ff0f",
+            "project_html_data": {
+                "Pid": "b4b4a9b4-1228-4461-806b-9f4a00b8ff0f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "SEN SOVANN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal Rehabilitation",
+                        "Objective": "Agriculture domestic used.",
+                        "Relatedcontract(s)": "200303/11/01-01 ",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "37,882,130",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "38,182,130"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LeakReachChea",
+                        "BeneficiaryTotal": "492",
+                        "BeneficiaryWomen": "253",
+                        "Households": "106"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Leak Reach Chea",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.000 Depth (m)Dimension #2 : 5.180 Average width (m)",
+                        "Qty": "1.560 km",
+                        "UnitCost": "24,283,417",
+                        "Total": "37,882,131"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Old canal rehabilitation."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "Avoiding the impact of project implementation.",
+                            "Approvaldate": "23-Feb-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-May-2011",
+                            "Technicalclearancesign-off": "07-Jul-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303110101",
+            "contract_html_data": {
+                "Id": "200303110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/11/01-01",
+                        "TechnicalSupervisor": "SEN SOVANN",
+                        "Project'sName": "Canal Rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Rin Rany, [ Kung Sareit ]",
+                        "Competitivebidding": "Yes ( 27-Oct-2011 )",
+                        "Numberofcontractor": "12",
+                        "Contractsigndate(Form50)": "22-Nov-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Dec-2011",
+                        "Plannedworkcompletiondate": "03-Jan-2012",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "14-Jan-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "19,112,640"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KongSophy",
+                        "Contractor": "SophySambath",
+                        "BidValue": "19,799,520R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "23,556,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "OnSour",
+                        "Contractor": "Arya",
+                        "BidValue": "28,998,840R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KimSovanna",
+                        "Contractor": "KimSovanna",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SokKunthea",
+                        "Contractor": "SokKunthea",
+                        "BidValue": "23,634,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PREABHUL",
+                        "Contractor": "PREABHUL",
+                        "BidValue": "31,200,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "TitVisal",
+                        "Contractor": "TitVisalImportExport",
+                        "BidValue": "29,640,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "YinSamean",
+                        "Contractor": "YinSamean",
+                        "BidValue": "26,500,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "SouYat",
+                        "Contractor": "SouYat",
+                        "BidValue": "23,400,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "KungSareit",
+                        "Contractor": "RinRany",
+                        "BidValue": "19,032,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "",
+                        "Contractor": "YouSophal",
+                        "BidValue": "30,305,703R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "PakSokhapireak",
+                        "Contractor": "NeangSorn",
+                        "BidValue": "32,760,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "19,412,640",
+                        "Village": "Leak Reach Chea",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.000 Depth (m)Dimension #2 : 5.180 Average width (m)",
+                        "Bid": "1.560 km",
+                        "InContract": "1.560 km",
+                        "Actualquantity": "1.560 km",
+                        "UnitCost/Estimated": "12,200,000est. 24,283,417",
+                        "DiscountRate": "-50 %",
+                        "Total": "19,032,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Dec-2011",
+                        "Actualworkcompletiondate": "06-Jul-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Mar-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Heov Kimsreng",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Jul-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Heov Kimsreng",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Mar-2012",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "7765056R",
+                        "Net": "7536672R",
+                        "Tax": "228384R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Jul-2012",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "7765056R",
+                        "Net": "7536672R",
+                        "Tax": "228384R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "16-May-2013",
+                        "Source": "CSF",
+                        "Description": "3rdinstallment",
+                        "Gross": "3582528R",
+                        "Net": "3477160R",
+                        "Tax": "105368R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "16-May-2013",
+                        "Source": "LC",
+                        "Description": "3rdinstallment",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "19,412,640R",
+                        "ActualPaymentCumulativeToDate(A)Net": "18,841,680R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "570,960R",
+                        "ContractValue(B)Gross": "19,412,640R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mountain Sand Pavement Road",
+            "project_link": "/pid/project/home/view.castle?pid=223143d0-8cd8-45ad-b7fd-a06800fbe2f3",
+            "project_html_data": {
+                "Pid": "223143d0-8cd8-45ad-b7fd-a06800fbe2f3",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "SEN SOVANN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mountain Sand Pavement Road",
+                        "Objective": "Local livelihood improvement and easy travelling.",
+                        "Relatedcontract(s)": "200303/12/01-01 ",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "86,464,490",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "86,764,490"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chh'oengPos",
+                        "BeneficiaryTotal": "432",
+                        "BeneficiaryWomen": "220",
+                        "Households": "112"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Leak Reach Chea",
+                        "Description": "Sand Road Upgrade [ 1010104 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,279.000 Volume of earth (m3)",
+                        "Qty": "1.640 km",
+                        "UnitCost": "38,617,927",
+                        "Total": "63,333,400"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Project constructs on the previous road."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project constructs on the previous road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Jan-2012",
+                            "Technicalclearancesign-off": "09-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303120101",
+            "contract_html_data": {
+                "Id": "200303120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/12/01-01",
+                        "TechnicalSupervisor": "SEN SOVANN",
+                        "Project'sName": "Mountain Sand Pavement Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Tit Visal Import Export, [ Tit Visal ]",
+                        "Competitivebidding": "Yes ( 17-May-2012 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "30-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Jun-2012",
+                        "Plannedworkcompletiondate": "25-Jul-2012",
+                        "CreatedBy": "Heov Kimsreng",
+                        "Mobile": "012 334 944",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "02-Mar-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "94,853,760"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "InSokhom",
+                        "Contractor": "InSokhom",
+                        "BidValue": "86,257,500R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MeasPretheka",
+                        "Contractor": "HakHeng",
+                        "BidValue": "86,025,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "86,141,250R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "NeangSon",
+                        "Contractor": "NeangSon",
+                        "BidValue": "85,792,500R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "TitVisal",
+                        "Contractor": "TitVisalImportExport",
+                        "BidValue": "85,560,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "95,153,760",
+                        "Village": "Chh'oeng Pos",
+                        "Description": "[ 1010104 ] Sand Road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 467.000 Volume of earth (m3)",
+                        "Bid": "0.685 km",
+                        "InContract": "0.895 km",
+                        "Actualquantity": "0.895 km",
+                        "UnitCost/Estimated": "36,800,000est. 33,768,015",
+                        "DiscountRate": "9 %",
+                        "Total": "32,936,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Jun-2012",
+                        "Actualworkcompletiondate": "07-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "03-Aug-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Heov Kimsreng",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Sieng Sith",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "38061504R",
+                        "Net": "36942048R",
+                        "Tax": "1119456R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Oct-2012",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "38061504R",
+                        "Net": "36942048R",
+                        "Tax": "1119456R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Mar-2013",
+                        "Source": "CSF",
+                        "Description": "3rdinstallment",
+                        "Gross": "18730752R",
+                        "Net": "18179848R",
+                        "Tax": "550904R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Mar-2013",
+                        "Source": "LC",
+                        "Description": "3rdinstallment",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "95,153,760R",
+                        "ActualPaymentCumulativeToDate(A)Net": "92,355,120R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,798,640R",
+                        "ContractValue(B)Gross": "95,153,760R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "ស្តារប្រឡាយ ប្ញអូរ",
+            "project_link": "/pid/project/home/view.castle?pid=859349c8-42d7-4487-9946-a24400bd181d",
+            "project_html_data": {
+                "Pid": "859349c8-42d7-4487-9946-a24400bd181d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "SEN SOVANN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "ស្តារប្រឡាយ ប្ញអូរ",
+                        "Objective": "Domestic uses for agriculture.",
+                        "Relatedcontract(s)": "200303/13/01-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "61,339,300",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "61,639,300"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "2,143",
+                        "BeneficiaryWomen": "1,085",
+                        "Households": "509"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chak",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.700 Depth (m)Dimension #2 : 7.500 Average width (m)",
+                        "Qty": "2.495 km",
+                        "UnitCost": "24,584,890",
+                        "Total": "61,339,301"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project constructs on the public land that is not affected to the environment."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "Avoiding the impact of project implementation.",
+                            "Approvaldate": "05-May-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-May-2013",
+                            "Technicalclearancesign-off": "09-Sep-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303130101",
+            "contract_html_data": {
+                "Id": "200303130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/13/01-01",
+                        "TechnicalSupervisor": "SEN SOVANN",
+                        "Project'sName": "ស្តារប្រឡាយ ប្ញអូរ",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Chheng Eng Srun, [ Chheng Eng Srun ]",
+                        "Competitivebidding": "Yes ( 13-Nov-2013 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "28-Nov-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Dec-2013",
+                        "Plannedworkcompletiondate": "20-Feb-2014",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "22-Aug-2014"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,343,510"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "49,650,500R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "OnSour",
+                        "Contractor": "Arya",
+                        "BidValue": "51,147,500R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KimTry",
+                        "Contractor": "KimTry",
+                        "BidValue": "47,405,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SamYim",
+                        "Contractor": "SamYim",
+                        "BidValue": "49,900,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,643,510",
+                        "Village": "Chak",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.720 Depth (m)Dimension #2 : 7.500 Average width (m)",
+                        "Bid": "2.495 km",
+                        "InContract": "2.495 km",
+                        "Actualquantity": "2.495 km",
+                        "UnitCost/Estimated": "19,900,000est. 24,584,890",
+                        "DiscountRate": "-19 %",
+                        "Total": "49,650,500"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-Dec-2013",
+                        "Actualworkcompletiondate": "18-Feb-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-Jan-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "18-Feb-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sieng Sith",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Feb-2014",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "20257404R",
+                        "Net": "19661598R",
+                        "Tax": "595806R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Mar-2014",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "20257404R",
+                        "Net": "19661598R",
+                        "Tax": "595806R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Sep-2014",
+                        "Source": "CSF",
+                        "Description": "3rdinstallment",
+                        "Gross": "9828702R",
+                        "Net": "9539623R",
+                        "Tax": "289079R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Sep-2014",
+                        "Source": "LC",
+                        "Description": "3rdinstallment",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "50,643,510R",
+                        "ActualPaymentCumulativeToDate(A)Net": "49,153,995R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,489,515R",
+                        "ContractValue(B)Gross": "50,643,510R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mountain Sand Pavement and Culvert",
+            "project_link": "/pid/project/home/view.castle?pid=e5f76931-1ba9-4814-86a0-a42501082a77",
+            "project_html_data": {
+                "Pid": "e5f76931-1ba9-4814-86a0-a42501082a77",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "CHU LANY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mountain Sand Pavement and Culvert",
+                        "Objective": "Local livelihood improvement and easy travelling.",
+                        "Relatedcontract(s)": "200303/14/01-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "68,390,761",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "68,690,761"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "2,163",
+                        "BeneficiaryWomen": "1,097",
+                        "Households": "512"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chh'oeng Pos",
+                        "Description": "Sand Road Upgrade [ 1010104 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 1,263.000 Volume of earth (m3)",
+                        "Qty": "1.850 km",
+                        "UnitCost": "28,887,669",
+                        "Total": "53,442,188"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project constructs on the public land that is not affected to the environment."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project constructs in the existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people living here."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-May-2014",
+                            "Technicalclearancesign-off": "12-May-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303140101",
+            "contract_html_data": {
+                "Id": "200303140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/14/01-01",
+                        "TechnicalSupervisor": "CHU LANY",
+                        "Project'sName": "Mountain Sand Pavement and Culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Hak Heng, [ Meas Pretheka ]",
+                        "Competitivebidding": "Yes ( 13-Nov-2014 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "27-Nov-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Nov-2014",
+                        "Plannedworkcompletiondate": "15-Dec-2014",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "28-Oct-2015"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "74,891,600"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MeasPretheka",
+                        "Contractor": "HakHeng",
+                        "BidValue": "67,240,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "68,161,040R",
+                        "DiscountRate": "0%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MaSokranin",
+                        "Contractor": "MeySombath",
+                        "BidValue": "67,248,400R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "UmVannak",
+                        "Contractor": "UmVannak",
+                        "BidValue": "68,136,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "75,191,600",
+                        "Village": "Chh'oeng Pos",
+                        "Description": "[ 1010104 ] Sand Road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 1.141 Volume of earth (m3)",
+                        "Bid": "1.640 km",
+                        "InContract": "1.671 km",
+                        "Actualquantity": "1.671 km",
+                        "UnitCost/Estimated": "36,000,000est. 28,887,669",
+                        "DiscountRate": "25 %",
+                        "Total": "60,156,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "27-Nov-2014",
+                        "Actualworkcompletiondate": "30-Mar-2015",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Dec-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Mar-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Jan-2015",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "29776640R",
+                        "Net": "27069673R",
+                        "Tax": "2706967R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Jan-2015",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "300000R",
+                        "Net": "272727R",
+                        "Tax": "27273R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Apr-2015",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "30076640R",
+                        "Net": "27342400R",
+                        "Tax": "2734240R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "02-Dec-2015",
+                        "Source": "CSF",
+                        "Description": "3rdinstallment",
+                        "Gross": "15038320R",
+                        "Net": "13671200R",
+                        "Tax": "1367120R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "75,191,600R",
+                        "ActualPaymentCumulativeToDate(A)Net": "68,356,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "6,835,600R",
+                        "ContractValue(B)Gross": "75,191,600R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mountain Sand Pavement Road",
+            "project_link": "/pid/project/home/view.castle?pid=ec460100-b3f5-493b-abbb-a4e301096f1e",
+            "project_html_data": {
+                "Pid": "ec460100-b3f5-493b-abbb-a4e301096f1e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "CHU LANY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mountain Sand Pavement Road",
+                        "Objective": "Local livelihood improvement and easy travelling.",
+                        "Relatedcontract(s)": "200303/15/01-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "58,583,400",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "58,883,400"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "2,163",
+                        "BeneficiaryWomen": "1,097",
+                        "Households": "512"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chak",
+                        "Description": "Sand Road Upgrade [ 1010104 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 1,438.000 Volume of earth (m3)",
+                        "Qty": "2.107 km",
+                        "UnitCost": "29,291,700",
+                        "Total": "61,717,612"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project constructs on the public land that is not affected to the environment."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project constructs in the existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people living here."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Jun-2015",
+                            "Technicalclearancesign-off": "22-Jul-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303150101",
+            "contract_html_data": {
+                "Id": "200303150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/15/01-01",
+                        "TechnicalSupervisor": "CHU LANY",
+                        "Project'sName": "Mountain Sand Pavement Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Hak Heng, [ Meas Pretheka ]",
+                        "Competitivebidding": "Yes ( 14-Aug-2015 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "25-Aug-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "26-Aug-2015",
+                        "Plannedworkcompletiondate": "09-Sep-2015",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "06-May-2016"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,457,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MeasPretheka",
+                        "Contractor": "HakHeng",
+                        "BidValue": "58,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "58,100,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SenVan",
+                        "Contractor": "SenVan",
+                        "BidValue": "58,010,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MaSokranin",
+                        "Contractor": "MeySombath",
+                        "BidValue": "58,200,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "64,757,000",
+                        "Village": "Chak",
+                        "Description": "[ 1010104 ] Sand Road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 1,380.000 Volume of earth (m3)",
+                        "Bid": "2.000 km",
+                        "InContract": "2.030 km",
+                        "Actualquantity": "2.030 km",
+                        "UnitCost/Estimated": "29,000,000est. 29,291,700",
+                        "DiscountRate": "-1 %",
+                        "Total": "58,870,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "26-Aug-2015",
+                        "Actualworkcompletiondate": "06-Nov-2015",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Sep-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Nov-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "30-Sep-2015",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "28840650R",
+                        "Net": "26218773R",
+                        "Tax": "2621877R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Sep-2015",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "300000R",
+                        "Net": "272727R",
+                        "Tax": "27273R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "02-Dec-2015",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "29140650R",
+                        "Net": "26491500R",
+                        "Tax": "2649150R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "29-Jun-2016",
+                        "Source": "CSF",
+                        "Description": "FinalPayment",
+                        "Gross": "6475700R",
+                        "Net": "5887000R",
+                        "Tax": "588700R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "64,757,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "58,870,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "5,887,000R",
+                        "ContractValue(B)Gross": "64,757,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete road Contruction",
+            "project_link": "/pid/project/home/view.castle?pid=71576f7c-3a8e-4f56-b192-a5fe0100f2b7",
+            "project_html_data": {
+                "Pid": "71576f7c-3a8e-4f56-b192-a5fe0100f2b7",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "CHU LANY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete road Contruction",
+                        "Objective": "Local livelihood improvement and easy travelling.",
+                        "Relatedcontract(s)": "200303/16/01-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "58,689,318",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "58,989,318"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "2,192",
+                        "BeneficiaryWomen": "1,112",
+                        "Households": "517"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chak",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.126 km",
+                        "UnitCost": "581,082,355",
+                        "Total": "73,216,377"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project constructs on the public land that is not affected to the environment."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project constructs in the existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people living here."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Feb-2016",
+                            "Technicalclearancesign-off": "05-Apr-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303160101",
+            "contract_html_data": {
+                "Id": "200303160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/16/01-01",
+                        "TechnicalSupervisor": "CHU LANY",
+                        "Project'sName": "Concrete road Contruction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Nou BunThan, [ Nou BunThan ]",
+                        "Competitivebidding": "Yes ( 17-May-2016 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "07-Jun-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jun-2016",
+                        "Plannedworkcompletiondate": "15-Jul-2016",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "10-Feb-2017"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "59,713,800"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MeasPretheka",
+                        "Contractor": "HakHeng",
+                        "BidValue": "49,950,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "45,900,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SokKunthea",
+                        "Contractor": "SokKunthea",
+                        "BidValue": "40,212,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "NouBunThan",
+                        "Contractor": "NouBunThan",
+                        "BidValue": "38,970,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MaSokranin",
+                        "Contractor": "MeySombath",
+                        "BidValue": "41,130,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KhyKhoeun",
+                        "Contractor": "ChhneasChhnas",
+                        "BidValue": "43,200,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "60,013,800",
+                        "Village": "Chak",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 6.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.090 km",
+                        "InContract": "0.126 km",
+                        "Actualquantity": "0.126 km",
+                        "UnitCost/Estimated": "433,000,000est. 581,082,355",
+                        "DiscountRate": "-25 %",
+                        "Total": "54,558,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jun-2016",
+                        "Actualworkcompletiondate": "10-Aug-2016",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Jul-2016",
+                            "Progress": "50 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "11-Aug-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "12-Aug-2016",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "26706210R",
+                        "Net": "24278373R",
+                        "Tax": "2427837R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "12-Aug-2016",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "300000R",
+                        "Net": "272727R",
+                        "Tax": "27273R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "01-Sep-2016",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "11000000R",
+                        "Net": "10000000R",
+                        "Tax": "1000000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Nov-2016",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "16006210R",
+                        "Net": "14551100R",
+                        "Tax": "1455110R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Feb-2017",
+                        "Source": "CSF",
+                        "Description": "FinalPayment",
+                        "Gross": "6001380R",
+                        "Net": "5455800R",
+                        "Tax": "545580R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "60,013,800R",
+                        "ActualPaymentCumulativeToDate(A)Net": "54,558,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "5,455,800R",
+                        "ContractValue(B)Gross": "60,013,800R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mountain Sand Road Repair",
+            "project_link": "/pid/project/home/view.castle?pid=2407f407-c1cc-4ed8-85e6-a7ee01063079",
+            "project_html_data": {
+                "Pid": "2407f407-c1cc-4ed8-85e6-a7ee01063079",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "CHU LANY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mountain Sand Road Repair",
+                        "Objective": "Local livelihood improvement and easy travelling.",
+                        "Relatedcontract(s)": "200303/17/01-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "53,137,015",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "53,437,015"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "2,130",
+                        "BeneficiaryWomen": "1,019",
+                        "Households": "517"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chak",
+                        "Description": "Sand Road Upgrade [ 1010104 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 13,845.000 Volume of earth (m3)",
+                        "Qty": "2.450 km",
+                        "UnitCost": "65,198,792",
+                        "Total": "159,737,040"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project constructs on the public land that is not affected to the environment."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project constructs in the existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No highland people living here."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Mar-2017",
+                            "Technicalclearancesign-off": "10-Mar-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303170101",
+            "contract_html_data": {
+                "Id": "200303170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/17/01-01",
+                        "TechnicalSupervisor": "CHU LANY",
+                        "Project'sName": "Mountain Sand Road Repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SO SOKPHARA, [ SO SOKPHARA ]",
+                        "Competitivebidding": "Yes ( 26-May-2017 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "14-Jun-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jun-2017",
+                        "Plannedworkcompletiondate": "30-Jun-2017",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "52,849,091"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MeasPretheka",
+                        "Contractor": "HakHeng",
+                        "BidValue": "52,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "52,650,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SOSOKPHARA",
+                        "Contractor": "SOSOKPHARA",
+                        "BidValue": "52,200,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "53,244,000",
+                        "Village": "Chak",
+                        "Description": "[ 1010104 ] Sand Road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 13,845.000 Volume of earth (m3)",
+                        "Bid": "0.815 km",
+                        "InContract": "0.815 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "64,049,080est. 65,198,792",
+                        "DiscountRate": "-2 %",
+                        "Total": "52,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "53,149,091R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal Rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=1b8969db-26b1-43ac-a0ec-ac7c01015e12",
+            "project_html_data": {
+                "Pid": "1b8969db-26b1-43ac-a0ec-ac7c01015e12",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "PHOK  PHALY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal Rehabilitation",
+                        "Objective": "Domestic uses for agriculture.",
+                        "Relatedcontract(s)": "200303/19/03-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "52,526,232",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "52,526,232"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "2,229",
+                        "BeneficiaryWomen": "1,132",
+                        "Households": "524"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chak",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.800 Depth (m)Dimension #2 : 7.000 Average width (m)",
+                        "Qty": "0.400 km",
+                        "UnitCost": "29,716,000",
+                        "Total": "11,886,400"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "25-Feb-2019"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Apr-2019",
+                            "Technicalclearancesign-off": "10-May-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/19/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303190301",
+            "contract_html_data": {
+                "Id": "200303190301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/19/03-01",
+                        "TechnicalSupervisor": "PHOK  PHALY",
+                        "Project'sName": "Canal Rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "So Vanpahna, [ Mom Sarean ]",
+                        "Competitivebidding": "Yes ( 08-Jul-2019 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "26-Jul-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "29-Nov-2019",
+                        "Plannedworkcompletiondate": "20-Dec-2019",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "24,500,200"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    },
+                    {
+                        "FundSource": "ASPIRE",
+                        "Cost": "21,664,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NouBunThan",
+                        "Contractor": "NouBunThan",
+                        "BidValue": "38,820,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KeoSopheak",
+                        "Contractor": "KeoSopheak",
+                        "BidValue": "44,080,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MomSarean",
+                        "Contractor": "SoVanpahna",
+                        "BidValue": "34,769,200R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "36,832,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "46,264,183",
+                        "Village": "Chak",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.800 Depth (m)Dimension #2 : 7.000 Average width (m)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.400 km",
+                        "Actualquantity": "0.400 km",
+                        "UnitCost/Estimated": "33,031,559est. 29,716,000",
+                        "DiscountRate": "11 %",
+                        "Total": "13,212,624"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "29-Nov-2019",
+                        "Actualworkcompletiondate": "20-Dec-2019",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "07-Dec-2019",
+                            "Progress": "50 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "16-Dec-2019",
+                            "Progress": "80 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "20-Dec-2019",
+                            "Progress": "100 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "30-Mar-2020",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "19873780R",
+                        "Net": "19873780R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Mar-2019",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "100000R",
+                        "Net": "100000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Mar-2019",
+                        "Source": "ASPIRE",
+                        "Description": "1stinstallment",
+                        "Gross": "21664000R",
+                        "Net": "21664000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "41,637,780R",
+                        "ActualPaymentCumulativeToDate(A)Net": "41,637,780R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "46,264,200R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=511a315e-f25c-47ef-9566-ac7d0102ed32",
+            "project_html_data": {
+                "Pid": "511a315e-f25c-47ef-9566-ac7d0102ed32",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "PHOK  PHALY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "Spillway construction",
+                        "Relatedcontract(s)": "200303/19/01-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "45,460,500",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "45,460,500"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "1,453",
+                        "BeneficiaryWomen": "914",
+                        "Households": "701"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chak",
+                        "Description": "Single cell box culvert  3.0m x 2.0m with stop logs New [ 1020233 ]Dimension #1 : 2.000 Height (m)Dimension #2 : 6.000 Length (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "45,460,500",
+                        "Total": "45,460,500"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Apr-2019",
+                            "Technicalclearancesign-off": "10-Jun-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/19/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303190101",
+            "contract_html_data": {
+                "Id": "200303190101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/19/01-01",
+                        "TechnicalSupervisor": "PHOK  PHALY",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sok Kunthea, [ Sok Kunthea ]",
+                        "Competitivebidding": "Yes ( 08-Jul-2019 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "13-Aug-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "04-Nov-2019",
+                        "Plannedworkcompletiondate": "02-Dec-2019",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "19,700,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    },
+                    {
+                        "FundSource": "ASPIRE",
+                        "Cost": "20,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SokKunthea",
+                        "Contractor": "SokKunthea",
+                        "BidValue": "39,800,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KeoSopheak",
+                        "Contractor": "KeoSopheak",
+                        "BidValue": "41,480,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MomSarean",
+                        "Contractor": "SoVanpahna",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "40,000,500R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,800,000",
+                        "Village": "Chak",
+                        "Description": "[ 1020233 ] Single cell box culvert  3.0m x 2.0m with stop logs NewDimension #1 : 2.000 Height (m)Dimension #2 : 6.000 Length (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "39,800,000est. 45,460,500",
+                        "DiscountRate": "-12 %",
+                        "Total": "39,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "39,800,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mountain Sand Pavement Road",
+            "project_link": "/pid/project/home/view.castle?pid=e7293f1a-aad5-4ffc-ae3f-ac7f00f67784",
+            "project_html_data": {
+                "Pid": "e7293f1a-aad5-4ffc-ae3f-ac7f00f67784",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Mourn Sokhom",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mountain Sand Pavement Road",
+                        "Objective": "To compromise traveling and transportation of people",
+                        "Relatedcontract(s)": "200303/19/02-01 ",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "111,899,800",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "111,899,800"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chak",
+                        "BeneficiaryTotal": "2,247",
+                        "BeneficiaryWomen": "1,141",
+                        "Households": "528"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chak",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 5,845.000 Volume of earth (m3)",
+                        "Qty": "1.679 km",
+                        "UnitCost": "85,261,550",
+                        "Total": "143,154,142"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "28-Aug-2019"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Nov-2019",
+                            "Technicalclearancesign-off": "03-Dec-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "200303/19/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=200303190201",
+            "contract_html_data": {
+                "Id": "200303190201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 200303 ] Svay Rieng \\ Rumduol \\ Kampong Chak",
+                        "Contract": "200303/19/02-01",
+                        "TechnicalSupervisor": "Mourn Sokhom",
+                        "Project'sName": "Mountain Sand Pavement Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 19-Dec-2019 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "31-Dec-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Feb-2020",
+                        "Plannedworkcompletiondate": "30-Apr-2020",
+                        "CreatedBy": "PICH MACK",
+                        "Mobile": "097 784 3824",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "73,689,550"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "50,000"
+                    },
+                    {
+                        "FundSource": "ASPIRE",
+                        "Cost": "37,620,450"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SoSavoeun",
+                        "Contractor": "SoSavoeun",
+                        "BidValue": "89,340,600R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MaSokranin",
+                        "Contractor": "MeySombath",
+                        "BidValue": "94,970,200R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "82,848,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PichThida",
+                        "Contractor": "PichThida",
+                        "BidValue": "99,952,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "111,360,000",
+                        "Village": "Chak",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 5,845.000 Volume of earth (m3)",
+                        "Bid": "0.730 km",
+                        "InContract": "1.130 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "72,000,000est. 85,261,550",
+                        "DiscountRate": "-16 %",
+                        "Total": "81,360,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Feb-2020",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "08-Mar-2020",
+                            "Progress": "50 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Mar-2020",
+                            "Progress": "80 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Apr-2020",
+                            "Progress": "100 %",
+                            "ReportBy": "PICH MACK",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "07-Sep-2020",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "62553550R",
+                        "Net": "62553550R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Sep-2020",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "50000R",
+                        "Net": "50000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Sep-2020",
+                        "Source": "ASPIRE",
+                        "Description": "1stinstallment",
+                        "Gross": "37620450R",
+                        "Net": "37620450R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "100,224,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "100,224,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "111,360,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

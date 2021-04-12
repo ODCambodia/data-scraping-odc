@@ -1,0 +1,2561 @@
+{
+    "location": {
+        "province": "Kep",
+        "district": "Damnak Chang'aeur",
+        "commune": "Pong Tuek"
+    },
+    "projects": [
+        {
+            "project_name": "Repair 1100m of earh road with 4m wide",
+            "project_link": "/pid/project/home/view.castle?pid=a36c5b85-99c6-4bff-b6af-9c62013fc11f",
+            "project_html_data": {
+                "Pid": "a36c5b85-99c6-4bff-b6af-9c62013fc11f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Repair 1100m of earh road with 4m wide",
+                        "Objective": "Improve commune road for villagers accessibility",
+                        "Relatedcontract(s)": "230103/09/02-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "42,666,000",
+                        "LocalRevenue": "810,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "43,476,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyTaKoy",
+                        "BeneficiaryTotal": "1,015",
+                        "BeneficiaryWomen": "527",
+                        "Households": "118"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Ta Koy",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,200.000 Volume of earth (m3)",
+                        "Qty": "1.100 km",
+                        "UnitCost": "39,523,000",
+                        "Total": "43,475,300"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "This project has no significant environmental impacts",
+                            "ApprovebyNCDDon": "09-Mar-2009 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "11-Mar-2009"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "This project of earth road is implemented on existing road and none of the people living along this road lost 5% of their land.",
+                            "Approvaldate": "31-Mar-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Apr-2009",
+                            "Technicalclearancesign-off": "06-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/09/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103090201",
+            "contract_html_data": {
+                "Id": "230103090201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/09/02-01",
+                        "TechnicalSupervisor": "Lim Sophan",
+                        "Project'sName": "Repair 1100m of earh road with 4m wide",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Samnoangtumneurb Company, [ Lang Dyna ]",
+                        "Competitivebidding": "Yes ( 05-May-2009 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "22-Jun-2009 (48 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "22-Jun-2009",
+                        "Plannedworkcompletiondate": "05-Jul-2009",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "27-Aug-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "39,354,850"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "810,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TumSeang",
+                        "Contractor": "SamnangAkpiwatTouTov",
+                        "BidValue": "42,900,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChumSopha",
+                        "Contractor": "SangsongSP",
+                        "BidValue": "41,800,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HongChanny",
+                        "Contractor": "SangsongSamnangKropPraphet",
+                        "BidValue": "39,600,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LangDyna",
+                        "Contractor": "SamnoangtumneurbCompany",
+                        "BidValue": "38,995,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "40,164,850",
+                        "Village": "Prey Ta Koy",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 22,000.000 Volume of earth (m3)",
+                        "Bid": "1.100 km",
+                        "InContract": "1.100 km",
+                        "Actualquantity": "1.100 km",
+                        "UnitCost/Estimated": "35,450,000est. 39,523,000",
+                        "DiscountRate": "-10 %",
+                        "Total": "38,995,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "22-Jun-2009",
+                        "Actualworkcompletiondate": "03-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Jun-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Nou Samnat",
+                            "Note": "translate not yet"
+                        },
+                        {
+                            "Date": "03-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Nou Samnat",
+                            "Note": "translate not yet"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "Firstpayment",
+                        "Gross": "16065940R",
+                        "Net": "15583962R",
+                        "Tax": "481978R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "08-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "Secondpayment",
+                        "Gross": "15255940R",
+                        "Net": "14798262R",
+                        "Tax": "457678R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "08-Jul-2009",
+                        "Source": "LC",
+                        "Description": "SecondPayment",
+                        "Gross": "810000R",
+                        "Net": "785700R",
+                        "Tax": "24300R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "31-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "8032970R",
+                        "Net": "7791981R",
+                        "Tax": "240989R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "31-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "3rdpaymentadjustment",
+                        "Gross": "-8032970R",
+                        "Net": "-7791981R",
+                        "Tax": "-240989R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "31-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "8032970R",
+                        "Net": "7827076R",
+                        "Tax": "205894R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "40,164,850R",
+                        "ActualPaymentCumulativeToDate(A)Net": "38,995,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,169,850R",
+                        "ContractValue(B)Gross": "40,164,850R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Integrated Farming System",
+            "project_link": "/pid/project/home/view.castle?pid=10f0c4cb-f4fd-4014-9387-9c6400c01736",
+            "project_html_data": {
+                "Pid": "10f0c4cb-f4fd-4014-9387-9c6400c01736",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "TechnicalAssistant": "Nob Sarin",
+                        "NatureofProject": "Service",
+                        "Name": "Integrated Farming System",
+                        "Objective": "To improve people livelihood mitigate impact on natural resources and environment by provide job alternative on animal raising and vegetable planting.",
+                        "Relatedcontract(s)": "230103/09/01-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "23,160,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "8,920,000",
+                        "Other": "0",
+                        "Total": "32,080,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuDoung",
+                        "BeneficiaryTotal": "52",
+                        "BeneficiaryWomen": "27",
+                        "Households": "6"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Ta Koy",
+                        "Description": "IFS trainings New [ 2010111 ]",
+                        "Qty": "1.000 course",
+                        "UnitCost": "32,000,000",
+                        "Total": "32,000,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.",
+                            "Reason": "Service Project"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Apr-2009",
+                            "Technicalclearancesign-off": "07-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103090101",
+            "contract_html_data": {
+                "Id": "230103090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/09/01-01",
+                        "TechnicalSupervisor": "Nob Sarin",
+                        "Project'sName": "Integrated Farming System",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "Contractor": "Agriculture Technology Service Association (ATSA), [ Lim Sou ]",
+                        "Contractsigndate(Form50)": "25-May-2009",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "08-Jun-2009",
+                        "Plannedworkcompletiondate": "09-Oct-2009",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "19-Oct-2009"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Danida NRML",
+                        "Cost": "32,000,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "32,000,000",
+                        "Village": "Prey Ta Koy",
+                        "Description": "[ 2010111 ] IFS trainings NewDimension #1 : 0.000 Dimension #2 : 0.000 ",
+                        "Bid": "1.000 course",
+                        "InContract": "1.000 course",
+                        "Actualquantity": "1.000 course",
+                        "UnitCost/Estimated": "32,000,000est. 32,000,000",
+                        "DiscountRate": "0 %",
+                        "Total": "32,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "08-Jun-2009",
+                        "Actualworkcompletiondate": "19-Oct-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "13-Aug-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": "Service support agent have finished 10/18 session."
+                        },
+                        {
+                            "Date": "19-Oct-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": "The service provider have done all activities."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "18-Aug-2009",
+                        "Source": "NRML",
+                        "Description": "FirstPayment",
+                        "Gross": "12800000R",
+                        "Net": "12800000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Nov-2009",
+                        "Source": "NRML",
+                        "Description": "SecondPayment",
+                        "Gross": "12800000R",
+                        "Net": "12800000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Dec-2009",
+                        "Source": "NRML",
+                        "Description": "3rdpayment",
+                        "Gross": "6400000R",
+                        "Net": "6400000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "32,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "32,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "32,000,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=e76613e6-2b4c-480b-943b-9da500abbe02",
+            "project_html_data": {
+                "Pid": "e76613e6-2b4c-480b-943b-9da500abbe02",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "Not yet translate",
+                        "Relatedcontract(s)": "230103/10/01-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "21,000,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "22,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuDoung",
+                        "BeneficiaryTotal": "1,313",
+                        "BeneficiaryWomen": "681",
+                        "Households": "293"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phnum Leav",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 755.680 Volume of earth (m3)",
+                        "Qty": "0.530 km",
+                        "UnitCost": "39,356,962",
+                        "Total": "20,859,190"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "Not yet translate",
+                            "ApprovebyNCDDon": "02-Feb-2010 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "09-Feb-2010"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "21-Nov-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Dec-2009",
+                            "Technicalclearancesign-off": "25-Feb-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103100101",
+            "contract_html_data": {
+                "Id": "230103100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/10/01-01",
+                        "TechnicalSupervisor": "Lim Sophan",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sangsong Samnang Krop Praphet, [ Hong Channy ]",
+                        "Competitivebidding": "Yes ( 18-May-2010 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "08-Jul-2010 (51 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "12-Jul-2010",
+                        "Plannedworkcompletiondate": "25-Jul-2010",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "25-Jan-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "13,655,600"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TumSeang",
+                        "Contractor": "SamnangAkpiwatTouTov",
+                        "BidValue": "14,900,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChumSopha",
+                        "Contractor": "SangsongSP",
+                        "BidValue": "14,310,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HongChanny",
+                        "Contractor": "SangsongSamnangKropPraphet",
+                        "BidValue": "13,780,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TongEn",
+                        "Contractor": "TongEnCompany",
+                        "BidValue": "19,900,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "14,055,600",
+                        "Village": "Phnum Leav",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 755.680 Volume of earth (m3)",
+                        "Bid": "0.530 km",
+                        "InContract": "0.530 km",
+                        "Actualquantity": "0.530 km",
+                        "UnitCost/Estimated": "26,000,000est. 39,356,962",
+                        "DiscountRate": "-34 %",
+                        "Total": "13,780,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Jul-2010",
+                        "Actualworkcompletiondate": "23-Jul-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Jul-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Nou Samnat",
+                            "Note": "First payment"
+                        },
+                        {
+                            "Date": "24-Jul-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Nou Samnat",
+                            "Note": "Second payment"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Jul-2010",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "5622240R",
+                        "Net": "5456880R",
+                        "Tax": "165360R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Jul-2010",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "5222240R",
+                        "Net": "5068645R",
+                        "Tax": "153595R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Jul-2010",
+                        "Source": "LC",
+                        "Description": "2ndpayment",
+                        "Gross": "400000R",
+                        "Net": "388235R",
+                        "Tax": "11765R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Feb-2011",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "2811120R",
+                        "Net": "2728440R",
+                        "Tax": "82680R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "14,055,600R",
+                        "ActualPaymentCumulativeToDate(A)Net": "13,642,200R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "413,400R",
+                        "ContractValue(B)Gross": "14,055,600R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Integrated Farming System",
+            "project_link": "/pid/project/home/view.castle?pid=2660f13c-f985-4042-bf0e-9db3011b4dd4",
+            "project_html_data": {
+                "Pid": "2660f13c-f985-4042-bf0e-9db3011b4dd4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "TechnicalAssistant": "Nob Sarin",
+                        "NatureofProject": "Service",
+                        "Name": "Integrated Farming System",
+                        "Objective": "Poor people who live relive on natural resources will received job alternative by providing training and demonstration on integrated farming system (Pig, chicken and vegetable).",
+                        "Relatedcontract(s)": "230103/10/03-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "27,337,000",
+                        "Total": "27,337,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChamkarBei",
+                        "BeneficiaryTotal": "193",
+                        "BeneficiaryWomen": "102",
+                        "Households": "25"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chamkar Bei",
+                        "Description": "IFS trainings New [ 2010111 ]",
+                        "Qty": "18.000 course",
+                        "UnitCost": "273,656",
+                        "Total": "4,925,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Service project"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not in minority area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-May-2010",
+                            "Technicalclearancesign-off": "17-May-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/10/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103100301",
+            "contract_html_data": {
+                "Id": "230103100301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/10/03-01",
+                        "TechnicalSupervisor": "Nob Sarin",
+                        "Project'sName": "Integrated Farming System",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "Contractor": "Development Agriculture System for Family Organization in Cambodia, [ Em Eng ]",
+                        "Competitivebidding": "Yes ( 03-Jun-2010 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "29-Jun-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "05-Jul-2010",
+                        "Plannedworkcompletiondate": "22-Sep-2010",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Danida NRML",
+                        "Cost": "14,683,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SarNguon",
+                        "Contractor": "TheTrueLifeRehabilitaionAssociation(TLRA)",
+                        "BidValue": "19,162,500R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChoeunVichet",
+                        "Contractor": "PeaceandDevelopmentAidOrganization(PDAO)",
+                        "BidValue": "19,552,500R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhovKoung",
+                        "Contractor": "CostalResourcesInstituteAsiaCambodia(CORiN-ASIACambodia)",
+                        "BidValue": "20,268,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Seurngsavorn",
+                        "Contractor": "OrientalEmpire",
+                        "BidValue": "19,259,900R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SamSamAn",
+                        "Contractor": "AgricultureandNaturalResourceAssociation",
+                        "BidValue": "16,146,350R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ChhonVeasna",
+                        "Contractor": "SocietyDevelopmentAssociationofBuddhism",
+                        "BidValue": "18,690,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "RoeunSovannarith",
+                        "Contractor": "TheCambodianRuralDevelopmentAgency",
+                        "BidValue": "21,780,671R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "OmEro",
+                        "Contractor": "TheNeakPoanOrganizationforDevelopment",
+                        "BidValue": "18,865,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "EmEng",
+                        "Contractor": "DevelopmentAgricultureSystemforFamilyOrganizationinCambodia",
+                        "BidValue": "14,683,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "TouchTry",
+                        "Contractor": "OrganizationDevelopmentForAll(ODA)",
+                        "BidValue": "21,393,900R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "14,683,000",
+                        "Village": "Chamkar Bei",
+                        "Description": "[ 2010111 ] IFS trainings NewDimension #1 : 0.000 Dimension #2 : 0.000 ",
+                        "Bid": "18.000 course",
+                        "InContract": "18.000 course",
+                        "Actualquantity": "18.000 course",
+                        "UnitCost/Estimated": "150,444est. 273,656",
+                        "DiscountRate": "-45 %",
+                        "Total": "2,708,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Jul-2010",
+                        "Actualworkcompletiondate": "06-Dec-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Jul-2010",
+                            "Progress": "30 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "19-Oct-2010",
+                            "Progress": "80 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Dec-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "14,683,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Chicken rising and family vegetable home garden",
+            "project_link": "/pid/project/home/view.castle?pid=c1db11aa-7171-4378-bb33-9dcd011800f0",
+            "project_html_data": {
+                "Pid": "c1db11aa-7171-4378-bb33-9dcd011800f0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "TechnicalAssistant": "Nob Sarin",
+                        "NatureofProject": "Service",
+                        "Name": "Chicken rising and family vegetable home garden",
+                        "Objective": "Poor remote people who live relive on natural resources will got job alternative by provide training and demonstration on chicken rising and family vegetable home garden",
+                        "Relatedcontract(s)": "230103/10/05-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "11,814,000",
+                        "Total": "11,814,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuDoung",
+                        "BeneficiaryTotal": "42",
+                        "BeneficiaryWomen": "23",
+                        "Households": "5"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Rones",
+                        "Description": "IFS trainings New [ 2010111 ]",
+                        "Qty": "18.000 course",
+                        "UnitCost": "237,111",
+                        "Total": "4,268,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Service project"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not in minority people area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Aug-2010",
+                            "Technicalclearancesign-off": "05-Aug-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/10/05-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103100501",
+            "contract_html_data": {
+                "Id": "230103100501",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/10/05-01",
+                        "TechnicalSupervisor": "Nob Sarin",
+                        "Project'sName": "Chicken rising and family vegetable home garden",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "Contractor": "Phnom Pros Organization, [ Toch Malin ]",
+                        "Competitivebidding": "Yes ( 27-Aug-2010 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "09-Sep-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "16-Sep-2010",
+                        "Plannedworkcompletiondate": "23-Nov-2010",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Danida NRML",
+                        "Cost": "7,356,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SarNguon",
+                        "Contractor": "TheTrueLifeRehabilitaionAssociation(TLRA)",
+                        "BidValue": "7,832,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MoSomnit",
+                        "Contractor": "BorsethFarmerArgricultureDevelopmentAssociation(ADFBA)",
+                        "BidValue": "7,505,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "OmEro",
+                        "Contractor": "TheNeakPoanOrganizationforDevelopment",
+                        "BidValue": "9,187,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TochMalin",
+                        "Contractor": "PhnomProsOrganization",
+                        "BidValue": "7,356,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "EmEng",
+                        "Contractor": "DevelopmentAgricultureSystemforFamilyOrganizationinCambodia",
+                        "BidValue": "7,399,469R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "7,356,000",
+                        "Village": "Ou Doung",
+                        "Description": "[ 2010159 ] Demonstration on Integrated farming system NewDimension #1 : 0.000 Dimension #2 : 0.000 ",
+                        "Bid": "5.000 demonstration",
+                        "InContract": "5.000 demonstration",
+                        "Actualquantity": "5.000 demonstration",
+                        "UnitCost/Estimated": "241,120est. 301,840",
+                        "DiscountRate": "-20 %",
+                        "Total": "1,205,600"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Sep-2010",
+                        "Actualworkcompletiondate": "26-Nov-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "18-Oct-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Nov-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "7,356,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road 1,900m length, 4m width",
+            "project_link": "/pid/project/home/view.castle?pid=4e42af32-63d2-479d-a1b8-9e2400e67b44",
+            "project_html_data": {
+                "Pid": "4e42af32-63d2-479d-a1b8-9e2400e67b44",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road 1,900m length, 4m width",
+                        "Objective": "Enhance commune road for easy access of local people in village",
+                        "Relatedcontract(s)": "230103/10/04-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "50,345,511",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,945,511"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Rones",
+                        "BeneficiaryTotal": "837",
+                        "BeneficiaryWomen": "462",
+                        "Households": "112"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chamkar Bei",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,360.750 Volume of earth (m3)",
+                        "Qty": "0.925 km",
+                        "UnitCost": "54,427,580",
+                        "Total": "50,345,512"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "The project size have less environment impact because stay on previous road",
+                            "ApprovebyNCDDon": "17-Sep-2010 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "17-Sep-2010"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project locate on previous road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not locate in minority people area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "07-Sep-2010",
+                            "Technicalclearancesign-off": "17-Sep-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/10/04-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103100401",
+            "contract_html_data": {
+                "Id": "230103100401",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/10/04-01",
+                        "TechnicalSupervisor": "Lim Sophan",
+                        "Project'sName": "Earth road 1,900m length, 4m width",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Tang Kim Sroy, [ Tang Kim Sroy ]",
+                        "Competitivebidding": "Yes ( 04-Oct-2010 )",
+                        "Numberofcontractor": "12",
+                        "Contractsigndate(Form50)": "18-Oct-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Nov-2010",
+                        "Plannedworkcompletiondate": "20-Dec-2010",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "21-Jun-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "47,850,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SayMav",
+                        "Contractor": "SayMav",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "UtThy",
+                        "Contractor": "UtThyAchyvakamSamnangTouTovningTvoePlovTnal",
+                        "BidValue": "27,842,500R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KimSreng",
+                        "Contractor": "KimSreng",
+                        "BidValue": "37,500,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TumSeang",
+                        "Contractor": "SamnangAkpiwatTouTov",
+                        "BidValue": "32,375,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChumSopha",
+                        "Contractor": "SangsongSP",
+                        "BidValue": "25,900,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "HongChanny",
+                        "Contractor": "SangsongSamnangKropPraphet",
+                        "BidValue": "24,975,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SOURNROTANAKPHY",
+                        "Contractor": "SOURNROTANAKPHY",
+                        "BidValue": "31,900,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KaoPutheng",
+                        "Contractor": "SamnoangCheangNhanhCompany",
+                        "BidValue": "34,900,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "PhatSarom",
+                        "Contractor": "ChrunCheurnPharoth",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "TangKimSroy",
+                        "Contractor": "TangKimSroy",
+                        "BidValue": "23,123,000R",
+                        "DiscountRate": "-54%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "LangDyNam",
+                        "Contractor": "SamNangTumneub",
+                        "BidValue": "46,990,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "HuothUsphea",
+                        "Contractor": "VichtorSolutionCo.,Ltd",
+                        "BidValue": "28,675,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "48,450,000",
+                        "Village": "Chamkar Bei",
+                        "Description": "[ 1010101 ] Earth road NewDimension #1 : 4.000 Width (m)Dimension #2 : 4,849.110 Volume of earth (m3)",
+                        "Bid": "0.925 km",
+                        "InContract": "1.900 km",
+                        "Actualquantity": "1.900 km",
+                        "UnitCost/Estimated": "25,000,000est. 54,427,580",
+                        "DiscountRate": "-54 %",
+                        "Total": "47,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Nov-2010",
+                        "Actualworkcompletiondate": "21-Dec-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "13-Dec-2010",
+                            "Progress": "60 %",
+                            "ReportBy": "Chin Vibol",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "21-Dec-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Sosamphors Chin",
+                            "Note": "Second Payment"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "19380000R",
+                        "Net": "18810000R",
+                        "Tax": "570000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "18780000R",
+                        "Net": "18227647R",
+                        "Tax": "552353R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Dec-2010",
+                        "Source": "LC",
+                        "Description": "2ndpayment",
+                        "Gross": "600000R",
+                        "Net": "582353R",
+                        "Tax": "17647R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "23-Jun-2011",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "9690000R",
+                        "Net": "9405000R",
+                        "Tax": "285000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "48,450,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "47,025,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,425,000R",
+                        "ContractValue(B)Gross": "48,450,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair​ 822m, 4 width and pipe culverts 0.6m",
+            "project_link": "/pid/project/home/view.castle?pid=e56ea438-d014-4f68-9d7e-9f7900eef4c9",
+            "project_html_data": {
+                "Pid": "e56ea438-d014-4f68-9d7e-9f7900eef4c9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chea Darith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair​ 822m, 4 width and pipe culverts 0.6m",
+                        "Objective": "People in the commune have road for traveling and improving their living's standard.",
+                        "Relatedcontract(s)": "230103/11/01-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "59,363,800",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "60,363,800"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuDoung",
+                        "BeneficiaryTotal": "415",
+                        "BeneficiaryWomen": "220",
+                        "Households": "103"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ou Doung",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,605.140 Volume of earth (m3)",
+                        "Qty": "0.822 km",
+                        "UnitCost": "67,544,100",
+                        "Total": "55,521,250"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.",
+                            "ApprovebyNCDDon": "03-Oct-2011 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "05-Oct-2011"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Approvaldate": "05-Oct-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Jun-2011",
+                            "Technicalclearancesign-off": "07-Oct-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103110101",
+            "contract_html_data": {
+                "Id": "230103110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/11/01-01",
+                        "TechnicalSupervisor": "Chea Darith",
+                        "Project'sName": "Earth road repair​ 822m, 4 width and pipe culverts 0.6m",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Tang Kim Sroy, [ Tang Kim Sroy ]",
+                        "Competitivebidding": "Yes ( 25-Oct-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "07-Nov-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Nov-2011",
+                        "Plannedworkcompletiondate": "20-Dec-2011",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "12-Sep-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "48,160,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "800,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChumSopha",
+                        "Contractor": "SangsongSP",
+                        "BidValue": "55,676,000R",
+                        "DiscountRate": "-85%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HongChanny",
+                        "Contractor": "SangsongSamnangKropPraphet",
+                        "BidValue": "53,832,000R",
+                        "DiscountRate": "-85%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TangKimSroy",
+                        "Contractor": "TangKimSroy",
+                        "BidValue": "48,000,000R",
+                        "DiscountRate": "-87%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "HunPin",
+                        "BidValue": "56,998,000R",
+                        "DiscountRate": "-84%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "48,960,000",
+                        "Village": "Ou Doung",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 0.600 Diameter (mm)Dimension #2 : 5.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "1,146,000est. 305,720,000",
+                        "DiscountRate": "-100 %",
+                        "Total": "1,146,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Nov-2011",
+                        "Actualworkcompletiondate": "23-Dec-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "14-Dec-2011",
+                            "Progress": "60 %",
+                            "ReportBy": "Chheth Bunloeur",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "23-Dec-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Chheth Bunloeur",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "19584000R",
+                        "Net": "19008000R",
+                        "Tax": "576000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "18784000R",
+                        "Net": "18231529R",
+                        "Tax": "552471R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Dec-2011",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "800000R",
+                        "Net": "776471R",
+                        "Tax": "23529R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "9792000R",
+                        "Net": "9504000R",
+                        "Tax": "288000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "48,960,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "47,520,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,440,000R",
+                        "ContractValue(B)Gross": "48,960,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Unlined earth canal repair, length 1140 meters",
+            "project_link": "/pid/project/home/view.castle?pid=b7247108-b0ff-4055-bf9d-a0bb011ef6ff",
+            "project_html_data": {
+                "Pid": "b7247108-b0ff-4055-bf9d-a0bb011ef6ff",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Unlined earth canal repair, length 1140 meters",
+                        "Objective": "Have canal, have water, eases in wet and dry season’s cultivation, reduces food shortage as well as improves people's living standard which contributes to poverty reduction.",
+                        "Relatedcontract(s)": "230103/12/01-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "97,487,200",
+                        "LocalRevenue": "800,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "98,287,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhnumLeav",
+                        "BeneficiaryTotal": "1,200",
+                        "BeneficiaryWomen": "680",
+                        "Households": "400"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phnum Leav",
+                        "Description": "Unlined Earth canal Upgrade [ 1020101 ]Dimension #1 : 0.770 Depth (m)Dimension #2 : 12.950 Average width (m)",
+                        "Qty": "1.140 km",
+                        "UnitCost": "77,764,246",
+                        "Total": "88,651,240"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "27-Jul-2012 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "27-Jul-2012"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Mar-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "18-Jul-2012",
+                            "Technicalclearancesign-off": "31-Jul-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103120101",
+            "contract_html_data": {
+                "Id": "230103120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/12/01-01( 2 )",
+                        "TechnicalSupervisor": "Lim Sophan",
+                        "Project'sName": "Unlined earth canal repair, length 1140 meters",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Hong Meng, [ Sieng Hour ]",
+                        "Competitivebidding": "Yes ( 28-Aug-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "19-Sep-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "14-Dec-2012",
+                        "Plannedworkcompletiondate": "28-Feb-2013",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "97,487,200"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "800,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "InSothea",
+                        "Contractor": "ChanReasmei",
+                        "BidValue": "88,250,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TangKimSroy",
+                        "Contractor": "TangKimSroy",
+                        "BidValue": "84,250,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SiengHour",
+                        "Contractor": "HongMeng",
+                        "BidValue": "83,220,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "98,287,200",
+                        "Village": "Phnum Leav",
+                        "Description": "[ 1020101 ] Unlined Earth canal UpgradeDimension #1 : 0.770 Depth (m)Dimension #2 : 12.950 Average width (m)",
+                        "Bid": "1.140 km",
+                        "InContract": "1.320 km",
+                        "Actualquantity": "1.320 km",
+                        "UnitCost/Estimated": "73,000,000est. 77,764,246",
+                        "DiscountRate": "-6 %",
+                        "Total": "96,360,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "14-Dec-2012",
+                        "Actualworkcompletiondate": "28-Feb-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "31-Jan-2013",
+                            "Progress": "60 %",
+                            "ReportBy": "Chheth Bunloeur",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "28-Feb-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Chheth Bunloeur",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "18-Feb-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "39314880R",
+                        "Net": "38158560R",
+                        "Tax": "1156320R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "18-Feb-2013",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "38514880R",
+                        "Net": "37382089R",
+                        "Tax": "1132791R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "18-Feb-2013",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "800000R",
+                        "Net": "776471R",
+                        "Tax": "23529R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "19657440R",
+                        "Net": "19079280R",
+                        "Tax": "578160R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "98,287,200R",
+                        "ActualPaymentCumulativeToDate(A)Net": "95,396,400R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,890,800R",
+                        "ContractValue(B)Gross": "98,287,200R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road reparation,1296m with 4m-width and pipe culvert…",
+            "project_link": "/pid/project/home/view.castle?pid=12b84009-0829-4c5e-8805-a1f700ea8ef6",
+            "project_html_data": {
+                "Pid": "12b84009-0829-4c5e-8805-a1f700ea8ef6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road reparation,1296m with 4m-width and pipe culvert 1 place",
+                        "Objective": "Improve a road in commune for traveling of people in village",
+                        "Relatedcontract(s)": "230102/13/01-02 ",
+                        "CreatedBy": "Kheng Yon",
+                        "Mobile": "012 226 427"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "42,449,200",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "42,849,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChamkaChek",
+                        "BeneficiaryTotal": "1,120",
+                        "BeneficiaryWomen": "678",
+                        "Households": "243"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chamka Chek",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,261.000 Volume of earth (m3)",
+                        "Qty": "0.850 km",
+                        "UnitCost": "47,429,059",
+                        "Total": "40,314,700"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "30-Apr-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "05-Jan-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Apr-2013",
+                            "Technicalclearancesign-off": "06-May-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230102/13/01-02",
+            "contract_link": "/pid/contract/home/view.castle?id=230102130102",
+            "contract_html_data": {
+                "Id": "230102130102",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230102/13/01-02( 1 )",
+                        "TechnicalSupervisor": "Lim Sophan",
+                        "Project'sName": "Earth road reparation,1296m with 4m-width and pipe culvert 1 place",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Tong En Company, [ Tong En ]",
+                        "Competitivebidding": "Yes ( 24-May-2013 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "07-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Aug-2013",
+                        "Plannedworkcompletiondate": "16-Aug-2013",
+                        "CreatedBy": "Kheng Yon",
+                        "Mobile": "012 226 427",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "31,220,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "InSothea",
+                        "Contractor": "ChanReasmei",
+                        "BidValue": "36,000,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TongEn",
+                        "Contractor": "TongEnCompany",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BunSophatpheakdey",
+                        "Contractor": "SophatphakdeyCompany",
+                        "BidValue": "35,500,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TangKimSroy",
+                        "Contractor": "TangKimSroy",
+                        "BidValue": "32,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "31,620,000",
+                        "Village": "Chamka Chek",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,261.000 Volume of earth (m3)",
+                        "Bid": "0.850 km",
+                        "InContract": "0.850 km",
+                        "Actualquantity": "0.850 km",
+                        "UnitCost/Estimated": "36,352,941est. 47,429,059",
+                        "DiscountRate": "-23 %",
+                        "Total": "30,900,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Jul-2013",
+                        "Actualworkcompletiondate": "16-Aug-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Aug-2013",
+                            "Progress": "40 %",
+                            "ReportBy": "Kheng Yon",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "16-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Kheng Yon",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "31,620,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "1line of canal rehabilitation, 550m and 1 place of pipe…",
+            "project_link": "/pid/project/home/view.castle?pid=a1b6b763-fd24-45ee-a8d7-a1f700f1e8f6",
+            "project_html_data": {
+                "Pid": "a1b6b763-fd24-45ee-a8d7-a1f700f1e8f6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "1line of canal rehabilitation, 550m and 1 place of pipe with gate",
+                        "Objective": "People in village have a canal for irrigating of crops, enough water for using and have a road for traveling as well as transport agricultural yields to market. ",
+                        "Relatedcontract(s)": "230103/13/01-01 ",
+                        "CreatedBy": "Kheng Yon",
+                        "Mobile": "012 226 427"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "37,754,000",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "5,196,800",
+                        "Other": "0",
+                        "Total": "43,350,800"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyTaKoy",
+                        "BeneficiaryTotal": "1,503",
+                        "BeneficiaryWomen": "515",
+                        "Households": "2,543"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Ta Koy",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.600 Depth (m)Dimension #2 : 7.420 Average width (m)",
+                        "Qty": "0.550 km",
+                        "UnitCost": "53,292,600",
+                        "Total": "29,310,930"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.New irrigation system",
+                            "ApprovebyNCDDon": "30-Apr-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "04-Jan-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Apr-2013",
+                            "Technicalclearancesign-off": "06-May-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103130101",
+            "contract_html_data": {
+                "Id": "230103130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/13/01-01( 2 )",
+                        "TechnicalSupervisor": "Lim Sophan",
+                        "Project'sName": "1line of canal rehabilitation, 550m and 1 place of pipe with gate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Tong En Company, [ Tong En ]",
+                        "Competitivebidding": "Yes ( 27-May-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "07-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-Jan-2014",
+                        "Plannedworkcompletiondate": "15-Feb-2014",
+                        "CreatedBy": "Kheng Yon",
+                        "Mobile": "012 226 427",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "31,220,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "InSothea",
+                        "Contractor": "ChanReasmei",
+                        "BidValue": "31,100,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TongEn",
+                        "Contractor": "TongEnCompany",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BunSophatpheakdey",
+                        "Contractor": "SophatphakdeyCompany",
+                        "BidValue": "32,370,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "31,620,000",
+                        "Village": "Prey Ta Koy",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.600 Depth (m)Dimension #2 : 7.420 Average width (m)",
+                        "Bid": "0.550 km",
+                        "InContract": "0.550 km",
+                        "Actualquantity": "0.550 km",
+                        "UnitCost/Estimated": "54,545,455est. 53,292,600",
+                        "DiscountRate": "2 %",
+                        "Total": "30,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Aug-2013",
+                        "Actualworkcompletiondate": "13-Feb-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "13-Feb-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Kheng Yon",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "31,620,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road​ at pongtouk  village",
+            "project_link": "/pid/project/home/view.castle?pid=44005f11-d4c2-4fe2-b74d-a3e20090eed6",
+            "project_html_data": {
+                "Pid": "44005f11-d4c2-4fe2-b74d-a3e20090eed6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road​ at pongtouk  village",
+                        "Objective": "At the end of 2014 road at phnom leav village and chamkabey village will finish  people in and outside the village can travel during dry and  rainy season",
+                        "Relatedcontract(s)": "230103/14/01-01 ",
+                        "CreatedBy": "Kheng Yon",
+                        "Mobile": "012 226 427"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "95,737,000",
+                        "LocalRevenue": "800,000",
+                        "CarryOver": "37,944,000",
+                        "Other": "0",
+                        "Total": "134,481,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuDoung",
+                        "BeneficiaryTotal": "197",
+                        "BeneficiaryWomen": "89",
+                        "Households": "37"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phnum Leav",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,964.000 Volume of earth (m3)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "67,861,000",
+                        "Total": "33,930,500"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "03-Jul-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "14-Jul-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "07-Feb-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Jun-2014",
+                            "Technicalclearancesign-off": "30-Jun-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "230103/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=230103140101",
+            "contract_html_data": {
+                "Id": "230103140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Contract": "230103/14/01-01",
+                        "TechnicalSupervisor": "Lim Sophan",
+                        "Project'sName": "Earth road​ at pongtouk  village",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Luy Hang, [ Luy Hang ]",
+                        "Competitivebidding": "Yes ( 25-Sep-2014 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "13-Oct-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Nov-2014",
+                        "Plannedworkcompletiondate": "11-Dec-2014",
+                        "CreatedBy": "Kheng Yon",
+                        "Mobile": "012 226 427",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "86,786,700"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "800,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LuyHang",
+                        "Contractor": "LuyHang",
+                        "BidValue": "42,800,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TongEn",
+                        "Contractor": "TongEnCompany",
+                        "BidValue": "49,800,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "YemSamphot",
+                        "Contractor": "SamnoangMorokatCompany",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SengChanmonyrath",
+                        "Contractor": "SamnoangSengRy",
+                        "BidValue": "59,500,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "TangKimSroy",
+                        "Contractor": "TangKimSroy",
+                        "BidValue": "43,000,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "55,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "95,308,800",
+                        "Village": "Chamkar Bei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,856.000 Volume of earth (m3)",
+                        "Bid": "0.500 km",
+                        "InContract": "1.170 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "72,000,000est. 71,014,000",
+                        "DiscountRate": "1 %",
+                        "Total": "84,240,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "87,586,700R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road​ at  boungtick Commune",
+            "project_link": "/pid/project/home/view.castle?pid=988dff76-2984-40dd-a93d-a50c00eda281",
+            "project_html_data": {
+                "Pid": "988dff76-2984-40dd-a93d-a50c00eda281",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 230103 ] Kep \\ Damnak Chang'aeur \\ Pong Tuek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Lim Sophan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road​ at  boungtick Commune",
+                        "Objective": "at the end of 2015 2 road and antongsor and breavtakoy villages are finish so people inside and outside the village can travel easily, during dry and rainy season",
+                        "CreatedBy": "Kheng Yon",
+                        "Mobile": "012 226 427"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "68,999,850",
+                        "LocalRevenue": "800,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "69,799,850"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyTaKoy",
+                        "BeneficiaryTotal": "875",
+                        "BeneficiaryWomen": "503",
+                        "Households": "175"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Ta Koy",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,373.000 Volume of earth (m3)",
+                        "Qty": "0.625 km",
+                        "UnitCost": "66,966,000",
+                        "Total": "41,853,750"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "06-Jul-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "07-Jul-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "09-Jan-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "14-Jul-2015",
+                            "Technicalclearancesign-off": "16-Jul-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        }
+    ]
+}

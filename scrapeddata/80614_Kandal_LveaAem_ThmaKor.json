@@ -1,0 +1,1850 @@
+{
+    "location": {
+        "province": "Kandal",
+        "district": "Lvea Aem",
+        "commune": "Thma Kor"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=6d05f65e-3df9-48f1-9b5f-9c9400fac8f7",
+            "project_html_data": {
+                "Pid": "6d05f65e-3df9-48f1-9b5f-9c9400fac8f7",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "At the end of the year 2009 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080614/09/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "33,732,875",
+                        "LocalRevenue": "250,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "33,982,875"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhlovTrei",
+                        "BeneficiaryTotal": "2,222",
+                        "BeneficiaryWomen": "1,078",
+                        "Households": "462"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phlov Trei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 4,827.000 Volume of earth (m3)",
+                        "Qty": "1.025 km",
+                        "UnitCost": "32,910,146",
+                        "Total": "33,732,900"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "28-Feb-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Mar-2009",
+                            "Technicalclearancesign-off": "11-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614090101",
+            "contract_html_data": {
+                "Id": "080614090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/09/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Cheng Hak, [ Cheng Hak ]",
+                        "Competitivebidding": "Yes ( 22-May-2009 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "29-May-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jun-2009",
+                        "Plannedworkcompletiondate": "12-Jun-2009",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "31-Dec-2009",
+                        "Closeddateon": "01-Jan-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "28,590,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "250,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HoeungTry",
+                        "Contractor": "HoeungTry",
+                        "BidValue": "32,500,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChengHak",
+                        "Contractor": "ChengHak",
+                        "BidValue": "28,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HenChenda",
+                        "Contractor": "ChendaSangsang",
+                        "BidValue": "32,045,600R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "28,840,000",
+                        "Village": "Phlov Trei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 4,827.000 Volume of earth (m3)",
+                        "Bid": "1.025 km",
+                        "InContract": "1.025 km",
+                        "Actualquantity": "1.025 km",
+                        "UnitCost/Estimated": "27,317,073est. 32,910,146",
+                        "DiscountRate": "-17 %",
+                        "Total": "28,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jun-2009",
+                        "Actualworkcompletiondate": "01-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "26-Jun-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "01-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "13-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "11536000R",
+                        "Net": "11189920R",
+                        "Tax": "346080R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "13-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "11536000R",
+                        "Net": "11189920R",
+                        "Tax": "346080R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "20-Jan-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "5518000R",
+                        "Net": "5377660R",
+                        "Tax": "140340R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "20-Jan-2010",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentatfinalstep",
+                        "Gross": "250000R",
+                        "Net": "242500R",
+                        "Tax": "7500R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "28,840,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "28,000,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "840,000R",
+                        "ContractValue(B)Gross": "28,840,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand Road repair",
+            "project_link": "/pid/project/home/view.castle?pid=43e45a08-98e4-483a-b4ee-9dcf00b60af0",
+            "project_html_data": {
+                "Pid": "43e45a08-98e4-483a-b4ee-9dcf00b60af0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "SORM SREYTOL",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road repair",
+                        "Objective": "At the end of the year 2010 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080614/10/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "62,401,246",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "62,701,246"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ThmaKor",
+                        "BeneficiaryTotal": "3,977",
+                        "BeneficiaryWomen": "2,120",
+                        "Households": "773"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Kor",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 3,304.310 Volume of earth (m3)",
+                        "Qty": "1.635 km",
+                        "UnitCost": "36,445,824",
+                        "Total": "59,588,923"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road",
+                            "Approvaldate": "02-Jan-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-Jun-2010",
+                            "Technicalclearancesign-off": "09-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614100101",
+            "contract_html_data": {
+                "Id": "080614100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/10/01-01",
+                        "TechnicalSupervisor": "SORM SREYTOL",
+                        "Project'sName": "Sand Road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ly Sokim, [ Ly Sokim ]",
+                        "Competitivebidding": "Yes ( 26-Jul-2010 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "02-Aug-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Aug-2010",
+                        "Plannedworkcompletiondate": "25-Nov-2010",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "38,460,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "VaKhun",
+                        "Contractor": "VaKhun",
+                        "BidValue": "44,000,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HuyVansy",
+                        "Contractor": "HuyVansy",
+                        "BidValue": "44,500,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LySokim",
+                        "Contractor": "LySokim",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MaoLiva",
+                        "Contractor": "MaoLiva",
+                        "BidValue": "38,200,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "YimPhirun",
+                        "Contractor": "YimPhirun",
+                        "BidValue": "39,800,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "MaoMuoyna",
+                        "Contractor": "MaoMuoyna",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "38,760,000",
+                        "Village": "Thma Kor",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 3,304.310 Volume of earth (m3)",
+                        "Bid": "1.635 km",
+                        "InContract": "1.635 km",
+                        "Actualquantity": "1.635 km",
+                        "UnitCost/Estimated": "23,241,590est. 36,445,824",
+                        "DiscountRate": "-36 %",
+                        "Total": "38,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "13-Mar-2011",
+                        "Actualworkcompletiondate": "26-Apr-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-Apr-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Apr-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-May-2011",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "15504000R",
+                        "Net": "15048000R",
+                        "Tax": "456000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-May-2011",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "15504000R",
+                        "Net": "15048000R",
+                        "Tax": "456000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "16-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "7452000R",
+                        "Net": "7232824R",
+                        "Tax": "219176R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "16-Dec-2011",
+                        "Source": "LC",
+                        "Description": "3rd",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "38,760,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "37,620,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,140,000R",
+                        "ContractValue(B)Gross": "38,760,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand Road",
+            "project_link": "/pid/project/home/view.castle?pid=08605c40-de83-4a08-b930-9f4b011d0a69",
+            "project_html_data": {
+                "Pid": "08605c40-de83-4a08-b930-9f4b011d0a69",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080614/11/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "57,855,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "57,855,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhlovTrei",
+                        "BeneficiaryTotal": "2,070",
+                        "BeneficiaryWomen": "1,060",
+                        "Households": "355"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phlov Trei",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 8,085.000 Volume of earth (m3)",
+                        "Qty": "1.530 km",
+                        "UnitCost": "37,813,725",
+                        "Total": "57,855,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "06-Jul-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Jul-2011",
+                            "Technicalclearancesign-off": "22-Aug-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614110101",
+            "contract_html_data": {
+                "Id": "080614110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/11/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Sand Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Thong Kinsrun, [ Thong Kinsrun ]",
+                        "Competitivebidding": "Yes ( 12-Dec-2011 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "23-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Mar-2012",
+                        "Plannedworkcompletiondate": "30-Apr-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Dateofabandon": "16-Jun-2012",
+                        "": "Company Thong Kimsrung not working"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "29,937,696"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NhemChinda",
+                        "Contractor": "NhemChinda",
+                        "BidValue": "57,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhitHarch",
+                        "Contractor": "ChhitHarch",
+                        "BidValue": "57,375,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "IvSavorn",
+                        "Contractor": "IvSavorn",
+                        "BidValue": "45,900,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ThongKinsrun",
+                        "Contractor": "ThongKinsrun",
+                        "BidValue": "29,644,800R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MaoMouyna",
+                        "Contractor": "MaoMouyna",
+                        "BidValue": "43,000,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "48,807,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "",
+                        "Contractor": "YouDany",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "30,237,696",
+                        "Village": "Phlov Trei",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 8,085.000 Volume of earth (m3)",
+                        "Bid": "1.530 km",
+                        "InContract": "1.530 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "19,375,686est. 37,813,725",
+                        "DiscountRate": "-49 %",
+                        "Total": "29,644,800"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "30,237,696R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Repair Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=1ecbeb62-c71e-4dbc-a55f-a02900a0776d",
+            "project_html_data": {
+                "Pid": "1ecbeb62-c71e-4dbc-a55f-a02900a0776d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Repair Earth Road",
+                        "Objective": "the year 2012 people will have a road for use",
+                        "Relatedcontract(s)": "080614/12/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "77,028,696",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "77,028,696"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ThmaKor",
+                        "BeneficiaryTotal": "1,767",
+                        "BeneficiaryWomen": "889",
+                        "Households": "422"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Kor",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 11,711.020 Volume of earth (m3)",
+                        "Qty": "0.734 km",
+                        "UnitCost": "104,943,728",
+                        "Total": "77,028,696"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "17-Mar-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not located  in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Mar-2012",
+                            "Technicalclearancesign-off": "26-Mar-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614120101",
+            "contract_html_data": {
+                "Id": "080614120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/12/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Repair Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "(​ PLL ), [  ]",
+                        "Competitivebidding": "Yes ( 11-Apr-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "20-Apr-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Apr-2012",
+                        "Plannedworkcompletiondate": "10-Jul-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "78,086,796"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LySokim",
+                        "Contractor": "LySokim",
+                        "BidValue": "77,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "76,849,800R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KemSakypheap",
+                        "Contractor": "KemSakypheap",
+                        "BidValue": "79,272,000R",
+                        "DiscountRate": "3%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "78,386,796",
+                        "Village": "Thma Kor",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 11,711.020 Volume of earth (m3)",
+                        "Bid": "0.734 km",
+                        "InContract": "0.734 km",
+                        "Actualquantity": "0.734 km",
+                        "UnitCost/Estimated": "104,700,000est. 104,943,728",
+                        "DiscountRate": "0 %",
+                        "Total": "76,849,800"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "14-May-2013",
+                        "Actualworkcompletiondate": "27-Jun-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Jun-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "27-Jun-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "31354718R",
+                        "Net": "30432520R",
+                        "Tax": "922198R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "31354718R",
+                        "Net": "30432520R",
+                        "Tax": "922198R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "62,709,436R",
+                        "ActualPaymentCumulativeToDate(A)Net": "60,865,040R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,844,396R",
+                        "ContractValue(B)Gross": "78,386,796R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=352f36b2-034d-4a20-a11a-a1ed00a16b16",
+            "project_html_data": {
+                "Pid": "352f36b2-034d-4a20-a11a-a1ed00a16b16",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "At the end of the year 2013 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080614/13/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "81,400,944",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "81,400,944"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhlovTrei",
+                        "BeneficiaryTotal": "2,209",
+                        "BeneficiaryWomen": "1,117",
+                        "Households": "557"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phlov Trei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,860.230 Volume of earth (m3)",
+                        "Qty": "0.835 km",
+                        "UnitCost": "26,577,056",
+                        "Total": "22,191,842"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project construct out of safeguard watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Jan-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Feb-2013",
+                            "Technicalclearancesign-off": "07-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614130101",
+            "contract_html_data": {
+                "Id": "080614130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/13/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Contractsigndate(Form50)": "14-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "14-Jun-2013",
+                        "Plannedworkcompletiondate": "12-Jul-2013",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "80,678,820"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "80,978,820",
+                        "Village": "Phlov Trei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,860.230 Volume of earth (m3)",
+                        "Bid": "0.835 km",
+                        "InContract": "0.835 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "25,977,246est. 26,577,056",
+                        "DiscountRate": "-2 %",
+                        "Total": "21,691,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jun-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Aug-2013",
+                            "Progress": "90 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "18-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "32391528R",
+                        "Net": "31438836R",
+                        "Tax": "952692R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "32391528R",
+                        "Net": "31438836R",
+                        "Tax": "952692R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "64,783,056R",
+                        "ActualPaymentCumulativeToDate(A)Net": "62,877,672R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,905,384R",
+                        "ContractValue(B)Gross": "80,978,820R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road Repair",
+            "project_link": "/pid/project/home/view.castle?pid=0755eda6-f247-4892-87eb-a31b00b719bf",
+            "project_html_data": {
+                "Pid": "0755eda6-f247-4892-87eb-a31b00b719bf",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road Repair",
+                        "Objective": "Enable in traveling and transportation.",
+                        "Relatedcontract(s)": "080614/14/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "65,859,111",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,859,111"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhlovTrei",
+                        "BeneficiaryTotal": "2,235",
+                        "BeneficiaryWomen": "1,127",
+                        "Households": "561"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phlov Trei",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 4,074.070 Volume of earth (m3)",
+                        "Qty": "0.310 km",
+                        "UnitCost": "212,448,745",
+                        "Total": "65,859,111"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project construct out of safeguard watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "02-Feb-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Feb-2014",
+                            "Technicalclearancesign-off": "15-Mar-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614140101",
+            "contract_html_data": {
+                "Id": "080614140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/14/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Road Repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ly Limheng, [ Ly Limheng ]",
+                        "Competitivebidding": "Yes ( 09-Apr-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "21-Apr-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Apr-2014",
+                        "Plannedworkcompletiondate": "25-May-2014",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "72,143,871"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MaoLavy",
+                        "Contractor": "(M.L.V)",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BoChakriya",
+                        "Contractor": "BoChakriya",
+                        "BidValue": "48,700,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "44,000,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "72,443,871",
+                        "Village": "Phlov Trei",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 6.000 Width (m)Dimension #2 : 4,074.070 Volume of earth (m3)",
+                        "Bid": "0.310 km",
+                        "InContract": "0.464 km",
+                        "Actualquantity": "0.464 km",
+                        "UnitCost/Estimated": "141,935,484est. 212,448,745",
+                        "DiscountRate": "-33 %",
+                        "Total": "65,858,065"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Apr-2014",
+                        "Actualworkcompletiondate": "04-Jul-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "07-May-2014",
+                            "Progress": "25 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "11-Jun-2014",
+                            "Progress": "90 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "04-Jul-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "72,443,871R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road Repair",
+            "project_link": "/pid/project/home/view.castle?pid=83dc65c9-b00b-4e16-99b5-a491010d0c09",
+            "project_html_data": {
+                "Pid": "83dc65c9-b00b-4e16-99b5-a491010d0c09",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road Repair",
+                        "Objective": "Enable in traveling and transportation.",
+                        "Relatedcontract(s)": "080614/15/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "64,025,750",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "64,025,750"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhlovTrei",
+                        "BeneficiaryTotal": "1,666",
+                        "BeneficiaryWomen": "861",
+                        "Households": "414"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phlov Trei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 3,616.600 Volume of earth (m3)",
+                        "Qty": "0.288 km",
+                        "UnitCost": "222,311,632",
+                        "Total": "64,025,750"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project construct out of safeguard watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-Jan-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Jan-2015",
+                            "Technicalclearancesign-off": "25-Feb-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614150101",
+            "contract_html_data": {
+                "Id": "080614150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/15/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Road Repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Moa Liva, [ Moa Liva ]",
+                        "Competitivebidding": "Yes ( 18-Mar-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "26-Mar-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "08-Apr-2015",
+                        "Plannedworkcompletiondate": "08-May-2015",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "70,056,271"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BoChakriya",
+                        "Contractor": "BoChakriya",
+                        "BidValue": "41,400,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "48,999,744R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MoaLiva",
+                        "Contractor": "MoaLiva",
+                        "BidValue": "41,300,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "70,356,271",
+                        "Village": "Phlov Trei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 3,616.600 Volume of earth (m3)",
+                        "Bid": "0.288 km",
+                        "InContract": "0.481 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "143,402,778est. 222,311,632",
+                        "DiscountRate": "-35 %",
+                        "Total": "68,976,736"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "08-Apr-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Jun-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "03-Jul-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "70,356,271R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=317c4477-d7fe-49a4-847a-a65800f9f21d",
+            "project_html_data": {
+                "Pid": "317c4477-d7fe-49a4-847a-a65800f9f21d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road rehabilitation",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080614/16/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "46,285,236",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "46,285,236"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ThmaKor",
+                        "BeneficiaryTotal": "1,338",
+                        "BeneficiaryWomen": "696",
+                        "Households": "345"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Kor",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 2,822.220 Volume of earth (m3)",
+                        "Qty": "0.356 km",
+                        "UnitCost": "130,014,708",
+                        "Total": "46,285,236"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "04-Feb-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Feb-2016",
+                            "Technicalclearancesign-off": "05-May-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614160101",
+            "contract_html_data": {
+                "Id": "080614160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/16/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Moa Liva, [ Moa Liva ]",
+                        "Competitivebidding": "Yes ( 23-May-2016 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "23-Jun-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "24-Jun-2016",
+                        "Plannedworkcompletiondate": "10-Jul-2016",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,783,764"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PechAy",
+                        "Contractor": "PechAy",
+                        "BidValue": "43,970,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "53,400,000R",
+                        "DiscountRate": "15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MoaLiva",
+                        "Contractor": "MoaLiva",
+                        "BidValue": "39,100,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,983,764",
+                        "Village": "Thma Kor",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 2,822.220 Volume of earth (m3)",
+                        "Bid": "0.356 km",
+                        "InContract": "0.422 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "109,831,461est. 130,014,708",
+                        "DiscountRate": "-16 %",
+                        "Total": "46,348,877"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "24-Jun-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Aug-2016",
+                            "Progress": "10 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "25-Apr-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "50,983,764R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=e0c14103-2e4b-4a1a-a990-aa0f011d323a",
+            "project_html_data": {
+                "Pid": "e0c14103-2e4b-4a1a-a990-aa0f011d323a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road rehabilitation",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080614/17/01-01 ",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "65,960,331",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,960,331"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhlovTrei",
+                        "BeneficiaryTotal": "2,219",
+                        "BeneficiaryWomen": "1,198",
+                        "Households": "563"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phlov Trei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 4,969.000 Volume of earth (m3)",
+                        "Qty": "0.731 km",
+                        "UnitCost": "90,233,012",
+                        "Total": "65,960,331"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "05-Aug-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Jul-2017",
+                            "Technicalclearancesign-off": "12-Jul-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080614/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080614170101",
+            "contract_html_data": {
+                "Id": "080614170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80614 ] Kandal \\ Lvea Aem \\ Thma Kor",
+                        "Contract": "080614/17/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Moa Liva, [ Moa Liva ]",
+                        "Competitivebidding": "Yes ( 30-Aug-2017 )",
+                        "Numberofcontractor": "2",
+                        "Contractsigndate(Form50)": "22-Dec-2017 (114 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Dec-2017",
+                        "Plannedworkcompletiondate": "25-Feb-2018",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "72,375,923"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BoChakriya",
+                        "Contractor": "BoChakriya",
+                        "BidValue": "65,424,500R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MoaLiva",
+                        "Contractor": "MoaLiva",
+                        "BidValue": "65,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "72,575,924",
+                        "Village": "Phlov Trei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 4,969.000 Volume of earth (m3)",
+                        "Bid": "0.731 km",
+                        "InContract": "0.742 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "88,919,289est. 90,233,012",
+                        "DiscountRate": "-1 %",
+                        "Total": "65,978,112"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "27-Dec-2017",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "08-Feb-2018",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "21-Mar-2018",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "72,575,923R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

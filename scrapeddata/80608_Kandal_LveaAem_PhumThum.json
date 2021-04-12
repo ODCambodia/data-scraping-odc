@@ -1,0 +1,1576 @@
+{
+    "location": {
+        "province": "Kandal",
+        "district": "Lvea Aem",
+        "commune": "Phum Thum"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=0d026873-e5bd-4750-8755-9c7e00fb5eb4",
+            "project_html_data": {
+                "Pid": "0d026873-e5bd-4750-8755-9c7e00fb5eb4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "At the end of the year 2009 people will have good road for traveling",
+                        "Relatedcontract(s)": "080608/09/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "36,000,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "36,200,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekTaPrang",
+                        "BeneficiaryTotal": "1,452",
+                        "BeneficiaryWomen": "767",
+                        "Households": "288"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ta Prang",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 4,765.000 Volume of earth (m3)",
+                        "Qty": "1.100 km",
+                        "UnitCost": "28,748,273",
+                        "Total": "31,623,100"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "The project upgraded on existing road with more expansion",
+                            "Approvaldate": "30-Jan-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Mar-2009",
+                            "Technicalclearancesign-off": "11-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080608/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080608090101",
+            "contract_html_data": {
+                "Id": "080608090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Contract": "080608/09/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mao Liva, [ Mao Liva ]",
+                        "Competitivebidding": "Yes ( 22-May-2009 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "29-May-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Jun-2009",
+                        "Plannedworkcompletiondate": "30-Jul-2009",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "31-Dec-2009",
+                        "Closeddateon": "22-Jan-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "32,039,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HoeungTry",
+                        "Contractor": "HoeungTry",
+                        "BidValue": "31,600,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MaoLiva",
+                        "Contractor": "MaoLiva",
+                        "BidValue": "31,300,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HoeungKeng",
+                        "Contractor": "HoeungKeng",
+                        "BidValue": "31,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "32,239,000",
+                        "Village": "Preaek Ta Prang",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 4,765.000 Volume of earth (m3)",
+                        "Bid": "1.100 km",
+                        "InContract": "1.100 km",
+                        "Actualquantity": "1.100 km",
+                        "UnitCost/Estimated": "28,454,545est. 28,748,273",
+                        "DiscountRate": "-1 %",
+                        "Total": "31,300,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "26-Jun-2009",
+                        "Actualworkcompletiondate": "22-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "11-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "20-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "12895600R",
+                        "Net": "12508732R",
+                        "Tax": "386868R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "20-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "12695600R",
+                        "Net": "12314732R",
+                        "Tax": "380868R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "20-Aug-2009",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentat2ndstep(100%)",
+                        "Gross": "200000R",
+                        "Net": "194000R",
+                        "Tax": "6000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "08-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "6447800R",
+                        "Net": "6282536R",
+                        "Tax": "165264R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "32,239,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "31,300,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "939,000R",
+                        "ContractValue(B)Gross": "32,239,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=48045d5f-ab11-4e69-9e96-9dbf00fc90e0",
+            "project_html_data": {
+                "Pid": "48045d5f-ab11-4e69-9e96-9dbf00fc90e0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "At the end of the year 2010 people will have good road for traveling",
+                        "Relatedcontract(s)": "080608/10/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "54,538,431",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "54,738,431"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKrouch",
+                        "BeneficiaryTotal": "2,300",
+                        "BeneficiaryWomen": "1,196",
+                        "Households": "471"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Krouch",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,751.300 Volume of earth (m3)",
+                        "Qty": "1.200 km",
+                        "UnitCost": "40,140,293",
+                        "Total": "48,168,351"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "The project upgraded on existing road",
+                            "Approvaldate": "11-Jan-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-May-2010",
+                            "Technicalclearancesign-off": "02-Jun-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080608/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080608100101",
+            "contract_html_data": {
+                "Id": "080608100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Contract": "080608/10/01-01( 1 )",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Phon Kimlong, [ Phon Kimlong ]",
+                        "Competitivebidding": "Yes ( 26-Jul-2010 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "05-Aug-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "29-Sep-2010",
+                        "Plannedworkcompletiondate": "07-Apr-2011",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "18-Nov-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "30,400,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MaoLiva",
+                        "Contractor": "MaoLiva",
+                        "BidValue": "38,400,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhonKimlong",
+                        "Contractor": "PhonKimlong",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "37,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HoeunDara",
+                        "Contractor": "HoeunDara",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MaoLavy",
+                        "Contractor": "MaoLavy",
+                        "BidValue": "34,560,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "30,600,000",
+                        "Village": "Preaek Krouch",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 6,751.300 Volume of earth (m3)",
+                        "Bid": "1.200 km",
+                        "InContract": "1.200 km",
+                        "Actualquantity": "1.200 km",
+                        "UnitCost/Estimated": "25,000,000est. 40,140,293",
+                        "DiscountRate": "-38 %",
+                        "Total": "30,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "23-Mar-2011",
+                        "Actualworkcompletiondate": "06-Apr-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Mar-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Apr-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": "Base on the minute of PMC 's evaluation meeting\n"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "07-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "1stpmt",
+                        "Gross": "12240000R",
+                        "Net": "11880000R",
+                        "Tax": "360000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "2ndpmt",
+                        "Gross": "12040000R",
+                        "Net": "11685882R",
+                        "Tax": "354118R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Apr-2011",
+                        "Source": "LC",
+                        "Description": "2ndpmt",
+                        "Gross": "200000R",
+                        "Net": "194118R",
+                        "Tax": "5882R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-Nov-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPmt.",
+                        "Gross": "6120000R",
+                        "Net": "5940000R",
+                        "Tax": "180000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "30,600,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "29,700,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "900,000R",
+                        "ContractValue(B)Gross": "30,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand Road",
+            "project_link": "/pid/project/home/view.castle?pid=687422d7-18b2-4cfd-84a7-9f1a00f9e849",
+            "project_html_data": {
+                "Pid": "687422d7-18b2-4cfd-84a7-9f1a00f9e849",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080608/11/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "61,932,741",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "61,932,741"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekTaPrang",
+                        "BeneficiaryTotal": "2,346",
+                        "BeneficiaryWomen": "1,214",
+                        "Households": "205"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ta Prang",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 5,488.990 Volume of earth (m3)",
+                        "Qty": "1.700 km",
+                        "UnitCost": "34,205,528",
+                        "Total": "58,149,397"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "31-May-2011",
+                            "Technicalclearancesign-off": "10-Jun-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080608/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080608110101",
+            "contract_html_data": {
+                "Id": "080608110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Contract": "080608/11/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Sand Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mao Liva, [ Mao Liva ]",
+                        "Competitivebidding": "Yes ( 27-Jun-2011 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "05-Jul-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "06-Jul-2011",
+                        "Plannedworkcompletiondate": "04-Aug-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "10-Apr-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "56,050,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MaoLiva",
+                        "Contractor": "MaoLiva",
+                        "BidValue": "37,500,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MenThan",
+                        "Contractor": "MenThan",
+                        "BidValue": "53,550,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhonKimlong",
+                        "Contractor": "PhonKimlong",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SamSivon",
+                        "Contractor": "SamSivonConstruction",
+                        "BidValue": "55,250,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Ms.MorpSothea",
+                        "Contractor": "MorpSothea",
+                        "BidValue": "55,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ThongKinsrun",
+                        "Contractor": "ThongKinsrun",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HeungKeng",
+                        "Contractor": "HeungKeng",
+                        "BidValue": "43,000,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "56,250,000",
+                        "Village": "Preaek Ta Prang",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 5,488.990 Volume of earth (m3)",
+                        "Bid": "1.700 km",
+                        "InContract": "2.500 km",
+                        "Actualquantity": "2.500 km",
+                        "UnitCost/Estimated": "22,058,824est. 34,205,528",
+                        "DiscountRate": "-36 %",
+                        "Total": "55,147,059"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-Jul-2011",
+                        "Actualworkcompletiondate": "29-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Jul-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        },
+                        {
+                            "Date": "29-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "22500000R",
+                        "Net": "21838235R",
+                        "Tax": "661765R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Sep-2012",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "22300000R",
+                        "Net": "21644118R",
+                        "Tax": "655882R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Sep-2012",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "200000R",
+                        "Net": "194117R",
+                        "Tax": "5883R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "10-Apr-2013",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "11250000R",
+                        "Net": "10919118R",
+                        "Tax": "330882R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "56,250,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "54,595,588R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,654,412R",
+                        "ContractValue(B)Gross": "56,250,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Repair Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=d1dd5cbc-23df-4e61-9a18-a01c008065c9",
+            "project_html_data": {
+                "Pid": "d1dd5cbc-23df-4e61-9a18-a01c008065c9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "NEOU DEMA",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Repair Earth Road",
+                        "Objective": "the year 2012 people will have a road for use",
+                        "Relatedcontract(s)": "080608/12/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "49,665,866",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "49,665,866"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKrouch",
+                        "BeneficiaryTotal": "1,528",
+                        "BeneficiaryWomen": "798",
+                        "Households": "304"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Krouch",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 8,218.160 Volume of earth (m3)",
+                        "Qty": "0.810 km",
+                        "UnitCost": "61,315,884",
+                        "Total": "49,665,866"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "28-Feb-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not located  in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Feb-2012",
+                            "Technicalclearancesign-off": "05-Mar-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080608/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080608120101",
+            "contract_html_data": {
+                "Id": "080608120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Contract": "080608/12/01-01",
+                        "TechnicalSupervisor": "NEOU DEMA",
+                        "Project'sName": "Repair Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Thong Kinsrun, [ Thong Kinsrun ]",
+                        "Competitivebidding": "Yes ( 21-Mar-2012 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "28-Mar-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Apr-2012",
+                        "Plannedworkcompletiondate": "05-May-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "31-Dec-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,437,837"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhonPoalong",
+                        "Contractor": "ChhonPoalong",
+                        "BidValue": "49,600,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "49,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "IvSavorn",
+                        "Contractor": "IvSavorn",
+                        "BidValue": "46,980,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ThongKinsrun",
+                        "Contractor": "ThongKinsrun",
+                        "BidValue": "43,900,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "48,600,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,637,837",
+                        "Village": "Preaek Krouch",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 8,218.160 Volume of earth (m3)",
+                        "Bid": "0.810 km",
+                        "InContract": "0.916 km",
+                        "Actualquantity": "0.916 km",
+                        "UnitCost/Estimated": "54,197,531est. 61,315,884",
+                        "DiscountRate": "-12 %",
+                        "Total": "49,644,938"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "30-Mar-2013",
+                        "Actualworkcompletiondate": "28-Jun-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-May-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "28-Jun-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "29-May-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "20255135R",
+                        "Net": "19659396R",
+                        "Tax": "595739R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "20055135R",
+                        "Net": "19465278R",
+                        "Tax": "589857R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Jul-2013",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "200000R",
+                        "Net": "194118R",
+                        "Tax": "5882R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Jan-2014",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "10127567R",
+                        "Net": "9829697R",
+                        "Tax": "297870R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "50,637,837R",
+                        "ActualPaymentCumulativeToDate(A)Net": "49,148,489R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,489,348R",
+                        "ContractValue(B)Gross": "50,637,837R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal repair​​ and pipe culvert",
+            "project_link": "/pid/project/home/view.castle?pid=656f027f-b24e-43d9-b0f4-a1c0008e4137",
+            "project_html_data": {
+                "Pid": "656f027f-b24e-43d9-b0f4-a1c0008e4137",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal repair​​ and pipe culvert",
+                        "Objective": "At the end of 2013 people will have enough water for their crop ",
+                        "Relatedcontract(s)": "080608/13/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "56,480,250",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "56,480,250"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekTaPrang",
+                        "BeneficiaryTotal": "1,022",
+                        "BeneficiaryWomen": "521",
+                        "Households": "212"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ta Prang",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 8.880 Depth (m)Dimension #2 : 2.500 Average width (m)",
+                        "Qty": "1.200 km",
+                        "UnitCost": "34,611,042",
+                        "Total": "41,533,250"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "10-Apr-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "18-Apr-2013"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-Feb-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Mar-2013",
+                            "Technicalclearancesign-off": "22-Apr-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080608/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080608130101",
+            "contract_html_data": {
+                "Id": "080608130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Contract": "080608/13/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Canal repair​​ and pipe culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Bo Chakriya, [ Bo Chakriya ]",
+                        "Competitivebidding": "Yes ( 30-May-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "06-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "07-Jun-2013",
+                        "Plannedworkcompletiondate": "07-Jul-2013",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,800,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhonPoalong",
+                        "Contractor": "ChhonPoalong",
+                        "BidValue": "55,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SokLy",
+                        "Contractor": "SokLy",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BoChakriya",
+                        "Contractor": "BoChakriya",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "51,000,000",
+                        "Village": "Preaek Krouch",
+                        "Description": "[ 1010303 ] Single pipe culvert 1.0m diameter  NewDimension #1 : 8.000 Diameter (mm)Dimension #2 : 1.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "10,000,000est. 14,947,000",
+                        "DiscountRate": "-33 %",
+                        "Total": "10,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "07-Jun-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "14-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "20400000R",
+                        "Net": "19800000R",
+                        "Tax": "600000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "20400000R",
+                        "Net": "19800000R",
+                        "Tax": "600000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "40,800,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "39,600,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,200,000R",
+                        "ContractValue(B)Gross": "51,000,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete Bridge Rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=52a89616-cd59-4973-8002-a4a400b966e9",
+            "project_html_data": {
+                "Pid": "52a89616-cd59-4973-8002-a4a400b966e9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete Bridge Rehabilitation",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080608/15/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "73,125,800",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "73,125,800"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekTaPrang",
+                        "BeneficiaryTotal": "1,629",
+                        "BeneficiaryWomen": "827",
+                        "Households": "367"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ta Prang",
+                        "Description": "Miscellaneous Road Bridges (Concrete) Repair [ 1010599 ]Dimension #1 : 9.800 Length (m)Dimension #2 : 4.000 Width (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "73,125,800",
+                        "Total": "73,125,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "23-Mar-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "01-Apr-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "28-Jan-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Mar-2015",
+                            "Technicalclearancesign-off": "28-Apr-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080608/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080608150101",
+            "contract_html_data": {
+                "Id": "080608150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Contract": "080608/15/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Concrete Bridge Rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Pech Ay, [ Pech Ay ]",
+                        "Competitivebidding": "Yes ( 12-May-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "20-May-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-May-2015",
+                        "Plannedworkcompletiondate": "20-Jul-2015",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "79,037,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PechAy",
+                        "Contractor": "PechAy",
+                        "BidValue": "72,125,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PalPhon",
+                        "Contractor": "PalPhon",
+                        "BidValue": "73,120,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KungChaik",
+                        "Contractor": "PoleuSrakaet",
+                        "BidValue": "72,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "79,337,500",
+                        "Village": "Preaek Ta Prang",
+                        "Description": "[ 1010599 ] Miscellaneous Road Bridges (Concrete) RepairDimension #1 : 9.800 Length (m)Dimension #2 : 4.000 Width (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "72,125,000est. 73,125,800",
+                        "DiscountRate": "-1 %",
+                        "Total": "72,125,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Jun-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Jul-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "07-Aug-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "79,337,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=12cc8d00-f948-4a77-bcdc-a64f00d00edf",
+            "project_html_data": {
+                "Pid": "12cc8d00-f948-4a77-bcdc-a64f00d00edf",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road rehabilitation",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080608/16/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "89,904,176",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "89,904,176"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekKrouch",
+                        "BeneficiaryTotal": "1,665",
+                        "BeneficiaryWomen": "845",
+                        "Households": "376"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Krouch",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 6.000 Width (m)Dimension #2 : 14,983.220 Volume of earth (m3)",
+                        "Qty": "0.757 km",
+                        "UnitCost": "118,763,773",
+                        "Total": "89,904,176"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "05-Jun-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "13-Jun-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "30-Mar-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Apr-2016",
+                            "Technicalclearancesign-off": "17-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080608/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080608160101",
+            "contract_html_data": {
+                "Id": "080608160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80608 ] Kandal \\ Lvea Aem \\ Phum Thum",
+                        "Contract": "080608/16/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Earth Road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Moa Liva, [ Moa Liva ]",
+                        "Competitivebidding": "Yes ( 30-Jun-2016 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "11-Jul-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "14-Jul-2016",
+                        "Plannedworkcompletiondate": "14-Aug-2016",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "94,400,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.NavChou",
+                        "Contractor": "Diamond",
+                        "BidValue": "89,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "88,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MoaLiva",
+                        "Contractor": "MoaLiva",
+                        "BidValue": "86,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "94,600,000",
+                        "Village": "Preaek Krouch",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 6.000 Width (m)Dimension #2 : 14,983.220 Volume of earth (m3)",
+                        "Bid": "0.757 km",
+                        "InContract": "0.757 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "113,606,341est. 118,763,773",
+                        "DiscountRate": "-4 %",
+                        "Total": "86,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "14-Jul-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Aug-2016",
+                            "Progress": "30 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "27-Aug-2016",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "10-Feb-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "94,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

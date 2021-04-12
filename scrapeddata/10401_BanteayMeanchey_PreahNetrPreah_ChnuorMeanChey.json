@@ -1,0 +1,2592 @@
+{
+    "location": {
+        "province": "Banteay Meanchey",
+        "district": "Preah Netr Preah",
+        "commune": "Chnuor Mean Chey"
+    },
+    "projects": [
+        {
+            "project_name": "Canal rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=50b6d853-e2c8-490a-9f07-9c7d00a08d1e",
+            "project_html_data": {
+                "Pid": "50b6d853-e2c8-490a-9f07-9c7d00a08d1e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Oeung Vuthy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal rehabilitation",
+                        "Objective": "Not Yet Translate",
+                        "Relatedcontract(s)": "010401/09/01-01 ",
+                        "CreatedBy": "Ly Heng",
+                        "Mobile": "012 448 794"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "43,861,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "44,361,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KoukTreas",
+                        "BeneficiaryTotal": "618",
+                        "BeneficiaryWomen": "323",
+                        "Households": "101"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kouk Treas",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.000 Depth (m)Dimension #2 : 4.000 Average width (m)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "20,325,000",
+                        "Total": "20,325,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Yet Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Voluntary",
+                            "Reason": "Not Yet Translate",
+                            "Approvaldate": "05-Feb-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No aborigines lived"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Feb-2009",
+                            "Technicalclearancesign-off": "11-Feb-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401090101",
+            "contract_html_data": {
+                "Id": "010401090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/09/01-01",
+                        "TechnicalSupervisor": "Oeung Vuthy",
+                        "Project'sName": "Canal rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Sok Bouy, [ Mr. Ly Kakada ]",
+                        "Competitivebidding": "Yes ( 03-Jun-2009 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "15-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jun-2009",
+                        "Plannedworkcompletiondate": "06-Aug-2009",
+                        "CreatedBy": "Ly Heng",
+                        "Mobile": "012 448 794",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "30-Mar-2010",
+                        "Closeddateon": "09-Feb-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "42,245,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.LyKakada",
+                        "Contractor": "SokBouy",
+                        "BidValue": "35,973,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.LongBunthoeun",
+                        "Contractor": "LongBunthoeun",
+                        "BidValue": "36,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.SemKhemra",
+                        "Contractor": "SemMoun",
+                        "BidValue": "36,087,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.SarSong",
+                        "Contractor": "SarSong",
+                        "BidValue": "37,832,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Mr.NorngSabath",
+                        "Contractor": "SambatAkphivath",
+                        "BidValue": "36,730,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "42,745,515",
+                        "Village": "Kouk Treas",
+                        "Description": "[ 1020204 ] Single pipe culvert 1.0m diameter with stop logs NewDimension #1 : 1,000.000 Diameter (mm)Dimension #2 : 7.000 Length (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "7,833,000est. 9,412,000",
+                        "DiscountRate": "-17 %",
+                        "Total": "7,833,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Jun-2009",
+                        "Actualworkcompletiondate": "07-Aug-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Jun-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Ly Heng",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "07-Aug-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Ly Heng",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "17098200R",
+                        "Net": "16585254R",
+                        "Tax": "512946R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "10-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "16598200R",
+                        "Net": "16100254R",
+                        "Tax": "497946R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "10-Aug-2009",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "500000R",
+                        "Net": "485000R",
+                        "Tax": "15000R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "10-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "8549100R",
+                        "Net": "8329992R",
+                        "Tax": "219108R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "42,745,500R",
+                        "ActualPaymentCumulativeToDate(A)Net": "41,500,500R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,245,000R",
+                        "ContractValue(B)Gross": "42,745,500R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal Rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=c26c276e-10bf-42cc-b38d-9e2400e3f600",
+            "project_html_data": {
+                "Pid": "c26c276e-10bf-42cc-b38d-9e2400e3f600",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Oeung Vuthy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal Rehabilitation",
+                        "Objective": "",
+                        "Relatedcontract(s)": "010401/10/01-01 ",
+                        "CreatedBy": "Ork Sophea",
+                        "Mobile": "092 922 663"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "61,528,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "42,452",
+                        "Other": "0",
+                        "Total": "62,070,452"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KoukTreas",
+                        "BeneficiaryTotal": "618",
+                        "BeneficiaryWomen": "323",
+                        "Households": "101"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chhnuor",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.240 Depth (m)Dimension #2 : 8.180 Average width (m)",
+                        "Qty": "1.920 km",
+                        "UnitCost": "41,645,142",
+                        "Total": "79,958,673"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Voluntary",
+                            "Reason": "",
+                            "Approvaldate": "15-Dec-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Jul-2010",
+                            "Technicalclearancesign-off": "24-Aug-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401100101",
+            "contract_html_data": {
+                "Id": "010401100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/10/01-01( 3 )",
+                        "TechnicalSupervisor": "Oeung Vuthy",
+                        "Project'sName": "Canal Rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Prak Sarak, [ Mr. Sroeun Sokha ]",
+                        "Competitivebidding": "Yes ( 15-Sep-2010 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "23-Sep-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Feb-2011",
+                        "Plannedworkcompletiondate": "11-May-2011",
+                        "CreatedBy": "Ork Sophea",
+                        "Mobile": "092 922 663",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "21-Nov-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "38,242,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.ChhourKongveng",
+                        "Contractor": "ChhourKongveng",
+                        "BidValue": "23,980,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.TheaSithkun",
+                        "Contractor": "TheaSithkun",
+                        "BidValue": "25,888,888R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.SemKhemra",
+                        "Contractor": "SemMoun",
+                        "BidValue": "29,900,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.PhanPhanna",
+                        "Contractor": "PhanPhanna",
+                        "BidValue": "33,400,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Mr.HulSenghab",
+                        "Contractor": "HulSenghab",
+                        "BidValue": "28,222,222R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "Mr.SroeunSokha",
+                        "Contractor": "PrakSarak",
+                        "BidValue": "21,000,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "Mr.KouryTry",
+                        "Contractor": "KyChhoeung",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "HuotHak",
+                        "Contractor": "HuotHak",
+                        "BidValue": "28,090,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "Mr.LayPhirun",
+                        "Contractor": "LPR",
+                        "BidValue": "24,700,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "Mr.KhimTaily",
+                        "Contractor": "KhimTaily",
+                        "BidValue": "46,360,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "38,742,000",
+                        "Village": "Chhnuor",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 2.240 Depth (m)Dimension #2 : 8.180 Average width (m)",
+                        "Bid": "1.110 km",
+                        "InContract": "1.900 km",
+                        "Actualquantity": "1.900 km",
+                        "UnitCost/Estimated": "18,000,000est. 41,645,142",
+                        "DiscountRate": "-57 %",
+                        "Total": "34,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Feb-2011",
+                        "Actualworkcompletiondate": "13-May-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Apr-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Ork Sophea",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "11-May-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Ork Sophea",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "15496800R",
+                        "Net": "14088000R",
+                        "Tax": "1408800R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-May-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "14996800R",
+                        "Net": "13633455R",
+                        "Tax": "1363345R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-May-2011",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "500000R",
+                        "Net": "454545R",
+                        "Tax": "45455R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "29-Nov-2011",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "7748400R",
+                        "Net": "7044000R",
+                        "Tax": "704400R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "38,742,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "35,220,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "3,522,000R",
+                        "ContractValue(B)Gross": "38,742,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road end Culvert",
+            "project_link": "/pid/project/home/view.castle?pid=78d87301-c254-4e80-bd60-9f2b00b58d41",
+            "project_html_data": {
+                "Pid": "78d87301-c254-4e80-bd60-9f2b00b58d41",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Leng Heang",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road end Culvert",
+                        "Objective": "not translated",
+                        "Relatedcontract(s)": "010401/11/01-01 ",
+                        "CreatedBy": "Leng Heang",
+                        "Mobile": "012 663 167"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "53,591,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "22,078,452",
+                        "Other": "0",
+                        "Total": "76,169,452"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chhnuor",
+                        "BeneficiaryTotal": "838",
+                        "BeneficiaryWomen": "441",
+                        "Households": "157"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Samraong Thum",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 4,321.000 Volume of earth (m3)",
+                        "Qty": "3.300 km",
+                        "UnitCost": "21,808,876",
+                        "Total": "71,969,291"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-May-2011",
+                            "Technicalclearancesign-off": "23-May-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401110101",
+            "contract_html_data": {
+                "Id": "010401110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/11/01-01( 3 )",
+                        "TechnicalSupervisor": "Leng Heang",
+                        "Project'sName": "Laterite Road end Culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Prak Sarak, [ Mr. Sroeun Sokha ]",
+                        "Competitivebidding": "Yes ( 12-Jul-2011 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "20-Jul-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Jul-2011",
+                        "Plannedworkcompletiondate": "06-Feb-2012",
+                        "CreatedBy": "Leng Heang",
+                        "Mobile": "012 663 167",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "06-Aug-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "75,620,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.SengKheng",
+                        "Contractor": "SengKheng",
+                        "BidValue": "68,284,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.HulSenghab",
+                        "Contractor": "HulSenghab",
+                        "BidValue": "65,294,703R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.SroeunSokha",
+                        "Contractor": "PrakSarak",
+                        "BidValue": "62,600,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.YaimYinh",
+                        "Contractor": "SKG",
+                        "BidValue": "66,500,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Mr.LayPhirun",
+                        "Contractor": "LPR",
+                        "BidValue": "65,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "Mr.KhimTaily",
+                        "Contractor": "KhimTaily",
+                        "BidValue": "65,800,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "MrsChanPhallin",
+                        "Contractor": "B.M.CCo.LTD",
+                        "BidValue": "68,498,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "76,120,000",
+                        "Village": "Samraong Thum",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.000 Width (m)Dimension #2 : 4,321.000 Volume of earth (m3)",
+                        "Bid": "2.880 km",
+                        "InContract": "3.210 km",
+                        "Actualquantity": "3.210 km",
+                        "UnitCost/Estimated": "20,000,000est. 21,808,876",
+                        "DiscountRate": "-8 %",
+                        "Total": "64,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Jul-2011",
+                        "Actualworkcompletiondate": "06-Feb-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "02-Aug-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Leng Heang",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "03-Feb-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Leng Heang",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "04-Aug-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "30448000R",
+                        "Net": "27680000R",
+                        "Tax": "2768000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "29948000R",
+                        "Net": "27225455R",
+                        "Tax": "2722545R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Feb-2012",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "500000R",
+                        "Net": "454545R",
+                        "Tax": "45455R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "15224000R",
+                        "Net": "13840000R",
+                        "Tax": "1384000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "76,120,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "69,200,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "6,920,000R",
+                        "ContractValue(B)Gross": "76,120,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete Road",
+            "project_link": "/pid/project/home/view.castle?pid=13af4d5d-1b9a-435a-b717-a04d00fa593c",
+            "project_html_data": {
+                "Pid": "13af4d5d-1b9a-435a-b717-a04d00fa593c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Leng Heang",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete Road",
+                        "Objective": "Not yet translate",
+                        "Relatedcontract(s)": "010401/12/01-01 ",
+                        "CreatedBy": "Leng Heang",
+                        "Mobile": "012 663 167"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "67,364,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "268,162",
+                        "Other": "0",
+                        "Total": "68,232,162"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ThmaKoul",
+                        "BeneficiaryTotal": "637",
+                        "BeneficiaryWomen": "292",
+                        "Households": "129"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chhnuor",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.170 km",
+                        "UnitCost": "369,817,450",
+                        "Total": "62,868,967"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not yet translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not yet translate",
+                            "Approvaldate": "13-Jan-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not yet translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Feb-2012",
+                            "Technicalclearancesign-off": "01-Mar-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401120101",
+            "contract_html_data": {
+                "Id": "010401120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/12/01-01( 1 )",
+                        "TechnicalSupervisor": "Leng Heang",
+                        "Project'sName": "Concrete Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "KC, [ Mr. Kim Cheang ]",
+                        "Competitivebidding": "Yes ( 27-Mar-2012 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "04-Apr-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Apr-2012",
+                        "Plannedworkcompletiondate": "05-Jun-2012",
+                        "CreatedBy": "Leng Heang",
+                        "Mobile": "012 663 167",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,740,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.ChhourKongveng",
+                        "Contractor": "ChhourKongveng",
+                        "BidValue": "52,700,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.SengKheng",
+                        "Contractor": "SengKheng",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.KimCheang",
+                        "Contractor": "KC",
+                        "BidValue": "45,900,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.SemKhemra",
+                        "Contractor": "SemMoun",
+                        "BidValue": "51,850,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Mr.SarSong",
+                        "Contractor": "SarSong",
+                        "BidValue": "46,240,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "Mr.SroeunSokha",
+                        "Contractor": "PrakSarak",
+                        "BidValue": "48,980,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "Mr.KhimTaily",
+                        "Contractor": "KhimTaily",
+                        "BidValue": "52,700,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "Mr.PanSokun",
+                        "Contractor": "PanSokun",
+                        "BidValue": "57,800,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "65,340,000",
+                        "Village": "Chhnuor",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.170 km",
+                        "InContract": "0.220 km",
+                        "Actualquantity": "0.220 km",
+                        "UnitCost/Estimated": "270,000,000est. 369,817,450",
+                        "DiscountRate": "-27 %",
+                        "Total": "59,400,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Apr-2012",
+                        "Actualworkcompletiondate": "05-Jun-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-May-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Leng Heang",
+                            "Note": "not yet translate"
+                        },
+                        {
+                            "Date": "04-Jun-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Leng Heang",
+                            "Note": "not yet translate"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "25-May-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "15681600R",
+                        "Net": "14256000R",
+                        "Tax": "1425600R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "10454400R",
+                        "Net": "9504000R",
+                        "Tax": "950400R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "25536000R",
+                        "Net": "23214545R",
+                        "Tax": "2321455R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Jun-2012",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "600000R",
+                        "Net": "545455R",
+                        "Tax": "54545R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "13068000R",
+                        "Net": "11880000R",
+                        "Tax": "1188000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "65,340,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "59,400,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "5,940,000R",
+                        "ContractValue(B)Gross": "65,340,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete Road",
+            "project_link": "/pid/project/home/view.castle?pid=968ece27-9f8e-48ce-8a56-a1f500daba78",
+            "project_html_data": {
+                "Pid": "968ece27-9f8e-48ce-8a56-a1f500daba78",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Lay Sothy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete Road",
+                        "Objective": "Not translated",
+                        "Relatedcontract(s)": "010401/13/01-01 ",
+                        "CreatedBy": "Lay Sothy",
+                        "Mobile": "012 574 057"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "83,277,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "2,892,162",
+                        "Other": "0",
+                        "Total": "86,769,162"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "RuesseiKandal",
+                        "BeneficiaryTotal": "558",
+                        "BeneficiaryWomen": "290",
+                        "Households": "129"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ruessei Kandal",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.380 km",
+                        "UnitCost": "334,954,795",
+                        "Total": "127,282,822"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not translated"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not translated",
+                            "Approvaldate": "21-Jan-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not translated"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "24-Apr-2013",
+                            "Technicalclearancesign-off": "10-May-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401130101",
+            "contract_html_data": {
+                "Id": "010401130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/13/01-01",
+                        "TechnicalSupervisor": "Lay Sothy",
+                        "Project'sName": "Concrete Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khim Taily, [ Mr. Khim Taily ]",
+                        "Competitivebidding": "Yes ( 31-May-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "17-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Jun-2013",
+                        "Plannedworkcompletiondate": "29-Jul-2013",
+                        "CreatedBy": "Lay Sothy",
+                        "Mobile": "012 574 057",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "05-Feb-2014"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "85,917,597"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.KhimTaily",
+                        "Contractor": "KhimTaily",
+                        "BidValue": "77,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.SoengSeu",
+                        "Contractor": "SoengSeu",
+                        "BidValue": "77,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MrsGnovChanty",
+                        "Contractor": "R.M.T",
+                        "BidValue": "77,999,080R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "86,517,597",
+                        "Village": "Ruessei Kandal",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.233 km",
+                        "InContract": "0.238 km",
+                        "Actualquantity": "0.238 km",
+                        "UnitCost/Estimated": "330,472,103est. 334,954,795",
+                        "DiscountRate": "-1 %",
+                        "Total": "78,652,361"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "19-Jun-2013",
+                        "Actualworkcompletiondate": "29-Jul-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "11-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Lay Sothy",
+                            "Note": "Not translated"
+                        },
+                        {
+                            "Date": "29-Jul-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Lay Sothy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "34607039R",
+                        "Net": "31460945R",
+                        "Tax": "3146094R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "34007039R",
+                        "Net": "30915490R",
+                        "Tax": "3091549R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Aug-2013",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "600000R",
+                        "Net": "545455R",
+                        "Tax": "54545R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "10-Feb-2014",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "17303519R",
+                        "Net": "15730471R",
+                        "Tax": "1573048R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "86,517,597R",
+                        "ActualPaymentCumulativeToDate(A)Net": "78,652,361R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "7,865,236R",
+                        "ContractValue(B)Gross": "86,517,597R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=9809e138-be60-4c86-9da5-a38d008ce46b",
+            "project_html_data": {
+                "Pid": "9809e138-be60-4c86-9da5-a38d008ce46b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Suon Sar",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "010401/14/01-01 ",
+                        "CreatedBy": "Uy Phirun",
+                        "Mobile": "012 679 456"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "74,296,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "465,004",
+                        "Other": "0",
+                        "Total": "75,361,004"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KoukPongro",
+                        "BeneficiaryTotal": "176",
+                        "BeneficiaryWomen": "83",
+                        "Households": "40"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kouk Pongro",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 133.000 Thickness of concrete (mm)",
+                        "Qty": "0.200 km",
+                        "UnitCost": "337,511,532",
+                        "Total": "67,502,306"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-May-2014",
+                            "Technicalclearancesign-off": "05-Jun-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401140101",
+            "contract_html_data": {
+                "Id": "010401140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/14/01-01( 1 )",
+                        "TechnicalSupervisor": "Suon Sar",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "R.M.T, [ Mrs Gnov Chanty ]",
+                        "Competitivebidding": "Yes ( 10-Jul-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "17-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Jul-2014",
+                        "Plannedworkcompletiondate": "03-Sep-2014",
+                        "CreatedBy": "Uy Phirun",
+                        "Mobile": "012 679 456",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "05-Mar-2015"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "74,717,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.KhimTaily",
+                        "Contractor": "KhimTaily",
+                        "BidValue": "67,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.SoengSeu",
+                        "Contractor": "SoengSeu",
+                        "BidValue": "67,300,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MrsGnovChanty",
+                        "Contractor": "R.M.T",
+                        "BidValue": "66,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "75,317,000",
+                        "Village": "Kouk Pongro",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 133.000 Thickness of concrete (mm)",
+                        "Bid": "0.200 km",
+                        "InContract": "0.205 km",
+                        "Actualquantity": "0.205 km",
+                        "UnitCost/Estimated": "334,000,000est. 337,511,532",
+                        "DiscountRate": "-1 %",
+                        "Total": "68,470,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Jul-2014",
+                        "Actualworkcompletiondate": "03-Sep-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "14-Aug-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Uy Phirun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "03-Sep-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Uy Phirun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Aug-2014",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "30126800R",
+                        "Net": "27388000R",
+                        "Tax": "2738800R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Sep-2014",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "29526800R",
+                        "Net": "26842545R",
+                        "Tax": "2684255R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Sep-2014",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "600000R",
+                        "Net": "545455R",
+                        "Tax": "54545R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "10-Mar-2015",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "15063400R",
+                        "Net": "13694000R",
+                        "Tax": "1369400R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "75,317,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "68,470,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "6,847,000R",
+                        "ContractValue(B)Gross": "75,317,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Trail road",
+            "project_link": "/pid/project/home/view.castle?pid=4851f73e-eaee-422f-afef-a4c900a8059b",
+            "project_html_data": {
+                "Pid": "4851f73e-eaee-422f-afef-a4c900a8059b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Uy Phirun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Trail road",
+                        "Objective": "not translated",
+                        "Relatedcontract(s)": "010401/15/01-01 ",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "72,346,004",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "72,946,004"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BantoatBaoh",
+                        "BeneficiaryTotal": "371",
+                        "BeneficiaryWomen": "180",
+                        "Households": "88"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ruessei Khang",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 7,065.000 Volume of earth (m3)",
+                        "Qty": "0.920 km",
+                        "UnitCost": "43,485,708",
+                        "Total": "40,006,851"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Jun-2015",
+                            "Technicalclearancesign-off": "09-Jun-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401150101",
+            "contract_html_data": {
+                "Id": "010401150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/15/01-01( 1 )",
+                        "TechnicalSupervisor": "Uy Phirun",
+                        "Project'sName": "Trail road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chao Lign Chhign, [ Mr. Hang Chhign ]",
+                        "Competitivebidding": "Yes ( 02-Jul-2015 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "13-Jul-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "13-Jul-2015",
+                        "Plannedworkcompletiondate": "03-Sep-2015",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "38,615,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.ChhourKongveng",
+                        "Contractor": "ChhourKongveng",
+                        "BidValue": "46,020,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.KhimTaily",
+                        "Contractor": "KhimTaily",
+                        "BidValue": "49,400,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.ChaoChiva",
+                        "Contractor": "ChaoChiva",
+                        "BidValue": "32,600,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.VeungSoMeng",
+                        "Contractor": "VeungSoMeng",
+                        "BidValue": "39,560,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MrsHourtTouch",
+                        "Contractor": "HourtTouch",
+                        "BidValue": "36,480,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "Mr.HangChhign",
+                        "Contractor": "ChaoLignChhign",
+                        "BidValue": "19,840,000R",
+                        "DiscountRate": "-70%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "Mr.SimVathana",
+                        "Contractor": "SimVathana",
+                        "BidValue": "32,206,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,215,000",
+                        "Village": "Ruessei Khang",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 15,404.000 Volume of earth (m3)",
+                        "Bid": "0.920 km",
+                        "InContract": "1.850 km",
+                        "Actualquantity": "1.850 km",
+                        "UnitCost/Estimated": "17,000,000est. 43,485,708",
+                        "DiscountRate": "-61 %",
+                        "Total": "31,450,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "13-Jul-2015",
+                        "Actualworkcompletiondate": "03-Sep-2015",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Jul-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "03-Sep-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Aug-2015",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "17646750R",
+                        "Net": "16042500R",
+                        "Tax": "1604250R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Sep-2015",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "17046750R",
+                        "Net": "15497045R",
+                        "Tax": "1549705R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Sep-2015",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "600000R",
+                        "Net": "545455R",
+                        "Tax": "54545R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "23-Mar-2016",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "3921500R",
+                        "Net": "3565000R",
+                        "Tax": "356500R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "39,215,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "35,650,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "3,565,000R",
+                        "ContractValue(B)Gross": "39,215,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=31cfb609-659b-4fe5-a057-a641009ffba7",
+            "project_html_data": {
+                "Pid": "31cfb609-659b-4fe5-a057-a641009ffba7",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Uy Phirun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "not translated",
+                        "Relatedcontract(s)": "010401/16/01-01 ",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "78,506,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "19,425,504",
+                        "Other": "0",
+                        "Total": "98,431,504"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SamraongTouch",
+                        "BeneficiaryTotal": "386",
+                        "BeneficiaryWomen": "201",
+                        "Households": "99"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Samraong Touch",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 8,539.000 Volume of earth (m3)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "39,606,050",
+                        "Total": "39,606,050"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "not translated"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-May-2016",
+                            "Technicalclearancesign-off": "16-May-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401160101",
+            "contract_html_data": {
+                "Id": "010401160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/16/01-01( 1 )",
+                        "TechnicalSupervisor": "Uy Phirun",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Hourt Touch, [ Mrs Hourt Touch ]",
+                        "Competitivebidding": "Yes ( 07-Jun-2016 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "16-Jun-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jun-2016",
+                        "Plannedworkcompletiondate": "04-Aug-2016",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "70,758,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.SemKhemra",
+                        "Contractor": "SemMoun",
+                        "BidValue": "49,840,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.HulSenghab",
+                        "Contractor": "HulSenghab",
+                        "BidValue": "45,580,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.LayPhirun",
+                        "Contractor": "LPR",
+                        "BidValue": "41,896,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.ChaoChiva",
+                        "Contractor": "ChaoChiva",
+                        "BidValue": "43,700,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MrsGnovChanty",
+                        "Contractor": "R.M.T",
+                        "BidValue": "40,628,000R",
+                        "DiscountRate": "-53%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "Mr.VeungSoMeng",
+                        "Contractor": "VeungSoMeng",
+                        "BidValue": "42,240,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "MrsHourtTouch",
+                        "Contractor": "HourtTouch",
+                        "BidValue": "39,430,000R",
+                        "DiscountRate": "-54%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "Mr.HangChhign",
+                        "Contractor": "ChaoLignChhign",
+                        "BidValue": "34,600,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "71,258,000",
+                        "Village": "Samraong Touch",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 13,431.000 Volume of earth (m3)",
+                        "Bid": "1.000 km",
+                        "InContract": "1.750 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "25,000,000est. 39,606,050",
+                        "DiscountRate": "-37 %",
+                        "Total": "43,750,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jun-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Jul-2016",
+                            "Progress": "50 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "04-Aug-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "71,258,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=9596e2a0-a6ca-4ecd-aa9e-a9c301493930",
+            "project_html_data": {
+                "Pid": "9596e2a0-a6ca-4ecd-aa9e-a9c301493930",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Uy Phirun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "Not Translated",
+                        "Relatedcontract(s)": "010401/17/01-01 ",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "76,726,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "25,842,004",
+                        "Other": "0",
+                        "Total": "103,168,004"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Proput",
+                        "BeneficiaryTotal": "215",
+                        "BeneficiaryWomen": "108",
+                        "Households": "55"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chhnuor",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,035.000 Volume of earth (m3)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "20,689,278",
+                        "Total": "20,689,278"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translated"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "14-Mar-2017",
+                            "Technicalclearancesign-off": "20-Mar-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401170101",
+            "contract_html_data": {
+                "Id": "010401170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/17/01-01( 2 )",
+                        "TechnicalSupervisor": "Uy Phirun",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sim Vathana, [ Mr. Sim Vathana ]",
+                        "Competitivebidding": "Yes ( 10-Apr-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "28-Apr-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-May-2017",
+                        "Plannedworkcompletiondate": "09-Aug-2017",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "102,415,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.TesNarin",
+                        "Contractor": "TesNarin",
+                        "BidValue": "91,825,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.PhaanPheara",
+                        "Contractor": "PhaanTaraConstruction",
+                        "BidValue": "89,100,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.ChaoChiva",
+                        "Contractor": "ChaoChiva",
+                        "BidValue": "88,940,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mr.SimVathana",
+                        "Contractor": "SimVathana",
+                        "BidValue": "87,210,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "103,015,000",
+                        "Village": "Chhnuor",
+                        "Description": "[ 1010302 ] Single pipe culvert 0.8m diameter  NewDimension #1 : 0.800 Diameter (mm)Dimension #2 : 8.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "500,000est. 5,092,700",
+                        "DiscountRate": "-90 %",
+                        "Total": "500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-May-2017",
+                        "Actualworkcompletiondate": "09-Aug-2017",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "22-Jun-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "09-Aug-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "103,015,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Canal",
+            "project_link": "/pid/project/home/view.castle?pid=e68f6834-b2e6-4531-bcf9-aa6200f5d4c6",
+            "project_html_data": {
+                "Pid": "e68f6834-b2e6-4531-bcf9-aa6200f5d4c6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Oeung Vuthy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Canal",
+                        "Objective": "Not Translated",
+                        "Relatedcontract(s)": "010401/18/01-01 ",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "80,402,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "688,000",
+                        "Other": "0",
+                        "Total": "81,690,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KoukPongro",
+                        "BeneficiaryTotal": "188",
+                        "BeneficiaryWomen": "90",
+                        "Households": "46"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thma Koul",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 0.930 Depth (m)Dimension #2 : 14.080 Average width (m)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "29,162,927",
+                        "Total": "43,744,390"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Jul-2018",
+                            "Technicalclearancesign-off": "15-Aug-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401180101",
+            "contract_html_data": {
+                "Id": "010401180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/18/01-01( 1 )",
+                        "TechnicalSupervisor": "Oeung Vuthy",
+                        "Project'sName": "Earth Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 18-Sep-2018 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "28-Sep-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Nov-2018",
+                        "Plannedworkcompletiondate": "17-Dec-2018",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "77,000,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.HangChhign",
+                        "Contractor": "ChaoLignChhign",
+                        "BidValue": "79,100,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.YChhundy",
+                        "Contractor": "YChhundy",
+                        "BidValue": "80,300,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mr.SimVathana",
+                        "Contractor": "SimVathana",
+                        "BidValue": "80,620,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "77,320,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "77,600,000",
+                        "Village": "Thma Koul",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 0.930 Depth (m)Dimension #2 : 14.080 Average width (m)",
+                        "Bid": "1.500 km",
+                        "InContract": "1.500 km",
+                        "Actualquantity": "1.500 km",
+                        "UnitCost/Estimated": "28,000,000est. 29,162,927",
+                        "DiscountRate": "-4 %",
+                        "Total": "42,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Nov-2018",
+                        "Actualworkcompletiondate": "13-Dec-2018",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "26-Nov-2018",
+                            "Progress": "50 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "13-Dec-2018",
+                            "Progress": "100 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "77,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "concret road",
+            "project_link": "/pid/project/home/view.castle?pid=879258e0-8e3f-4e33-835f-ab7d008f71f0",
+            "project_html_data": {
+                "Pid": "879258e0-8e3f-4e33-835f-ab7d008f71f0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Oeung Vuthy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "concret road",
+                        "Objective": "Not Translated",
+                        "Relatedcontract(s)": "010401/19/01-01 ",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "107,452,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "13,728,000",
+                        "Other": "0",
+                        "Total": "121,780,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ThmaKoul",
+                        "BeneficiaryTotal": "603",
+                        "BeneficiaryWomen": "316",
+                        "Households": "134"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chhnuor",
+                        "Description": "Steel-reinforced concrete road Upgrade [ 1010203 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.230 km",
+                        "UnitCost": "490,391,317",
+                        "Total": "112,790,003"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translated"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translated"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Apr-2019",
+                            "Technicalclearancesign-off": "12-Jul-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "010401/19/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=010401190101",
+            "contract_html_data": {
+                "Id": "010401190101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 10401 ] Banteay Meanchey \\ Preah Netr Preah \\ Chnuor Mean Chey",
+                        "Contract": "010401/19/01-01",
+                        "TechnicalSupervisor": "Oeung Vuthy",
+                        "Project'sName": "concret road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "R.M.T, [ Mrs Gnov Chanty ]",
+                        "Competitivebidding": "Yes ( 21-Aug-2019 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-Sep-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-Sep-2019",
+                        "Plannedworkcompletiondate": "02-Oct-2019",
+                        "CreatedBy": "Oeung Vuthy",
+                        "Mobile": "092 816 169",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "121,180,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MrsGnovChanty",
+                        "Contractor": "R.M.T",
+                        "BidValue": "115,800,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.SimVathana",
+                        "Contractor": "SimVathana",
+                        "BidValue": "116,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "116,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "121,780,000",
+                        "Village": "Chhnuor",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road UpgradeDimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.230 km",
+                        "InContract": "0.243 km",
+                        "Actualquantity": "0.243 km",
+                        "UnitCost/Estimated": "460,000,000est. 490,391,317",
+                        "DiscountRate": "-6 %",
+                        "Total": "111,780,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "02-Sep-2019",
+                        "Actualworkcompletiondate": "02-Oct-2019",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "18-Sep-2019",
+                            "Progress": "50 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "02-Oct-2019",
+                            "Progress": "100 %",
+                            "ReportBy": "Oeung Vuthy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "121,780,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

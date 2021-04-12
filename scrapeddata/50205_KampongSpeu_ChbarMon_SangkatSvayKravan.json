@@ -1,0 +1,2420 @@
+{
+    "location": {
+        "province": "Kampong Speu",
+        "district": "Chbar Mon",
+        "commune": "Sangkat Svay Kravan"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=45da4c8a-4a45-4084-a2d7-9c6b00b80375",
+            "project_html_data": {
+                "Pid": "45da4c8a-4a45-4084-a2d7-9c6b00b80375",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhoeng Kimsath",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "to make the road more comfortable for transportation",
+                        "Relatedcontract(s)": "050205/09/01-01 ",
+                        "CreatedBy": "Phat Sophal",
+                        "Mobile": "016 758 993"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "31,698,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "13,359,200",
+                        "Other": "0",
+                        "Total": "45,657,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "DakPor",
+                        "BeneficiaryTotal": "605",
+                        "BeneficiaryWomen": "330",
+                        "Households": "123"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol Kouk",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 445.000 Volume of earth (m3)",
+                        "Qty": "0.576 km",
+                        "UnitCost": "30,184,060",
+                        "Total": "17,386,019"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "the project does not need expansion and cut trees or plants because it is the old road."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.",
+                            "Reason": "the old road has the existing width of 6 meters."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "there are not indigenous people living in this commune."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Oct-2008",
+                            "Technicalclearancesign-off": "16-Mar-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205090101",
+            "contract_html_data": {
+                "Id": "050205090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/09/01-01",
+                        "TechnicalSupervisor": "Chhoeng Kimsath",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Hing Meng, [ Hing Meng ]",
+                        "Competitivebidding": "Yes ( 28-Apr-2009 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "07-May-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jun-2009",
+                        "Plannedworkcompletiondate": "23-Jul-2009",
+                        "CreatedBy": "Phat Sophal",
+                        "Mobile": "016 758 993",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "06-Jan-2010",
+                        "Closeddateon": "25-Jan-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "21,548,100"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TanSimon",
+                        "Contractor": "TanMuy",
+                        "BidValue": "35,662,500R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MamSambath",
+                        "Contractor": "MamSambath",
+                        "BidValue": "33,600,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhimSavly",
+                        "Contractor": "UdomSavly",
+                        "BidValue": "35,100,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MamSambath",
+                        "Contractor": "MamSambath",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HingMeng",
+                        "Contractor": "HingMeng",
+                        "BidValue": "21,503,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "NamSrun",
+                        "Contractor": "SahakKreasSamnarngNamSrun",
+                        "BidValue": "32,925,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "KiTongpra",
+                        "Contractor": "K.T.P",
+                        "BidValue": "29,990,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "CheaKoi",
+                        "Contractor": "CheaKoi",
+                        "BidValue": "34,400,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "22,148,089",
+                        "Village": "Dak Por",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 400.000 Volume of earth (m3)",
+                        "Bid": "0.405 km",
+                        "InContract": "0.405 km",
+                        "Actualquantity": "0.405 km",
+                        "UnitCost/Estimated": "15,638,545est. 30,184,060",
+                        "DiscountRate": "-48 %",
+                        "Total": "6,333,611"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "19-Jun-2009",
+                        "Actualworkcompletiondate": "23-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Jun-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Phat Sophal",
+                            "Note": "following the report provided by TSO."
+                        },
+                        {
+                            "Date": "21-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Phat Sophal",
+                            "Note": "following the report provided by TSO."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "07-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "FirstStep",
+                        "Gross": "8859200R",
+                        "Net": "8593424R",
+                        "Tax": "265776R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "06-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "SecondStep",
+                        "Gross": "8859200R",
+                        "Net": "8593424R",
+                        "Tax": "265776R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "16-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "FinalPayment",
+                        "Gross": "3829700R",
+                        "Net": "3716162R",
+                        "Tax": "113538R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "16-Feb-2010",
+                        "Source": "LC",
+                        "Description": "FinalPayment",
+                        "Gross": "600000R",
+                        "Net": "600000R",
+                        "Tax": "0R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "22,148,100R",
+                        "ActualPaymentCumulativeToDate(A)Net": "21,503,010R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "645,090R",
+                        "ContractValue(B)Gross": "22,148,100R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Drainage pipe system",
+            "project_link": "/pid/project/home/view.castle?pid=5e15e55b-a74c-4f67-a5c7-9e2b00fae588",
+            "project_html_data": {
+                "Pid": "5e15e55b-a74c-4f67-a5c7-9e2b00fae588",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban Drainage and Flood Protection",
+                        "TechnicalAssistant": "Chhoeng Kimsath",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Drainage pipe system",
+                        "Objective": "Improve to local people living",
+                        "Relatedcontract(s)": "050205/10/01-01 ",
+                        "CreatedBy": "Keo Samol",
+                        "Mobile": "012 928 922"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "75,142,000",
+                        "LocalRevenue": "1,302,000",
+                        "CarryOver": "26,003,700",
+                        "Other": "0",
+                        "Total": "102,447,700"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SvayKravan",
+                        "BeneficiaryTotal": "685",
+                        "BeneficiaryWomen": "371",
+                        "Households": "125"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol Kouk",
+                        "Description": "Pipe wastewater drainage New [ 1100403 ]Dimension #1 : 0.600 Diameter (m)Dimension #2 : 594.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "72,606,100",
+                        "Total": "72,606,100"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Have not negative environmental impact, because this is​​float protection"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project output is constructed on public land",
+                            "Approvaldate": "08-Sep-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is outside of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Jul-2010",
+                            "Technicalclearancesign-off": "06-Sep-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205100101",
+            "contract_html_data": {
+                "Id": "050205100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/10/01-01( 1 )",
+                        "TechnicalSupervisor": "Chhoeng Kimsath",
+                        "Project'sName": "Drainage pipe system",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban Drainage and Flood Protection",
+                        "Contractor": "Ouk Saren, [ Ouk Saren ]",
+                        "Competitivebidding": "Yes ( 21-Oct-2010 )",
+                        "Numberofcontractor": "13",
+                        "Contractsigndate(Form50)": "29-Oct-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "29-Oct-2010",
+                        "Plannedworkcompletiondate": "15-Jan-2011",
+                        "CreatedBy": "Keo Samol",
+                        "Mobile": "012 928 922",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "09-Feb-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "73,742,550"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PhonTep",
+                        "Contractor": "PhonTep",
+                        "BidValue": "53,460,000R",
+                        "DiscountRate": "-66%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SimVanna",
+                        "Contractor": "SimVanna",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LachPhan",
+                        "Contractor": "LachPhanPonleuAkphiwat",
+                        "BidValue": "64,152,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LongSavut",
+                        "Contractor": "LongSavutConstructionLimitit",
+                        "BidValue": "71,406,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ByNob",
+                        "Contractor": "ByNobAkphywatSpeanThnal",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MamSambath",
+                        "Contractor": "MamSambath",
+                        "BidValue": "65,000,000R",
+                        "DiscountRate": "-59%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HingMeng",
+                        "Contractor": "HingMeng",
+                        "BidValue": "63,700,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "GnivBunhoeun",
+                        "Contractor": "Diamangconstraction",
+                        "BidValue": "60,588,000R",
+                        "DiscountRate": "-62%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "TongNov",
+                        "Contractor": "TongNov",
+                        "BidValue": "62,370,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "HoeunDara",
+                        "Contractor": "HoeunDara",
+                        "BidValue": "56,000,000R",
+                        "DiscountRate": "-65%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "OukSaren",
+                        "Contractor": "OukSaren",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-69%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "SokSeamSroy",
+                        "Contractor": "HorHeng",
+                        "BidValue": "50,500,000R",
+                        "DiscountRate": "-68%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "68,904,000R",
+                        "DiscountRate": "-57%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "75,042,550",
+                        "Village": "Tuol Kouk",
+                        "Description": "[ 1100403 ] Pipe wastewater drainage NewDimension #1 : 0.600 Diameter (m)Dimension #2 : 594.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": " Line",
+                        "UnitCost/Estimated": "49,000,000est. 72,606,100",
+                        "DiscountRate": "-33 %",
+                        "Total": "49,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "29-Oct-2010",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "20-Nov-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Keo Samol",
+                            "Note": "Following with progress report of technical supervisor, the contractor completed construction works 50%"
+                        },
+                        {
+                            "Date": "20-Jan-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Keo Samol",
+                            "Note": "Following with progress report of technical monitoring staff"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "27-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "FirstPayment",
+                        "Gross": "30017020R",
+                        "Net": "27288200R",
+                        "Tax": "2728820R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "03-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "SecondPayment",
+                        "Gross": "30017020R",
+                        "Net": "27288200R",
+                        "Tax": "2728820R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Jul-2011",
+                        "Source": "CSF",
+                        "Description": "FinalPayment",
+                        "Gross": "13708510R",
+                        "Net": "12344100R",
+                        "Tax": "1364410R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Jul-2011",
+                        "Source": "LC",
+                        "Description": "FinalPayment",
+                        "Gross": "1300000R",
+                        "Net": "1300000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "75,042,550R",
+                        "ActualPaymentCumulativeToDate(A)Net": "68,220,500R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "6,822,050R",
+                        "ContractValue(B)Gross": "75,042,550R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road rehabilitating",
+            "project_link": "/pid/project/home/view.castle?pid=f9a49dc1-b49c-42e0-8da9-9f2b01179f0d",
+            "project_html_data": {
+                "Pid": "f9a49dc1-b49c-42e0-8da9-9f2b01179f0d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhoeng Kimsath",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road rehabilitating",
+                        "Objective": "To comfortable of local people traveling",
+                        "Relatedcontract(s)": "050205/11/01-01 ",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "50,055,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "56,250",
+                        "Other": "0",
+                        "Total": "51,111,250"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Skuh",
+                        "BeneficiaryTotal": "1,018",
+                        "BeneficiaryWomen": "529",
+                        "Households": "181"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Dak Por",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 526.000 Volume of earth (m3)",
+                        "Qty": "0.404 km",
+                        "UnitCost": "32,404,455",
+                        "Total": "13,091,400"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Have not negative environmental impact, because this is the exiting road and don’t make wider by 25% or more"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "08-Jan-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is outside of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Jun-2011",
+                            "Technicalclearancesign-off": "03-Jun-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205110101",
+            "contract_html_data": {
+                "Id": "050205110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/11/01-01( 1 )",
+                        "TechnicalSupervisor": "Chhoeng Kimsath",
+                        "Project'sName": "Laterite road rehabilitating",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Try Ngol, [ Try Ngol ]",
+                        "Competitivebidding": "Yes ( 20-Jun-2011 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "27-Jun-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Jun-2011",
+                        "Plannedworkcompletiondate": "19-Sep-2011",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "47,554,856"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SengPov",
+                        "Contractor": "SengPov",
+                        "BidValue": "34,120,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TanSimon",
+                        "Contractor": "TanMuy",
+                        "BidValue": "41,393,640R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LongSavut",
+                        "Contractor": "LongSavutConstructionLimitit",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ByNob",
+                        "Contractor": "ByNobAkphywatSpeanThnal",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HingMeng",
+                        "Contractor": "HingMeng",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ThayChheng",
+                        "Contractor": "Sathabpanathaychheng",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "PeachPally",
+                        "Contractor": "PeachPally",
+                        "BidValue": "45,500,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SokSeamSroy",
+                        "Contractor": "HorHeng",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "28,900,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "",
+                        "Contractor": "RSGroup",
+                        "BidValue": "45,704,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "SengLy",
+                        "Contractor": "SenglyAphiwat",
+                        "BidValue": "24,372,600R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "Yes",
+                        "Reason": "Thecontractorfillinunitpricewrongandhedidnotcorrectit."
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "48,554,834",
+                        "Village": "Dak Por",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,253.000 Volume of earth (m3)",
+                        "Bid": "0.404 km",
+                        "InContract": "0.639 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "29,702,970est. 32,404,455",
+                        "DiscountRate": "-8 %",
+                        "Total": "18,980,198"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "27-Jun-2011",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "13-Jul-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Sen Sina",
+                            "Note": "The contractor can draw the money 40%"
+                        },
+                        {
+                            "Date": "23-Aug-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Sen Sina",
+                            "Note": "The contractor can draw the money 40%"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Aug-2011",
+                        "Source": "CSF",
+                        "Description": "FirstPayment",
+                        "Gross": "19421942R",
+                        "Net": "18850708R",
+                        "Tax": "571234R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Oct-2011",
+                        "Source": "CSF",
+                        "Description": "SecondPayment",
+                        "Gross": "19421942R",
+                        "Net": "18850708R",
+                        "Tax": "571234R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "27-Apr-2012",
+                        "Source": "CSF",
+                        "Description": "FinalPayment",
+                        "Gross": "8710972R",
+                        "Net": "8425355R",
+                        "Tax": "285617R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "27-Apr-2012",
+                        "Source": "LC",
+                        "Description": "FinalPayment",
+                        "Gross": "1000000R",
+                        "Net": "1000000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "48,554,856R",
+                        "ActualPaymentCumulativeToDate(A)Net": "47,126,771R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,428,085R",
+                        "ContractValue(B)Gross": "48,554,856R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=482256fb-3033-47fc-8856-a0bc00af2c2a",
+            "project_html_data": {
+                "Pid": "482256fb-3033-47fc-8856-a0bc00af2c2a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal rehabilitation",
+                        "Objective": "Help the people to irrigate the rice in dry season.",
+                        "Relatedcontract(s)": "050205/12/01-01 ",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "60,988,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "394",
+                        "Other": "0",
+                        "Total": "61,988,394"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "AmpeaePhnum",
+                        "BeneficiaryTotal": "956",
+                        "BeneficiaryWomen": "451",
+                        "Households": "178"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ampeae Phnum",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 0.370 Depth (m)Dimension #2 : 1.000 Average width (m)",
+                        "Qty": "0.660 km",
+                        "UnitCost": "18,119,848",
+                        "Total": "11,959,100"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Have not negative environmental impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-Feb-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Mar-2012",
+                            "Technicalclearancesign-off": "15-Mar-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205120101",
+            "contract_html_data": {
+                "Id": "050205120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/12/01-01",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "Canal rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Mam Sambath, [ Mam Sambath ]",
+                        "Competitivebidding": "Yes ( 24-Apr-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "08-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-Nov-2012",
+                        "Plannedworkcompletiondate": "24-Dec-2012",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "24,500,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MamSambath",
+                        "Contractor": "MamSambath",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "31,572,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChemPisal",
+                        "Contractor": "RSGr.Development",
+                        "BidValue": "32,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "25,499,999",
+                        "Village": "Ampeae Phnum",
+                        "Description": "[ 1020203 ] Single pipe culvert 0.8m diameter with stop logs NewDimension #1 : 800.000 Diameter (mm)Dimension #2 : 3.000 Length (m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "1,000,000est. 5,792,500",
+                        "DiscountRate": "-83 %",
+                        "Total": "2,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "25,500,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pipe wast water drainage",
+            "project_link": "/pid/project/home/view.castle?pid=8f208f7c-9e3d-4308-ae7f-a20e00c07b94",
+            "project_html_data": {
+                "Pid": "8f208f7c-9e3d-4308-ae7f-a20e00c07b94",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Social",
+                        "Sub-Sector": "Domestic Sanitation",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pipe wast water drainage",
+                        "Objective": "Clearing the environment  and hygiene.",
+                        "Relatedcontract(s)": "050205/13/01-01 ",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "37,018,500",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "37,518,500"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolKouk",
+                        "BeneficiaryTotal": "675",
+                        "BeneficiaryWomen": "324",
+                        "Households": "126"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol Kouk",
+                        "Description": "Pipe wastewater drainage New [ 1100403 ]Dimension #1 : 0.600 Diameter (m)Dimension #2 : 280.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "36,953,400",
+                        "Total": "36,953,400"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Have not negative environmental impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Feb-2013",
+                            "Technicalclearancesign-off": "12-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205130101",
+            "contract_html_data": {
+                "Id": "050205130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/13/01-01( 1 )",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "Pipe wast water drainage",
+                        "Sector": "Social",
+                        "Sub-Sector": "Domestic Sanitation",
+                        "Contractor": "Lim PeSeth, [ Lim PiSeth ]",
+                        "Contractsigndate(Form50)": "10-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jun-2013",
+                        "Plannedworkcompletiondate": "30-Dec-2013",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "36,832,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "37,332,000",
+                        "Village": "Tuol Kouk",
+                        "Description": "[ 1100403 ] Pipe wastewater drainage NewDimension #1 : 0.600 Diameter (m)Dimension #2 : 280.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": " Line",
+                        "UnitCost/Estimated": "36,600,000est. 36,953,400",
+                        "DiscountRate": "-1 %",
+                        "Total": "36,600,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "13-Jun-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Sen Sina",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Dec-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Sen Sina",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "25-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "FirstPayment",
+                        "Gross": "14932800R",
+                        "Net": "14493600R",
+                        "Tax": "439200R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Dec-2013",
+                        "Source": "CSF",
+                        "Description": "SecondPayment",
+                        "Gross": "14932800R",
+                        "Net": "14493600R",
+                        "Tax": "439200R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "29,865,600R",
+                        "ActualPaymentCumulativeToDate(A)Net": "28,987,200R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "878,400R",
+                        "ContractValue(B)Gross": "37,332,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Constructed the concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=b35784c7-75e0-4b03-beb1-a2120095e457",
+            "project_html_data": {
+                "Pid": "b35784c7-75e0-4b03-beb1-a2120095e457",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Constructed the concrete road",
+                        "Objective": "To make easy traveling for the local peoples",
+                        "Relatedcontract(s)": "050205/13/02-01 ",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "60,176,500",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "60,676,500"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolKouk",
+                        "BeneficiaryTotal": "675",
+                        "BeneficiaryWomen": "324",
+                        "Households": "126"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol Kouk",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.297 km",
+                        "UnitCost": "332,736,700",
+                        "Total": "98,822,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Have not negative environmental impact, because this is the exiting road and don’t make width by 25% or more."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Feb-2013",
+                            "Technicalclearancesign-off": "12-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/13/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205130201",
+            "contract_html_data": {
+                "Id": "050205130201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/13/02-01",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "Constructed the concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "RS Gr.Development, [ Chem Pisal ]",
+                        "Competitivebidding": "Yes ( 22-Apr-2013 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "31-May-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "03-Jun-2013",
+                        "Plannedworkcompletiondate": "27-Jun-2013",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,944,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChemPisal",
+                        "Contractor": "RSGr.Development",
+                        "BidValue": "48,900,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KouchSreyMum",
+                        "Contractor": "KouchHeangHeang",
+                        "BidValue": "54,000,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LimPiSeth",
+                        "Contractor": "LimPeSeth",
+                        "BidValue": "51,150,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChhonnSophal",
+                        "Contractor": "C.H.PConstruction",
+                        "BidValue": "48,960,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KhouChamnan",
+                        "Contractor": "ChamNanSangSorng",
+                        "BidValue": "55,362,380R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "65,444,500",
+                        "Village": "Tuol Kouk",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.180 km",
+                        "InContract": "0.219 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "271,666,667est. 332,736,700",
+                        "DiscountRate": "-18 %",
+                        "Total": "59,495,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Jun-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "04-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Sen Sina",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "19-Jul-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Kong Chanty",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "10-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "FirstPayment",
+                        "Gross": "26177800R",
+                        "Net": "23798000R",
+                        "Tax": "2379800R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "SecondPayment",
+                        "Gross": "26177800R",
+                        "Net": "23798000R",
+                        "Tax": "2379800R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Mar-2014",
+                        "Source": "CSF",
+                        "Description": "FinalPayment",
+                        "Gross": "12588900R",
+                        "Net": "11399000R",
+                        "Tax": "1189900R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Mar-2014",
+                        "Source": "LC",
+                        "Description": "FinalPayment",
+                        "Gross": "500000R",
+                        "Net": "500000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "65,444,500R",
+                        "ActualPaymentCumulativeToDate(A)Net": "59,495,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "5,949,500R",
+                        "ContractValue(B)Gross": "65,444,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=5ffc0516-d093-4692-93b1-a402009fb2b6",
+            "project_html_data": {
+                "Pid": "5ffc0516-d093-4692-93b1-a402009fb2b6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "050205/14/01-01 ",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "63,828,100",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "64,828,100"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolKouk",
+                        "BeneficiaryTotal": "675",
+                        "BeneficiaryWomen": "324",
+                        "Households": "126"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol Kouk",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.196 km",
+                        "UnitCost": "325,653,571",
+                        "Total": "63,828,100"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Jan-2014",
+                            "Technicalclearancesign-off": "30-Apr-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205140101",
+            "contract_html_data": {
+                "Id": "050205140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/14/01-01",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Morm Sambath, [ Morm Sambath ]",
+                        "Competitivebidding": "Yes ( 26-May-2014 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "12-Jun-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Jun-2014",
+                        "Plannedworkcompletiondate": "30-Jul-2014",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "71,021,950"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LimPiSeth",
+                        "Contractor": "LimPeSeth",
+                        "BidValue": "44,000,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhonnSophal",
+                        "Contractor": "C.H.PConstruction",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MormSambath",
+                        "Contractor": "MormSambath",
+                        "BidValue": "41,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KhouChamnan",
+                        "Contractor": "ChamNanSangSorng",
+                        "BidValue": "47,870,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "EarngSopheap",
+                        "Contractor": "HengAphiwat",
+                        "BidValue": "58,800,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ChhemKimOun",
+                        "Contractor": "ChhemKimOun",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "72,021,939",
+                        "Village": "Tuol Kouk",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.196 km",
+                        "InContract": "0.313 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "209,183,673est. 325,653,571",
+                        "DiscountRate": "-36 %",
+                        "Total": "65,474,490"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Jun-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-Jul-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Sen Sina",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "72,021,950R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=03d62fdd-efbd-49e5-9c0e-a4d10106f855",
+            "project_html_data": {
+                "Pid": "03d62fdd-efbd-49e5-9c0e-a4d10106f855",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "050205/15/01-01 ",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "56,047,100",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "57,047,100"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolKouk",
+                        "BeneficiaryTotal": "774",
+                        "BeneficiaryWomen": "348",
+                        "Households": "130"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol Kouk",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.108 km",
+                        "UnitCost": "300,479,630",
+                        "Total": "32,451,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Feb-2015",
+                            "Technicalclearancesign-off": "27-Apr-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205150101",
+            "contract_html_data": {
+                "Id": "050205150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/15/01-01",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lim PeSeth, [ Lim PiSeth ]",
+                        "Competitivebidding": "Yes ( 26-May-2015 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "11-Jun-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "22-Jun-2015",
+                        "Plannedworkcompletiondate": "22-Jul-2015",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "60,438,630"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChemPisal",
+                        "Contractor": "RSGr.Development",
+                        "BidValue": "34,047,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KouchSreyMum",
+                        "Contractor": "KouchHeangHeang",
+                        "BidValue": "39,480,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LimPiSeth",
+                        "Contractor": "LimPeSeth",
+                        "BidValue": "29,000,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MormSambath",
+                        "Contractor": "MormSambath",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KhouChamnan",
+                        "Contractor": "ChamNanSangSorng",
+                        "BidValue": "33,628,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ChhunLeang",
+                        "Contractor": "LeangSopha",
+                        "BidValue": "37,950,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "NhebChieng",
+                        "Contractor": "VathanakMongkol",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "61,438,643",
+                        "Village": "Tuol Kouk",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.108 km",
+                        "InContract": "0.108 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "92,592,393est. 300,479,630",
+                        "DiscountRate": "-69 %",
+                        "Total": "9,999,978"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "22-Jun-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Jul-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sen Sina",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "61,438,630R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=8e4a8c0a-1abf-46d6-a80f-a6360110f7d9",
+            "project_html_data": {
+                "Pid": "8e4a8c0a-1abf-46d6-a80f-a6360110f7d9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "050205/16/01-01 ",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "200,000,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "201,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PhsarChas",
+                        "BeneficiaryTotal": "1,018",
+                        "BeneficiaryWomen": "506",
+                        "Households": "187"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phsar Chas",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.184 km",
+                        "UnitCost": "303,195,652",
+                        "Total": "55,788,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Mar-2016",
+                            "Technicalclearancesign-off": "11-Apr-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205160101",
+            "contract_html_data": {
+                "Id": "050205160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/16/01-01",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lim PeSeth, [ Lim PiSeth ]",
+                        "Competitivebidding": "Yes ( 26-Apr-2016 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "06-May-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "12-May-2016",
+                        "Plannedworkcompletiondate": "12-Jun-2016",
+                        "CreatedBy": "Sen Sina",
+                        "Mobile": "016 514862",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "60,336,990"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChemPisal",
+                        "Contractor": "RSGr.Development",
+                        "BidValue": "36,800,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimPiSeth",
+                        "Contractor": "LimPeSeth",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhouChamnan",
+                        "Contractor": "ChamNanSangSorng",
+                        "BidValue": "36,262,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChhunLeang",
+                        "Contractor": "LeangSopha",
+                        "BidValue": "37,720,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LyVirak",
+                        "Contractor": "AngPuth",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KhovLeangEth",
+                        "Contractor": "KhovLyma",
+                        "BidValue": "34,000,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HinHong",
+                        "Contractor": "HinHong",
+                        "BidValue": "40,848,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SamVeasna",
+                        "Contractor": "SamVeasnaSangSorng",
+                        "BidValue": "38,088,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "EmNea",
+                        "Contractor": "OdomsereyRatanak",
+                        "BidValue": "38,860,800R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "61,336,956",
+                        "Village": "Phsar Chas",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.184 km",
+                        "InContract": "0.380 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "146,739,130est. 303,195,652",
+                        "DiscountRate": "-52 %",
+                        "Total": "55,760,869"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "61,336,990R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Leterite road project",
+            "project_link": "/pid/project/home/view.castle?pid=ac869e9b-dad4-45ca-b825-a9d8011301d4",
+            "project_html_data": {
+                "Pid": "ac869e9b-dad4-45ca-b825-a9d8011301d4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Leterite road project",
+                        "Objective": "",
+                        "Relatedcontract(s)": "050205/17/01-01 ",
+                        "CreatedBy": "Nu Vuthy",
+                        "Mobile": "015 562582"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "28,304,300",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "29,304,300"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "AmpeaePhnum",
+                        "BeneficiaryTotal": "961",
+                        "BeneficiaryWomen": "508",
+                        "Households": "195"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ampeae Phnum",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 19.000 Volume of earth (m3)",
+                        "Qty": "0.387 km",
+                        "UnitCost": "18,360,723",
+                        "Total": "7,105,600"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Road old not to widen"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "13-Dec-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "locality not live people"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Feb-2017",
+                            "Technicalclearancesign-off": "20-Apr-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205170101",
+            "contract_html_data": {
+                "Id": "050205170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/17/01-01",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "Leterite road project",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 07-May-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "05-Jun-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Jun-2017",
+                        "Plannedworkcompletiondate": "03-Aug-2017",
+                        "CreatedBy": "Nu Vuthy",
+                        "Mobile": "015 562582",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "28,653,683"
+                    }
+                ],
+                "Bidding": [],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "28,653,683",
+                        "Village": "Ampeae Phnum",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 19.000 Volume of earth (m3)",
+                        "Bid": "0.387 km",
+                        "InContract": "0.387 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "13,804,347est. 18,360,723",
+                        "DiscountRate": "-25 %",
+                        "Total": "5,342,282"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "28,653,683R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=22273ed7-314f-4dbd-93c6-a9d900a3dbfb",
+            "project_html_data": {
+                "Pid": "22273ed7-314f-4dbd-93c6-a9d900a3dbfb",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Sector": "Social",
+                        "Sub-Sector": "Domestic Sanitation",
+                        "TechnicalAssistant": "Sen Sina",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "050205/17/02-01 ",
+                        "CreatedBy": "Nu Vuthy",
+                        "Mobile": "015 562582"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "36,012,900",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "36,512,900"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrasSala",
+                        "BeneficiaryTotal": "1,014",
+                        "BeneficiaryWomen": "517",
+                        "Households": "123"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tras Sala",
+                        "Description": "Pipe drainage New [ 1100401 ]Dimension #1 : 0.600 Diameter (m)Dimension #2 : 387.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "36,012,900",
+                        "Total": "36,012,900"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "13-Dec-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "07-Feb-2017",
+                            "Technicalclearancesign-off": "20-Apr-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "050205/17/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=050205170201",
+            "contract_html_data": {
+                "Id": "050205170201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 50205 ] Kampong Speu \\ Chbar Mon \\ Sangkat Svay Kravan",
+                        "Contract": "050205/17/02-01",
+                        "TechnicalSupervisor": "Sen Sina",
+                        "Project'sName": "",
+                        "Sector": "Social",
+                        "Sub-Sector": "Domestic Sanitation",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 07-May-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "08-Jun-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "28-Jun-2017",
+                        "Plannedworkcompletiondate": "28-Jul-2017",
+                        "CreatedBy": "Nu Vuthy",
+                        "Mobile": "015 562582",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "28,600,000"
+                    }
+                ],
+                "Bidding": [],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "28,600,000",
+                        "Village": "Tras Sala",
+                        "Description": "[ 1100401 ] Pipe drainage NewDimension #1 : 0.600 Diameter (m)Dimension #2 : 387.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": " Line",
+                        "UnitCost/Estimated": "26,000,000est. 36,012,900",
+                        "DiscountRate": "-28 %",
+                        "Total": "26,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "28,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

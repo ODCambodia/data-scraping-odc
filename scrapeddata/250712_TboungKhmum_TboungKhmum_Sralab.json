@@ -1,0 +1,2562 @@
+{
+    "location": {
+        "province": "Tboung Khmum",
+        "district": "Tboung Khmum",
+        "commune": "Sralab"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=2657f3b6-2624-4383-97a3-9c6e009c379c",
+            "project_html_data": {
+                "Pid": "2657f3b6-2624-4383-97a3-9c6e009c379c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven  Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "Having good road for traveling and transporting agricultural products and contributing to poverty reduction",
+                        "Relatedcontract(s)": "031618/09/01-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "111,237,300",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "111,237,300"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SangkomThmei",
+                        "BeneficiaryTotal": "915",
+                        "BeneficiaryWomen": "445",
+                        "Households": "228"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Dom",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 4,340.000 Volume of earth (m3)",
+                        "Qty": "2.900 km",
+                        "UnitCost": "14,529,539",
+                        "Total": "42,135,663"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This commune is not listed in the environmental watched list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.",
+                            "Reason": "The concerned families voluntarily grant their parts of lands (lesser than 5%) and properties on the lands to the project"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "These villages are not in the watched list of HP"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-May-2009",
+                            "Technicalclearancesign-off": "13-Jul-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618090101",
+            "contract_html_data": {
+                "Id": "031618090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/09/01-01",
+                        "TechnicalSupervisor": "Ven  Vorn",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mak Mok, [ Mak Mok ]",
+                        "Competitivebidding": "Yes ( 02-Sep-2009 )",
+                        "Numberofcontractor": "14",
+                        "Contractsigndate(Form50)": "11-Sep-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Oct-2009",
+                        "Plannedworkcompletiondate": "30-Oct-2009",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "26-Dec-2009",
+                        "Closeddateon": "30-Jun-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "116,923,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NhemChinda",
+                        "Contractor": "NhemChinda",
+                        "BidValue": "88,797,100R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SeanSen",
+                        "Contractor": "SeanSen",
+                        "BidValue": "80,540,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "CheaSovann",
+                        "Contractor": "CheaSovann",
+                        "BidValue": "106,342,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "NhebSe",
+                        "Contractor": "NhebSe",
+                        "BidValue": "105,548,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SengChhunHeng",
+                        "Contractor": "SengChhunHeng",
+                        "BidValue": "74,040,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SaiChou",
+                        "Contractor": "SaiChou",
+                        "BidValue": "110,830,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "EamHuyLy",
+                        "Contractor": "EamHuyLy",
+                        "BidValue": "96,950,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KeamSaruon",
+                        "Contractor": "KeamSaruon",
+                        "BidValue": "77,610,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "LyThaiHak",
+                        "Contractor": "LyThaiHak",
+                        "BidValue": "70,398,600R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "MakMok",
+                        "Contractor": "MakMok",
+                        "BidValue": "60,050,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "PrakEang",
+                        "Contractor": "PrakEang",
+                        "BidValue": "59,520,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "LongNam",
+                        "Contractor": "LongNam",
+                        "BidValue": "82,240,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "64,410,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "RothSarin",
+                        "Contractor": "RothSarin",
+                        "BidValue": "71,817,126R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "117,523,000",
+                        "Village": "Sangkom Thmei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 4,283.000 Volume of earth (m3)",
+                        "Bid": "1.140 km",
+                        "InContract": "2.210 km",
+                        "Actualquantity": "2.210 km",
+                        "UnitCost/Estimated": "7,500,000est. 14,529,539",
+                        "DiscountRate": "-48 %",
+                        "Total": "16,575,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Oct-2009",
+                        "Actualworkcompletiondate": "28-Dec-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Nov-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Mak Neang",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "28-Dec-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Mak Neang",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "10-Nov-2009",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "47009200R",
+                        "Net": "45598924R",
+                        "Tax": "1410276R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "30-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "47009200R",
+                        "Net": "45598924R",
+                        "Tax": "1410276R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "23-Aug-2010",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "22904600R",
+                        "Net": "22319628R",
+                        "Tax": "584972R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "23-Aug-2010",
+                        "Source": "LC",
+                        "Description": "3rdPayment",
+                        "Gross": "600000R",
+                        "Net": "582524R",
+                        "Tax": "17476R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "117,523,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "114,100,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "3,423,000R",
+                        "ContractValue(B)Gross": "117,523,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=49786a80-b5cc-4a26-8a87-9e5b00f4a0f5",
+            "project_html_data": {
+                "Pid": "49786a80-b5cc-4a26-8a87-9e5b00f4a0f5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Soth Kosal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "People have good road and easy traveling.",
+                        "Relatedcontract(s)": "031618/10/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "98,439,404",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "99,039,404"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Prayab",
+                        "BeneficiaryTotal": "541",
+                        "BeneficiaryWomen": "290",
+                        "Households": "110"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Dang Kambet",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 713.130 Volume of earth (m3)",
+                        "Qty": "0.475 km",
+                        "UnitCost": "14,962,943",
+                        "Total": "7,107,398"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "04-Dec-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "14-Dec-2010",
+                            "Technicalclearancesign-off": "21-Feb-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618100101",
+            "contract_html_data": {
+                "Id": "031618100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/10/01-01",
+                        "TechnicalSupervisor": "Soth Kosal",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Eam Huy Ly, [ Eam Huy Ly ]",
+                        "Competitivebidding": "Yes ( 24-Mar-2011 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "07-Apr-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-May-2011",
+                        "Plannedworkcompletiondate": "10-Jun-2011",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "95,726,090"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ThaoVibol",
+                        "Contractor": "ThaoVibol",
+                        "BidValue": "96,958,700R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "EamHuyLy",
+                        "Contractor": "EamHuyLy",
+                        "BidValue": "94,829,500R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "SamnangHengRavuth",
+                        "BidValue": "95,693,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "96,726,090",
+                        "Village": "Dang Kambet",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 713.130 Volume of earth (m3)",
+                        "Bid": "0.475 km",
+                        "InContract": "0.475 km",
+                        "Actualquantity": "0.475 km",
+                        "UnitCost/Estimated": "16,500,000est. 14,962,943",
+                        "DiscountRate": "10 %",
+                        "Total": "7,837,500"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "03-May-2011",
+                        "Actualworkcompletiondate": "24-Jun-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-May-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "24-Jun-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Jun-2011",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "38690436R",
+                        "Net": "37552482R",
+                        "Tax": "1137954R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "27-Jun-2011",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "38690436R",
+                        "Net": "37552482R",
+                        "Tax": "1137954R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "18345218R",
+                        "Net": "17805653R",
+                        "Tax": "539565R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-Dec-2011",
+                        "Source": "LC",
+                        "Description": "Finalpayment",
+                        "Gross": "1000000R",
+                        "Net": "970588R",
+                        "Tax": "29412R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "96,726,090R",
+                        "ActualPaymentCumulativeToDate(A)Net": "93,881,205R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,844,885R",
+                        "ContractValue(B)Gross": "96,726,090R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=96444fac-f2f1-4fb2-ae1b-9f9d0096d67c",
+            "project_html_data": {
+                "Pid": "96444fac-f2f1-4fb2-ae1b-9f9d0096d67c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "Easy for traveling and transporting agricultural products to market which contributes to poverty reduction.",
+                        "Relatedcontract(s)": "031618/11/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "81,180,098",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "82,180,098"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "AngkorChea",
+                        "BeneficiaryTotal": "756",
+                        "BeneficiaryWomen": "394",
+                        "Households": "183"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pratheat",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,901.050 Volume of earth (m3)",
+                        "Qty": "1.247 km",
+                        "UnitCost": "17,766,743",
+                        "Total": "22,155,128"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land, not effected to people's land."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people and is not in highland people's safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Sep-2011",
+                            "Technicalclearancesign-off": "20-Sep-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618110101",
+            "contract_html_data": {
+                "Id": "031618110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/11/01-01",
+                        "TechnicalSupervisor": "Ven Vorn",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Eam Huy Ly, [ Eam Huy Ly ]",
+                        "Competitivebidding": "Yes ( 27-Oct-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "08-Nov-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2011",
+                        "Plannedworkcompletiondate": "30-Dec-2011",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "27-Jul-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "79,600,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "80,118,400R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "EamHuyLy",
+                        "Contractor": "EamHuyLy",
+                        "BidValue": "79,020,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "BunSotray",
+                        "BidValue": "80,975,400R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "HokChanthan",
+                        "BidValue": "79,107,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "80,600,400",
+                        "Village": "Pratheat",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,901.050 Volume of earth (m3)",
+                        "Bid": "1.247 km",
+                        "InContract": "1.247 km",
+                        "Actualquantity": "1.247 km",
+                        "UnitCost/Estimated": "17,000,000est. 17,766,743",
+                        "DiscountRate": "-4 %",
+                        "Total": "21,199,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "07-Dec-2011",
+                        "Actualworkcompletiondate": "27-Jan-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Jan-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "27-Jan-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "20-Jan-2012",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "32240160R",
+                        "Net": "31291920R",
+                        "Tax": "948240R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Jan-2012",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "32240160R",
+                        "Net": "31291920R",
+                        "Tax": "948240R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "15120080R",
+                        "Net": "14675372R",
+                        "Tax": "444708R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Aug-2012",
+                        "Source": "LC",
+                        "Description": "Finalpayment",
+                        "Gross": "1000000R",
+                        "Net": "970588R",
+                        "Tax": "29412R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "80,600,400R",
+                        "ActualPaymentCumulativeToDate(A)Net": "78,229,800R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,370,600R",
+                        "ContractValue(B)Gross": "80,600,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=40f773a6-c02e-497f-892e-a03800b516bf",
+            "project_html_data": {
+                "Pid": "40f773a6-c02e-497f-892e-a03800b516bf",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "Have road easy for traveling to school, hospital and transporting agricultural products to market, as well as improving people's living standard which contributes to poverty reduction.",
+                        "Relatedcontract(s)": "031618/12/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "63,647,823",
+                        "LocalRevenue": "450,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "64,097,823"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SangkomThmei",
+                        "BeneficiaryTotal": "764",
+                        "BeneficiaryWomen": "389",
+                        "Households": "199"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sangkom Thmei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,480.360 Volume of earth (m3)",
+                        "Qty": "0.650 km",
+                        "UnitCost": "18,965,866",
+                        "Total": "12,327,813"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "01-Apr-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people. "
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Apr-2012",
+                            "Technicalclearancesign-off": "20-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618120101",
+            "contract_html_data": {
+                "Id": "031618120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/12/01-01",
+                        "TechnicalSupervisor": "Ven Vorn",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sai Chou, [ Sai Chou ]",
+                        "Competitivebidding": "Yes ( 11-May-2012 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "22-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "28-May-2012",
+                        "Plannedworkcompletiondate": "28-Jun-2012",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "58,546,800"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "450,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "AvMengYuy",
+                        "Contractor": "AvMengYuy",
+                        "BidValue": "62,720,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TongNov",
+                        "Contractor": "TongNov",
+                        "BidValue": "0R",
+                        "DiscountRate": "-100%",
+                        "Rejected": "Yes",
+                        "Reason": "Biddingpaperwaswithdrawn"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SaiChou",
+                        "Contractor": "SaiChou",
+                        "BidValue": "57,840,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KrielHeang",
+                        "Contractor": "KrielHeang",
+                        "BidValue": "57,999,680R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChoemChola",
+                        "Contractor": "ChoemChola",
+                        "BidValue": "59,720,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "SreySokunthea",
+                        "BidValue": "62,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SoNet",
+                        "Contractor": "SoNet",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "Yes",
+                        "Reason": "Nobidderdelegationletterattachedwithbiddingproposal."
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "58,996,800",
+                        "Village": "Angkor Chey",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,439.070 Volume of earth (m3)",
+                        "Bid": "0.603 km",
+                        "InContract": "0.603 km",
+                        "Actualquantity": "0.603 km",
+                        "UnitCost/Estimated": "18,000,000est. 21,605,308",
+                        "DiscountRate": "-17 %",
+                        "Total": "10,854,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "28-May-2012",
+                        "Actualworkcompletiondate": "17-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Jul-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Jul-2012",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "23598720R",
+                        "Net": "22904640R",
+                        "Tax": "694080R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "23598720R",
+                        "Net": "22904640R",
+                        "Tax": "694080R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Mar-2013",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "11349360R",
+                        "Net": "11015555R",
+                        "Tax": "333805R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Mar-2013",
+                        "Source": "LC",
+                        "Description": "Finalpayment",
+                        "Gross": "450000R",
+                        "Net": "436765R",
+                        "Tax": "13235R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "58,996,800R",
+                        "ActualPaymentCumulativeToDate(A)Net": "57,261,600R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,735,200R",
+                        "ContractValue(B)Gross": "58,996,800R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road upgrade",
+            "project_link": "/pid/project/home/view.castle?pid=17bbda64-518b-412b-9e60-a03800f2de5c",
+            "project_html_data": {
+                "Pid": "17bbda64-518b-412b-9e60-a03800f2de5c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road upgrade",
+                        "Objective": "Have road easy for traveling to school, hospital and transporting agricultural products to market, as well as improving people's living standard which contributes to poverty reduction.",
+                        "Relatedcontract(s)": "031618/12/02-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "52,907,713",
+                        "LocalRevenue": "450,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "53,357,713"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "AngkorChea",
+                        "BeneficiaryTotal": "803",
+                        "BeneficiaryWomen": "408",
+                        "Households": "189"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Veal Khnach",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 2,054.690 Volume of earth (m3)",
+                        "Qty": "0.810 km",
+                        "UnitCost": "22,215,604",
+                        "Total": "17,994,639"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Repair an existing road, no affects on people's land."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Apr-2012",
+                            "Technicalclearancesign-off": "20-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/12/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618120201",
+            "contract_html_data": {
+                "Id": "031618120201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/12/02-01",
+                        "TechnicalSupervisor": "Ven Vorn",
+                        "Project'sName": "Laterite road upgrade",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sai Chou, [ Sai Chou ]",
+                        "Competitivebidding": "Yes ( 11-May-2012 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "22-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "28-May-2012",
+                        "Plannedworkcompletiondate": "28-Jun-2012",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "47,235,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "450,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "AvMengYuy",
+                        "Contractor": "AvMengYuy",
+                        "BidValue": "52,002,500R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TongNov",
+                        "Contractor": "TongNov",
+                        "BidValue": "49,500,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SaiChou",
+                        "Contractor": "SaiChou",
+                        "BidValue": "46,750,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KrielHeang",
+                        "Contractor": "KrielHeang",
+                        "BidValue": "57,998,500R",
+                        "DiscountRate": "10%",
+                        "Rejected": "Yes",
+                        "Reason": "Invalid,becausethebidderhadcalculatedwrongly."
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "TheingRita",
+                        "Contractor": "TheingRita",
+                        "BidValue": "51,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "SreySokunthea",
+                        "BidValue": "52,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SoNet",
+                        "Contractor": "SoNet",
+                        "BidValue": "46,000,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "Yes",
+                        "Reason": "Nobidderdelegationletterattachedwithbiddingproposal."
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "47,685,000",
+                        "Village": "Angkor Chea",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 4,098.330 Volume of earth (m3)",
+                        "Bid": "1.940 km",
+                        "InContract": "1.940 km",
+                        "Actualquantity": "1.940 km",
+                        "UnitCost/Estimated": "17,000,000est. 17,996,430",
+                        "DiscountRate": "-6 %",
+                        "Total": "32,980,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "28-May-2012",
+                        "Actualworkcompletiondate": "17-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Jul-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Jul-2012",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "19074000R",
+                        "Net": "18513000R",
+                        "Tax": "561000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Oct-2012",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "19074000R",
+                        "Net": "18513000R",
+                        "Tax": "561000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-Mar-2013",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "9087000R",
+                        "Net": "8819735R",
+                        "Tax": "267265R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-Mar-2013",
+                        "Source": "LC",
+                        "Description": "Finalpayment",
+                        "Gross": "450000R",
+                        "Net": "436765R",
+                        "Tax": "13235R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "47,685,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "46,282,500R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,402,500R",
+                        "ContractValue(B)Gross": "47,685,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=22ce89b6-6fd1-4c77-a4eb-a19b00f27ed0",
+            "project_html_data": {
+                "Pid": "22ce89b6-6fd1-4c77-a4eb-a19b00f27ed0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "Have road easy for traveling to school, hospital and transporting agricultural products to market, as well as improving people's living standard which contributes to poverty reduction.",
+                        "Relatedcontract(s)": "031618/13/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "103,818,245",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "104,818,245"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sralab",
+                        "BeneficiaryTotal": "936",
+                        "BeneficiaryWomen": "456",
+                        "Households": "185"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sralab",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 1,700.650 Volume of earth (m3)",
+                        "Qty": "0.795 km",
+                        "UnitCost": "22,075,226",
+                        "Total": "17,549,805"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project location is on public land."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is out of highland people village, and the Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Mar-2013",
+                            "Technicalclearancesign-off": "20-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618130101",
+            "contract_html_data": {
+                "Id": "031618130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/13/01-01",
+                        "TechnicalSupervisor": "Ven Vorn",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Av Meng Yuy, [ Av Meng Yuy ]",
+                        "Competitivebidding": "Yes ( 05-Apr-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "23-Apr-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-May-2013",
+                        "Plannedworkcompletiondate": "25-May-2013",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "100,998,977"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "AvMengYuy",
+                        "Contractor": "AvMengYuy",
+                        "BidValue": "99,998,997R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KeamSaruon",
+                        "Contractor": "KeamSaruon",
+                        "BidValue": "101,372,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ThuokTaiLy",
+                        "Contractor": "ThuokTaiLy",
+                        "BidValue": "103,172,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "101,998,977",
+                        "Village": "Sralab",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 3,044.580 Volume of earth (m3)",
+                        "Bid": "1.264 km",
+                        "InContract": "1.264 km",
+                        "Actualquantity": "1.264 km",
+                        "UnitCost/Estimated": "26,219,763est. 23,396,990",
+                        "DiscountRate": "12 %",
+                        "Total": "33,141,780"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-May-2013",
+                        "Actualworkcompletiondate": "11-Dec-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Jun-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "11-Dec-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "14-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "40799591R",
+                        "Net": "39599603R",
+                        "Tax": "1199988R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Dec-2013",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "40799591R",
+                        "Net": "39599603R",
+                        "Tax": "1199988R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "81,599,182R",
+                        "ActualPaymentCumulativeToDate(A)Net": "79,199,206R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,399,976R",
+                        "ContractValue(B)Gross": "101,998,977R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=da2f0dff-340c-4d38-ac93-a2f900abeaad",
+            "project_html_data": {
+                "Pid": "da2f0dff-340c-4d38-ac93-a2f900abeaad",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "Provides better access and easy traveling to people.",
+                        "Relatedcontract(s)": "031618/14/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "59,470,601",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "59,470,601"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrapeangThum",
+                        "BeneficiaryTotal": "713",
+                        "BeneficiaryWomen": "373",
+                        "Households": "138"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Thum",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 774.810 Volume of earth (m3)",
+                        "Qty": "0.321 km",
+                        "UnitCost": "34,035,636",
+                        "Total": "10,925,439"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "No natural resources involved and Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road. "
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Mar-2014",
+                            "Technicalclearancesign-off": "01-Apr-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618140101",
+            "contract_html_data": {
+                "Id": "031618140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/14/01-01",
+                        "TechnicalSupervisor": "Ven Vorn",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Av Meng Yuy, [ Av Meng Yuy ]",
+                        "Competitivebidding": "Yes ( 16-Apr-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-May-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-May-2014",
+                        "Plannedworkcompletiondate": "15-Jun-2014",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "58,390,434"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "450,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "AvMengYuy",
+                        "Contractor": "AvMengYuy",
+                        "BidValue": "57,686,700R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "58,138,800R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SrengHort",
+                        "Contractor": "SrengHort",
+                        "BidValue": "59,133,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "58,840,434",
+                        "Village": "Trapeang Dom",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 3,387.340 Volume of earth (m3)",
+                        "Bid": "1.515 km",
+                        "InContract": "1.515 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "25,230,000est. 22,187,943",
+                        "DiscountRate": "14 %",
+                        "Total": "38,223,450"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-May-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "58,840,434R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pipe wastewater drainage",
+            "project_link": "/pid/project/home/view.castle?pid=85e81b4a-0e8b-4a19-8e59-a2f900b02778",
+            "project_html_data": {
+                "Pid": "85e81b4a-0e8b-4a19-8e59-a2f900b02778",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pipe wastewater drainage",
+                        "Objective": "Improves people's living standard by constructing pipe culverts.",
+                        "Relatedcontract(s)": "031618/14/02-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "21,358,825",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "21,358,825"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChanToung",
+                        "BeneficiaryTotal": "957",
+                        "BeneficiaryWomen": "480",
+                        "Households": "184"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Khlaong",
+                        "Description": "Single cell box culvert 2.0m x 1.5m New [ 1010308 ]Dimension #1 : 1.000 Height (m)Dimension #2 : 45.000 Length(m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "11,900,669",
+                        "Total": "11,900,669"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "No natural resources involved and Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road. "
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people and is not in highland people's safeguards watch list. "
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Mar-2014",
+                            "Technicalclearancesign-off": "01-Apr-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031618/14/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031618140201",
+            "contract_html_data": {
+                "Id": "031618140201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "031618/14/02-01",
+                        "TechnicalSupervisor": "Ven Vorn",
+                        "Project'sName": "Pipe wastewater drainage",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Horn Sorphea, [ Horn Sorphea ]",
+                        "Competitivebidding": "Yes ( 23-Apr-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-May-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-May-2014",
+                        "Plannedworkcompletiondate": "15-May-2014",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "20,613,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "450,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HornSorphea",
+                        "Contractor": "HornSorphea",
+                        "BidValue": "20,650,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "chheounchhay",
+                        "Contractor": "chheounchhay",
+                        "BidValue": "21,200,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "SaoLinda",
+                        "BidValue": "21,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "21,063,000",
+                        "Village": "Khlaong",
+                        "Description": "[ 1010308 ] Single cell box culvert 2.0m x 1.5m NewDimension #1 : 1.000 Height (m)Dimension #2 : 45.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "6,700,000est. 11,900,669",
+                        "DiscountRate": "-44 %",
+                        "Total": "6,700,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "21,063,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Brick school 2 rooms with tile roof, concrete floor",
+            "project_link": "/pid/project/home/view.castle?pid=8fe475f3-625e-4d2c-a63c-a61700e6f021",
+            "project_html_data": {
+                "Pid": "8fe475f3-625e-4d2c-a63c-a61700e6f021",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Social",
+                        "Sub-Sector": "Education",
+                        "TechnicalAssistant": "Chea Teng",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Brick school 2 rooms with tile roof, concrete floor",
+                        "Objective": "Have school near village, all children be able to go for studying.",
+                        "Relatedcontract(s)": "250712/15/01-01 ",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "102,214,500",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "102,214,500"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TrapeangDom",
+                        "BeneficiaryTotal": "1,072",
+                        "BeneficiaryWomen": "576",
+                        "Households": "174"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Dom",
+                        "Description": "Brick school 2 rooms with tile roof, concrete floor New [ 1040201 ]Dimension #1 : 9.000 Length (m)Dimension #2 : 16.000 Width (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "102,214,500",
+                        "Total": "102,214,500"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project location is on public land."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Aug-2015",
+                            "Technicalclearancesign-off": "09-Sep-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "250712/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=250712150101",
+            "contract_html_data": {
+                "Id": "250712150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "250712/15/01-01",
+                        "TechnicalSupervisor": "Chea Teng",
+                        "Project'sName": "Brick school 2 rooms with tile roof, concrete floor",
+                        "Sector": "Social",
+                        "Sub-Sector": "Education",
+                        "Contractor": "Soa Linda, [ Soa Linda ]",
+                        "Competitivebidding": "Yes ( 05-Nov-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "19-Nov-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Dec-2015",
+                        "Plannedworkcompletiondate": "10-Mar-2016",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "106,240,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "900,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MovMuoyHeng",
+                        "Contractor": "MovMuoyHeng",
+                        "BidValue": "99,500,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "YimSopheak",
+                        "Contractor": "YimSopheak",
+                        "BidValue": "101,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SoaLinda",
+                        "Contractor": "SoaLinda",
+                        "BidValue": "97,400,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "107,140,000",
+                        "Village": "Trapeang Dom",
+                        "Description": "[ 1040201 ] Brick school 2 rooms with tile roof, concrete floor NewDimension #1 : 9.000 Length (m)Dimension #2 : 16.000 Width (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "97,400,000est. 102,214,500",
+                        "DiscountRate": "-5 %",
+                        "Total": "97,400,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "107,140,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=ee9cd3ea-19f9-4a21-97b8-a61f00b69df9",
+            "project_html_data": {
+                "Pid": "ee9cd3ea-19f9-4a21-97b8-a61f00b69df9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chea Teng",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "Provides better access and easy traveling to people.",
+                        "Relatedcontract(s)": "250712/16/01-01 ",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "50,043,476",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,043,476"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "NikomKraom",
+                        "BeneficiaryTotal": "915",
+                        "BeneficiaryWomen": "446",
+                        "Households": "182"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Sangkae",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 3,113.650 Volume of earth (m3)",
+                        "Qty": "0.717 km",
+                        "UnitCost": "44,898,797",
+                        "Total": "32,192,438"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people and is not in highland people's safeguards watch list. "
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "18-Mar-2016",
+                            "Technicalclearancesign-off": "06-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "250712/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=250712160101",
+            "contract_html_data": {
+                "Id": "250712160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "250712/16/01-01",
+                        "TechnicalSupervisor": "Chea Teng",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Leng Khim, [ Leng Khim ]",
+                        "Competitivebidding": "Yes ( 26-Aug-2016 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "16-Sep-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Oct-2016",
+                        "Plannedworkcompletiondate": "30-Nov-2016",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,032,316"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChoemChola",
+                        "Contractor": "ChoemChola",
+                        "BidValue": "39,810,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "chheounchhay",
+                        "Contractor": "chheounchhay",
+                        "BidValue": "49,099,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhalSophan",
+                        "Contractor": "PHALSOPHAN",
+                        "BidValue": "22,559,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ThengRita",
+                        "Contractor": "ThengRita",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MoeurngSarom",
+                        "Contractor": "MoeurngSarom",
+                        "BidValue": "27,760,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "LengKhim",
+                        "Contractor": "LengKhim",
+                        "BidValue": "10,616,000R",
+                        "DiscountRate": "-79%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HornSauphorn",
+                        "Contractor": "HornSauphorn",
+                        "BidValue": "16,791,000R",
+                        "DiscountRate": "-66%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SoaKaknika",
+                        "Contractor": "SoaKaknika",
+                        "BidValue": "49,262,200R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "HornSophap",
+                        "Contractor": "HornSophap",
+                        "BidValue": "49,429,700R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "64,532,544",
+                        "Village": "Nikom Kraom",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,977.340 Volume of earth (m3)",
+                        "Bid": "0.610 km",
+                        "InContract": "3.508 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "8,000,000est. 29,263,996",
+                        "DiscountRate": "-73 %",
+                        "Total": "28,067,200"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "64,532,316R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=77e28d37-03ca-49f6-a668-a72900a4dc5b",
+            "project_html_data": {
+                "Pid": "77e28d37-03ca-49f6-a668-a72900a4dc5b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chea Teng",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "Provides better access and easy traveling to people.",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "50,043,476",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,043,476"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "NikomKraom",
+                        "BeneficiaryTotal": "915",
+                        "BeneficiaryWomen": "446",
+                        "Households": "182"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Trapeang Sangkae",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 3,113.650 Volume of earth (m3)",
+                        "Qty": "0.717 km",
+                        "UnitCost": "44,898,797",
+                        "Total": "32,192,437"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road. "
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people. "
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "18-Mar-2016",
+                            "Technicalclearancesign-off": "06-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=8b92d1b5-237d-47bf-b724-a9e400948098",
+            "project_html_data": {
+                "Pid": "8b92d1b5-237d-47bf-b724-a9e400948098",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chea Teng",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "Provides better access and easy traveling to people.",
+                        "Relatedcontract(s)": "250712/17/01-01 ",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "50,047,185",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,047,185"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChanToung",
+                        "BeneficiaryTotal": "984",
+                        "BeneficiaryWomen": "500",
+                        "Households": "189"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chan Toung",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 572.190 Volume of earth (m3)",
+                        "Qty": "0.165 km",
+                        "UnitCost": "35,997,200",
+                        "Total": "5,939,538"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road. "
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people and is not in highland people's safeguards watch list. "
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-Mar-2017",
+                            "Technicalclearancesign-off": "04-Aug-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "250712/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=250712170101",
+            "contract_html_data": {
+                "Id": "250712170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250712 ] Tboung Khmum \\ Tboung Khmum \\ Sralab",
+                        "Contract": "250712/17/01-01",
+                        "TechnicalSupervisor": "Chea Teng",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Hang Sok kuoy, [ Hang Sok kuoy ]",
+                        "Competitivebidding": "Yes ( 29-Aug-2017 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "07-Sep-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Nov-2017",
+                        "Plannedworkcompletiondate": "25-Dec-2017",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "119,937,051"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HangSokkuoy",
+                        "Contractor": "HangSokkuoy",
+                        "BidValue": "8,077,000R",
+                        "DiscountRate": "-84%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KetSokeang",
+                        "Contractor": "KetSokeang",
+                        "BidValue": "13,185,000R",
+                        "DiscountRate": "-74%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "OuleangHong",
+                        "Contractor": "OuleangHong",
+                        "BidValue": "25,562,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HaoSopheary",
+                        "Contractor": "HAOSOPHEARY",
+                        "BidValue": "49,667,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "NounPromsotheara",
+                        "Contractor": "NounPromsotheara",
+                        "BidValue": "49,103,600R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "HornSophorn",
+                        "Contractor": "HornSophorn",
+                        "BidValue": "16,604,000R",
+                        "DiscountRate": "-67%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SeangSamath",
+                        "Contractor": "SeangSamath",
+                        "BidValue": "27,664,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "HornSophea",
+                        "Contractor": "HornSophea",
+                        "BidValue": "48,412,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "120,437,051",
+                        "Village": "Chan Toung",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 5,429.590 Volume of earth (m3)",
+                        "Bid": "0.165 km",
+                        "InContract": "3.120 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "34,318,182est. 35,997,200",
+                        "DiscountRate": "-5 %",
+                        "Total": "107,072,728"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "120,437,051R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

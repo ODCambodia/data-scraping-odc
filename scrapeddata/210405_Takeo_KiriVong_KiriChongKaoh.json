@@ -1,0 +1,2353 @@
+{
+    "location": {
+        "province": "Takeo",
+        "district": "Kiri Vong",
+        "commune": "Kiri Chong Kaoh"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=0ffa1022-8468-4323-8b33-9c5e00b143ee",
+            "project_html_data": {
+                "Pid": "0ffa1022-8468-4323-8b33-9c5e00b143ee",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "Not yet translate",
+                        "Relatedcontract(s)": "210405/09/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "41,107,500",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "41,607,500"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "1,104",
+                        "BeneficiaryWomen": "581",
+                        "Households": "221"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preal",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,259.000 Volume of earth (m3)",
+                        "Qty": "1.070 km",
+                        "UnitCost": "30,434,860",
+                        "Total": "32,565,300"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "16-Mar-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Apr-2009",
+                            "Technicalclearancesign-off": "04-May-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405090101",
+            "contract_html_data": {
+                "Id": "210405090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/09/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SamnangTouTao, [ Mam Davy ]",
+                        "Competitivebidding": "Yes ( 21-May-2009 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "01-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jun-2009",
+                        "Plannedworkcompletiondate": "15-Jul-2009",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "23-Apr-2010",
+                        "Closeddateon": "25-Mar-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "38,931,900"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengPong",
+                        "Contractor": "HengPong",
+                        "BidValue": "36,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HienPhorn",
+                        "Contractor": "AkphivoathRungReung",
+                        "BidValue": "36,699,900R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MamDavy",
+                        "Contractor": "SamnangTouTao",
+                        "BidValue": "35,863,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,Lowestbidprice,winner"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "DulSenghout",
+                        "Contractor": "DulSengHout",
+                        "BidValue": "36,233,442R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChabSophaphorn",
+                        "Contractor": "SthapPanaAndungTuekSaathNingSamNang",
+                        "BidValue": "36,699,980R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PangSokhom",
+                        "Contractor": "KouYunSvayBraVoath",
+                        "BidValue": "36,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HienYung",
+                        "Contractor": "AkphivoathRikChamRouen",
+                        "BidValue": "36,899,900R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,431,902",
+                        "Village": "Preal",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 5.000 Width (m)Dimension #2 : 3,259.000 Volume of earth (m3)",
+                        "Bid": "0.988 km",
+                        "InContract": "1.070 km",
+                        "Actualquantity": "1.070 km",
+                        "UnitCost/Estimated": "29,517,196est. 30,434,860",
+                        "DiscountRate": "-3 %",
+                        "Total": "31,583,400"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jun-2009",
+                        "Actualworkcompletiondate": "23-Sep-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-Jun-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Koam Sothun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "23-Sep-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "22-Jun-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "15272700R",
+                        "Net": "14814519R",
+                        "Tax": "458181R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "22-Jun-2009",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "500000R",
+                        "Net": "485000R",
+                        "Tax": "15000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "25-Sep-2009",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "15772700R",
+                        "Net": "15299519R",
+                        "Tax": "473181R",
+                        "Verified": "OumSothearos"
+                    },
+                    {
+                        "Date": "29-Mar-2010",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "7886500R",
+                        "Net": "7684362R",
+                        "Tax": "202138R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "39,431,900R",
+                        "ActualPaymentCumulativeToDate(A)Net": "38,283,400R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,148,500R",
+                        "ContractValue(B)Gross": "39,431,900R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=29b84be5-6885-483a-af19-9dc8010e74c5",
+            "project_html_data": {
+                "Pid": "29b84be5-6885-483a-af19-9dc8010e74c5",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210405/10/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "69,234,421",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "69,734,421"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "1,290",
+                        "BeneficiaryWomen": "687",
+                        "Households": "266"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chambak Tuem",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 2,395.000 Volume of earth (m3)",
+                        "Qty": "0.340 km",
+                        "UnitCost": "36,278,041",
+                        "Total": "12,334,534"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "Public land.",
+                            "Approvaldate": "05-Apr-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Jun-2010",
+                            "Technicalclearancesign-off": "30-Jun-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405100101",
+            "contract_html_data": {
+                "Id": "210405100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/10/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "AkphivoathRungReung, [ Hien Phorn ]",
+                        "Competitivebidding": "Yes ( 29-Jul-2010 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "09-Aug-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Aug-2010",
+                        "Plannedworkcompletiondate": "07-Sep-2010",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "15-Feb-2011",
+                        "Closeddateon": "10-Mar-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "55,034,199"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HienPhorn",
+                        "Contractor": "AkphivoathRungReung",
+                        "BidValue": "52,145,300R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,Lowestbidprice,winner."
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "DulSenghout",
+                        "Contractor": "DulSengHout",
+                        "BidValue": "52,300,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PangKosal",
+                        "Contractor": "SamnangPangKosal",
+                        "BidValue": "52,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "55,534,198",
+                        "Village": "Chambak Tuem",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 4.500 Width (m)Dimension #2 : 2,395.000 Volume of earth (m3)",
+                        "Bid": "0.340 km",
+                        "InContract": "0.340 km",
+                        "Actualquantity": "0.340 km",
+                        "UnitCost/Estimated": "34,633,300est. 36,278,041",
+                        "DiscountRate": "-5 %",
+                        "Total": "11,775,322"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "09-Aug-2010",
+                        "Actualworkcompletiondate": "10-Sep-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Aug-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "10-Sep-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Aug-2010",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "21713680R",
+                        "Net": "21075042R",
+                        "Tax": "638638R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "26-Aug-2010",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "21-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "22213680R",
+                        "Net": "21560336R",
+                        "Tax": "653344R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "21-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "11106839R",
+                        "Net": "10780167R",
+                        "Tax": "326672R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "55,534,199R",
+                        "ActualPaymentCumulativeToDate(A)Net": "53,900,839R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,633,360R",
+                        "ContractValue(B)Gross": "55,534,199R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair and Laterite pavement",
+            "project_link": "/pid/project/home/view.castle?pid=25d44a9d-82d1-49a5-8a10-9f94008fbe83",
+            "project_html_data": {
+                "Pid": "25d44a9d-82d1-49a5-8a10-9f94008fbe83",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair and Laterite pavement",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210405/11/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "67,051,561",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "67,551,561"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "1,290",
+                        "BeneficiaryWomen": "687",
+                        "Households": "266"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chambak Tuem",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 4,515.000 Volume of earth (m3)",
+                        "Qty": "0.628 km",
+                        "UnitCost": "41,297,675",
+                        "Total": "25,934,940"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Jun-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Aug-2011",
+                            "Technicalclearancesign-off": "25-Aug-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405110101",
+            "contract_html_data": {
+                "Id": "210405110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/11/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Earth road repair and Laterite pavement",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "AkphivoathRungReung, [ Hien Phorn ]",
+                        "Competitivebidding": "Yes ( 14-Sep-2011 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "23-Sep-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Oct-2011",
+                        "Plannedworkcompletiondate": "14-Nov-2011",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "21-May-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "43,867,668"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SengPuthy",
+                        "Contractor": "SengPuthy",
+                        "BidValue": "32,899,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HienPhorn",
+                        "Contractor": "AkphivoathRungReung",
+                        "BidValue": "25,500,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NuthPho",
+                        "Contractor": "NuthPhoSamnangTouTao",
+                        "BidValue": "32,700,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "DulSenghout",
+                        "Contractor": "DulSengHout",
+                        "BidValue": "31,990,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PangSokhom",
+                        "Contractor": "KouYunSvayBraVoath",
+                        "BidValue": "32,500,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "LyChhuon",
+                        "Contractor": "LyChhuon",
+                        "BidValue": "32,711,900R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "NorngTu",
+                        "Contractor": "SamnangNorngTuConstruction",
+                        "BidValue": "29,400,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "CheungSokunthea",
+                        "Contractor": "PiphopthmeyAkphivat",
+                        "BidValue": "37,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "SengSreyka",
+                        "Contractor": "LybunhengHongakphivatCompany",
+                        "BidValue": "29,990,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "ChhinLithearvy",
+                        "Contractor": "LyPao",
+                        "BidValue": "29,880,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "",
+                        "Contractor": "SeangSopheap",
+                        "BidValue": "44,989,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "44,367,668",
+                        "Village": "Chambak Tuem",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 4.500 Width (m)Dimension #2 : 4,515.000 Volume of earth (m3)",
+                        "Bid": "0.298 km",
+                        "InContract": "0.628 km",
+                        "Actualquantity": "0.628 km",
+                        "UnitCost/Estimated": "23,142,857est. 41,297,675",
+                        "DiscountRate": "-44 %",
+                        "Total": "14,533,714"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Oct-2011",
+                        "Actualworkcompletiondate": "16-Nov-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-Oct-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "16-Nov-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "24-Nov-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "17247067R",
+                        "Net": "16739801R",
+                        "Tax": "507266R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Nov-2011",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Nov-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "17747067R",
+                        "Net": "17225095R",
+                        "Tax": "521972R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Jun-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "8873534R",
+                        "Net": "8612547R",
+                        "Tax": "260987R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "44,367,668R",
+                        "ActualPaymentCumulativeToDate(A)Net": "43,062,737R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,304,931R",
+                        "ContractValue(B)Gross": "44,367,668R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal",
+            "project_link": "/pid/project/home/view.castle?pid=6f7fd760-ae44-4bfc-8edb-a08300b74716",
+            "project_html_data": {
+                "Pid": "6f7fd760-ae44-4bfc-8edb-a08300b74716",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210405/12/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "62,514,534",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "63,014,534"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "1,168",
+                        "BeneficiaryWomen": "606",
+                        "Households": "257"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chek",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.420 Depth (m)Dimension #2 : 5.450 Average width (m)",
+                        "Qty": "0.550 km",
+                        "UnitCost": "18,461,829",
+                        "Total": "10,154,006"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "26-Mar-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Apr-2012",
+                            "Technicalclearancesign-off": "25-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405120101",
+            "contract_html_data": {
+                "Id": "210405120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/12/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "AkphivoathRungReung, [ Hien Phorn ]",
+                        "Competitivebidding": "Yes ( 16-Jul-2012 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "25-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "26-Jul-2012",
+                        "Plannedworkcompletiondate": "07-Sep-2012",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "47,823,520"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengPong",
+                        "Contractor": "HengPong",
+                        "BidValue": "39,150,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MeasKimHorn",
+                        "Contractor": "MeasKimHorn",
+                        "BidValue": "48,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KangRin",
+                        "Contractor": "KangRin",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HienPhorn",
+                        "Contractor": "AkphivoathRungReung",
+                        "BidValue": "37,584,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChhimSophon",
+                        "Contractor": "Roathaconstruction",
+                        "BidValue": "42,200,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "SamnoangAkphivatPCTCompany",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "48,323,520",
+                        "Village": "Chek",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.420 Depth (m)Dimension #2 : 5.450 Average width (m)",
+                        "Bid": "0.550 km",
+                        "InContract": "0.550 km",
+                        "Actualquantity": "0.550 km",
+                        "UnitCost/Estimated": "14,400,000est. 18,461,829",
+                        "DiscountRate": "-22 %",
+                        "Total": "7,920,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "26-Jul-2012",
+                        "Actualworkcompletiondate": "12-Sep-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "14-Aug-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "12-Sep-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "20-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "18829408R",
+                        "Net": "18275602R",
+                        "Tax": "553806R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Dec-2012",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "19329408R",
+                        "Net": "18760896R",
+                        "Tax": "568512R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "38,658,816R",
+                        "ActualPaymentCumulativeToDate(A)Net": "37,521,792R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,137,024R",
+                        "ContractValue(B)Gross": "48,323,520R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal",
+            "project_link": "/pid/project/home/view.castle?pid=36c133c5-37d2-497c-ab93-a22200978986",
+            "project_html_data": {
+                "Pid": "36c133c5-37d2-497c-ab93-a22200978986",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210405/13/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "62,140,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "62,640,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "875",
+                        "BeneficiaryWomen": "476",
+                        "Households": "178"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chek",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.020 Depth (m)Dimension #2 : 3.550 Average width (m)",
+                        "Qty": "2.450 km",
+                        "UnitCost": "14,108,978",
+                        "Total": "34,566,996"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "03-Jul-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "04-Jul-2013"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "27-Mar-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Mar-2013",
+                            "Technicalclearancesign-off": "22-Jul-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405130101",
+            "contract_html_data": {
+                "Id": "210405130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/13/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Not yet translation., [ Hean Young ]",
+                        "Competitivebidding": "Yes ( 08-Aug-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "16-Aug-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Aug-2013",
+                        "Plannedworkcompletiondate": "11-Sep-2013",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "62,136,263"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HeanPhorn",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "55,600,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HeanYoung",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "54,700,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "EmBunthoeurn",
+                        "Contractor": "HengChethtra",
+                        "BidValue": "55,700,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "62,636,263",
+                        "Village": "Chek",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.020 Depth (m)Dimension #2 : 3.550 Average width (m)",
+                        "Bid": "2.238 km",
+                        "InContract": "2.238 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "13,802,675est. 14,108,978",
+                        "DiscountRate": "-2 %",
+                        "Total": "30,890,387"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Aug-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-Aug-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "11-Sep-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "62,636,263R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pebbles Earth road Phnom Bayang",
+            "project_link": "/pid/project/home/view.castle?pid=a57229c7-2599-40c3-9efa-a3cc010143ec",
+            "project_html_data": {
+                "Pid": "a57229c7-2599-40c3-9efa-a3cc010143ec",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pebbles Earth road Phnom Bayang",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210405/14/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "50,910,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "5,303,617",
+                        "Other": "0",
+                        "Total": "56,513,617"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "875",
+                        "BeneficiaryWomen": "476",
+                        "Households": "178"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preal",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,112.000 Volume of earth (m3)",
+                        "Qty": "0.258 km",
+                        "UnitCost": "48,898,914",
+                        "Total": "12,615,920"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "18-Aug-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "18-Aug-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "21-Mar-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Jun-2014",
+                            "Technicalclearancesign-off": "15-Sep-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405140101",
+            "contract_html_data": {
+                "Id": "210405140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/14/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Pebbles Earth road Phnom Bayang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation., [ Hean Phorn ]",
+                        "Competitivebidding": "Yes ( 01-Oct-2014 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "16-Oct-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "16-Oct-2014",
+                        "Plannedworkcompletiondate": "11-Nov-2014",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "33,766,732"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SengChanmonyrath",
+                        "Contractor": "SamnoangSengRy",
+                        "BidValue": "44,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LongBunLai",
+                        "Contractor": "LongBunLai",
+                        "BidValue": "36,239,500R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SengSreyka",
+                        "Contractor": "LybunhengHongakphivatCompany",
+                        "BidValue": "24,000,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HeanPhorn",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-54%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "39,760,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "NutPho",
+                        "Contractor": "NutPho",
+                        "BidValue": "23,000,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "MormDavY",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KhaemChanthy",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "32,540,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "34,066,731",
+                        "Village": "Chek",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 914.000 Volume of earth (m3)",
+                        "Bid": "0.300 km",
+                        "InContract": "0.300 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "18,385,092est. 48,898,914",
+                        "DiscountRate": "-62 %",
+                        "Total": "5,515,528"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Oct-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Nov-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "34,066,732R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Gravel  earth road.",
+            "project_link": "/pid/project/home/view.castle?pid=7905cc89-80e8-42ae-9342-a50f00b15678",
+            "project_html_data": {
+                "Pid": "7905cc89-80e8-42ae-9342-a50f00b15678",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Gravel  earth road.",
+                        "Objective": "Good rural road for traveling.",
+                        "Relatedcontract(s)": "210405/15/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "50,330,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "50,630,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "875",
+                        "BeneficiaryWomen": "476",
+                        "Households": "178"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Slaeng",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 4,737.000 Volume of earth (m3)",
+                        "Qty": "1.870 km",
+                        "UnitCost": "43,904,891",
+                        "Total": "82,102,146"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "06-Jul-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "07-Jul-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "06-Feb-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Apr-2015",
+                            "Technicalclearancesign-off": "10-Aug-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405150101",
+            "contract_html_data": {
+                "Id": "210405150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/15/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "Gravel  earth road.",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation., [ Hean Yong ]",
+                        "Competitivebidding": "Yes ( 01-Sep-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "10-Sep-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "11-Sep-2015",
+                        "Plannedworkcompletiondate": "20-Oct-2015",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,318,548"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Dulsenghap",
+                        "Contractor": "Haphorconstruction",
+                        "BidValue": "29,900,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HeanYong",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "19,900,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "នុតផូ",
+                        "Contractor": "នុតផូ",
+                        "BidValue": "27,610,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,618,548",
+                        "Village": "Chrouy Slaeng",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 4,737.000 Volume of earth (m3)",
+                        "Bid": "0.776 km",
+                        "InContract": "1.389 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "21,907,215est. 43,904,891",
+                        "DiscountRate": "-50 %",
+                        "Total": "30,429,122"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "11-Sep-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Sep-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "20-Oct-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "50,618,548R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=096ce694-834b-4e09-ad06-a6eb00a2e7f8",
+            "project_html_data": {
+                "Pid": "096ce694-834b-4e09-ad06-a6eb00a2e7f8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210405/16/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "61,482,098",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "61,782,098"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "875",
+                        "BeneficiaryWomen": "476",
+                        "Households": "178"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Slaeng",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.300 Depth (m)Dimension #2 : 5.090 Average width (m)",
+                        "Qty": "1.542 km",
+                        "UnitCost": "20,596,225",
+                        "Total": "31,759,379"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.",
+                            "ApprovebyNCDDon": "23-Sep-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "26-Sep-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Voluntary",
+                            "Reason": "",
+                            "Approvaldate": "21-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Sep-2016",
+                            "Technicalclearancesign-off": "21-Oct-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405160101",
+            "contract_html_data": {
+                "Id": "210405160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/16/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Not yet translation., [ Hean Yong ]",
+                        "Competitivebidding": "Yes ( 10-Nov-2016 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "24-Nov-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Feb-2017",
+                        "Plannedworkcompletiondate": "15-Mar-2017",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "61,482,098"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HeanYong",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "50,120,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NorngTu",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "56,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TimChanchivorn",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "54,900,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "61,782,098",
+                        "Village": "Chrouy Slaeng",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.300 Depth (m)Dimension #2 : 5.090 Average width (m)",
+                        "Bid": "1.542 km",
+                        "InContract": "1.542 km",
+                        "Actualquantity": "1.542 km",
+                        "UnitCost/Estimated": "18,000,000est. 20,596,225",
+                        "DiscountRate": "-13 %",
+                        "Total": "27,756,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "02-Jan-2017",
+                        "Actualworkcompletiondate": "15-Aug-2017",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "28-Feb-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Un Bunchannalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Mar-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Un Bunchannalin",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "61,782,098R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=a0f93fe3-ea5c-491b-adee-a93100ba53ea",
+            "project_html_data": {
+                "Pid": "a0f93fe3-ea5c-491b-adee-a93100ba53ea",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210405/17/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "34,928,773",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "35,228,773"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "1,175",
+                        "BeneficiaryWomen": "602",
+                        "Households": "304"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Daeum Beng",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 4,135.000 Volume of earth (m3)",
+                        "Qty": "1.115 km",
+                        "UnitCost": "31,748,489",
+                        "Total": "35,399,565"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.",
+                            "ApprovebyNCDDon": "10-Aug-2017 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "18-Aug-2017"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Apr-2017",
+                            "Technicalclearancesign-off": "22-Aug-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405170101",
+            "contract_html_data": {
+                "Id": "210405170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/17/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Competitivebidding": "Yes ( 29-Sep-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "10-Oct-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jan-2018",
+                        "Plannedworkcompletiondate": "05-Feb-2018",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "34,928,773"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HeanPhorn",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "19,500,000R",
+                        "DiscountRate": "-67%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NorngTu",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "26,000,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "18,000,000R",
+                        "DiscountRate": "-69%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "14,900,000R",
+                        "DiscountRate": "-75%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "35,228,774",
+                        "Village": "Daeum Beng",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 4,135.000 Volume of earth (m3)",
+                        "Bid": "1.115 km",
+                        "InContract": "1.115 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "89,687est. 31,748,489",
+                        "DiscountRate": "-100 %",
+                        "Total": "100,001"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "35,228,773R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=c9c0f754-2864-45dd-a1a0-aa880100acd8",
+            "project_html_data": {
+                "Pid": "c9c0f754-2864-45dd-a1a0-aa880100acd8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210405/18/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "48,923,333",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "49,223,333"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyTaMau",
+                        "BeneficiaryTotal": "1,103",
+                        "BeneficiaryWomen": "598",
+                        "Households": "264"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preal",
+                        "Description": "Natural Gravel road width <4m Repair [ 1010117 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,363.000 Volume of earth (m3)",
+                        "Qty": "0.300 km",
+                        "UnitCost": "39,937,716",
+                        "Total": "11,981,315"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.",
+                            "ApprovebyNCDDon": "13-Aug-2018 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "13-Aug-2018"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "16-May-2018"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Jun-2018",
+                            "Technicalclearancesign-off": "25-Jun-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405180101",
+            "contract_html_data": {
+                "Id": "210405180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/18/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation., [ Tim Chanchivorn ]",
+                        "Competitivebidding": "Yes ( 04-Sep-2018 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "18-Sep-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Feb-2019",
+                        "Plannedworkcompletiondate": "27-Mar-2019",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "48,923,333"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "53,250,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HornKorntrai",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "27,900,000R",
+                        "DiscountRate": "-56%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TimChanchivorn",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "27,190,000R",
+                        "DiscountRate": "-57%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "49,223,333",
+                        "Village": "Daeum Beng",
+                        "Description": "[ 1010117 ] Natural Gravel road width <4m RepairDimension #1 : 4.000 Width (m)Dimension #2 : 3,859.000 Volume of earth (m3)",
+                        "Bid": "0.850 km",
+                        "InContract": "0.850 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "6,066,667est. 39,937,716",
+                        "DiscountRate": "-85 %",
+                        "Total": "5,156,667"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "49,223,333R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=60032fe1-55ee-41bf-a475-abd500a81611",
+            "project_html_data": {
+                "Pid": "60032fe1-55ee-41bf-a475-abd500a81611",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Yim Sry",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210405/19/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "76,580,000",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "76,880,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakTuem",
+                        "BeneficiaryTotal": "1,189",
+                        "BeneficiaryWomen": "609",
+                        "Households": "315"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chambak Tuem",
+                        "Description": "Natural Gravel road width 4.1-5m Repair [ 1010118 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,501.660 Volume of earth (m3)",
+                        "Qty": "0.900 km",
+                        "UnitCost": "45,555,120",
+                        "Total": "40,999,608"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.Damage important area for environment and culture",
+                            "ApprovebyNCDDon": "03-Sep-2019 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "04-Sep-2019"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "08-Apr-2019"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Jul-2019",
+                            "Technicalclearancesign-off": "05-Sep-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210405/19/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210405190101",
+            "contract_html_data": {
+                "Id": "210405190101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210405 ] Takeo \\ Kiri Vong \\ Kiri Chong Kaoh",
+                        "Contract": "210405/19/01-01",
+                        "TechnicalSupervisor": "Yim Sry",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation., [ Hean Phorn ]",
+                        "Competitivebidding": "Yes ( 19-Sep-2019 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "04-Oct-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Oct-2019",
+                        "Plannedworkcompletiondate": "06-Nov-2019",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "76,580,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "76,880,000",
+                        "Village": "Chek",
+                        "Description": "[ 1010118 ] Natural Gravel road width 4.1-5m RepairDimension #1 : 4.500 Width (m)Dimension #2 : 2,666.630 Volume of earth (m3)",
+                        "Bid": "0.559 km",
+                        "InContract": "0.663 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "45,000,000est. 43,016,206",
+                        "DiscountRate": "5 %",
+                        "Total": "29,835,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "76,880,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2343 @@
+{
+    "location": {
+        "province": "Koh Kong",
+        "district": "Thma Bang",
+        "commune": "Pralay"
+    },
+    "projects": [
+        {
+            "project_name": "Laterite construction",
+            "project_link": "/pid/project/home/view.castle?pid=9b568c19-0289-48aa-9b78-9c6c0096e0b1",
+            "project_html_data": {
+                "Pid": "9b568c19-0289-48aa-9b78-9c6c0096e0b1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sam Tola",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite construction",
+                        "Objective": "Make a comfortable people transportation on this road.",
+                        "Relatedcontract(s)": "090702/09/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "31,928,382",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "32,028,382"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Pralay",
+                        "BeneficiaryTotal": "170",
+                        "BeneficiaryWomen": "87",
+                        "Households": "47"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pralay",
+                        "Description": "Laterite road New [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,620.000 Volume of earth (m3)",
+                        "Qty": "0.825 km",
+                        "UnitCost": "36,900,800",
+                        "Total": "30,443,160"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "25-Jun-2009 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "02-Jul-2009",
+                            "Approvebydepartmenton": "25-Mar-2009"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.",
+                            "Reason": "Construct on the road that people are traveling on."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Apr-2009",
+                            "Technicalclearancesign-off": "13-Jul-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702090101",
+            "contract_html_data": {
+                "Id": "090702090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/09/01-01",
+                        "TechnicalSupervisor": "Sam Tola",
+                        "Project'sName": "Laterite construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Pov Phalla, [ Pov Phalla ]",
+                        "Competitivebidding": "Yes ( 29-Jul-2009 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "26-Aug-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Nov-2009",
+                        "Plannedworkcompletiondate": "16-Dec-2009",
+                        "CreatedBy": "NOL Bunna",
+                        "Mobile": "016 448 607",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "22-Jun-2010",
+                        "Closeddateon": "23-Jun-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "31,923,636"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MengKhunteng",
+                        "Contractor": "MengKhunteng",
+                        "BidValue": "30,443,160R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengSong",
+                        "Contractor": "SengSong",
+                        "BidValue": "30,423,525R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "GnournSovan",
+                        "Contractor": "GnournSovan",
+                        "BidValue": "30,440,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "32,023,636",
+                        "Village": "Pralay",
+                        "Description": "[ 1010102 ] Laterite road NewDimension #1 : 4.000 Width (m)Dimension #2 : 1,865.170 Volume of earth (m3)",
+                        "Bid": "0.825 km",
+                        "InContract": "0.950 km",
+                        "Actualquantity": "0.950 km",
+                        "UnitCost/Estimated": "32,727,273est. 36,900,800",
+                        "DiscountRate": "-11 %",
+                        "Total": "31,090,909"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Nov-2009",
+                        "Actualworkcompletiondate": "23-Dec-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-Dec-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "12709454R",
+                        "Net": "12328170R",
+                        "Tax": "381284R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "28-Dec-2009",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "100000R",
+                        "Net": "97000R",
+                        "Tax": "3000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "28-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "12809454R",
+                        "Net": "12425170R",
+                        "Tax": "384284R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "08-Jul-2010",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "6404728R",
+                        "Net": "6240569R",
+                        "Tax": "164159R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "32,023,636R",
+                        "ActualPaymentCumulativeToDate(A)Net": "31,090,909R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "932,727R",
+                        "ContractValue(B)Gross": "32,023,636R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road - repair",
+            "project_link": "/pid/project/home/view.castle?pid=f92058b0-1d85-4f9d-af25-9de500e4ea2c",
+            "project_html_data": {
+                "Pid": "f92058b0-1d85-4f9d-af25-9de500e4ea2c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sam Tola",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road - repair",
+                        "Objective": "Reparation of laterite road",
+                        "Relatedcontract(s)": "090702/10/04-01 ",
+                        "CreatedBy": "Nat Chantola",
+                        "Mobile": "012 402 909"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "15,092,970",
+                        "LocalRevenue": "50,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "15,142,970"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Pralay",
+                        "BeneficiaryTotal": "170",
+                        "BeneficiaryWomen": "87",
+                        "Households": "47"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pralay",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 3,883.470 Volume of earth (m3)",
+                        "Qty": "0.925 km",
+                        "UnitCost": "13,245,465",
+                        "Total": "12,252,055"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.",
+                            "Submissiondate": "30-Aug-2010 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "31-Aug-2010",
+                            "Approvebydepartmenton": "01-Sep-2010"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project located in public land"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Project located outside the commune HP watch list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Aug-2010",
+                            "Technicalclearancesign-off": "02-Sep-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/10/04-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702100401",
+            "contract_html_data": {
+                "Id": "090702100401",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/10/04-01",
+                        "TechnicalSupervisor": "Sam Tola",
+                        "Project'sName": "Laterite road - repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SengMenghour, [ Seng Menghour ]",
+                        "Competitivebidding": "Yes ( 21-Sep-2010 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "13-Oct-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Oct-2010",
+                        "Plannedworkcompletiondate": "30-Nov-2010",
+                        "CreatedBy": "NOL Bunna",
+                        "Mobile": "016 448 607",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "9,794,930"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "50,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "11,331,250R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "GnournSovan",
+                        "Contractor": "GnournSovan",
+                        "BidValue": "11,000,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "8,575,675R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SengMenghour",
+                        "Contractor": "SengMenghour",
+                        "BidValue": "8,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimBunthy",
+                        "Contractor": "LimBunthy",
+                        "BidValue": "12,252,054R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "EangDaravuth",
+                        "Contractor": "EangDaravuth",
+                        "BidValue": "12,000,500R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "9,844,930",
+                        "Village": "Pralay",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 871.000 Volume of earth (m3)",
+                        "Bid": "0.925 km",
+                        "InContract": "1.116 km",
+                        "Actualquantity": "1.116 km",
+                        "UnitCost/Estimated": "8,648,649est. 13,245,465",
+                        "DiscountRate": "-35 %",
+                        "Total": "9,651,892"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "25-Oct-2010",
+                        "Actualworkcompletiondate": "22-Feb-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "22-Feb-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "NOL Bunna",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "8443665R",
+                        "Net": "7676059R",
+                        "Tax": "767606R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Mar-2011",
+                        "Source": "LC",
+                        "Description": "LocalContribution",
+                        "Gross": "50000R",
+                        "Net": "45455R",
+                        "Tax": "4545R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "8,493,665R",
+                        "ActualPaymentCumulativeToDate(A)Net": "7,721,514R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "772,151R",
+                        "ContractValue(B)Gross": "9,844,930R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Construction of laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=840e87a2-8691-43f1-8595-9de500e7c71a",
+            "project_html_data": {
+                "Pid": "840e87a2-8691-43f1-8595-9de500e7c71a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sam Tola",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Construction of laterite road",
+                        "Objective": "Construction of laterite road",
+                        "Relatedcontract(s)": "090702/10/03-01 ",
+                        "CreatedBy": "Nat Chantola",
+                        "Mobile": "012 402 909"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "24,024,276",
+                        "LocalRevenue": "50,000",
+                        "CarryOver": "20,925,724",
+                        "Other": "0",
+                        "Total": "45,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Samraong",
+                        "BeneficiaryTotal": "182",
+                        "BeneficiaryWomen": "94",
+                        "Households": "61"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Samraong",
+                        "Description": "Laterite road New [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 13,996.480 Volume of earth (m3)",
+                        "Qty": "0.650 km",
+                        "UnitCost": "41,711,647",
+                        "Total": "27,112,570"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "30-Aug-2010 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "31-Aug-2010",
+                            "Approvebydepartmenton": "01-Sep-2010"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project located in public land"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Project located outside the commune HP watch list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Aug-2010",
+                            "Technicalclearancesign-off": "02-Sep-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/10/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702100301",
+            "contract_html_data": {
+                "Id": "090702100301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/10/03-01",
+                        "TechnicalSupervisor": "Sam Tola",
+                        "Project'sName": "Construction of laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SengMenghour, [ Seng Menghour ]",
+                        "Competitivebidding": "Yes ( 21-Sep-2010 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "13-Oct-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Oct-2010",
+                        "Plannedworkcompletiondate": "06-Dec-2010",
+                        "CreatedBy": "NOL Bunna",
+                        "Mobile": "016 448 607",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "44,783,995"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "50,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "25,350,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "GnournSovan",
+                        "Contractor": "GnournSovan",
+                        "BidValue": "26,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "20,332,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SengMenghour",
+                        "Contractor": "SengMenghour",
+                        "BidValue": "10,573,902R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimBunthy",
+                        "Contractor": "LimBunthy",
+                        "BidValue": "27,100,570R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "EangDaravuth",
+                        "Contractor": "EangDaravuth",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "YouLingting",
+                        "Contractor": "PunleurReaksmeyAkpivaoth",
+                        "BidValue": "27,110,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "44,833,995",
+                        "Village": "Samraong",
+                        "Description": "[ 1010102 ] Laterite road NewDimension #1 : 4.000 Width (m)Dimension #2 : 2,107.600 Volume of earth (m3)",
+                        "Bid": "0.650 km",
+                        "InContract": "2.702 km",
+                        "Actualquantity": "2.702 km",
+                        "UnitCost/Estimated": "16,267,542est. 41,711,647",
+                        "DiscountRate": "-61 %",
+                        "Total": "43,954,897"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Oct-2010",
+                        "Actualworkcompletiondate": "23-Dec-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-Dec-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "NOL Bunna",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Dec-2010",
+                        "Source": "LC",
+                        "Description": "LocalContribution",
+                        "Gross": "50000R",
+                        "Net": "48529R",
+                        "Tax": "1471R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "35817196R",
+                        "Net": "34763749R",
+                        "Tax": "1053447R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "08-Jul-2011",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "8966799R",
+                        "Net": "8703070R",
+                        "Tax": "263729R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "44,833,995R",
+                        "ActualPaymentCumulativeToDate(A)Net": "43,515,348R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,318,647R",
+                        "ContractValue(B)Gross": "44,833,995R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Community Foreshty Establishment",
+            "project_link": "/pid/project/home/view.castle?pid=26793032-c53d-40d7-a3df-9df8009eddad",
+            "project_html_data": {
+                "Pid": "26793032-c53d-40d7-a3df-9df8009eddad",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "NREM",
+                        "Sub-Sector": "Community forestry",
+                        "TechnicalAssistant": "Veurn Chhin",
+                        "NatureofProject": "Service",
+                        "Name": "Community Foreshty Establishment",
+                        "Objective": "To Participate in protection the NRM& using the NRM in sustainable manner and to improve local people livelihood.",
+                        "Relatedcontract(s)": "090702/10/01-01 ",
+                        "CreatedBy": "Chheang Kuyhy",
+                        "Mobile": "012 986 575"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "0",
+                        "CarryOver": "24,527,388",
+                        "Other": "2,172,612",
+                        "Total": "26,700,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "50",
+                        "BeneficiaryWomen": "30",
+                        "Households": "50"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pralay",
+                        "Description": "Awareness raising on the benefit of forest and community forestry New [ 2010337 ]",
+                        "Qty": "1.000 course",
+                        "UnitCost": "3,410,000",
+                        "Total": "3,410,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Apr-2010",
+                            "Technicalclearancesign-off": "10-May-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702100101",
+            "contract_html_data": {
+                "Id": "090702100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/10/01-01",
+                        "TechnicalSupervisor": "Veurn Chhin",
+                        "Project'sName": "Community Foreshty Establishment",
+                        "Sector": "NREM",
+                        "Sub-Sector": "Community forestry",
+                        "Contractor": "Conservation International Cambodia, [ Seng Bunra ]",
+                        "Contractsigndate(Form50)": "17-Jun-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "01-Jul-2010",
+                        "Plannedworkcompletiondate": "25-Dec-2010",
+                        "CreatedBy": "Chheang Kuyhy",
+                        "Mobile": "012 986 575",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Danida NRML",
+                        "Cost": "25,200,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "25,200,000",
+                        "Village": "Pralay",
+                        "Description": "[ 2010337 ] Awareness raising on the benefit of forest and community forestry NewDimension #1 : 0.000 Dimension #2 : 0.000 ",
+                        "Bid": "1.000 course",
+                        "InContract": "1.000 course",
+                        "Actualquantity": "1.000 course",
+                        "UnitCost/Estimated": "3,255,000est. 3,410,000",
+                        "DiscountRate": "-5 %",
+                        "Total": "3,255,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jul-2010",
+                        "Actualworkcompletiondate": "09-May-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Dec-2010",
+                            "Progress": "70 %",
+                            "ReportBy": "Chheang Kuyhy",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "09-May-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Chheang Kuyhy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "25,200,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Integrated Farming System (Chicken Raising and Vegetable…",
+            "project_link": "/pid/project/home/view.castle?pid=3548583f-cc40-46c6-a3eb-9df800f78dda",
+            "project_html_data": {
+                "Pid": "3548583f-cc40-46c6-a3eb-9df800f78dda",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "TechnicalAssistant": "Veurn Chhin",
+                        "NatureofProject": "Service",
+                        "Name": "Integrated Farming System (Chicken Raising and Vegetable home garden)",
+                        "Objective": "To increase household income through enhancing knowledge and practice of farmers on chicken raising and vegetable home garden",
+                        "Relatedcontract(s)": "090702/10/02-01 ",
+                        "CreatedBy": "Chheang Kuyhy",
+                        "Mobile": "012 986 575"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "24,519,088",
+                        "Total": "24,519,088"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "33",
+                        "BeneficiaryWomen": "20",
+                        "Households": "33"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pralay",
+                        "Description": "IFS trainings New [ 2010111 ]",
+                        "Qty": "1.000 course",
+                        "UnitCost": "4,254,800",
+                        "Total": "4,254,800"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Apr-2010",
+                            "Technicalclearancesign-off": "10-May-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702100201",
+            "contract_html_data": {
+                "Id": "090702100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/10/02-01",
+                        "TechnicalSupervisor": "Veurn Chhin",
+                        "Project'sName": "Integrated Farming System (Chicken Raising and Vegetable home garden)",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Agriculture",
+                        "Contractor": "Conservation International Cambodia, [ Seng Bunra ]",
+                        "Contractsigndate(Form50)": "17-Jun-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "01-Jul-2010",
+                        "Plannedworkcompletiondate": "25-Nov-2010",
+                        "CreatedBy": "Chheang Kuyhy",
+                        "Mobile": "012 986 575",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Danida NRML",
+                        "Cost": "25,428,149"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "25,428,150",
+                        "Village": "Chamnar",
+                        "Description": "[ 2010111 ] IFS trainings NewDimension #1 : 0.000 Dimension #2 : 0.000 ",
+                        "Bid": "1.000 course",
+                        "InContract": "1.000 course",
+                        "Actualquantity": "1.000 course",
+                        "UnitCost/Estimated": "4,704,207est. 4,254,800",
+                        "DiscountRate": "11 %",
+                        "Total": "4,704,207"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jul-2010",
+                        "Actualworkcompletiondate": "09-May-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Dec-2010",
+                            "Progress": "60 %",
+                            "ReportBy": "Chheang Kuyhy",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "09-May-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Chheang Kuyhy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "25,428,149R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road construction",
+            "project_link": "/pid/project/home/view.castle?pid=1798e440-4167-44a2-a609-9fde00ac7190",
+            "project_html_data": {
+                "Pid": "1798e440-4167-44a2-a609-9fde00ac7190",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sam Tola",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road construction",
+                        "Objective": "In 2011 the People in Prolay has Laterile road for easy travel",
+                        "Relatedcontract(s)": "090702/11/01-01 ",
+                        "CreatedBy": "Va Ravy",
+                        "Mobile": "016 866 846"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "68,185,700",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "47,216,563",
+                        "Other": "0",
+                        "Total": "115,502,263"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "163",
+                        "BeneficiaryWomen": "77",
+                        "Households": "36"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chamnar",
+                        "Description": "Laterite road New [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,819.720 Volume of earth (m3)",
+                        "Qty": "0.765 km",
+                        "UnitCost": "50,231,855",
+                        "Total": "38,427,369"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "11-Oct-2011 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "13-Oct-2011",
+                            "Approvebydepartmenton": "18-Oct-2011"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Sep-2011",
+                            "Technicalclearancesign-off": "21-Oct-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702110101",
+            "contract_html_data": {
+                "Id": "090702110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/11/01-01",
+                        "TechnicalSupervisor": "Heng Changthan",
+                        "Project'sName": "Laterite road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "PiphopthmeyAkphivat, [ Cheung Sokunthea ]",
+                        "Competitivebidding": "Yes ( 10-Nov-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "15-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Dec-2011",
+                        "Plannedworkcompletiondate": "15-Jan-2012",
+                        "CreatedBy": "Va Ravy",
+                        "Mobile": "016 866 846",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Dateofabandon": "09-Aug-2012",
+                        "": "The company has been black list in Koh Kong province"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "39,095,840"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengSopheap",
+                        "Contractor": "HengOung",
+                        "BidValue": "38,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SornBunheap",
+                        "Contractor": "SornBunheap",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "38,632,500R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "CheungSokunthea",
+                        "Contractor": "PiphopthmeyAkphivat",
+                        "BidValue": "36,000,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,195,840",
+                        "Village": "Chamnar",
+                        "Description": "[ 1010102 ] Laterite road NewDimension #1 : 4.000 Width (m)Dimension #2 : 2,819.720 Volume of earth (m3)",
+                        "Bid": "0.765 km",
+                        "InContract": "0.817 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "47,058,823est. 50,231,855",
+                        "DiscountRate": "-6 %",
+                        "Total": "38,427,294"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "39,195,840R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Repair the laterite road construction",
+            "project_link": "/pid/project/home/view.castle?pid=5bb9a534-0185-4191-95c8-a0790118520e",
+            "project_html_data": {
+                "Pid": "5bb9a534-0185-4191-95c8-a0790118520e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pol Nareth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Repair the laterite road construction",
+                        "Objective": "in 2012 in Prolay commune has the laterite road construction for easy travel",
+                        "Relatedcontract(s)": "090702/12/01-01 ",
+                        "CreatedBy": "Va Ravy",
+                        "Mobile": "016 866 846"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "78,339,700",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "47,393,078",
+                        "Other": "0",
+                        "Total": "125,832,778"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "163",
+                        "BeneficiaryWomen": "77",
+                        "Households": "36"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chamnar",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,170.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "36,749,722",
+                        "Total": "55,124,583"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "10-May-2012 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "ApprovebyNCDDon": "11-May-2012",
+                            "Approvebydepartmenton": "24-May-2012"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-May-2012",
+                            "Technicalclearancesign-off": "25-May-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702120101",
+            "contract_html_data": {
+                "Id": "090702120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/12/01-01",
+                        "TechnicalSupervisor": "Pol Nareth",
+                        "Project'sName": "Repair the laterite road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khy Board, [ Saun Sily ]",
+                        "Competitivebidding": "Yes ( 11-Jun-2012 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "06-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Oct-2012",
+                        "Plannedworkcompletiondate": "09-Nov-2012",
+                        "CreatedBy": "Va Ravy",
+                        "Mobile": "016 866 846",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "56,297,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TeamRin",
+                        "Contractor": "TeamRin",
+                        "BidValue": "55,124,582R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HengSopheap",
+                        "Contractor": "HengOung",
+                        "BidValue": "53,900,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "51,270,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mrs.PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "55,050,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "56,397,000",
+                        "Village": "Chamnar",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,170.000 Volume of earth (m3)",
+                        "Bid": "1.500 km",
+                        "InContract": "1.500 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "34,180,000est. 36,749,722",
+                        "DiscountRate": "-7 %",
+                        "Total": "51,270,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Dec-2012",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Feb-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Va Ravy",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "56,397,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "earth road",
+            "project_link": "/pid/project/home/view.castle?pid=51ee01ec-b219-4bb6-bc78-a23200bfade1",
+            "project_html_data": {
+                "Pid": "51ee01ec-b219-4bb6-bc78-a23200bfade1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pol Nareth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "earth road",
+                        "Objective": "In 2013 Prolay commune, there is earth road for easy to travel and to transport of merchandise to market",
+                        "Relatedcontract(s)": "090702/13/03-01 ",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "90,413,200",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "100,022,778",
+                        "Other": "0",
+                        "Total": "190,535,978"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "163",
+                        "BeneficiaryWomen": "77",
+                        "Households": "36"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chamnar",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,106.000 Volume of earth (m3)",
+                        "Qty": "2.000 km",
+                        "UnitCost": "30,144,785",
+                        "Total": "60,289,570"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project of Earth road in Prolay commune in out site environment watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "28-Jun-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Aug-2013",
+                            "Technicalclearancesign-off": "03-Sep-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/13/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702130301",
+            "contract_html_data": {
+                "Id": "090702130301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/13/03-01",
+                        "TechnicalSupervisor": "Pol Nareth",
+                        "Project'sName": "earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khy Board, [ Saun Sily ]",
+                        "Competitivebidding": "Yes ( 23-Sep-2013 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "30-Sep-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "16-Dec-2013",
+                        "Plannedworkcompletiondate": "16-Jan-2014",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "66,198,804"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MengKhunteng",
+                        "Contractor": "MengKhunteng",
+                        "BidValue": "60,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SovannKhun",
+                        "Contractor": "SovannKhun",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChhanSophea",
+                        "Contractor": "ChhanSophea",
+                        "BidValue": "60,289,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "42,640,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "66,298,804",
+                        "Village": "Chamnar",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 6,106.000 Volume of earth (m3)",
+                        "Bid": "2.000 km",
+                        "InContract": "2.827 km",
+                        "Actualquantity": "2.827 km",
+                        "UnitCost/Estimated": "21,320,000est. 30,144,785",
+                        "DiscountRate": "-29 %",
+                        "Total": "60,271,640"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Dec-2013",
+                        "Actualworkcompletiondate": "03-Mar-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "03-Mar-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Heng chanthan",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "66,298,804R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Double Box culvert and box culverts",
+            "project_link": "/pid/project/home/view.castle?pid=baca8be4-79e1-49d8-b1c8-a23200f9703d",
+            "project_html_data": {
+                "Pid": "baca8be4-79e1-49d8-b1c8-a23200f9703d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pol Nareth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Double Box culvert and box culverts",
+                        "Objective": "In 2013 Prolay commune, there is 3 box culverts for easy to travel and to transport of merchandise to market",
+                        "Relatedcontract(s)": "090702/13/02-01 ",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "90,413,200",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "100,022,778",
+                        "Other": "0",
+                        "Total": "190,535,978"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "163",
+                        "BeneficiaryWomen": "77",
+                        "Households": "36"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pralay",
+                        "Description": "Double cell box culvert 3.0m x2.0m New [ 1010311 ]Dimension #1 : 1.500 Height (m)Dimension #2 : 5.000 Length(m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "22,237,300",
+                        "Total": "22,237,300"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project of Box culverts construction  in Prolay commune in out site environment watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "28-Jun-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Aug-2013",
+                            "Technicalclearancesign-off": "03-Sep-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/13/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702130201",
+            "contract_html_data": {
+                "Id": "090702130201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/13/02-01",
+                        "TechnicalSupervisor": "Pol Nareth",
+                        "Project'sName": "Double Box culvert and box culverts",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khy Board, [ Saun Sily ]",
+                        "Competitivebidding": "Yes ( 27-Sep-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-Dec-2013 (66 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "16-Dec-2013",
+                        "Plannedworkcompletiondate": "16-Jan-2014",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "39,500,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MengKhunteng",
+                        "Contractor": "MengKhunteng",
+                        "BidValue": "36,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "36,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mrs.PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "36,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,600,000",
+                        "Village": "Pralay",
+                        "Description": "[ 1010311 ] Double cell box culvert 3.0m x2.0m NewDimension #1 : 1.500 Height (m)Dimension #2 : 5.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "22,000,000est. 22,237,300",
+                        "DiscountRate": "-1 %",
+                        "Total": "22,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Dec-2013",
+                        "Actualworkcompletiondate": "23-Jun-2015",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "28-May-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Heng chanthan",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "23-Jun-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Heng chanthan",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "39,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "6  box cell culverts  construction",
+            "project_link": "/pid/project/home/view.castle?pid=22a37706-8c94-4613-85cf-a3ed01102a09",
+            "project_html_data": {
+                "Pid": "22a37706-8c94-4613-85cf-a3ed01102a09",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pol Nareth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "6  box cell culverts  construction",
+                        "Objective": "In 2014  Prolay commune, there is 6  box cell culverts  construction​ for easy to travel.",
+                        "Relatedcontract(s)": "090702/14/01-01 ",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "99,250,000",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "107,797,573",
+                        "Other": "0",
+                        "Total": "207,147,573"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "163",
+                        "BeneficiaryWomen": "77",
+                        "Households": "36"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pralay",
+                        "Description": "Double cell box culvert 3.0m x2.0m New [ 1010311 ]Dimension #1 : 1.500 Height (m)Dimension #2 : 5.000 Length(m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "20,456,700",
+                        "Total": "20,456,700"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "has out site watch list of environment."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "18-Nov-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Nov-2014",
+                            "Technicalclearancesign-off": "28-Nov-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702140101",
+            "contract_html_data": {
+                "Id": "090702140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/14/01-01",
+                        "TechnicalSupervisor": "Pol Nareth",
+                        "Project'sName": "6  box cell culverts  construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khy Board, [ Saun Sily ]",
+                        "Competitivebidding": "Yes ( 19-Dec-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "24-Dec-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "24-Dec-2014",
+                        "Plannedworkcompletiondate": "15-Jan-2015",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "52,700,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengSopheap",
+                        "Contractor": "HengOung",
+                        "BidValue": "43,240,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Mrs.PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "43,000,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "52,800,000",
+                        "Village": "Pralay",
+                        "Description": "[ 1010311 ] Double cell box culvert 3.0m x2.0m NewDimension #1 : 0.600 Height (m)Dimension #2 : 6.000 Length(m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "4,000,000est. 4,452,516",
+                        "DiscountRate": "-10 %",
+                        "Total": "8,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "24-Dec-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "52,800,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road and 2 box cell culverts construction",
+            "project_link": "/pid/project/home/view.castle?pid=50533fb4-cd90-4b37-a83b-a5380113c5ee",
+            "project_html_data": {
+                "Pid": "50533fb4-cd90-4b37-a83b-a5380113c5ee",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pol Nareth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road and 2 box cell culverts construction",
+                        "Objective": "In 2015 Prolay commune, there is  Laterite road and box culverts construction for easy to travel and to transport of merchandise to market.",
+                        "Relatedcontract(s)": "090702/15/01-01 ",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "107,940,000",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "108,040,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "163",
+                        "BeneficiaryWomen": "77",
+                        "Households": "36"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Pralay",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 975.000 Volume of earth (m3)",
+                        "Qty": "1.250 km",
+                        "UnitCost": "27,291,503",
+                        "Total": "34,114,379"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project of Latirite road in Prolay commune in out site environment watch list   "
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Approvaldate": "15-Jun-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "24-Aug-2015",
+                            "Technicalclearancesign-off": "16-Sep-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702150101",
+            "contract_html_data": {
+                "Id": "090702150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/15/01-01",
+                        "TechnicalSupervisor": "Pol Nareth",
+                        "Project'sName": "Laterite road and 2 box cell culverts construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Meng Khunteng, [ Meng Khunteng ]",
+                        "Competitivebidding": "Yes ( 09-Oct-2015 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "27-Nov-2015 (49 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-Dec-2015",
+                        "Plannedworkcompletiondate": "13-Jan-2016",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "51,820,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MengKhunteng",
+                        "Contractor": "MengKhunteng",
+                        "BidValue": "47,200,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HengSopheap",
+                        "Contractor": "HengOung",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChhanSophea",
+                        "Contractor": "ChhanSophea",
+                        "BidValue": "48,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mrs.PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "51,920,000",
+                        "Village": "Pralay",
+                        "Description": "[ 1100402 ] Box drainage NewDimension #1 : 1.000 Width (m)Dimension #2 : 6.000 Length (m)",
+                        "Bid": "2.000 Line",
+                        "InContract": "2.000 Line",
+                        "Actualquantity": " Line",
+                        "UnitCost/Estimated": "3,600,000est. 7,464,552",
+                        "DiscountRate": "-52 %",
+                        "Total": "7,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "31-Dec-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Jan-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Heng chanthan",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "25-Jan-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Heng chanthan",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "51,920,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road Construction Project of Pralay 2016",
+            "project_link": "/pid/project/home/view.castle?pid=d9187358-2cf2-456b-b9b8-a6f100e7ec5a",
+            "project_html_data": {
+                "Pid": "d9187358-2cf2-456b-b9b8-a6f100e7ec5a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pol Nareth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road Construction Project of Pralay 2016",
+                        "Objective": "To improve for traveling.",
+                        "Relatedcontract(s)": "090702/16/01-01 ",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "63,340,000",
+                        "LocalRevenue": "100,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "63,440,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Chamnar",
+                        "BeneficiaryTotal": "163",
+                        "BeneficiaryWomen": "77",
+                        "Households": "36"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Samraong",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 3,803.000 Volume of earth (m3)",
+                        "Qty": "1.900 km",
+                        "UnitCost": "29,061,895",
+                        "Total": "55,217,601"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It is located outside protected areas."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "14-Jul-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Jul-2016",
+                            "Technicalclearancesign-off": "29-Sep-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "090702/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=090702160101",
+            "contract_html_data": {
+                "Id": "090702160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 90702 ] Koh Kong \\ Thma Bang \\ Pralay",
+                        "Contract": "090702/16/01-01",
+                        "TechnicalSupervisor": "Pol Nareth",
+                        "Project'sName": "Laterite Road Construction Project of Pralay 2016",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Pov Phalla, [ Mrs. Pov Phalla ]",
+                        "Competitivebidding": "Yes ( 25-Oct-2016 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "30-Dec-2016 (66 days)",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Dec-2016",
+                        "Plannedworkcompletiondate": "17-Jan-2017",
+                        "CreatedBy": "Heng chanthan",
+                        "Mobile": "012343045",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "52,150,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "100,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mrs.PovPhalla",
+                        "Contractor": "PovPhalla",
+                        "BidValue": "19,380,000R",
+                        "DiscountRate": "-65%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhunLeang",
+                        "Contractor": "LeangSopha",
+                        "BidValue": "32,640,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SokChea",
+                        "Contractor": "SokChea",
+                        "BidValue": "36,450,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MrsLonMom",
+                        "Contractor": "LonMom",
+                        "BidValue": "22,440,000R",
+                        "DiscountRate": "-59%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "52,250,000",
+                        "Village": "Samraong",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 3,803.000 Volume of earth (m3)",
+                        "Bid": "1.900 km",
+                        "InContract": "2.500 km",
+                        "Actualquantity": "2.500 km",
+                        "UnitCost/Estimated": "19,000,000est. 29,061,895",
+                        "DiscountRate": "-35 %",
+                        "Total": "47,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Feb-2017",
+                        "Actualworkcompletiondate": "29-Mar-2017",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "28-Feb-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Heng chanthan",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "29-Mar-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Heng chanthan",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "52,250,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

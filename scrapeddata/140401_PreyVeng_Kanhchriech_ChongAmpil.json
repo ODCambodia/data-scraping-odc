@@ -1,0 +1,2870 @@
+{
+    "location": {
+        "province": "Prey Veng",
+        "district": "Kanhchriech",
+        "commune": "Chong Ampil"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road and maintannence",
+            "project_link": "/pid/project/home/view.castle?pid=4558f5e1-ea6c-4319-85c4-9c6a00b52631",
+            "project_html_data": {
+                "Pid": "4558f5e1-ea6c-4319-85c4-9c6a00b52631",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ou  Kolab",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road and maintannence",
+                        "Objective": "At the end of 2009, the people in commune will have good road for traveling",
+                        "Relatedcontract(s)": "140401/09/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "39,196,400",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "2,000,000",
+                        "Total": "42,196,400"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,288",
+                        "BeneficiaryWomen": "679",
+                        "Households": "271"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Tbal",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 5,499.000 Volume of earth (m3)",
+                        "Qty": "1.150 km",
+                        "UnitCost": "27,211,400",
+                        "Total": "31,293,110"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project will not cause any damage to forest, wildlife park or other cultural temples"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project will be constructed on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Do not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-May-2009",
+                            "Technicalclearancesign-off": "11-Jun-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401090101",
+            "contract_html_data": {
+                "Id": "140401090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/09/01-01",
+                        "TechnicalSupervisor": "Ou  Kolab",
+                        "Project'sName": "Earth road and maintannence",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Pen Asda, [ Pen Asda ]",
+                        "Competitivebidding": "Yes ( 16-Jul-2009 )",
+                        "Numberofcontractor": "17",
+                        "Contractsigndate(Form50)": "13-Aug-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "08-Oct-2009",
+                        "Plannedworkcompletiondate": "28-Dec-2009",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "29-Oct-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "35,877,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    },
+                    {
+                        "FundSource": "IFAD CIDF",
+                        "Cost": "2,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "AvMengYuy",
+                        "Contractor": "AvMengYuy",
+                        "BidValue": "24,364,728R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KeamSaruon",
+                        "Contractor": "KeamSaruon",
+                        "BidValue": "18,747,400R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Sorngsovann",
+                        "Contractor": "Sorngsovann",
+                        "BidValue": "18,753,300R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "Yes",
+                        "Reason": "Wrongcalculationandcontractordidnotacceptthecorrection"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "YimSengHap",
+                        "Contractor": "YimSengHap",
+                        "BidValue": "25,800,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChanBuna",
+                        "Contractor": "SamnangBunna",
+                        "BidValue": "26,040,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ThengPhaly",
+                        "Contractor": "ThengPhaly",
+                        "BidValue": "30,700,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "IngMengHeang",
+                        "Contractor": "EngMengHeang",
+                        "BidValue": "18,200,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "28,650,000R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "ChanMony",
+                        "Contractor": "KromMaokaChanMony",
+                        "BidValue": "20,550,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "ThuokTayLy",
+                        "Contractor": "ThuokTayLy",
+                        "BidValue": "18,660,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "HongKunthy",
+                        "Contractor": "HongKunthy",
+                        "BidValue": "21,060,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "Yes",
+                        "Reason": "Wrongcalculationandcontractordidnotacceptthecorrection"
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "CheaSarin",
+                        "Contractor": "CheaSarin",
+                        "BidValue": "30,756,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "LySothy",
+                        "Contractor": "LySothy",
+                        "BidValue": "19,800,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "Simkirtha",
+                        "Contractor": "Simkirtha",
+                        "BidValue": "19,576,600R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "Yes",
+                        "Reason": "Wrongcalculationandcontractordidnotacceptthecorrection"
+                    },
+                    {
+                        "No": "15",
+                        "Director'sName": "SoungVan",
+                        "Contractor": "SamnangSoungVan",
+                        "BidValue": "17,995,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "16",
+                        "Director'sName": "SornSan",
+                        "Contractor": "SanPiseth",
+                        "BidValue": "22,800,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "Yes",
+                        "Reason": "Wrongcalculationandcontractordidnotacceptthecorrection"
+                    },
+                    {
+                        "No": "17",
+                        "Director'sName": "PenAsda",
+                        "Contractor": "PenAsda",
+                        "BidValue": "14,015,000R",
+                        "DiscountRate": "-63%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "38,877,350",
+                        "Village": "Prey Tbal",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.500 Width (m)Dimension #2 : 15,450.000 Volume of earth (m3)",
+                        "Bid": "1.150 km",
+                        "InContract": "3.250 km",
+                        "Actualquantity": "3.250 km",
+                        "UnitCost/Estimated": "11,300,000est. 27,211,400",
+                        "DiscountRate": "-58 %",
+                        "Total": "36,725,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Aug-2009",
+                        "Actualworkcompletiondate": "22-Sep-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-Aug-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": "The project site could implement based on dry time in this period."
+                        },
+                        {
+                            "Date": "24-Nov-2009",
+                            "Progress": "80 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "21-Sep-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Sep-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "15550000R",
+                        "Net": "15083500R",
+                        "Tax": "466500R",
+                        "Verified": "OumSothearos"
+                    },
+                    {
+                        "Date": "23-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "2ndinstallment",
+                        "Gross": "13550000R",
+                        "Net": "13168927R",
+                        "Tax": "381073R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "22-Sep-2010",
+                        "Source": "IFAD",
+                        "Description": "2ndinstallment",
+                        "Gross": "2000000R",
+                        "Net": "1941748R",
+                        "Tax": "58252R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "31,100,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "30,194,175R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "905,825R",
+                        "ContractValue(B)Gross": "38,877,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road maintanence",
+            "project_link": "/pid/project/home/view.castle?pid=82d535ee-a364-4829-8c81-9e9f00be99be",
+            "project_html_data": {
+                "Pid": "82d535ee-a364-4829-8c81-9e9f00be99be",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Mam  Sarun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road maintanence",
+                        "Objective": "At the end of 2010, the people in commune will have good road for traveling and transport agriculture products.",
+                        "Relatedcontract(s)": "140401/10/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "0",
+                        "LocalRevenue": "37,400",
+                        "CarryOver": "0",
+                        "Other": "2,048,900",
+                        "Total": "2,086,300"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,318",
+                        "BeneficiaryWomen": "684",
+                        "Households": "289"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kandach",
+                        "Description": "Earth road Routine maintenance [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 43.000 Volume of earth (m3)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "1,390,867",
+                        "Total": "695,433"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It will not cause any damage to forest, Wildlife Park and area of other cultural temples."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "It will be constructed on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Oct-2010",
+                            "Technicalclearancesign-off": "20-Oct-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401100101",
+            "contract_html_data": {
+                "Id": "140401100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/10/01-01",
+                        "TechnicalSupervisor": "Mam  Sarun",
+                        "Project'sName": "Earth road maintanence",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Poa Horl, [ Poa Horl ]",
+                        "Contractsigndate(Form50)": "23-Nov-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "01-Dec-2010",
+                        "Plannedworkcompletiondate": "20-Dec-2010",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "25-Dec-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "37,400"
+                    },
+                    {
+                        "FundSource": "IFAD CIDF",
+                        "Cost": "2,048,900"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "2,086,300",
+                        "Village": "Mean Chey",
+                        "Description": "[ 1010101 ] Earth road Routine maintenanceDimension #1 : 4.000 Width (m)Dimension #2 : 102.000 Volume of earth (m3)",
+                        "Bid": "1.000 km",
+                        "InContract": "1.000 km",
+                        "Actualquantity": "1.000 km",
+                        "UnitCost/Estimated": "1,390,867est. 1,390,867",
+                        "DiscountRate": "0 %",
+                        "Total": "1,390,867"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2010",
+                        "Actualworkcompletiondate": "25-Dec-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Dec-2010",
+                            "Progress": "20 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Dec-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "27-Dec-2010",
+                        "Source": "LC",
+                        "Description": "1stinstallment",
+                        "Gross": "37400R",
+                        "Net": "37400R",
+                        "Tax": "0R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "Date": "27-Dec-2010",
+                        "Source": "IFAD",
+                        "Description": "1stinstallment",
+                        "Gross": "2048900R",
+                        "Net": "2048900R",
+                        "Tax": "0R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "2,086,300R",
+                        "ActualPaymentCumulativeToDate(A)Net": "2,086,300R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "2,086,300R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal Rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=5796f832-4520-4117-bb40-9ff300a9e724",
+            "project_html_data": {
+                "Pid": "5796f832-4520-4117-bb40-9ff300a9e724",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal Rehabilitation",
+                        "Objective": "In the year 2011 commune have water for rice watering dry season rice of people",
+                        "Relatedcontract(s)": "140401/11/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "67,384,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "67,384,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChongAmpil",
+                        "BeneficiaryTotal": "1,566",
+                        "BeneficiaryWomen": "793",
+                        "Households": "362"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chong Ampil",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.000 Depth (m)Dimension #2 : 8.000 Average width (m)",
+                        "Qty": "2.900 km",
+                        "UnitCost": "31,326,938",
+                        "Total": "90,848,120"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Oct-2011",
+                            "Technicalclearancesign-off": "23-Oct-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401110101",
+            "contract_html_data": {
+                "Id": "140401110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/11/01-01",
+                        "TechnicalSupervisor": "Ou  Kolab",
+                        "Project'sName": "Canal Rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Mon Sothea, [ Mon Sothea ]",
+                        "Competitivebidding": "Yes ( 30-Nov-2011 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "09-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Dec-2011",
+                        "Plannedworkcompletiondate": "25-Feb-2012",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "88,240,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KeamSaruon",
+                        "Contractor": "KeamSaruon",
+                        "BidValue": "89,900,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BienPhirou",
+                        "Contractor": "BienPhirou",
+                        "BidValue": "89,030,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MengHak",
+                        "Contractor": "MengHak",
+                        "BidValue": "90,190,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MormMol",
+                        "Contractor": "MormMol",
+                        "BidValue": "88,450,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MonSothea",
+                        "Contractor": "MonSothea",
+                        "BidValue": "87,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "chheounchhay",
+                        "Contractor": "chheounchhay",
+                        "BidValue": "89,320,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "88,740,000",
+                        "Village": "Chong Ampil",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 2.000 Depth (m)Dimension #2 : 8.000 Average width (m)",
+                        "Bid": "2.900 km",
+                        "InContract": "2.900 km",
+                        "Actualquantity": "2.900 km",
+                        "UnitCost/Estimated": "30,000,000est. 31,326,938",
+                        "DiscountRate": "-4 %",
+                        "Total": "87,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Jan-2012",
+                        "Actualworkcompletiondate": "27-Feb-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Feb-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "27-Feb-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "03-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "35496000R",
+                        "Net": "34452000R",
+                        "Tax": "1044000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "31000000R",
+                        "Net": "30088235R",
+                        "Tax": "911765R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Mar-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "4496000R",
+                        "Net": "4363765R",
+                        "Tax": "132235R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "17248000R",
+                        "Net": "16740706R",
+                        "Tax": "507294R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-Aug-2012",
+                        "Source": "LC",
+                        "Description": "3rdPayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "88,740,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "86,130,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,610,000R",
+                        "ContractValue(B)Gross": "88,740,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=24ebcecb-e28d-4946-aa22-a124010995ab",
+            "project_html_data": {
+                "Pid": "24ebcecb-e28d-4946-aa22-a124010995ab",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "At the end of 2012,  commune will have good road for traveling and transport products",
+                        "Relatedcontract(s)": "140401/12/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "81,278,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "81,278,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kandach",
+                        "BeneficiaryTotal": "2,033",
+                        "BeneficiaryWomen": "1,081",
+                        "Households": "445"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Svay",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,699.000 Volume of earth (m3)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "18,231,076",
+                        "Total": "9,115,538"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project did not require environment study.The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Voluntary",
+                            "Approvaldate": "09-Feb-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Feb-2012",
+                            "Technicalclearancesign-off": "30-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401120101",
+            "contract_html_data": {
+                "Id": "140401120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/12/01-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Try Chanthy, [ Try Chanthy ]",
+                        "Competitivebidding": "Yes ( 10-Jul-2012 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "19-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Nov-2012",
+                        "Plannedworkcompletiondate": "20-Dec-2012",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "13-Aug-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "31,887,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TryChanthy",
+                        "Contractor": "TryChanthy",
+                        "BidValue": "26,900,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "27,800,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VatVann",
+                        "Contractor": "VatVann",
+                        "BidValue": "27,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SanPhalla",
+                        "Contractor": "SanPhalla",
+                        "BidValue": "27,800,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "32,086,953",
+                        "Village": "Pea Roung",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 688.000 Volume of earth (m3)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.650 km",
+                        "Actualquantity": "0.650 km",
+                        "UnitCost/Estimated": "18,231,075est. 18,231,076",
+                        "DiscountRate": "0 %",
+                        "Total": "11,850,199"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "21-Jan-2013",
+                        "Actualworkcompletiondate": "06-Feb-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Jan-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Feb-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Feb-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "12834800R",
+                        "Net": "12457306R",
+                        "Tax": "377494R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "12834800R",
+                        "Net": "12457306R",
+                        "Tax": "377494R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "6217400R",
+                        "Net": "6034535R",
+                        "Tax": "182865R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Aug-2013",
+                        "Source": "LC",
+                        "Description": "3rdPayment",
+                        "Gross": "200000R",
+                        "Net": "194118R",
+                        "Tax": "5882R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "32,087,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "31,143,265R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "943,735R",
+                        "ContractValue(B)Gross": "32,087,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=c9a785fa-2d57-4c28-9737-a125009e7134",
+            "project_html_data": {
+                "Pid": "c9a785fa-2d57-4c28-9737-a125009e7134",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "At the end of 2012,  commune will have good road for traveling and transport products",
+                        "Relatedcontract(s)": "140401/12/02-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "81,278,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "81,278,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,326",
+                        "BeneficiaryWomen": "686",
+                        "Households": "289"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Mean Chey",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 210.000 Volume of earth (m3)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "28,509,822",
+                        "Total": "14,254,911"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project did not require environment study.The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-May-2012",
+                            "Technicalclearancesign-off": "04-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/12/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401120201",
+            "contract_html_data": {
+                "Id": "140401120201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/12/02-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Try Chanthy, [ Try Chanthy ]",
+                        "Competitivebidding": "Yes ( 10-Jul-2012 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "19-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Jul-2012",
+                        "Plannedworkcompletiondate": "03-Aug-2012",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "08-Mar-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "90,027,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "700,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "78,800,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TryChanthy",
+                        "Contractor": "TryChanthy",
+                        "BidValue": "77,830,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "78,498,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VatVann",
+                        "Contractor": "VatVann",
+                        "BidValue": "78,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SanPhalla",
+                        "Contractor": "SanPhalla",
+                        "BidValue": "77,900,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "90,727,541",
+                        "Village": "Mean Chey",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 210.000 Volume of earth (m3)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": "0.500 km",
+                        "UnitCost/Estimated": "27,796,428est. 28,509,822",
+                        "DiscountRate": "-3 %",
+                        "Total": "13,898,214"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jul-2012",
+                        "Actualworkcompletiondate": "30-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "26-Jul-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "36291000R",
+                        "Net": "35223618R",
+                        "Tax": "1067382R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "36291000R",
+                        "Net": "35223618R",
+                        "Tax": "1067382R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Feb-2013",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "17445500R",
+                        "Net": "16932397R",
+                        "Tax": "513103R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Feb-2013",
+                        "Source": "LC",
+                        "Description": "3rdPayment",
+                        "Gross": "700000R",
+                        "Net": "679411R",
+                        "Tax": "20589R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "90,727,500R",
+                        "ActualPaymentCumulativeToDate(A)Net": "88,059,044R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,668,456R",
+                        "ContractValue(B)Gross": "90,727,500R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Latrite Road",
+            "project_link": "/pid/project/home/view.castle?pid=5157ff39-666f-4c00-b243-a1d101152949",
+            "project_html_data": {
+                "Pid": "5157ff39-666f-4c00-b243-a1d101152949",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Latrite Road",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140401/13/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "92,990,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "92,990,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,327",
+                        "BeneficiaryWomen": "686",
+                        "Households": "293"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chambak",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,453.530 Volume of earth (m3)",
+                        "Qty": "0.350 km",
+                        "UnitCost": "27,629,577",
+                        "Total": "9,670,352"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-Mar-2013",
+                            "Technicalclearancesign-off": "12-Apr-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401130101",
+            "contract_html_data": {
+                "Id": "140401130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/13/01-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Latrite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhoeun Chhay, [ Chhoeun Chhay ]",
+                        "Competitivebidding": "Yes ( 17-May-2013 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "29-May-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "03-Jun-2013",
+                        "Plannedworkcompletiondate": "10-Jul-2013",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "92,155,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "83,019,900R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "VatVann",
+                        "Contractor": "VatVann",
+                        "BidValue": "83,704,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "VatVin",
+                        "Contractor": "VVD",
+                        "BidValue": "83,592,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SanPhalla",
+                        "Contractor": "SanPhalla",
+                        "BidValue": "84,525,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "93,154,968",
+                        "Village": "Chong Ampil",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 2,072.910 Volume of earth (m3)",
+                        "Bid": "1.000 km",
+                        "InContract": "1.000 km",
+                        "Actualquantity": "1.000 km",
+                        "UnitCost/Estimated": "26,940,000est. 27,629,577",
+                        "DiscountRate": "-2 %",
+                        "Total": "26,940,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "03-Jun-2013",
+                        "Actualworkcompletiondate": "13-Aug-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "13-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "18-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "37262000R",
+                        "Net": "36166059R",
+                        "Tax": "1095941R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "37262000R",
+                        "Net": "36166059R",
+                        "Tax": "1095941R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "74,524,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "72,332,118R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,191,882R",
+                        "ContractValue(B)Gross": "93,155,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=eb569bbc-6e15-47e5-b434-a35800f2518b",
+            "project_html_data": {
+                "Pid": "eb569bbc-6e15-47e5-b434-a35800f2518b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Huot  Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "At the end of 2014,  commune will have good road for traveling and transport products",
+                        "Relatedcontract(s)": "140401/14/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "80,907,700",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "80,907,700"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,330",
+                        "BeneficiaryWomen": "686",
+                        "Households": "293"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Svay",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,964.000 Volume of earth (m3)",
+                        "Qty": "0.600 km",
+                        "UnitCost": "34,129,900",
+                        "Total": "20,477,940"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "25-Apr-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-May-2014",
+                            "Technicalclearancesign-off": "17-Jun-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401140101",
+            "contract_html_data": {
+                "Id": "140401140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/14/01-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhoeun Chhay, [ Chhoeun Chhay ]",
+                        "Competitivebidding": "Yes ( 08-Jul-2014 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "24-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "31-Dec-2014",
+                        "Plannedworkcompletiondate": "15-Feb-2015",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "77,497,100"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "70,263,500R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "69,372,100R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SiengLyEngLim",
+                        "Contractor": "SiengLyEngLim",
+                        "BidValue": "69,570,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VatRin",
+                        "Contractor": "VATRIN",
+                        "BidValue": "69,999,300R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "78,497,100",
+                        "Village": "Prey Svay",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,964.000 Volume of earth (m3)",
+                        "Bid": "0.600 km",
+                        "InContract": "0.600 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "34,125,000est. 34,129,900",
+                        "DiscountRate": "0 %",
+                        "Total": "20,475,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "29-Jan-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "11-Feb-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "16-Feb-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "78,497,100R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=7210b84e-7337-4b0a-a82e-a48f00e7f51d",
+            "project_html_data": {
+                "Pid": "7210b84e-7337-4b0a-a82e-a48f00e7f51d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140401/15/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "54,955,900",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "54,955,900"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,378",
+                        "BeneficiaryWomen": "762",
+                        "Households": "333"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Svay",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 1,557.000 Volume of earth (m3)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "28,101,597",
+                        "Total": "28,101,597"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-Jan-2015",
+                            "Technicalclearancesign-off": "27-Feb-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401150101",
+            "contract_html_data": {
+                "Id": "140401150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/15/01-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhoeun Chhay, [ Chhoeun Chhay ]",
+                        "Competitivebidding": "Yes ( 23-Mar-2015 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "23-Apr-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "29-Apr-2015",
+                        "Plannedworkcompletiondate": "05-Jun-2015",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "56,749,340"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "53,512,500R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "52,499,400R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SiengLyEngLim",
+                        "Contractor": "SiengLyEngLim",
+                        "BidValue": "54,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VatVan",
+                        "Contractor": "VATVAN",
+                        "BidValue": "52,995,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "57,749,340",
+                        "Village": "Prey Svay",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 1,557.000 Volume of earth (m3)",
+                        "Bid": "1.000 km",
+                        "InContract": "1.000 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "27,636,000est. 28,101,597",
+                        "DiscountRate": "-2 %",
+                        "Total": "27,636,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "22-May-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Jun-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Jun-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "57,749,340R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=52c750e5-6e81-4886-a1cd-a4d50103b3a0",
+            "project_html_data": {
+                "Pid": "52c750e5-6e81-4886-a1cd-a4d50103b3a0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140401/15/02-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "37,403,200",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "37,403,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,378",
+                        "BeneficiaryWomen": "762",
+                        "Households": "333"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Tbal",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 3,608.000 Volume of earth (m3)",
+                        "Qty": "0.550 km",
+                        "UnitCost": "41,521,737",
+                        "Total": "22,836,955"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Apr-2015",
+                            "Technicalclearancesign-off": "27-Apr-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/15/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401150201",
+            "contract_html_data": {
+                "Id": "140401150201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/15/02-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhoeun Chhay, [ Chhoeun Chhay ]",
+                        "Competitivebidding": "Yes ( 19-May-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "08-Jun-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "08-Jun-2015",
+                        "Plannedworkcompletiondate": "15-Jun-2015",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "17,490,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "15,900,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "VatVan",
+                        "Contractor": "VATVAN",
+                        "BidValue": "15,975,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "YanSarun",
+                        "Contractor": "YANSARUN",
+                        "BidValue": "16,050,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "17,490,000",
+                        "Village": "Prey Tbal",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 3,608.000 Volume of earth (m3)",
+                        "Bid": "0.150 km",
+                        "InContract": "0.150 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "26,000,000est. 41,521,737",
+                        "DiscountRate": "-37 %",
+                        "Total": "3,900,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "09-Jun-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Jun-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Jun-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "17,490,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=919feb41-0378-4131-842b-a63a0068951e",
+            "project_html_data": {
+                "Pid": "919feb41-0378-4131-842b-a63a0068951e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140401/16/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "60,608,669",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "60,608,669"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyTbal",
+                        "BeneficiaryTotal": "1,703",
+                        "BeneficiaryWomen": "813",
+                        "Households": "485"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kandach",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 4,297.000 Volume of earth (m3)",
+                        "Qty": "0.880 km",
+                        "UnitCost": "31,676,905",
+                        "Total": "27,875,676"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "29-Jan-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "24-Feb-2016",
+                            "Technicalclearancesign-off": "10-Mar-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401160101",
+            "contract_html_data": {
+                "Id": "140401160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/16/01-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chhoeun Chhay, [ Chhoeun Chhay ]",
+                        "Competitivebidding": "Yes ( 01-Apr-2016 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "10-May-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-May-2016",
+                        "Plannedworkcompletiondate": "23-Jun-2016",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "59,070,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "52,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "chheounchhay",
+                        "Contractor": "chheounchhay",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SanPhalla",
+                        "Contractor": "SanPhalla",
+                        "BidValue": "53,097,500R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VatVan",
+                        "Contractor": "VATVAN",
+                        "BidValue": "52,497,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ElYuang",
+                        "Contractor": "ElYuang",
+                        "BidValue": "53,400,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "59,570,500",
+                        "Village": "Prey Tbal",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 2,527.000 Volume of earth (m3)",
+                        "Bid": "0.370 km",
+                        "InContract": "0.370 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "31,000,000est. 31,676,905",
+                        "DiscountRate": "-2 %",
+                        "Total": "11,470,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "13-May-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-May-2016",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "14-Jul-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "59,570,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Not Translate",
+            "project_link": "/pid/project/home/view.castle?pid=6a8213e4-c105-4465-9f10-a9ab00999d2c",
+            "project_html_data": {
+                "Pid": "6a8213e4-c105-4465-9f10-a9ab00999d2c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Hout Chhel",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Not Translate",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140401/17/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "76,647,151",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "76,647,151"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Kandach",
+                        "BeneficiaryTotal": "2,198",
+                        "BeneficiaryWomen": "780",
+                        "Households": "450"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kandach",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 12,299.000 Volume of earth (m3)",
+                        "Qty": "0.810 km",
+                        "UnitCost": "80,888,585",
+                        "Total": "65,519,754"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "14-Feb-2017",
+                            "Technicalclearancesign-off": "28-Feb-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401170101",
+            "contract_html_data": {
+                "Id": "140401170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/17/01-01",
+                        "TechnicalSupervisor": "Hout Chhel",
+                        "Project'sName": "Not Translate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "chheoun chhay, [ chheoun chhay ]",
+                        "Competitivebidding": "Yes ( 30-Mar-2017 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "28-Apr-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-May-2017",
+                        "Plannedworkcompletiondate": "20-Jun-2017",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "75,433,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "39,825,000R",
+                        "DiscountRate": "-60%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "67,950,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "chheounchhay",
+                        "Contractor": "chheounchhay",
+                        "BidValue": "35,100,000R",
+                        "DiscountRate": "-65%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Hengmony",
+                        "Contractor": "KhmerEngeneringandConstruction",
+                        "BidValue": "41,900,000R",
+                        "DiscountRate": "-58%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "VatVan",
+                        "Contractor": "VATVAN",
+                        "BidValue": "68,040,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PhemKheav",
+                        "Contractor": "SoaLinda",
+                        "BidValue": "38,700,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "75,933,000",
+                        "Village": "Kandach",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 12,299.000 Volume of earth (m3)",
+                        "Bid": "0.810 km",
+                        "InContract": "0.810 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "39,000,000est. 80,888,585",
+                        "DiscountRate": "-52 %",
+                        "Total": "31,590,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "75,933,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=3481b1a2-2a0d-4d19-b24c-aaf400a1f0e2",
+            "project_html_data": {
+                "Pid": "3481b1a2-2a0d-4d19-b24c-aaf400a1f0e2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "140401/18/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "182,400,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "182,400,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,487",
+                        "BeneficiaryWomen": "782",
+                        "Households": "355"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Svay",
+                        "Description": "Laterite road width <4m Repair [ 1010112 ]Dimension #1 : 3.800 Width (m)Dimension #2 : 2,279.000 Volume of earth (m3)",
+                        "Qty": "0.595 km",
+                        "UnitCost": "46,119,712",
+                        "Total": "27,441,228"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "24-Aug-2018",
+                            "Technicalclearancesign-off": "28-Aug-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401180101",
+            "contract_html_data": {
+                "Id": "140401180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/18/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khean Khorn, [ Khean Khorn ]",
+                        "Competitivebidding": "Yes ( 18-Sep-2018 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "30-Oct-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Nov-2018",
+                        "Plannedworkcompletiondate": "10-Jan-2019",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "102,297,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    },
+                    {
+                        "FundSource": "ASPIRE",
+                        "Cost": "52,845,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "95,410,500R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhunYeang",
+                        "Contractor": "ChhunYeang",
+                        "BidValue": "110,000,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "132,620,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KheanKhorn",
+                        "Contractor": "KheanKhorn",
+                        "BidValue": "77,100,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Hengmony",
+                        "Contractor": "KhmerEngeneringandConstruction",
+                        "BidValue": "146,000,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "146,765,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SinSocheat",
+                        "Contractor": "SINSOCHEATConstruction",
+                        "BidValue": "111,730,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "155,642,424",
+                        "Village": "Prey Svay",
+                        "Description": "[ 1010112 ] Laterite road width <4m RepairDimension #1 : 3.800 Width (m)Dimension #2 : 2,279.000 Volume of earth (m3)",
+                        "Bid": "0.595 km",
+                        "InContract": "0.595 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "1,200,000est. 46,119,712",
+                        "DiscountRate": "-97 %",
+                        "Total": "714,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "155,642,400R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=15e84f43-48bf-429c-a6aa-aba6008d20d6",
+            "project_html_data": {
+                "Pid": "15e84f43-48bf-429c-a6aa-aba6008d20d6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "Not translate",
+                        "Relatedcontract(s)": "140401/19/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "185,801,900",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "185,801,900"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MeanChey",
+                        "BeneficiaryTotal": "1,559",
+                        "BeneficiaryWomen": "802",
+                        "Households": "358"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kandach",
+                        "Description": "Earth dam Repair [ 1020301 ]Dimension #1 : 5.000 Max. height (m)Dimension #2 : 10,936.000 Volume (m3)",
+                        "Qty": "2.000 km",
+                        "UnitCost": "46,449,307",
+                        "Total": "92,898,614"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Mar-2019",
+                            "Technicalclearancesign-off": "04-Jun-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140401/19/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140401190101",
+            "contract_html_data": {
+                "Id": "140401190101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140401 ] Prey Veng \\ Kanhchriech \\ Chong Ampil",
+                        "Contract": "140401/19/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Sam Srun, [ Sam Srun ]",
+                        "Competitivebidding": "Yes ( 25-Jun-2019 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "02-Aug-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "31-Dec-2019",
+                        "Plannedworkcompletiondate": "08-Feb-2020",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "117,370,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    },
+                    {
+                        "FundSource": "ASPIRE",
+                        "Cost": "60,750,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhoeunChhay",
+                        "Contractor": "ChhoeunChhay",
+                        "BidValue": "180,770,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KheanKhorn",
+                        "Contractor": "KheanKhorn",
+                        "BidValue": "179,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SamSrun",
+                        "Contractor": "SamSrun",
+                        "BidValue": "178,620,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "178,620,000",
+                        "Village": "Kandach",
+                        "Description": "[ 1020301 ] Earth dam RepairDimension #1 : 5.000 Max. height (m)Dimension #2 : 10,936.000 Volume (m3)",
+                        "Bid": "2.000 km",
+                        "InContract": "2.000 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "45,800,000est. 46,449,307",
+                        "DiscountRate": "-1 %",
+                        "Total": "91,600,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "178,620,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

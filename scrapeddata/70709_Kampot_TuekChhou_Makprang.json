@@ -1,0 +1,2341 @@
+{
+    "location": {
+        "province": "Kampot",
+        "district": "Tuek Chhou",
+        "commune": "Makprang"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road Repair",
+            "project_link": "/pid/project/home/view.castle?pid=133a7cb6-9800-4db7-9cf4-9c620083e533",
+            "project_html_data": {
+                "Pid": "133a7cb6-9800-4db7-9cf4-9c620083e533",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sok Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road Repair",
+                        "Objective": "Easy to travel",
+                        "Relatedcontract(s)": "070709/09/03-01 ",
+                        "CreatedBy": "Sy Sokha",
+                        "Mobile": "012 694 979"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "27,296,104",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "27,296,104"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MoatPeam",
+                        "BeneficiaryTotal": "1,374",
+                        "BeneficiaryWomen": "697",
+                        "Households": "287"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Moat Peam",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.400 Width (m)Dimension #2 : 3,293.000 Volume of earth (m3)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "27,296,104",
+                        "Total": "27,296,104"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.New road project",
+                            "Approvebydepartmenton": "16-Jun-2009 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "06-Apr-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "project outside watchlist"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Apr-2009",
+                            "Technicalclearancesign-off": "01-Jul-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/09/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709090301",
+            "contract_html_data": {
+                "Id": "070709090301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/09/03-01",
+                        "TechnicalSupervisor": "Sok Vibol",
+                        "Project'sName": "Earth road Repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SOURN ROTANAKPHY, [ SOURN ROTANAK PHY ]",
+                        "Competitivebidding": "Yes ( 17-Jul-2009 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "28-Jul-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "21-Nov-2009",
+                        "Plannedworkcompletiondate": "23-Dec-2009",
+                        "CreatedBy": "Sy Sokha",
+                        "Mobile": "012 694 979",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "01-Feb-2010",
+                        "Closeddateon": "30-Jun-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "24,232,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "900,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TuonBunTha",
+                        "Contractor": "TuonBunTha",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TepSokha",
+                        "Contractor": "SokhadaCompany",
+                        "BidValue": "27,100,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UnEth",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "26,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KhemSong",
+                        "Contractor": "KampotPortCompany",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "MeasKhemara",
+                        "Contractor": "MonorumCompany",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "Yes",
+                        "Reason": "Bidinvalidity"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MeasSokhon",
+                        "Contractor": "SamnoangKhutchenda",
+                        "BidValue": "27,290,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SOURNROTANAKPHY",
+                        "Contractor": "SOURNROTANAKPHY",
+                        "BidValue": "24,400,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "25,132,000",
+                        "Village": "Moat Peam",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.400 Width (m)Dimension #2 : 3,293.000 Volume of earth (m3)",
+                        "Bid": "1.000 km",
+                        "InContract": "1.000 km",
+                        "Actualquantity": "1.000 km",
+                        "UnitCost/Estimated": "24,400,000est. 27,296,104",
+                        "DiscountRate": "-11 %",
+                        "Total": "24,400,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "21-Nov-2009",
+                        "Actualworkcompletiondate": "23-Dec-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "23-Dec-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Sun Kaksan",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "30-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "10052800R",
+                        "Net": "9751216R",
+                        "Tax": "301584R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "30-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "9152800R",
+                        "Net": "8878216R",
+                        "Tax": "274584R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "30-Dec-2009",
+                        "Source": "LC",
+                        "Description": "2ndpayment",
+                        "Gross": "900000R",
+                        "Net": "873000R",
+                        "Tax": "27000R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "07-Jul-2010",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "5026400R",
+                        "Net": "4897568R",
+                        "Tax": "128832R",
+                        "Verified": "KongSophea"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "25,132,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "24,400,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "732,000R",
+                        "ContractValue(B)Gross": "25,132,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road project of Makprang commune 2010",
+            "project_link": "/pid/project/home/view.castle?pid=c3ed586e-ee09-411a-a5be-9e3b00f7fb35",
+            "project_html_data": {
+                "Pid": "c3ed586e-ee09-411a-a5be-9e3b00f7fb35",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chon Rong",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road project of Makprang commune 2010",
+                        "Objective": "The people has good road for travel from village to another.",
+                        "Relatedcontract(s)": "070709/10/02-01 ",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "46,000,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "9,847,110",
+                        "Other": "0",
+                        "Total": "56,847,110"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MoatPeam",
+                        "BeneficiaryTotal": "1,432",
+                        "BeneficiaryWomen": "753",
+                        "Households": "287"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Moat Peam",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 4.400 Width (m)Dimension #2 : 5,529.000 Volume of earth (m3)",
+                        "Qty": "0.865 km",
+                        "UnitCost": "58,241,730",
+                        "Total": "50,379,096"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Approvebydepartmenton": "This project required environment study.New road project"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "25-Feb-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There is no highland people living in this commune."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Oct-2010",
+                            "Technicalclearancesign-off": "16-Nov-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709100201",
+            "contract_html_data": {
+                "Id": "070709100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/10/02-01( 1 )",
+                        "TechnicalSupervisor": "Chon Rong",
+                        "Project'sName": "Earth road project of Makprang commune 2010",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "SOURN ROTANAKPHY, [ SOURN ROTANAK PHY ]",
+                        "Competitivebidding": "Yes ( 01-Dec-2010 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "31-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Mar-2011",
+                        "Plannedworkcompletiondate": "15-May-2011",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "22-Jul-2011",
+                        "Closeddateon": "08-Feb-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "27,918,600"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SayMav",
+                        "Contractor": "SayMav",
+                        "BidValue": "44,500,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "DulSenghout",
+                        "Contractor": "DulSengHout",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TongEn",
+                        "Contractor": "TongEnCompany",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MeasSokhon",
+                        "Contractor": "SamnoangKhutchenda",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SOURNROTANAKPHY",
+                        "Contractor": "SOURNROTANAKPHY",
+                        "BidValue": "24,100,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "LaoMeangChheang",
+                        "Contractor": "LaoMeangChheang",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "28,418,526",
+                        "Village": "Moat Peam",
+                        "Description": "[ 1010101 ] Earth road NewDimension #1 : 4.400 Width (m)Dimension #2 : 5,529.000 Volume of earth (m3)",
+                        "Bid": "0.865 km",
+                        "InContract": "1.000 km",
+                        "Actualquantity": "1.000 km",
+                        "UnitCost/Estimated": "27,861,300est. 58,241,730",
+                        "DiscountRate": "-52 %",
+                        "Total": "27,861,300"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Mar-2011",
+                        "Actualworkcompletiondate": "06-May-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Apr-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Sun Kaksan",
+                            "Note": "Referring to PMC minute."
+                        },
+                        {
+                            "Date": "06-May-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Sun Kaksan",
+                            "Note": "Referring to PMC report."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "12-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "11367440R",
+                        "Net": "11033104R",
+                        "Tax": "334336R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "12-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "11367440R",
+                        "Net": "11033103R",
+                        "Tax": "334337R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "5183720R",
+                        "Net": "5031258R",
+                        "Tax": "152462R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Feb-2012",
+                        "Source": "LC",
+                        "Description": "3rdpayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "28,418,600R",
+                        "ActualPaymentCumulativeToDate(A)Net": "27,582,759R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "835,841R",
+                        "ContractValue(B)Gross": "28,418,600R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road Project of Mak Prang Commune 2011",
+            "project_link": "/pid/project/home/view.castle?pid=d9f0f9a3-b271-4e1f-818f-9fa2009b46a9",
+            "project_html_data": {
+                "Pid": "d9f0f9a3-b271-4e1f-818f-9fa2009b46a9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Bophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road Project of Mak Prang Commune 2011",
+                        "Objective": "At the end of 2011, people have a good for traveling and transport their agricultural products to market.",
+                        "Relatedcontract(s)": "070709/12/01-01 ",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "44,555,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "42,828,535",
+                        "Other": "0",
+                        "Total": "88,383,535"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SnamPrampir",
+                        "BeneficiaryTotal": "3,144",
+                        "BeneficiaryWomen": "1,562",
+                        "Households": "629"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Snam Prampir",
+                        "Description": "Earth road Upgrade [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,766.000 Volume of earth (m3)",
+                        "Qty": "0.920 km",
+                        "UnitCost": "50,570,818",
+                        "Total": "46,525,153"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Approvebydepartmenton": "This project required environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-Apr-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-Sep-2011",
+                            "Technicalclearancesign-off": "16-Nov-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709120101",
+            "contract_html_data": {
+                "Id": "070709120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/12/01-01( 2 )",
+                        "TechnicalSupervisor": "Som Bophal",
+                        "Project'sName": "Earth Road Project of Mak Prang Commune 2011",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Samnoang Seng Ry, [ Seng Chanmonyrath ]",
+                        "Competitivebidding": "Yes ( 27-Dec-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "10-Jan-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-Jan-2012",
+                        "Plannedworkcompletiondate": "20-May-2012",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "21-Nov-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "43,226,957"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UnEth",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "27,400,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "VinhChhay",
+                        "Contractor": "SanoangArunrashCompany",
+                        "BidValue": "45,954,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SengChanmonyrath",
+                        "Contractor": "SamnoangSengRy",
+                        "BidValue": "23,200,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "CheungSokunthea",
+                        "Contractor": "PiphopthmeyAkphivat",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "43,726,956",
+                        "Village": "Snam Prampir",
+                        "Description": "[ 1010101 ] Earth road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 2,766.000 Volume of earth (m3)",
+                        "Bid": "0.920 km",
+                        "InContract": "1.700 km",
+                        "Actualquantity": "1.700 km",
+                        "UnitCost/Estimated": "25,217,391est. 50,570,818",
+                        "DiscountRate": "-50 %",
+                        "Total": "42,869,565"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "23-Jan-2012",
+                        "Actualworkcompletiondate": "21-May-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-May-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Sun Kaksan",
+                            "Note": "Referring to PMC minute."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "30-May-2012",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "34481565R",
+                        "Net": "33467401R",
+                        "Tax": "1014164R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-May-2012",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "18-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "8745392R",
+                        "Net": "8488175R",
+                        "Tax": "257217R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "43,726,957R",
+                        "ActualPaymentCumulativeToDate(A)Net": "42,440,870R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,286,087R",
+                        "ContractValue(B)Gross": "43,726,957R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road Project of Mak Prang Commune 2011",
+            "project_link": "/pid/project/home/view.castle?pid=8e455c53-606f-4eb5-8e97-9fa200a24ad1",
+            "project_html_data": {
+                "Pid": "8e455c53-606f-4eb5-8e97-9fa200a24ad1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Bophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road Project of Mak Prang Commune 2011",
+                        "Objective": "At the end of 2011, people have a good road for traveling from one village to another.",
+                        "Relatedcontract(s)": "070709/12/02-01 ",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "44,555,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "42,828,535",
+                        "Other": "0",
+                        "Total": "88,383,535"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MoatPeam",
+                        "BeneficiaryTotal": "1,456",
+                        "BeneficiaryWomen": "763",
+                        "Households": "291"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Moat Peam",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,462.000 Volume of earth (m3)",
+                        "Qty": "0.850 km",
+                        "UnitCost": "17,253,725",
+                        "Total": "14,665,666"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Approvebydepartmenton": "This project required environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "19-Apr-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-Sep-2011",
+                            "Technicalclearancesign-off": "16-Nov-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/12/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709120201",
+            "contract_html_data": {
+                "Id": "070709120201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/12/02-01( 2 )",
+                        "TechnicalSupervisor": "Som Bophal",
+                        "Project'sName": "Laterite Road Project of Mak Prang Commune 2011",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Samnoang Seng Ry, [ Seng Chanmonyrath ]",
+                        "Competitivebidding": "Yes ( 27-Dec-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "10-Jan-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-Jan-2012",
+                        "Plannedworkcompletiondate": "10-May-2012",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "28-Feb-2012",
+                        "Closeddateon": "22-Nov-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "21,113,800"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UnEth",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "23,200,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "VinhChhay",
+                        "Contractor": "SanoangArunrashCompany",
+                        "BidValue": "32,134,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SengChanmonyrath",
+                        "Contractor": "SamnoangSengRy",
+                        "BidValue": "21,190,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LaoMeangChheang",
+                        "Contractor": "LaoMeangChheang",
+                        "BidValue": "21,400,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "21,613,800",
+                        "Village": "Moat Peam",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 2,462.000 Volume of earth (m3)",
+                        "Bid": "0.850 km",
+                        "InContract": "0.850 km",
+                        "Actualquantity": "0.850 km",
+                        "UnitCost/Estimated": "10,341,176est. 17,253,725",
+                        "DiscountRate": "-40 %",
+                        "Total": "8,790,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "23-Jan-2012",
+                        "Actualworkcompletiondate": "22-May-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "22-May-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Sun Kaksan",
+                            "Note": "Referring to ITO report."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "30-May-2012",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "16791040R",
+                        "Net": "16297186R",
+                        "Tax": "493854R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-May-2012",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "18-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "4322760R",
+                        "Net": "4195620R",
+                        "Tax": "127140R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "21,613,800R",
+                        "ActualPaymentCumulativeToDate(A)Net": "20,978,100R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "635,700R",
+                        "ContractValue(B)Gross": "21,613,800R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Eart Road Project of Makprang Commune 2012",
+            "project_link": "/pid/project/home/view.castle?pid=ce582f0c-9e0e-457c-9a3b-a10201002bd1",
+            "project_html_data": {
+                "Pid": "ce582f0c-9e0e-457c-9a3b-a10201002bd1",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Bophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Eart Road Project of Makprang Commune 2012",
+                        "Objective": "At the end of 2012 people will have a good road for traveling.",
+                        "Relatedcontract(s)": "070709/12/03-01 ",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "67,229,000",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "15,190,791",
+                        "Other": "0",
+                        "Total": "83,419,791"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BatKbalDamrei",
+                        "BeneficiaryTotal": "598",
+                        "BeneficiaryWomen": "296",
+                        "Households": "108"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Moat Peam",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 7,313.000 Volume of earth (m3)",
+                        "Qty": "1.370 km",
+                        "UnitCost": "55,690,708",
+                        "Total": "76,296,270"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Approvebydepartmenton": "This project required environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "06-Feb-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Sep-2012",
+                            "Technicalclearancesign-off": "10-Oct-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/12/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709120301",
+            "contract_html_data": {
+                "Id": "070709120301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/12/03-01",
+                        "TechnicalSupervisor": "Som Bophal",
+                        "Project'sName": "Eart Road Project of Makprang Commune 2012",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sophatphakdey Company, [ Bun Sophatpheakdey ]",
+                        "Competitivebidding": "Yes ( 08-Nov-2012 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "20-Nov-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2012",
+                        "Plannedworkcompletiondate": "15-Jan-2013",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "74,072,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BunSophatpheakdey",
+                        "Contractor": "SophatphakdeyCompany",
+                        "BidValue": "73,600,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "UnEth",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "75,150,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TepSokha",
+                        "Contractor": "SahakreasSokhada",
+                        "BidValue": "75,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "Yes",
+                        "Reason": "Invalidbid,thecontractordidnotsignonhisfraudandcorruptionform."
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SoySovath",
+                        "Contractor": "SoaySothearyAkphivatCompany",
+                        "BidValue": "74,800,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KemRatana",
+                        "Contractor": "KimRatanaCompany",
+                        "BidValue": "75,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "75,072,000",
+                        "Village": "Moat Peam",
+                        "Description": "[ 1010101 ] Earth road NewDimension #1 : 4.000 Width (m)Dimension #2 : 7,313.000 Volume of earth (m3)",
+                        "Bid": "1.370 km",
+                        "InContract": "1.370 km",
+                        "Actualquantity": "1.370 km",
+                        "UnitCost/Estimated": "53,722,628est. 55,690,708",
+                        "DiscountRate": "-4 %",
+                        "Total": "73,600,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2012",
+                        "Actualworkcompletiondate": "10-Jan-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Jan-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Sun Kaksan",
+                            "Note": "Referring to ITO report."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "24-Jan-2013",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "30028800R",
+                        "Net": "29145600R",
+                        "Tax": "883200R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Jan-2013",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "29028800R",
+                        "Net": "28175012R",
+                        "Tax": "853788R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Jan-2013",
+                        "Source": "LC",
+                        "Description": "2ndpayment",
+                        "Gross": "1000000R",
+                        "Net": "970588R",
+                        "Tax": "29412R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Sep-2013",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "15014400R",
+                        "Net": "14572800R",
+                        "Tax": "441600R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "75,072,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "72,864,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,208,000R",
+                        "ContractValue(B)Gross": "75,072,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=f37fed28-f692-4f3c-bdc4-a1f800a089a9",
+            "project_html_data": {
+                "Pid": "f37fed28-f692-4f3c-bdc4-a1f800a089a9",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Bophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "Not yet Translated",
+                        "Relatedcontract(s)": "070709/13/01-01 ",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "98,143,333",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "14,857,948",
+                        "Other": "0",
+                        "Total": "114,001,281"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SnamPrampir",
+                        "BeneficiaryTotal": "3,103",
+                        "BeneficiaryWomen": "1,574",
+                        "Households": "641"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Bat Kbal Damrei",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 3,854.000 Volume of earth (m3)",
+                        "Qty": "1.035 km",
+                        "UnitCost": "62,690,342",
+                        "Total": "64,884,504"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "25-Apr-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "01-May-2013"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "11-Feb-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Mar-2013",
+                            "Technicalclearancesign-off": "06-May-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709130101",
+            "contract_html_data": {
+                "Id": "070709130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/13/01-01( 2 )",
+                        "TechnicalSupervisor": "Som Bophal",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Monorum Company, [ Chib Kanitha ]",
+                        "Competitivebidding": "Yes ( 29-May-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "10-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jun-2013",
+                        "Plannedworkcompletiondate": "08-Dec-2013",
+                        "CreatedBy": "Sun Kaksan",
+                        "Mobile": "017 818 130",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "63,260,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChibKanitha",
+                        "Contractor": "MonorumCompany",
+                        "BidValue": "63,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KumChhay",
+                        "Contractor": "SamnoangKumCheyCompany",
+                        "BidValue": "64,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KemRatana",
+                        "Contractor": "KimRatanaCompany",
+                        "BidValue": "63,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "64,260,000",
+                        "Village": "Bat Kbal Damrei",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 3,854.000 Volume of earth (m3)",
+                        "Bid": "1.035 km",
+                        "InContract": "1.035 km",
+                        "Actualquantity": "1.035 km",
+                        "UnitCost/Estimated": "60,869,565est. 62,690,342",
+                        "DiscountRate": "-3 %",
+                        "Total": "63,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jun-2013",
+                        "Actualworkcompletiondate": "08-Nov-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Nov-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Sun Kaksan",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "64,260,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road Markprang commune 2014",
+            "project_link": "/pid/project/home/view.castle?pid=9314dc09-03b1-4266-a63e-a3c500f7e43c",
+            "project_html_data": {
+                "Pid": "9314dc09-03b1-4266-a63e-a3c500f7e43c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sok Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road Markprang commune 2014",
+                        "Objective": "",
+                        "Relatedcontract(s)": "070709/14/01-01 ",
+                        "CreatedBy": "Sok Vibol",
+                        "Mobile": "012 888 158"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "64,340,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "11,575,703",
+                        "Other": "0",
+                        "Total": "76,415,703"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MoatPeam",
+                        "BeneficiaryTotal": "1,496",
+                        "BeneficiaryWomen": "768",
+                        "Households": "308"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Moat Peam",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 7,891.000 Volume of earth (m3)",
+                        "Qty": "1.600 km",
+                        "UnitCost": "32,369,143",
+                        "Total": "51,790,629"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "24-Jun-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "02-Jul-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "24-Feb-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-Jun-2014",
+                            "Technicalclearancesign-off": "15-Jul-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709140101",
+            "contract_html_data": {
+                "Id": "070709140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/14/01-01( 1 )",
+                        "TechnicalSupervisor": "Sok Vibol",
+                        "Project'sName": "Earth Road Markprang commune 2014",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Monorum Company, [ Chib Kanitha ]",
+                        "Competitivebidding": "Yes ( 18-Aug-2014 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "29-Aug-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jan-2015",
+                        "Plannedworkcompletiondate": "31-Mar-2015",
+                        "CreatedBy": "Sok Vibol",
+                        "Mobile": "012 888 158",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "45,700,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BunSophatpheakdey",
+                        "Contractor": "SophatphakdeyCompany",
+                        "BidValue": "55,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChibKanitha",
+                        "Contractor": "MonorumCompany",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UnEt",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "55,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SoySovath",
+                        "Contractor": "SoaySothearyAkphivatCompany",
+                        "BidValue": "54,700,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "44,200,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "46,200,000",
+                        "Village": "Moat Peam",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 0.600 Diameter (mm)Dimension #2 : 6.000 Length(m)",
+                        "Bid": "2.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": "2.000 Place",
+                        "UnitCost/Estimated": "2,500,000est. 2,818,349",
+                        "DiscountRate": "-11 %",
+                        "Total": "5,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Sep-2014",
+                        "Actualworkcompletiondate": "30-Sep-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "31-Mar-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Vibol",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "10-Apr-2015",
+                        "Source": "CSF",
+                        "Description": "firstpayment",
+                        "Gross": "36460000R",
+                        "Net": "33145455R",
+                        "Tax": "3314545R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "10-Apr-2015",
+                        "Source": "LC",
+                        "Description": "firstpayment",
+                        "Gross": "500000R",
+                        "Net": "454545R",
+                        "Tax": "45455R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "36,960,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "33,600,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "3,360,000R",
+                        "ContractValue(B)Gross": "46,200,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road Motpeam Village",
+            "project_link": "/pid/project/home/view.castle?pid=7c6c1e2f-08cc-4080-8b28-a5970094d49b",
+            "project_html_data": {
+                "Pid": "7c6c1e2f-08cc-4080-8b28-a5970094d49b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sok Vibol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road Motpeam Village",
+                        "Objective": "",
+                        "Relatedcontract(s)": "070709/15/01-01 ",
+                        "CreatedBy": "Sok Vibol",
+                        "Mobile": "012 888 158"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "52,530,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "18,365,000",
+                        "Other": "0",
+                        "Total": "71,395,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MoatPeam",
+                        "BeneficiaryTotal": "1,555",
+                        "BeneficiaryWomen": "798",
+                        "Households": "320"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Moat Peam",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 3,561.000 Volume of earth (m3)",
+                        "Qty": "0.750 km",
+                        "UnitCost": "49,555,431",
+                        "Total": "37,166,573"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.New road project",
+                            "ApprovebyNCDDon": "20-Sep-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "30-Sep-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "13-Jul-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Sep-2015",
+                            "Technicalclearancesign-off": "11-Nov-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709150101",
+            "contract_html_data": {
+                "Id": "070709150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/15/01-01( 1 )",
+                        "TechnicalSupervisor": "Sok Vibol",
+                        "Project'sName": "Earth Road Motpeam Village",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Teav Songhok Company, [ Teav Seanghok ]",
+                        "Competitivebidding": "Yes ( 30-Nov-2015 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "14-Dec-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "16-Dec-2015",
+                        "Plannedworkcompletiondate": "18-Jan-2016",
+                        "CreatedBy": "Sok Vibol",
+                        "Mobile": "012 888 158",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "49,995,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TeavSeanghok",
+                        "Contractor": "TeavSonghokCompany",
+                        "BidValue": "41,765,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BunSophatpheakdey",
+                        "Contractor": "SophatphakdeyCompany",
+                        "BidValue": "63,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UnEt",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SoySovath",
+                        "Contractor": "SoaySothearyAkphivatCompany",
+                        "BidValue": "62,815,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,495,500",
+                        "Village": "Moat Peam",
+                        "Description": "[ 1010101 ] Earth road NewDimension #1 : 4.000 Width (m)Dimension #2 : 3,561.000 Volume of earth (m3)",
+                        "Bid": "0.750 km",
+                        "InContract": "0.750 km",
+                        "Actualquantity": "0.750 km",
+                        "UnitCost/Estimated": "34,500,000est. 49,555,431",
+                        "DiscountRate": "-30 %",
+                        "Total": "25,875,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Dec-2015",
+                        "Actualworkcompletiondate": "18-Jan-2016",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Jan-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "Sok Vibol",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "50,495,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=c9b26580-3f34-4ec3-90e8-a78f01003fff",
+            "project_html_data": {
+                "Pid": "c9b26580-3f34-4ec3-90e8-a78f01003fff",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Bophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "070709/16/01-01 ",
+                        "CreatedBy": "Som Bophal",
+                        "Mobile": "097 644 7648"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "66,500,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "66,500,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "MoatPeam",
+                        "BeneficiaryTotal": "1,522",
+                        "BeneficiaryWomen": "778",
+                        "Households": "305"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Moat Peam",
+                        "Description": "Earth road New [ 1010101 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 6,635.000 Volume of earth (m3)",
+                        "Qty": "1.370 km",
+                        "UnitCost": "39,538,766",
+                        "Total": "54,168,109"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.New road project",
+                            "ApprovebyNCDDon": "14-Sep-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "16-Sep-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "18-Jul-2016",
+                            "Technicalclearancesign-off": "20-Sep-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709160101",
+            "contract_html_data": {
+                "Id": "070709160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/16/01-01",
+                        "TechnicalSupervisor": "Som Bophal",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Samnang, [ Sin Savy ]",
+                        "Competitivebidding": "Yes ( 18-Nov-2016 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "08-Dec-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "23-Jan-2017",
+                        "Plannedworkcompletiondate": "28-Feb-2017",
+                        "CreatedBy": "Som Bophal",
+                        "Mobile": "097 644 7648",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "52,012,978"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BunSina",
+                        "Contractor": "AkphivatSinthornCompany",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengChanmonyrath",
+                        "Contractor": "SamnoangSengRy",
+                        "BidValue": "27,000,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UnEt",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "23,000,000R",
+                        "DiscountRate": "-61%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SinSavy",
+                        "Contractor": "Samnang",
+                        "BidValue": "19,000,000R",
+                        "DiscountRate": "-68%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "27,700,000R",
+                        "DiscountRate": "-54%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "52,012,976",
+                        "Village": "Moat Peam",
+                        "Description": "[ 1010101 ] Earth road NewDimension #1 : 4.500 Width (m)Dimension #2 : 6,635.000 Volume of earth (m3)",
+                        "Bid": "1.370 km",
+                        "InContract": "3.410 km",
+                        "Actualquantity": "3.410 km",
+                        "UnitCost/Estimated": "13,864,963est. 39,538,766",
+                        "DiscountRate": "-65 %",
+                        "Total": "47,279,524"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "52,012,978R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=4a8c34a9-4a65-45e6-9188-a9fd00ebfab4",
+            "project_html_data": {
+                "Pid": "4a8c34a9-4a65-45e6-9188-a9fd00ebfab4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Bophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "070709/17/01-01 ",
+                        "CreatedBy": "Som Bophal",
+                        "Mobile": "097 644 7648"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "72,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "72,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SnamPrampir",
+                        "BeneficiaryTotal": "1,522",
+                        "BeneficiaryWomen": "778",
+                        "Households": "305"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Snam Prampir",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,161.000 Volume of earth (m3)",
+                        "Qty": "1.270 km",
+                        "UnitCost": "40,301,529",
+                        "Total": "51,182,942"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "24-Aug-2017 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "30-Aug-2017"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "16-May-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "18-May-2017",
+                            "Technicalclearancesign-off": "12-Sep-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709170101",
+            "contract_html_data": {
+                "Id": "070709170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/17/01-01",
+                        "TechnicalSupervisor": "Som Bophal",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Hy Tieng, [ Mrs. Hy Tieng ]",
+                        "Competitivebidding": "Yes ( 29-Sep-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "20-Oct-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Nov-2017",
+                        "Plannedworkcompletiondate": "04-Dec-2017",
+                        "CreatedBy": "Som Bophal",
+                        "Mobile": "097 644 7648",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "71,910,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TengsokHuor",
+                        "Contractor": "TengsokHuor",
+                        "BidValue": "19,000,000R",
+                        "DiscountRate": "-63%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "UnEt",
+                        "Contractor": "PrachLyCompany",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SanVithea",
+                        "Contractor": "LongVitu",
+                        "BidValue": "15,600,000R",
+                        "DiscountRate": "-70%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "Mrs.HyTieng",
+                        "Contractor": "HyTieng",
+                        "BidValue": "12,800,000R",
+                        "DiscountRate": "-75%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "71,910,000",
+                        "Village": "Snam Prampir",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 2,161.000 Volume of earth (m3)",
+                        "Bid": "1.270 km",
+                        "InContract": "7.050 km",
+                        "Actualquantity": "7.050 km",
+                        "UnitCost/Estimated": "10,000,000est. 40,301,529",
+                        "DiscountRate": "-75 %",
+                        "Total": "70,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Nov-2017",
+                        "Actualworkcompletiondate": "04-Dec-2017",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "04-Dec-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Som Bophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "71,910,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=a3d37a63-7b16-400d-a2a0-ab5c0061af17",
+            "project_html_data": {
+                "Pid": "a3d37a63-7b16-400d-a2a0-ab5c0061af17",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Bophal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "070709/18/01-01 ",
+                        "CreatedBy": "Som Bophal",
+                        "Mobile": "097 644 7648"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "76,571,767",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "76,871,767"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SnamPrampir",
+                        "BeneficiaryTotal": "3,302",
+                        "BeneficiaryWomen": "1,630",
+                        "Households": "660"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Snam Prampir",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.160 km",
+                        "UnitCost": "480,448,543",
+                        "Total": "76,871,767"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "20-Nov-2018 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "27-Nov-2018"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "10-Jul-2018"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-Oct-2018",
+                            "Technicalclearancesign-off": "30-Nov-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "070709/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=070709180101",
+            "contract_html_data": {
+                "Id": "070709180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 70709 ] Kampot \\ Tuek Chhou \\ Makprang",
+                        "Contract": "070709/18/01-01( 1 )",
+                        "TechnicalSupervisor": "Som Bophal",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sophatphakdey Company, [ Bun Sophatpheakdey ]",
+                        "Competitivebidding": "Yes ( 14-Dec-2018 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "25-Dec-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jan-2019",
+                        "Plannedworkcompletiondate": "30-Dec-2019",
+                        "CreatedBy": "Som Bophal",
+                        "Mobile": "097 644 7648",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "78,900,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "BunSophatpheakdey",
+                        "Contractor": "SophatphakdeyCompany",
+                        "BidValue": "72,000,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengChanmonyrath",
+                        "Contractor": "SamnoangSengRy",
+                        "BidValue": "72,500,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "73,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "79,200,000",
+                        "Village": "Snam Prampir",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.160 km",
+                        "InContract": "0.160 km",
+                        "Actualquantity": "0.160 km",
+                        "UnitCost/Estimated": "450,000,000est. 480,448,543",
+                        "DiscountRate": "-6 %",
+                        "Total": "72,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "09-Jan-2019",
+                        "Actualworkcompletiondate": "31-Dec-2019",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Dec-2019",
+                            "Progress": "100 %",
+                            "ReportBy": "Som Bophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "79,200,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

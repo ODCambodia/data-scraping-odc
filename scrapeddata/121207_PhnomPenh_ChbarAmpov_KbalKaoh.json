@@ -1,0 +1,2359 @@
+{
+    "location": {
+        "province": "Phnom Penh",
+        "district": "Chbar Ampov",
+        "commune": "Kbal Kaoh"
+    },
+    "projects": [
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=a38cddeb-5d83-4297-8ea0-9c81009ba2c2",
+            "project_html_data": {
+                "Pid": "a38cddeb-5d83-4297-8ea0-9c81009ba2c2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "ETH SOTHEARY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080205/09/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "118,288,950",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "118,788,950"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil",
+                        "BeneficiaryTotal": "8,123",
+                        "BeneficiaryWomen": "4,276",
+                        "Households": "1,624"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Ampil",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 457.000 Volume of earth (m3)",
+                        "Qty": "0.521 km",
+                        "UnitCost": "56,517,839",
+                        "Total": "29,445,794"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road and no expansion",
+                            "Approvaldate": "14-Jan-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "14-Jan-2009",
+                            "Technicalclearancesign-off": "25-Mar-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080205/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080205090101",
+            "contract_html_data": {
+                "Id": "080205090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "080205/09/01-01",
+                        "TechnicalSupervisor": "ETH SOTHEARY",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Kim Sakhey Pheap, [ Kim Sakhey Pheap ]",
+                        "Competitivebidding": "Yes ( 21-May-2009 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "03-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "22-Jun-2009",
+                        "Plannedworkcompletiondate": "24-Aug-2009",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "31-Dec-2009",
+                        "Closeddateon": "30-Jan-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "112,409,090"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PechAy",
+                        "Contractor": "PechAy",
+                        "BidValue": "105,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LimOu",
+                        "Contractor": "LimOu",
+                        "BidValue": "105,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MeasSovanny",
+                        "Contractor": "N.R.Construction",
+                        "BidValue": "103,875,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Fourthlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KimSakheyPheap",
+                        "Contractor": "KimSakheyPheap",
+                        "BidValue": "103,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LongNam",
+                        "Contractor": "LongNam",
+                        "BidValue": "103,687,500R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SreyO",
+                        "Contractor": "SreyO",
+                        "BidValue": "103,679,250R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "112,909,091",
+                        "Village": "Chrouy Ampil",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 457.000 Volume of earth (m3)",
+                        "Bid": "0.521 km",
+                        "InContract": "0.521 km",
+                        "Actualquantity": "0.521 km",
+                        "UnitCost/Estimated": "55,200,000est. 56,517,839",
+                        "DiscountRate": "-2 %",
+                        "Total": "28,759,200"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "22-Jun-2009",
+                        "Actualworkcompletiondate": "30-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "45163636R",
+                        "Net": "41057851R",
+                        "Tax": "4105785R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "25-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "44663636R",
+                        "Net": "40603306R",
+                        "Tax": "4060330R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "25-Aug-2009",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentat2ndstep(100%)",
+                        "Gross": "500000R",
+                        "Net": "454546R",
+                        "Tax": "45454R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "16-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "22581818R",
+                        "Net": "21384297R",
+                        "Tax": "1197521R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "112,909,090R",
+                        "ActualPaymentCumulativeToDate(A)Net": "103,500,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "9,409,090R",
+                        "ContractValue(B)Gross": "112,909,090R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=99d71f4f-4ac8-47d4-928b-9e4500bdd60b",
+            "project_html_data": {
+                "Pid": "99d71f4f-4ac8-47d4-928b-9e4500bdd60b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Bun Nareth",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "At the end of the year 2010 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080205/10/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "95,472,860",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "95,472,860"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil",
+                        "BeneficiaryTotal": "6,798",
+                        "BeneficiaryWomen": "3,401",
+                        "Households": "1,465"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Ampil",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 43.500 Volume of earth (m3)",
+                        "Qty": "0.950 km",
+                        "UnitCost": "47,661,901",
+                        "Total": "45,278,806"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road",
+                            "Approvaldate": "11-Feb-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Oct-2010",
+                            "Technicalclearancesign-off": "15-Nov-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080205/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080205100101",
+            "contract_html_data": {
+                "Id": "080205100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "080205/10/01-01",
+                        "TechnicalSupervisor": "Bun Nareth",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "KSP, [ Kim Sakhy Pheap ]",
+                        "Competitivebidding": "Yes ( 02-Dec-2010 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "15-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Dec-2010",
+                        "Plannedworkcompletiondate": "03-Feb-2011",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "61,492,214"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "phayBunthoeun",
+                        "Contractor": "RikChamroeun",
+                        "BidValue": "72,277,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SokLy",
+                        "Contractor": "SokLy",
+                        "BidValue": "60,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MenThan",
+                        "Contractor": "MenThan",
+                        "BidValue": "72,459,680R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MeasSovanny",
+                        "Contractor": "N.R.Construction",
+                        "BidValue": "71,918,200R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalenterprise",
+                        "BidValue": "68,841,600R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "NamKim",
+                        "Contractor": "NamKim",
+                        "BidValue": "69,752,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HongChanny",
+                        "Contractor": "SangsongSamnangKropPraphet",
+                        "BidValue": "70,524,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KeoHeang",
+                        "Contractor": "KeoPechBopea",
+                        "BidValue": "48,540,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": "RejectingBiddingResult"
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "MaoMuoyna",
+                        "Contractor": "MaoMuoyna",
+                        "BidValue": "68,000,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "SokSokhom",
+                        "Contractor": "SokSambath",
+                        "BidValue": "52,330,306R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": "RejectingBiddingResult"
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "KimSakhyPheap",
+                        "Contractor": "KSP",
+                        "BidValue": "56,356,558R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "61,992,214",
+                        "Village": "Yok Bat",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 37.500 Volume of earth (m3)",
+                        "Bid": "0.360 km",
+                        "InContract": "0.360 km",
+                        "Actualquantity": "0.360 km",
+                        "UnitCost/Estimated": "34,831,000est. 49,635,522",
+                        "DiscountRate": "-30 %",
+                        "Total": "12,539,160"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "23-Dec-2010",
+                        "Actualworkcompletiondate": "17-Feb-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Jan-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Feb-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "61,992,214R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=593d768d-e6d8-4dd3-bfd8-9f2f0093f2e2",
+            "project_html_data": {
+                "Pid": "593d768d-e6d8-4dd3-bfd8-9f2f0093f2e2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Kim Chhlat",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "The people have a good for traveling",
+                        "Relatedcontract(s)": "120609/11/01-01 ",
+                        "CreatedBy": "Sambath Rattana",
+                        "Mobile": "NA"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "109,636,502",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "109,636,502"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil",
+                        "BeneficiaryTotal": "6,808",
+                        "BeneficiaryWomen": "3,401",
+                        "Households": "1,465"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Thum",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 144.680 Volume of earth (m3)",
+                        "Qty": "0.360 km",
+                        "UnitCost": "49,787,752",
+                        "Total": "17,923,591"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The construction is on the existing road and There is not extending"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "17-Mar-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Mar-2011",
+                            "Technicalclearancesign-off": "31-May-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120609/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120609110101",
+            "contract_html_data": {
+                "Id": "120609110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "120609/11/01-01",
+                        "TechnicalSupervisor": "Kim Chhlat",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "(​ PLL ), [  ]",
+                        "Competitivebidding": "Yes ( 16-Jun-2011 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "16-Jun-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "14-Jul-2011",
+                        "Plannedworkcompletiondate": "14-Oct-2011",
+                        "CreatedBy": "Sambath Rattana",
+                        "Mobile": "NA",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "81,275,750"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.LyKakada",
+                        "Contractor": "SokBouy",
+                        "BidValue": "67,093,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SamSivon",
+                        "Contractor": "SamSivonConstruction",
+                        "BidValue": "74,898,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "79,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ThabEang",
+                        "Contractor": "SongEangConstraction",
+                        "BidValue": "81,450,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "57,752,500R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "AsiaChamreunphal(A.C.P)",
+                        "BidValue": "61,500,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "PSDNCommerce",
+                        "BidValue": "69,700,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SokSarourn",
+                        "Contractor": "MeasPanglin",
+                        "BidValue": "74,589,585R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "82,275,750",
+                        "Village": "Chrouy Ampil",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 225.000 Volume of earth (m3)",
+                        "Bid": "0.300 km",
+                        "InContract": "0.300 km",
+                        "Actualquantity": "0.300 km",
+                        "UnitCost/Estimated": "37,500,000est. 50,019,844",
+                        "DiscountRate": "-25 %",
+                        "Total": "11,250,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "14-Jul-2011",
+                        "Actualworkcompletiondate": "15-Sep-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Aug-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Sambath Rattana",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Sep-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Sambath Rattana",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "09-Sep-2011",
+                        "Source": "CSF",
+                        "Description": "1stpayment40%",
+                        "Gross": "32510300R",
+                        "Net": "31554115R",
+                        "Tax": "956185R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Sep-2011",
+                        "Source": "LC",
+                        "Description": "1stpayment40%",
+                        "Gross": "400000R",
+                        "Net": "388235R",
+                        "Tax": "11765R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Nov-2011",
+                        "Source": "CSF",
+                        "Description": "2ndpayment40%",
+                        "Gross": "32510300R",
+                        "Net": "31554115R",
+                        "Tax": "956185R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Nov-2011",
+                        "Source": "LC",
+                        "Description": "2ndpayment40%",
+                        "Gross": "400000R",
+                        "Net": "388235R",
+                        "Tax": "11765R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-May-2011",
+                        "Source": "CSF",
+                        "Description": "3payment20%",
+                        "Gross": "16255150R",
+                        "Net": "15777057R",
+                        "Tax": "478093R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-May-2012",
+                        "Source": "LC",
+                        "Description": "3payment20%",
+                        "Gross": "200000R",
+                        "Net": "194118R",
+                        "Tax": "5882R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "82,275,750R",
+                        "ActualPaymentCumulativeToDate(A)Net": "79,855,875R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,419,875R",
+                        "ContractValue(B)Gross": "82,275,750R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mass concrete road construction",
+            "project_link": "/pid/project/home/view.castle?pid=4c4bdef2-7aed-46a0-9dae-a04b010b9682",
+            "project_html_data": {
+                "Pid": "4c4bdef2-7aed-46a0-9dae-a04b010b9682",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Chan Bunna",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mass concrete road construction",
+                        "Objective": "The people have a good for traveling and transportation",
+                        "Relatedcontract(s)": "120609/12/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "106,958,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "106,958,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil",
+                        "BeneficiaryTotal": "991",
+                        "BeneficiaryWomen": "617",
+                        "Households": "214"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Ampil",
+                        "Description": "Mass concrete road New [ 1010202 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.092 km",
+                        "UnitCost": "258,225,000",
+                        "Total": "23,756,700"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The construction is on the existing location",
+                            "Approvaldate": "17-Mar-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The zone there is no highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Mar-2012",
+                            "Technicalclearancesign-off": "03-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120609/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120609120101",
+            "contract_html_data": {
+                "Id": "120609120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "120609/12/01-01",
+                        "TechnicalSupervisor": "Chan Bunna",
+                        "Project'sName": "Mass concrete road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "MANYMIX, [  ]",
+                        "Competitivebidding": "Yes ( 19-Apr-2012 )",
+                        "Numberofcontractor": "16",
+                        "Contractsigndate(Form50)": "10-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-May-2012",
+                        "Plannedworkcompletiondate": "22-Oct-2012",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "95,708,560"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "10,695,800"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "GnivBunhoeun",
+                        "Contractor": "Diamangconstraction",
+                        "BidValue": "79,368,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySotha",
+                        "Contractor": "C.R.D",
+                        "BidValue": "69,145,700R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "71,192,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "96,145,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KinKinann",
+                        "Contractor": "KinKinann",
+                        "BidValue": "84,236,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SoNayuth",
+                        "Contractor": "PhengPhengConstruction",
+                        "BidValue": "98,844,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SOURNROTANAKPHY",
+                        "Contractor": "SOURNROTANAKPHY",
+                        "BidValue": "74,000,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "91,500,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "",
+                        "Contractor": "MANYMIX",
+                        "BidValue": "68,438,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "",
+                        "Contractor": "SokChoung",
+                        "BidValue": "81,020,000R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "SokSarourn",
+                        "Contractor": "MeasPanglin",
+                        "BidValue": "90,170,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "ThabEng",
+                        "Contractor": "Thabeing",
+                        "BidValue": "95,236,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslate",
+                        "BidValue": "96,184,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslate",
+                        "BidValue": "93,800,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "15",
+                        "Director'sName": "ChemPisal",
+                        "Contractor": "RSGr.Development",
+                        "BidValue": "87,572,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "106,404,360",
+                        "Village": "Chrouy Ampil",
+                        "Description": "[ 1010202 ] Mass concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.092 km",
+                        "InContract": "0.230 km",
+                        "Actualquantity": "0.230 km",
+                        "UnitCost/Estimated": "260,000,000est. 258,225,000",
+                        "DiscountRate": "1 %",
+                        "Total": "59,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "19-May-2012",
+                        "Actualworkcompletiondate": "15-Jun-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "01-Jun-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Jun-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "106,404,360R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "mass conctrete road construction",
+            "project_link": "/pid/project/home/view.castle?pid=24354034-7d67-44fe-826a-a1fe00a9224d",
+            "project_html_data": {
+                "Pid": "24354034-7d67-44fe-826a-a1fe00a9224d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Chan bunna",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "mass conctrete road construction",
+                        "Objective": "The people have a good road for traveling and transportation",
+                        "Relatedcontract(s)": "120609/13/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "115,291,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "115,291,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "YokBat",
+                        "BeneficiaryTotal": "1,256",
+                        "BeneficiaryWomen": "658",
+                        "Households": "236"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Yok Bat",
+                        "Description": "Mass concrete road Repair [ 1010202 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.397 km",
+                        "UnitCost": "289,672,544",
+                        "Total": "115,000,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project locate in the existing road and is not in watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project construct on the exiting road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There is no highland people living there."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Apr-2013",
+                            "Technicalclearancesign-off": "16-May-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120609/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120609130101",
+            "contract_html_data": {
+                "Id": "120609130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "120609/13/01-01",
+                        "TechnicalSupervisor": "Chan bunna",
+                        "Project'sName": "mass conctrete road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "MANYMIX, [  ]",
+                        "Competitivebidding": "Yes ( 31-May-2013 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "11-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "24-Jun-2013",
+                        "Plannedworkcompletiondate": "24-Sep-2013",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "109,291,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "56,401,670"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HimSovannary",
+                        "Contractor": "HimSovannaryConstruction",
+                        "BidValue": "98,700,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "93,692,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "MANYMIX",
+                        "BidValue": "91,999,986R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslate",
+                        "BidValue": "92,100,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "165,692,670",
+                        "Village": "Yok Bat",
+                        "Description": "[ 1010202 ] Mass concrete road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.397 km",
+                        "InContract": "0.650 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "231,738,000est. 289,672,544",
+                        "DiscountRate": "-20 %",
+                        "Total": "150,629,700"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "24-Jun-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Jul-2013",
+                            "Progress": "40 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "165,692,670R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mass Concrete road construction",
+            "project_link": "/pid/project/home/view.castle?pid=0988164d-cb1b-4dbe-8bc4-a3e700b6a6b8",
+            "project_html_data": {
+                "Pid": "0988164d-cb1b-4dbe-8bc4-a3e700b6a6b8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Chan bunna",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mass Concrete road construction",
+                        "Objective": "There is no flood in the village during the heavy rain",
+                        "Relatedcontract(s)": "120609/14/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "368,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "368,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil",
+                        "BeneficiaryTotal": "991",
+                        "BeneficiaryWomen": "617",
+                        "Households": "214"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Ampil",
+                        "Description": "Mass concrete road New [ 1010202 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.235 km",
+                        "UnitCost": "329,664,383",
+                        "Total": "77,471,130"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project is in existing road location"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not in the highland people group area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Apr-2014",
+                            "Technicalclearancesign-off": "08-May-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120609/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120609140101",
+            "contract_html_data": {
+                "Id": "120609140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "120609/14/01-01",
+                        "TechnicalSupervisor": "Ros Thyrong",
+                        "Project'sName": "Mass Concrete road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Phat Sophal Construction Enterprise, [ Phat Sophal ]",
+                        "Competitivebidding": "Yes ( 05-Jun-2014 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "18-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Aug-2014",
+                        "Plannedworkcompletiondate": "10-Dec-2014",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "86,999,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "",
+                        "Contractor": "MANYMIX",
+                        "BidValue": "72,740,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "OuHeang",
+                        "Contractor": "H.R.T.E.C",
+                        "BidValue": "73,975,800R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "63,750,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SunDany",
+                        "Contractor": "DANY",
+                        "BidValue": "76,220,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LinSokunthea",
+                        "Contractor": "LinSokuntheaCo.Ltd",
+                        "BidValue": "66,820,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SamSyvon",
+                        "Contractor": "SamSyvon",
+                        "BidValue": "92,017,600R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "87,499,500",
+                        "Village": "Chrouy Ampil",
+                        "Description": "[ 1010202 ] Mass concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.235 km",
+                        "InContract": "0.265 km",
+                        "Actualquantity": "0.265 km",
+                        "UnitCost/Estimated": "210,000,000est. 329,664,383",
+                        "DiscountRate": "-36 %",
+                        "Total": "55,545,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "19-Aug-2014",
+                        "Actualworkcompletiondate": "07-Oct-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "02-Oct-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "07-Oct-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "87,499,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mass concrete road construction",
+            "project_link": "/pid/project/home/view.castle?pid=2833a5a0-3120-4236-9b56-a50700b9da1c",
+            "project_html_data": {
+                "Pid": "2833a5a0-3120-4236-9b56-a50700b9da1c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Ros Thyrong",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mass concrete road construction",
+                        "Objective": "The community has a good road for traveling and transportation",
+                        "Relatedcontract(s)": "121207/15/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "117,529,900",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "117,529,900"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekThum",
+                        "BeneficiaryTotal": "2,363",
+                        "BeneficiaryWomen": "1,177",
+                        "Households": "483"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Thum",
+                        "Description": "Mass concrete road Repair [ 1010202 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.243 km",
+                        "UnitCost": "369,822,016",
+                        "Total": "89,866,750"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project is on the existing road location"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not in the highland people group area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Feb-2015",
+                            "Technicalclearancesign-off": "20-Aug-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "121207/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=121207150101",
+            "contract_html_data": {
+                "Id": "121207150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "121207/15/01-01",
+                        "TechnicalSupervisor": "Ros Thyrong",
+                        "Project'sName": "Mass concrete road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Phat Sophal Construction Enterprise, [ Phat Sophal ]",
+                        "Competitivebidding": "Yes ( 04-Sep-2015 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "25-Sep-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Nov-2015",
+                        "Plannedworkcompletiondate": "24-Dec-2015",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "92,862,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "67,311,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PechAy",
+                        "Contractor": "PechAy",
+                        "BidValue": "64,395,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HanSopheap",
+                        "Contractor": "7JD",
+                        "BidValue": "72,414,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "51,030,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LinSokunthea",
+                        "Contractor": "LinSokuntheaCo.Ltd",
+                        "BidValue": "71,733,600R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KaoLienghai",
+                        "Contractor": "HaiManimex",
+                        "BidValue": "53,800,200R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "92,862,000",
+                        "Village": "Preaek Thum",
+                        "Description": "[ 1010202 ] Mass concrete road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.243 km",
+                        "InContract": "0.402 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "210,000,000est. 369,822,016",
+                        "DiscountRate": "-43 %",
+                        "Total": "84,420,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "92,862,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=acd2b845-d0d4-41cc-a1e5-a69b0103e9af",
+            "project_html_data": {
+                "Pid": "acd2b845-d0d4-41cc-a1e5-a69b0103e9af",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Ros Thyrong",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "concrete road",
+                        "Objective": "Easy to transport in and out of the village",
+                        "Relatedcontract(s)": "121207/16/01-01 ",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "110,270,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "110,270,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekThum",
+                        "BeneficiaryTotal": "455",
+                        "BeneficiaryWomen": "267",
+                        "Households": "114"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Ampil 2",
+                        "Description": "Mass concrete road Repair [ 1010202 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.240 km",
+                        "UnitCost": "304,972,900",
+                        "Total": "73,193,496"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "yes"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "yes"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "yes"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "07-Apr-2016",
+                            "Technicalclearancesign-off": "15-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "121207/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=121207160101",
+            "contract_html_data": {
+                "Id": "121207160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "121207/16/01-01",
+                        "TechnicalSupervisor": "Ros Thyrong",
+                        "Project'sName": "concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Lin Sokunthea Co. Ltd, [ Lin Sokunthea ]",
+                        "Competitivebidding": "Yes ( 04-Jul-2016 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "02-Aug-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Sep-2016",
+                        "Plannedworkcompletiondate": "15-Oct-2016",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "110,404,800"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "49,074,480R",
+                        "DiscountRate": "-54%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HunChanbibol",
+                        "Contractor": "PhalmorakatCompany",
+                        "BidValue": "52,000,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HanSopheap",
+                        "Contractor": "7JD",
+                        "BidValue": "53,960,000R",
+                        "DiscountRate": "-49%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "51,380,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LinSokunthea",
+                        "Contractor": "LinSokuntheaCo.Ltd",
+                        "BidValue": "45,756,000R",
+                        "DiscountRate": "-57%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SamSyvon",
+                        "Contractor": "SamSyvon",
+                        "BidValue": "58,000,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SenHeng",
+                        "Contractor": "VP",
+                        "BidValue": "59,920,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KaoLienghai",
+                        "Contractor": "HaiManimex",
+                        "BidValue": "62,880,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "UYSopheap",
+                        "Contractor": "UYSophaepConstruction",
+                        "BidValue": "56,000,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "110,404,800",
+                        "Village": "Chrouy Ampil 2",
+                        "Description": "[ 1010202 ] Mass concrete road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.240 km",
+                        "InContract": "0.240 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "49,200,000est. 304,972,900",
+                        "DiscountRate": "-84 %",
+                        "Total": "11,808,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "110,404,800R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=1c819e96-365e-47e9-bc02-aa9400af98f2",
+            "project_html_data": {
+                "Pid": "1c819e96-365e-47e9-bc02-aa9400af98f2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Som Nhav",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "121207/18/01-01 ",
+                        "CreatedBy": "Uon Sengly",
+                        "Mobile": "012 89 80 52"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "188,700,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "188,700,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil",
+                        "BeneficiaryTotal": "895",
+                        "BeneficiaryWomen": "432",
+                        "Households": "223"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Thum 1",
+                        "Description": "Mass concrete road New [ 1010202 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.437 km",
+                        "UnitCost": "352,706,857",
+                        "Total": "154,132,897"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-Jan-2018",
+                            "Technicalclearancesign-off": "04-Jul-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "121207/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=121207180101",
+            "contract_html_data": {
+                "Id": "121207180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "121207/18/01-01",
+                        "TechnicalSupervisor": "Som Nhav",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "ប៊ុនណាខនស្រ្ដាកសិន Co.Ltd, [ Chan Bunna ]",
+                        "Competitivebidding": "Yes ( 22-Aug-2018 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "28-Sep-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Oct-2018",
+                        "Plannedworkcompletiondate": "31-Dec-2018",
+                        "CreatedBy": "Uon Sengly",
+                        "Mobile": "012 89 80 52",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "235,872,300"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "121,476,600R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KaoLienghai",
+                        "Contractor": "HaiManimex",
+                        "BidValue": "183,286,496R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UYSopheap",
+                        "Contractor": "UYSophaepConstruction",
+                        "BidValue": "184,592,500R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChanBunna",
+                        "Contractor": "ប៊ុនណាខនស្រ្ដាកសិនCo.Ltd",
+                        "BidValue": "121,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "235,872,311",
+                        "Village": "Preaek Thum 1",
+                        "Description": "[ 1010202 ] Mass concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.437 km",
+                        "InContract": "0.916 km",
+                        "Actualquantity": "0.437 km",
+                        "UnitCost/Estimated": "239,816,933est. 352,706,857",
+                        "DiscountRate": "-32 %",
+                        "Total": "219,672,311"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "235,872,300R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=bb4bc426-7e3f-47b9-bcdf-abaa00f7968a",
+            "project_html_data": {
+                "Pid": "bb4bc426-7e3f-47b9-bcdf-abaa00f7968a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Nhav",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "121207/19/02-01 ",
+                        "CreatedBy": "Uon Sengly",
+                        "Mobile": "012 89 80 52"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "33,600,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "33,600,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil1",
+                        "BeneficiaryTotal": "763",
+                        "BeneficiaryWomen": "356",
+                        "Households": "190"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chrouy Ampil 1",
+                        "Description": "Mass concrete road New [ 1010202 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.094 km",
+                        "UnitCost": "275,441,671",
+                        "Total": "25,891,517"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Sep-2019",
+                            "Technicalclearancesign-off": "01-Nov-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "121207/19/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=121207190201",
+            "contract_html_data": {
+                "Id": "121207190201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Contract": "121207/19/02-01",
+                        "TechnicalSupervisor": "Som Nhav",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "RTT Construction Co.ltd, [ Sok Saroun ]",
+                        "Competitivebidding": "Yes ( 06-Dec-2019 )",
+                        "Numberofcontractor": "2",
+                        "Contractsigndate(Form50)": "17-Jan-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Jan-2020",
+                        "Plannedworkcompletiondate": "01-Mar-2020",
+                        "CreatedBy": "Uon Sengly",
+                        "Mobile": "012 89 80 52",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "49,855,800"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SokSaroun",
+                        "Contractor": "RTTConstructionCo.ltd",
+                        "BidValue": "24,955,800R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "25,010,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "49,855,800",
+                        "Village": "Chrouy Ampil 1",
+                        "Description": "[ 1010202 ] Mass concrete road NewDimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.094 km",
+                        "InContract": "0.194 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "249,000,000est. 275,441,671",
+                        "DiscountRate": "-10 %",
+                        "Total": "48,306,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "49,855,800R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=26f03346-d24e-4163-bf3a-abaa00fa5899",
+            "project_html_data": {
+                "Pid": "26f03346-d24e-4163-bf3a-abaa00fa5899",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 121207 ] Phnom Penh \\ Chbar Ampov \\ Kbal Kaoh",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Som Nhav",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "CreatedBy": "Uon Sengly",
+                        "Mobile": "012 89 80 52"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "271,465,883",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "271,465,883"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChrouyAmpil",
+                        "BeneficiaryTotal": "895",
+                        "BeneficiaryWomen": "432",
+                        "Households": "223"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Yok Bat",
+                        "Description": "Mass concrete road New [ 1010202 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.390 km",
+                        "UnitCost": "264,690,378",
+                        "Total": "103,229,247"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-May-2019",
+                            "Technicalclearancesign-off": "18-Jul-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        }
+    ]
+}

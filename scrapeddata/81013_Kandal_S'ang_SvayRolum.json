@@ -1,0 +1,2306 @@
+{
+    "location": {
+        "province": "Kandal",
+        "district": "S'ang",
+        "commune": "Svay Rolum"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=f47aef3d-4302-4118-a6b0-9c7d011b60e2",
+            "project_html_data": {
+                "Pid": "f47aef3d-4302-4118-a6b0-9c7d011b60e2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "OUK YUNRETH",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "At the end of the year 2009 people will have good road for traveling",
+                        "Relatedcontract(s)": "081013/09/01-01 ",
+                        "CreatedBy": "Chreay Chamroeun",
+                        "Mobile": "012 856 255"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "55,000,000",
+                        "LocalRevenue": "1,500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "56,500,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhBei",
+                        "BeneficiaryTotal": "1,708",
+                        "BeneficiaryWomen": "875",
+                        "Households": "339"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Pram",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,269.000 Volume of earth (m3)",
+                        "Qty": "1.300 km",
+                        "UnitCost": "28,020,000",
+                        "Total": "36,426,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "03-Mar-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Feb-2009",
+                            "Technicalclearancesign-off": "25-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013090101",
+            "contract_html_data": {
+                "Id": "081013090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/09/01-01",
+                        "TechnicalSupervisor": "OUK YUNRETH",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lao Yomeng, [ Lao Yomeng ]",
+                        "Competitivebidding": "Yes ( 19-May-2009 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "28-May-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jun-2009",
+                        "Plannedworkcompletiondate": "10-Aug-2009",
+                        "CreatedBy": "Chreay Chamroeun",
+                        "Mobile": "012 856 255",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "18-Jan-2010",
+                        "Closeddateon": "05-Apr-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "49,029,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LaoYomeng",
+                        "Contractor": "LaoYomeng",
+                        "BidValue": "49,057,800R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhinYoupheng",
+                        "Contractor": "ChhinYoupheng",
+                        "BidValue": "49,346,200R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TryDavann",
+                        "Contractor": "TryDavann",
+                        "BidValue": "49,202,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,529,534",
+                        "Village": "Lekh Pram",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 6,269.000 Volume of earth (m3)",
+                        "Bid": "1.300 km",
+                        "InContract": "1.300 km",
+                        "Actualquantity": "1.300 km",
+                        "UnitCost/Estimated": "30,900,000est. 28,020,000",
+                        "DiscountRate": "10 %",
+                        "Total": "40,170,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jun-2009",
+                        "Actualworkcompletiondate": "10-Aug-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "03-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "10-Aug-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "13-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "20211800R",
+                        "Net": "19605446R",
+                        "Tax": "606354R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "07-Sep-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstalmentpayment(accum.80%)",
+                        "Gross": "18711800R",
+                        "Net": "18150446R",
+                        "Tax": "561354R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "07-Sep-2009",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentat2ndstep(100%)",
+                        "Gross": "1500000R",
+                        "Net": "1455000R",
+                        "Tax": "45000R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "08-Apr-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "10105900R",
+                        "Net": "9846874R",
+                        "Tax": "259026R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "50,529,500R",
+                        "ActualPaymentCumulativeToDate(A)Net": "49,057,766R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,471,734R",
+                        "ContractValue(B)Gross": "50,529,500R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=99c9675d-6878-40ea-be40-9e8d00c3483f",
+            "project_html_data": {
+                "Pid": "99c9675d-6878-40ea-be40-9e8d00c3483f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "ETH SOTHEARY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "The community have a good road for transportation",
+                        "Relatedcontract(s)": "081013/11/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "75,376,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "75,376,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhBei",
+                        "BeneficiaryTotal": "1,925",
+                        "BeneficiaryWomen": "871",
+                        "Households": "465"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Bei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,541.020 Volume of earth (m3)",
+                        "Qty": "1.300 km",
+                        "UnitCost": "21,014,703",
+                        "Total": "27,319,114"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The road construct on the existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "20-Feb-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There is no highland people living here"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Dec-2010",
+                            "Technicalclearancesign-off": "17-Feb-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013110101",
+            "contract_html_data": {
+                "Id": "081013110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/11/01-01",
+                        "TechnicalSupervisor": "ETH SOTHEARY",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Try Ngol, [ Try Ngol ]",
+                        "Competitivebidding": "Yes ( 11-Mar-2011 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "21-Mar-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Apr-2011",
+                        "Plannedworkcompletiondate": "18-May-2011",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "26-Oct-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "24,796,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "30,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "24,800,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SouYat",
+                        "Contractor": "SouYat",
+                        "BidValue": "26,250,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TournKhannra",
+                        "Contractor": "RaVengAkphiwat",
+                        "BidValue": "37,999,500R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "35,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "25,296,000",
+                        "Village": "Lekh Bei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,541.020 Volume of earth (m3)",
+                        "Bid": "1.300 km",
+                        "InContract": "1.300 km",
+                        "Actualquantity": "1.300 km",
+                        "UnitCost/Estimated": "14,153,846est. 21,014,703",
+                        "DiscountRate": "-33 %",
+                        "Total": "18,400,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-May-2011",
+                        "Actualworkcompletiondate": "26-Apr-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-May-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Apr-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": "Base on the minute of PMC 's evaluation meeting\n"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-May-2011",
+                        "Source": "CSF",
+                        "Description": "1stPmt",
+                        "Gross": "10118400R",
+                        "Net": "9820800R",
+                        "Tax": "297600R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-May-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPmt",
+                        "Gross": "9618400R",
+                        "Net": "9335506R",
+                        "Tax": "282894R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-May-2012",
+                        "Source": "LC",
+                        "Description": "2ndPmt",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Nov-2012",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "5059200R",
+                        "Net": "4910400R",
+                        "Tax": "148800R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "25,296,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "24,552,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "744,000R",
+                        "ContractValue(B)Gross": "25,296,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Steel reinforcement concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=045ec997-4e8e-4138-9ed2-a03600995c5a",
+            "project_html_data": {
+                "Pid": "045ec997-4e8e-4138-9ed2-a03600995c5a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Steel reinforcement concrete road",
+                        "Objective": "the year 2012 people will have a road for use",
+                        "Relatedcontract(s)": "081013/12/03-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "44,208,496",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "44,208,496"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhPir",
+                        "BeneficiaryTotal": "2,810",
+                        "BeneficiaryWomen": "1,563",
+                        "Households": "622"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Pir",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.162 km",
+                        "UnitCost": "272,891,952",
+                        "Total": "44,208,496"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Feb-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not located  in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Mar-2012",
+                            "Technicalclearancesign-off": "26-Mar-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/12/03-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013120301",
+            "contract_html_data": {
+                "Id": "081013120301",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/12/03-01",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "Steel reinforcement concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "PREAB HUL, [ PREAB HUL ]",
+                        "Competitivebidding": "Yes ( 10-Apr-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "19-Apr-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Apr-2012",
+                        "Plannedworkcompletiondate": "19-May-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Dateofabandon": "26-Jun-2012",
+                        "": "Base on the minute of PMC 's evaluation meeting"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "51,538,888"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SokLy",
+                        "Contractor": "SokLy",
+                        "BidValue": "44,200,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PREABHUL",
+                        "Contractor": "PREABHUL",
+                        "BidValue": "43,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TryDavann",
+                        "Contractor": "TryDavann",
+                        "BidValue": "44,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "52,038,888",
+                        "Village": "Lekh Pir",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.162 km",
+                        "InContract": "0.190 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "268,518,516est. 272,891,952",
+                        "DiscountRate": "-2 %",
+                        "Total": "51,018,518"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "30-Apr-2012",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "52,038,888R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "​ Repair Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=9497b123-e5ba-4f2a-b2a9-a036009a71a0",
+            "project_html_data": {
+                "Pid": "9497b123-e5ba-4f2a-b2a9-a036009a71a0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "​ Repair Laterite Road",
+                        "Objective": "the year 2012 people will have a road for use",
+                        "Relatedcontract(s)": "081013/12/02-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "23,324,925",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "23,824,925"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhMuoy",
+                        "BeneficiaryTotal": "3,795",
+                        "BeneficiaryWomen": "1,933",
+                        "Households": "807"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Muoy",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 388.000 Volume of earth (m3)",
+                        "Qty": "0.611 km",
+                        "UnitCost": "38,175,000",
+                        "Total": "23,324,925"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not located  in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Mar-2012",
+                            "Technicalclearancesign-off": "26-Mar-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/12/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013120201",
+            "contract_html_data": {
+                "Id": "081013120201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/12/02-01",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "​ Repair Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": ", [  ]",
+                        "Contractsigndate(Form50)": "13-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jul-2012",
+                        "Plannedworkcompletiondate": "30-Jul-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "30-May-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "23,291,398"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "23,791,398",
+                        "Village": "Lekh Muoy",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 388.000 Volume of earth (m3)",
+                        "Bid": "0.611 km",
+                        "InContract": "0.611 km",
+                        "Actualquantity": "0.611 km",
+                        "UnitCost/Estimated": "38,174,959est. 38,175,000",
+                        "DiscountRate": "0 %",
+                        "Total": "23,324,900"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jul-2012",
+                        "Actualworkcompletiondate": "30-Oct-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Oct-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "9516559R",
+                        "Net": "9236660R",
+                        "Tax": "279899R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Nov-2012",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "9016559R",
+                        "Net": "8751366R",
+                        "Tax": "265193R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Nov-2012",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "4758280R",
+                        "Net": "4618331R",
+                        "Tax": "139949R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "23,791,398R",
+                        "ActualPaymentCumulativeToDate(A)Net": "23,091,651R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "699,747R",
+                        "ContractValue(B)Gross": "23,791,398R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Repair Earth Road​ and Single pipe culvert construction",
+            "project_link": "/pid/project/home/view.castle?pid=d8c9e30a-a276-4c55-a607-a0520093a283",
+            "project_html_data": {
+                "Pid": "d8c9e30a-a276-4c55-a607-a0520093a283",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Repair Earth Road​ and Single pipe culvert construction",
+                        "Objective": "the year 2012 people will have a road for use",
+                        "Relatedcontract(s)": "081013/12/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "69,985,044",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "69,985,044"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhBei",
+                        "BeneficiaryTotal": "1,925",
+                        "BeneficiaryWomen": "1,054",
+                        "Households": "465"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Bei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 904.000 Volume of earth (m3)",
+                        "Qty": "0.165 km",
+                        "UnitCost": "37,706,042",
+                        "Total": "6,221,497"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "10-May-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not located  in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Apr-2012",
+                            "Technicalclearancesign-off": "23-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013120101",
+            "contract_html_data": {
+                "Id": "081013120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/12/01-01( 1 )",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "Repair Earth Road​ and Single pipe culvert construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Try Davann, [ Try Davann ]",
+                        "Competitivebidding": "Yes ( 10-May-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "17-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2012",
+                        "Plannedworkcompletiondate": "27-Dec-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "26-Dec-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "70,594,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LySokim",
+                        "Contractor": "LySokim",
+                        "BidValue": "69,800,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.NavChou",
+                        "Contractor": "Diamond",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TryDavann",
+                        "Contractor": "TryDavann",
+                        "BidValue": "69,700,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "71,094,000",
+                        "Village": "Lekh Bei",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 904.000 Volume of earth (m3)",
+                        "Bid": "0.165 km",
+                        "InContract": "0.165 km",
+                        "Actualquantity": "0.165 km",
+                        "UnitCost/Estimated": "23,283,931est. 37,706,042",
+                        "DiscountRate": "-38 %",
+                        "Total": "3,841,849"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2012",
+                        "Actualworkcompletiondate": "18-Apr-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "03-Apr-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "18-Apr-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "24-Apr-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "28437600R",
+                        "Net": "27601200R",
+                        "Tax": "836400R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Apr-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "27937600R",
+                        "Net": "27115906R",
+                        "Tax": "821694R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "25-Apr-2013",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "21-Nov-2013",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "14218800R",
+                        "Net": "13800600R",
+                        "Tax": "418200R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "71,094,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "69,003,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,091,000R",
+                        "ContractValue(B)Gross": "71,094,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mass concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=62bfdb05-1466-4719-a892-a0520095bbac",
+            "project_html_data": {
+                "Pid": "62bfdb05-1466-4719-a892-a0520095bbac",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mass concrete road",
+                        "Objective": "the year 2012 people will have a road for use",
+                        "Relatedcontract(s)": "081013/12/04-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "45,941,982",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "46,441,982"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhMuoy",
+                        "BeneficiaryTotal": "4,525",
+                        "BeneficiaryWomen": "2,357",
+                        "Households": "927"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Muoy",
+                        "Description": "Crushed stone road Repair [ 1010105 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 2,218.250 Volume of earth (m3)",
+                        "Qty": "0.350 km",
+                        "UnitCost": "88,829,829",
+                        "Total": "31,090,440"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Feb-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not located  in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Apr-2012",
+                            "Technicalclearancesign-off": "13-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/12/04-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013120401",
+            "contract_html_data": {
+                "Id": "081013120401",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/12/04-01",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "Mass concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ra Veng Akphiwat, [ Tourn Khannra ]",
+                        "Competitivebidding": "Yes ( 27-Jun-2012 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "04-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Jul-2012",
+                        "Plannedworkcompletiondate": "15-Jul-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "08-Feb-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "60,208,629"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Mr.CheaHeang",
+                        "Contractor": "SomnorngCheaHeang",
+                        "BidValue": "45,724,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TySengChang",
+                        "Contractor": "TySengChang",
+                        "BidValue": "59,500,000R",
+                        "DiscountRate": "30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TournKhannra",
+                        "Contractor": "RaVengAkphiwat",
+                        "BidValue": "45,499,778R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "56,800,000R",
+                        "DiscountRate": "24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "60,708,629",
+                        "Village": "Lekh Muoy",
+                        "Description": "[ 1010105 ] Crushed stone road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 2,218.250 Volume of earth (m3)",
+                        "Bid": "0.350 km",
+                        "InContract": "0.350 km",
+                        "Actualquantity": "0.350 km",
+                        "UnitCost/Estimated": "80,105,000est. 88,829,829",
+                        "DiscountRate": "-10 %",
+                        "Total": "28,036,750"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Jul-2012",
+                        "Actualworkcompletiondate": "07-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Jul-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "07-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "26-Jul-2012",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "24283452R",
+                        "Net": "23569233R",
+                        "Tax": "714219R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "10-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "23783452R",
+                        "Net": "23083939R",
+                        "Tax": "699513R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "10-Aug-2012",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "12-Feb-2013",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "12141725R",
+                        "Net": "11784615R",
+                        "Tax": "357110R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "60,708,629R",
+                        "ActualPaymentCumulativeToDate(A)Net": "58,923,081R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,785,548R",
+                        "ContractValue(B)Gross": "60,708,629R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "concret road",
+            "project_link": "/pid/project/home/view.castle?pid=c1d5cd35-a50f-4240-b43f-a1e800834679",
+            "project_html_data": {
+                "Pid": "c1d5cd35-a50f-4240-b43f-a1e800834679",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prak Lak",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "concret road",
+                        "Objective": "At the end of the year 2013 people will have good road for traveling ",
+                        "Relatedcontract(s)": "081013/13/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "119,708,390",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "119,708,390"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhPir",
+                        "BeneficiaryTotal": "2,974",
+                        "BeneficiaryWomen": "1,607",
+                        "Households": "551"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Pir",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 2.500 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.487 km",
+                        "UnitCost": "237,565,250",
+                        "Total": "115,694,277"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project construct out of safeguard watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "11-Mar-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Jul-2013",
+                            "Technicalclearancesign-off": "25-Jul-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013130101",
+            "contract_html_data": {
+                "Id": "081013130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/13/01-01",
+                        "TechnicalSupervisor": "Prak Lak",
+                        "Project'sName": "concret road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sean Sen, [ Sean Sen ]",
+                        "Competitivebidding": "Yes ( 12-Sep-2013 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "25-Sep-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Oct-2013",
+                        "Plannedworkcompletiondate": "30-Nov-2013",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "124,002,220"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SeanSen",
+                        "Contractor": "SeanSen",
+                        "BidValue": "89,121,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "114,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TournKhannra",
+                        "Contractor": "RaVengAkphiwat",
+                        "BidValue": "111,839,800R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "DyYaMong",
+                        "BidValue": "96,829,700R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "PhatSophalConstructionEnterprise(PPL)",
+                        "BidValue": "103,550,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "124,502,220",
+                        "Village": "Lekh Pir",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 2.500 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.487 km",
+                        "InContract": "0.667 km",
+                        "Actualquantity": "0.667 km",
+                        "UnitCost/Estimated": "183,000,000est. 237,565,250",
+                        "DiscountRate": "-23 %",
+                        "Total": "122,061,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Oct-2013",
+                        "Actualworkcompletiondate": "12-Dec-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "05-Nov-2013",
+                            "Progress": "30 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "14-Nov-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "12-Dec-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "04-Dec-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "49800888R",
+                        "Net": "48336156R",
+                        "Tax": "1464732R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "13-Dec-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "49800888R",
+                        "Net": "48336156R",
+                        "Tax": "1464732R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "99,601,776R",
+                        "ActualPaymentCumulativeToDate(A)Net": "96,672,312R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,929,464R",
+                        "ContractValue(B)Gross": "124,502,220R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Reinforcement Steel Concrete Road",
+            "project_link": "/pid/project/home/view.castle?pid=ff88fbac-8565-4b02-aa48-a33100bccb5b",
+            "project_html_data": {
+                "Pid": "ff88fbac-8565-4b02-aa48-a33100bccb5b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "HENG ARUN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Reinforcement Steel Concrete Road",
+                        "Objective": "At the end of the year 2014 people will have good road for traveling ",
+                        "Relatedcontract(s)": "081013/14/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "82,498,904",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "82,498,904"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhMuoy",
+                        "BeneficiaryTotal": "1,804",
+                        "BeneficiaryWomen": "952",
+                        "Households": "385"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Muoy",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 2.500 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.086 km",
+                        "UnitCost": "179,068,942",
+                        "Total": "15,399,929"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project construct out of safeguard watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "This project construct on the old road with width dimension."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Mar-2014",
+                            "Technicalclearancesign-off": "25-Mar-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013140101",
+            "contract_html_data": {
+                "Id": "081013140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/14/01-01",
+                        "TechnicalSupervisor": "HENG ARUN",
+                        "Project'sName": "Reinforcement Steel Concrete Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sean Sen, [ Sean Sen ]",
+                        "Competitivebidding": "Yes ( 21-Apr-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "30-Apr-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-May-2014",
+                        "Plannedworkcompletiondate": "03-Jun-2014",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "91,422,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "81,478,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SeanSen",
+                        "Contractor": "SeanSen",
+                        "BidValue": "81,152,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChournEng",
+                        "Contractor": "LHC",
+                        "BidValue": "82,197,600R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "91,922,400",
+                        "Village": "Lekh Muoy",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 2.500 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.086 km",
+                        "InContract": "0.086 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "60,000,000est. 179,068,942",
+                        "DiscountRate": "-66 %",
+                        "Total": "5,160,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-May-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Jun-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "12-Aug-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "91,922,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Natural Gravel Road Repair",
+            "project_link": "/pid/project/home/view.castle?pid=3e1493e9-9de1-496b-84c4-a508010c8227",
+            "project_html_data": {
+                "Pid": "3e1493e9-9de1-496b-84c4-a508010c8227",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "HENG ARUN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Natural Gravel Road Repair",
+                        "Objective": "Enable in traveling and transportation.",
+                        "Relatedcontract(s)": "081013/15/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "84,428,618",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "84,428,618"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhBei",
+                        "BeneficiaryTotal": "2,250",
+                        "BeneficiaryWomen": "1,225",
+                        "Households": "474"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Bei",
+                        "Description": "Natural Gravel road Upgrade [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 4,962.000 Volume of earth (m3)",
+                        "Qty": "0.880 km",
+                        "UnitCost": "95,941,611",
+                        "Total": "84,428,618"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This located is construct on the old road with large width"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "11-Feb-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-May-2015",
+                            "Technicalclearancesign-off": "19-Jun-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013150101",
+            "contract_html_data": {
+                "Id": "081013150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/15/01-01",
+                        "TechnicalSupervisor": "HENG ARUN",
+                        "Project'sName": "Natural Gravel Road Repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sien Piseth, [ Sien Piseth ]",
+                        "Competitivebidding": "Yes ( 06-Jul-2015 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "15-Jul-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Jul-2015",
+                        "Plannedworkcompletiondate": "21-Aug-2015",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "86,590,864"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LachPhan",
+                        "Contractor": "LachPhanPonleuAkphiwat",
+                        "BidValue": "68,640,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TournKhannra",
+                        "Contractor": "RaVengAkphiwat",
+                        "BidValue": "72,000,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MormSocheat",
+                        "Contractor": "MormSoCheatContruction",
+                        "BidValue": "79,200,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "NOVSENGHAK",
+                        "Contractor": "NOVSENGHAK",
+                        "BidValue": "79,500,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "74,624,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SienPiseth",
+                        "Contractor": "SienPiseth",
+                        "BidValue": "67,936,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "87,090,864",
+                        "Village": "Lekh Bei",
+                        "Description": "[ 1010103 ] Natural Gravel road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 4,962.000 Volume of earth (m3)",
+                        "Bid": "0.880 km",
+                        "InContract": "1.106 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "77,200,000est. 95,941,611",
+                        "DiscountRate": "-20 %",
+                        "Total": "85,383,200"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Jul-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "26-Aug-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "08-Oct-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "87,090,864R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Steel Reinforcement Concrete Road Construction",
+            "project_link": "/pid/project/home/view.castle?pid=6dd2cd19-4068-4091-a621-a7620111afb6",
+            "project_html_data": {
+                "Pid": "6dd2cd19-4068-4091-a621-a7620111afb6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "HENG ARUN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Steel Reinforcement Concrete Road Construction",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "081013/16/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "88,786,429",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "88,786,429"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhBuon",
+                        "BeneficiaryTotal": "2,210",
+                        "BeneficiaryWomen": "1,153",
+                        "Households": "534"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Buon",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.374 km",
+                        "UnitCost": "237,396,868",
+                        "Total": "88,786,429"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "10-Feb-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Jul-2016",
+                            "Technicalclearancesign-off": "05-Aug-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013160101",
+            "contract_html_data": {
+                "Id": "081013160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/16/01-01",
+                        "TechnicalSupervisor": "HENG ARUN",
+                        "Project'sName": "Steel Reinforcement Concrete Road Construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ra Veng Akphiwat, [ Tourn Khannra ]",
+                        "Competitivebidding": "Yes ( 22-Aug-2016 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "05-Sep-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Sep-2016",
+                        "Plannedworkcompletiondate": "26-Nov-2016",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "80,933,530"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "59,840,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "TournKhannra",
+                        "Contractor": "RaVengAkphiwat",
+                        "BidValue": "59,800,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "62,383,200R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SienPiseth",
+                        "Contractor": "SienPiseth",
+                        "BidValue": "65,076,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "81,433,530",
+                        "Village": "Lekh Buon",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.374 km",
+                        "InContract": "0.463 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "159,893,050est. 237,396,868",
+                        "DiscountRate": "-33 %",
+                        "Total": "74,030,482"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Sep-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Dec-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "81,433,530R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=46c228da-b470-493b-b906-a9fa01049af6",
+            "project_html_data": {
+                "Pid": "46c228da-b470-493b-b906-a9fa01049af6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "HENG ARUN",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "concrete road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "081013/17/01-01 ",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "103,809,478",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "103,809,478"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "LekhPram",
+                        "BeneficiaryTotal": "2,381",
+                        "BeneficiaryWomen": "1,195",
+                        "Households": "597"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Lekh Pram",
+                        "Description": "Steel-reinforced concrete road Repair [ 1010203 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.458 km",
+                        "UnitCost": "226,658,249",
+                        "Total": "103,809,478"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road and no expansion"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Approvaldate": "23-Feb-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Apr-2017",
+                            "Technicalclearancesign-off": "09-May-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "081013/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=081013170101",
+            "contract_html_data": {
+                "Id": "081013170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 81013 ] Kandal \\ S'ang \\ Svay Rolum",
+                        "Contract": "081013/17/01-01",
+                        "TechnicalSupervisor": "HENG ARUN",
+                        "Project'sName": "concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ra Veng Aphivath, [ Toun Khanra ]",
+                        "Competitivebidding": "Yes ( 24-May-2017 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "08-Jun-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jun-2017",
+                        "Plannedworkcompletiondate": "30-Jul-2017",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "114,900,062"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "95,493,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhornTep",
+                        "Contractor": "PhornTep",
+                        "BidValue": "93,432,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TounKhanra",
+                        "Contractor": "RaVengAphivath",
+                        "BidValue": "68,445,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "115,400,062",
+                        "Village": "Lekh Pram",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road RepairDimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.458 km",
+                        "InContract": "0.702 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "149,443,230est. 226,658,249",
+                        "DiscountRate": "-34 %",
+                        "Total": "104,909,147"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jun-2017",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "26-Dec-2017",
+                            "Progress": "0 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "14-Feb-2018",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "115,400,062R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

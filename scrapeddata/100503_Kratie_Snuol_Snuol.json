@@ -1,0 +1,1869 @@
+{
+    "location": {
+        "province": "Kratie",
+        "district": "Snuol",
+        "commune": "Snuol"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road - repairing",
+            "project_link": "/pid/project/home/view.castle?pid=0dff8306-5568-4dc9-b77d-9c610120e77e",
+            "project_html_data": {
+                "Pid": "0dff8306-5568-4dc9-b77d-9c610120e77e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhim Sothea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road - repairing",
+                        "Objective": "Facility the access road to people for traveling and transportation.",
+                        "Relatedcontract(s)": "100503/09/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "47,949,837",
+                        "LocalRevenue": "700,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "48,649,837"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KatDai",
+                        "BeneficiaryTotal": "2,082",
+                        "BeneficiaryWomen": "1,024",
+                        "Households": "416"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kat Dai",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,706.000 Volume of earth (m3)",
+                        "Qty": "0.950 km",
+                        "UnitCost": "11,780,282",
+                        "Total": "11,191,268"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "07-May-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Submissiondate": "This project required highland people report.",
+                            "ApprovebyNCDDon": "10-Jul-2009 (Date Report on Safeguard Measures for HP sent to SWG of NCDDS)"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "30-Jun-2009",
+                            "Technicalclearancesign-off": "24-Jul-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503090101",
+            "contract_html_data": {
+                "Id": "100503090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/09/01-01( 2 )",
+                        "TechnicalSupervisor": "Chhim Sothea",
+                        "Project'sName": "Earth road - repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chan Mahasambat, [ Up Mab ]",
+                        "Competitivebidding": "Yes ( 13-Aug-2009 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "27-Aug-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-Nov-2009",
+                        "Plannedworkcompletiondate": "06-Jan-2010",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "20-Apr-2010",
+                        "Closeddateon": "30-Nov-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "37,249,331"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChouHaySeng",
+                        "Contractor": "ChouHaySeng",
+                        "BidValue": "37,340,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChovChheng",
+                        "Contractor": "ChovChheng",
+                        "BidValue": "41,400,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HorSomhor",
+                        "Contractor": "HorBunny",
+                        "BidValue": "40,400,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PrakSophy",
+                        "Contractor": "SamnangTaiheng",
+                        "BidValue": "38,900,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PounChandet",
+                        "Contractor": "PounChandet",
+                        "BidValue": "41,308,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "YKimLun",
+                        "Contractor": "YKimLun",
+                        "BidValue": "38,919,867R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "UpMab",
+                        "Contractor": "ChanMahasambat",
+                        "BidValue": "36,649,836R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "37,749,330",
+                        "Village": "Kat Dai",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,706.000 Volume of earth (m3)",
+                        "Bid": "0.950 km",
+                        "InContract": "0.950 km",
+                        "Actualquantity": "0.950 km",
+                        "UnitCost/Estimated": "7,055,354est. 11,780,282",
+                        "DiscountRate": "-40 %",
+                        "Total": "6,702,586"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Nov-2009",
+                        "Actualworkcompletiondate": "04-Jan-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Oct-2009",
+                            "Progress": "5 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "The work opening, delays 11 days compared to the work plan."
+                        },
+                        {
+                            "Date": "15-Dec-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "50% completed could withdraw the first release."
+                        },
+                        {
+                            "Date": "04-Jan-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "100% completed, could withdraw second release."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "24-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "15099732R",
+                        "Net": "14646740R",
+                        "Tax": "452992R",
+                        "Verified": "HouSophyra"
+                    },
+                    {
+                        "Date": "26-Jan-2010",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "15099732R",
+                        "Net": "14646740R",
+                        "Tax": "452992R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "22-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "3thPayment",
+                        "Gross": "7049866R",
+                        "Net": "6871356R",
+                        "Tax": "178510R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-Dec-2010",
+                        "Source": "LC",
+                        "Description": "LocalContribution",
+                        "Gross": "500000R",
+                        "Net": "485000R",
+                        "Tax": "15000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "37,749,330R",
+                        "ActualPaymentCumulativeToDate(A)Net": "36,649,836R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,099,494R",
+                        "ContractValue(B)Gross": "37,749,331R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Forestry community strengthening",
+            "project_link": "/pid/project/home/view.castle?pid=c191a96c-27c3-4e2c-9961-9e0000955797",
+            "project_html_data": {
+                "Pid": "c191a96c-27c3-4e2c-9961-9e0000955797",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "NREM",
+                        "Sub-Sector": "Community forestry",
+                        "TechnicalAssistant": "Pen Ratha",
+                        "NatureofProject": "Service",
+                        "Name": "Forestry community strengthening",
+                        "Objective": "Manage forestry resource in community",
+                        "Relatedcontract(s)": "100503/10/02-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "23,500,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "8,646,400",
+                        "Other": "0",
+                        "Total": "32,146,400"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Krong",
+                        "BeneficiaryTotal": "1,720",
+                        "BeneficiaryWomen": "871",
+                        "Households": "344"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Krong",
+                        "Description": "Demarcation of community forests New [ 2010341 ]",
+                        "Qty": "170.000 Post",
+                        "UnitCost": "125,659",
+                        "Total": "21,362,030"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Jun-2010",
+                            "Technicalclearancesign-off": "06-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503100201",
+            "contract_html_data": {
+                "Id": "100503100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/10/02-01",
+                        "TechnicalSupervisor": "Pen Ratha",
+                        "Project'sName": "Forestry community strengthening",
+                        "Sector": "NREM",
+                        "Sub-Sector": "Community forestry",
+                        "Contractor": "The Agricultural and Environmental Center for Community, [ Yem Bunthoeun ]",
+                        "Competitivebidding": "Yes ( 04-Aug-2010 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "31-Aug-2010",
+                        "Guaranteeperiod": "0 Month",
+                        "Plannedworkstartdate": "01-Sep-2010",
+                        "Plannedworkcompletiondate": "10-Nov-2010",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [],
+                "Bidding": [],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "30,431,000",
+                        "Village": "Krong",
+                        "Description": "[ 2010350 ] Construction of community forestry post NewDimension #1 : 0.000 Dimension #2 : 0.000 ",
+                        "Bid": "1.000 post",
+                        "InContract": "1.000 post",
+                        "Actualquantity": " post",
+                        "UnitCost/Estimated": "7,460,000est. 7,546,000",
+                        "DiscountRate": "-1 %",
+                        "Total": "7,460,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "0R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road rehabilitation with culverts",
+            "project_link": "/pid/project/home/view.castle?pid=bdf9d6a5-e0f2-4610-9f5e-9e5f00bf5489",
+            "project_html_data": {
+                "Pid": "bdf9d6a5-e0f2-4610-9f5e-9e5f00bf5489",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhim Sothea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road rehabilitation with culverts",
+                        "Objective": "People have road for traveling and transportation.",
+                        "Relatedcontract(s)": "100503/11/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "70,038,428",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "70,338,428"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KbalSnuol",
+                        "BeneficiaryTotal": "5,813",
+                        "BeneficiaryWomen": "2,930",
+                        "Households": "1,162"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kbal Snuol",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,293.830 Volume of earth (m3)",
+                        "Qty": "0.700 km",
+                        "UnitCost": "35,049,466",
+                        "Total": "24,534,626"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "30-Aug-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Submissiondate": "This project required highland people report.",
+                            "ApprovebyNCDDon": "02-Dec-2010 (Date Report on Safeguard Measures for HP sent to SWG of NCDDS)"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Nov-2010",
+                            "Technicalclearancesign-off": "29-Dec-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503110101",
+            "contract_html_data": {
+                "Id": "100503110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/11/01-01",
+                        "TechnicalSupervisor": "Chhim Sothea",
+                        "Project'sName": "Earth road rehabilitation with culverts",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lun Eangly, [ Lun Eangly ]",
+                        "Competitivebidding": "Yes ( 03-Mar-2011 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "23-Mar-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Mar-2011",
+                        "Plannedworkcompletiondate": "12-May-2011",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "58,544,430"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "VaSophal",
+                        "Contractor": "PhalMeanchey",
+                        "BidValue": "56,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "YKimLun",
+                        "Contractor": "YKimLun",
+                        "BidValue": "68,600,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LunEangly",
+                        "Contractor": "LunEangly",
+                        "BidValue": "39,990,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "58,544,430",
+                        "Village": "Kbal Snuol",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,293.830 Volume of earth (m3)",
+                        "Bid": "0.000 km",
+                        "InContract": "1.225 km",
+                        "Actualquantity": "1.225 km",
+                        "UnitCost/Estimated": "22,900,000est. 35,049,466",
+                        "DiscountRate": "-35 %",
+                        "Total": "28,052,500"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "30-Mar-2011",
+                        "Actualworkcompletiondate": "22-Dec-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Jun-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Jun-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Jun-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "23417772R",
+                        "Net": "22729014R",
+                        "Tax": "688758R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Jul-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "23417772R",
+                        "Net": "22729014R",
+                        "Tax": "688758R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "11408886R",
+                        "Net": "11073331R",
+                        "Tax": "335555R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "26-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "2rdPayment",
+                        "Gross": "300000R",
+                        "Net": "291176R",
+                        "Tax": "8824R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "58,544,430R",
+                        "ActualPaymentCumulativeToDate(A)Net": "56,822,535R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,721,895R",
+                        "ContractValue(B)Gross": "58,544,430R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repairing and culvert",
+            "project_link": "/pid/project/home/view.castle?pid=90e54752-afbf-4f95-8b9d-9f8000bad461",
+            "project_html_data": {
+                "Pid": "90e54752-afbf-4f95-8b9d-9f8000bad461",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhim Sothea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repairing and culvert",
+                        "Objective": "Improve people transportation in commune",
+                        "Relatedcontract(s)": "100503/11/02-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "79,040,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "17,788,267",
+                        "Other": "0",
+                        "Total": "97,328,267"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KatDai",
+                        "BeneficiaryTotal": "1,436",
+                        "BeneficiaryWomen": "720",
+                        "Households": "286"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kbal Snuol",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 899.510 Volume of earth (m3)",
+                        "Qty": "0.293 km",
+                        "UnitCost": "23,734,880",
+                        "Total": "6,954,320"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "08-Aug-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Submissiondate": "This project required highland people report.",
+                            "ApprovebyNCDDon": "02-Nov-2011 (Date Report on Safeguard Measures for HP sent to SWG of NCDDS)"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "12-Sep-2011",
+                            "Technicalclearancesign-off": "21-Nov-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/11/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503110201",
+            "contract_html_data": {
+                "Id": "100503110201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/11/02-01",
+                        "TechnicalSupervisor": "Chhim Sothea",
+                        "Project'sName": "Earth road repairing and culvert",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sok San Sathabna, [ Teung Bunpa ]",
+                        "Competitivebidding": "Yes ( 16-Dec-2011 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "28-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jan-2012",
+                        "Plannedworkcompletiondate": "27-Feb-2012",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "77,826,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TeungBunpa",
+                        "Contractor": "SokSanSathabna",
+                        "BidValue": "76,300,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "VaSophal",
+                        "Contractor": "PhalMeanchey",
+                        "BidValue": "78,124,700R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MaoKimSrang",
+                        "Contractor": "MaoKimSrang",
+                        "BidValue": "78,522,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SosRoYMas",
+                        "Contractor": "HimSammaKiApivath",
+                        "BidValue": "80,057,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "NouBunThan",
+                        "Contractor": "NouBunThan",
+                        "BidValue": "79,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "77,826,002",
+                        "Village": "Kbal Snuol",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 899.510 Volume of earth (m3)",
+                        "Bid": "0.293 km",
+                        "InContract": "0.293 km",
+                        "Actualquantity": "0.293 km",
+                        "UnitCost/Estimated": "21,592,803est. 23,734,880",
+                        "DiscountRate": "-9 %",
+                        "Total": "6,326,691"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Jan-2012",
+                        "Actualworkcompletiondate": "31-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-Jan-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "21-Feb-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "02-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "31130400R",
+                        "Net": "30214800R",
+                        "Tax": "915600R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "27-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "31130400R",
+                        "Net": "30214800R",
+                        "Tax": "915600R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "62,260,800R",
+                        "ActualPaymentCumulativeToDate(A)Net": "60,429,600R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,831,200R",
+                        "ContractValue(B)Gross": "77,826,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=52081463-f2d8-4d79-b0b8-a11e00b4b99e",
+            "project_html_data": {
+                "Pid": "52081463-f2d8-4d79-b0b8-a11e00b4b99e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhim Sothea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road rehabilitation",
+                        "Objective": "Improve people transportation in commune",
+                        "Relatedcontract(s)": "100503/12/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "97,866,000",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "35,847,460",
+                        "Other": "0",
+                        "Total": "134,213,460"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KbalSnuol",
+                        "BeneficiaryTotal": "5,893",
+                        "BeneficiaryWomen": "2,962",
+                        "Households": "1,178"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Thpong",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 4,983.810 Volume of earth (m3)",
+                        "Qty": "2.050 km",
+                        "UnitCost": "22,846,585",
+                        "Total": "46,835,499"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.Damage important area for environment and culture",
+                            "ApprovebyNCDDon": "05-Oct-2012 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "05-Oct-2012"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Approvaldate": "02-Apr-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Reason": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-May-2012",
+                            "Technicalclearancesign-off": "26-Oct-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503120101",
+            "contract_html_data": {
+                "Id": "100503120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/12/01-01",
+                        "TechnicalSupervisor": "Chhim Sothea",
+                        "Project'sName": "Earth road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khean Khorn, [ Khean Khorn ]",
+                        "Competitivebidding": "Yes ( 19-Nov-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "18-Dec-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jan-2013",
+                        "Plannedworkcompletiondate": "16-Feb-2013",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "119,490,960"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KheanKhorn",
+                        "Contractor": "KheanKhorn",
+                        "BidValue": "117,148,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "",
+                        "Contractor": "RetRy",
+                        "BidValue": "117,648,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "AnSokleang",
+                        "Contractor": "AnSokleang",
+                        "BidValue": "118,148,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "119,490,960",
+                        "Village": "Thpong",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 4,983.810 Volume of earth (m3)",
+                        "Bid": "2.050 km",
+                        "InContract": "2.050 km",
+                        "Actualquantity": "2.050 km",
+                        "UnitCost/Estimated": "21,350,000est. 22,846,585",
+                        "DiscountRate": "-7 %",
+                        "Total": "43,767,500"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "02-Jan-2013",
+                        "Actualworkcompletiondate": "22-Apr-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "11-Mar-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Apr-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "119,490,960R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road rehab",
+            "project_link": "/pid/project/home/view.castle?pid=f952583d-db2f-4bac-babf-a30000e87198",
+            "project_html_data": {
+                "Pid": "f952583d-db2f-4bac-babf-a30000e87198",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhim Sothea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road rehab",
+                        "Objective": "",
+                        "Relatedcontract(s)": "100503/13/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "118,364,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "18,474,703",
+                        "Other": "0",
+                        "Total": "136,838,703"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SnuolKaeut",
+                        "BeneficiaryTotal": "1,323",
+                        "BeneficiaryWomen": "668",
+                        "Households": "265"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Snuol Kaeut",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 7,890.900 Volume of earth (m3)",
+                        "Qty": "2.380 km",
+                        "UnitCost": "28,721,178",
+                        "Total": "68,356,404"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "28-Oct-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "31-Oct-2013"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Jul-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Reason": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Jul-2013",
+                            "Technicalclearancesign-off": "06-Nov-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503130101",
+            "contract_html_data": {
+                "Id": "100503130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/13/01-01",
+                        "TechnicalSupervisor": "Chhim Sothea",
+                        "Project'sName": "Earth road rehab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sor Ben, [ Sor Ban ]",
+                        "Competitivebidding": "Yes ( 27-Nov-2013 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "25-Dec-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Dec-2013",
+                        "Plannedworkcompletiondate": "14-Feb-2014",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "68,618,544"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SorBan",
+                        "Contractor": "SorBen",
+                        "BidValue": "54,972,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SeanNareoun",
+                        "Contractor": "SeanNareoun",
+                        "BidValue": "69,500,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "PhapPhon",
+                        "BidValue": "88,911,800R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SearnNaroeun",
+                        "Contractor": "SearnNaroeun",
+                        "BidValue": "62,466,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "68,918,544",
+                        "Village": "Snuol Kaeut",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 600.000 Diameter (mm)Dimension #2 : 5.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "2.000 Place",
+                        "Actualquantity": "2.000 Place",
+                        "UnitCost/Estimated": "2,000,000est. 2,348,700",
+                        "DiscountRate": "-15 %",
+                        "Total": "4,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "31-Dec-2013",
+                        "Actualworkcompletiondate": "18-Mar-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Jan-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "18-Mar-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "68,918,544R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=54db8258-0dd8-4eb0-84c5-a3f800badeeb",
+            "project_html_data": {
+                "Pid": "54db8258-0dd8-4eb0-84c5-a3f800badeeb",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhim Sothea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "100503/14/01-01 ",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "101,320,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "56,344,114",
+                        "Other": "0",
+                        "Total": "157,664,114"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KatDai",
+                        "BeneficiaryTotal": "1,566",
+                        "BeneficiaryWomen": "816",
+                        "Households": "313"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kbal Snuol",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 858.740 Volume of earth (m3)",
+                        "Qty": "0.327 km",
+                        "UnitCost": "29,808,016",
+                        "Total": "9,747,221"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "07-Aug-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "11-Aug-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "04-Jul-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Submissiondate": "This project required highland people report.",
+                            "ApprovebyNCDDon": "07-Aug-2014 (Date Report on Safeguard Measures for HP sent to SWG of NCDDS)"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "29-Jul-2014",
+                            "Technicalclearancesign-off": "21-Aug-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503140101",
+            "contract_html_data": {
+                "Id": "100503140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/14/01-01",
+                        "TechnicalSupervisor": "Chhim Sothea",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sor Ben, [ Sor Ban ]",
+                        "Competitivebidding": "Yes ( 11-Sep-2014 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "10-Oct-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jan-2015",
+                        "Plannedworkcompletiondate": "16-Mar-2015",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,783,437"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SorBan",
+                        "Contractor": "SorBen",
+                        "BidValue": "50,081,800R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "IngChanla",
+                        "Contractor": "IngChanla",
+                        "BidValue": "65,808,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SengKimchang",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "78,500,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VaSophal",
+                        "Contractor": "PhalMeanchey",
+                        "BidValue": "109,346,200R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "BunSotray",
+                        "BidValue": "111,186,800R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KhyKhoeun",
+                        "Contractor": "ChhneasChhnas",
+                        "BidValue": "109,686,800R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "ChhimDarin",
+                        "BidValue": "74,520,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "",
+                        "Contractor": "LayhengthongColtd",
+                        "BidValue": "86,232,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "",
+                        "Contractor": "PunThon",
+                        "BidValue": "107,983,800R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "51,083,436",
+                        "Village": "Kbal Snuol",
+                        "Description": "[ 1010301 ] Single pipe culvert 0.6m diameter  NewDimension #1 : 600.000 Diameter (mm)Dimension #2 : 7.000 Length(m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": " Place",
+                        "UnitCost/Estimated": "2,000,000est. 2,321,624",
+                        "DiscountRate": "-14 %",
+                        "Total": "2,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jan-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "20-Mar-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Cheng Sokdom",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-May-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Cheng Sokdom",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "51,083,437R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=b7140ccf-2dec-48b2-bfd0-a57900aa762e",
+            "project_html_data": {
+                "Pid": "b7140ccf-2dec-48b2-bfd0-a57900aa762e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "100503/15/01-01 ",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "101,120,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "101,120,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KatDai",
+                        "BeneficiaryTotal": "827",
+                        "BeneficiaryWomen": "374",
+                        "Households": "166"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kbal Snuol",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 2,766.620 Volume of earth (m3)",
+                        "Qty": "0.600 km",
+                        "UnitCost": "36,345,384",
+                        "Total": "21,807,230"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "27-Oct-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "04-Nov-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "29-Sep-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Submissiondate": "This project required highland people report.",
+                            "ApprovebyNCDDon": "27-Oct-2015 (Date Report on Safeguard Measures for HP sent to SWG of NCDDS)"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Oct-2015",
+                            "Technicalclearancesign-off": "04-Nov-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503150101",
+            "contract_html_data": {
+                "Id": "100503150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/15/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Born Sotrai, [ Born Sotrai ]",
+                        "Competitivebidding": "Yes ( 21-Dec-2015 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "31-Dec-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Feb-2016",
+                        "Plannedworkcompletiondate": "29-Feb-2016",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,432,760"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "IngChanla",
+                        "Contractor": "IngChanla",
+                        "BidValue": "54,407,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MomSreng",
+                        "Contractor": "SrengSambath",
+                        "BidValue": "57,500,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "VaSokphal",
+                        "Contractor": "Phalmeanchey",
+                        "BidValue": "51,896,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LayHengthong",
+                        "Contractor": "LayhengthongCo-Ltd",
+                        "BidValue": "57,164,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "BornSotrai",
+                        "Contractor": "BornSotrai",
+                        "BidValue": "49,738,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,732,760",
+                        "Village": "Kbal Snuol",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 2,766.620 Volume of earth (m3)",
+                        "Bid": "0.600 km",
+                        "InContract": "0.600 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "22,000,000est. 36,345,384",
+                        "DiscountRate": "-39 %",
+                        "Total": "13,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "50,732,760R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=13d3221c-5e29-4275-8a72-a77d009abb1b",
+            "project_html_data": {
+                "Pid": "13d3221c-5e29-4275-8a72-a77d009abb1b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "100503/16/01-01 ",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "112,180,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "112,180,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Krong",
+                        "BeneficiaryTotal": "1,655",
+                        "BeneficiaryWomen": "750",
+                        "Households": "331"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Krong",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 11,202.660 Volume of earth (m3)",
+                        "Qty": "2.325 km",
+                        "UnitCost": "23,222,026",
+                        "Total": "53,991,210"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "28-Nov-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "05-Dec-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "19-Oct-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This area is in highland people watchlist.",
+                            "Submissiondate": "This project required highland people report.",
+                            "ApprovebyNCDDon": "28-Nov-2016 (Date Report on Safeguard Measures for HP sent to SWG of NCDDS)"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Nov-2016",
+                            "Technicalclearancesign-off": "09-Dec-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100503/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100503160101",
+            "contract_html_data": {
+                "Id": "100503160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100503 ] Kratie \\ Snuol \\ Snuol",
+                        "Contract": "100503/16/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Veng Leab, [ Veng Leab ]",
+                        "Competitivebidding": "Yes ( 26-Dec-2016 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "16-Jan-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "24-Jan-2017",
+                        "Plannedworkcompletiondate": "20-Mar-2017",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": "",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "88,281,818"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "IngChanla",
+                        "Contractor": "IngChanla",
+                        "BidValue": "88,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "YimSopheak",
+                        "Contractor": "YimSopheak",
+                        "BidValue": "87,025,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "RetRy",
+                        "Contractor": "RetRy",
+                        "BidValue": "90,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VengLeab",
+                        "Contractor": "VengLeab",
+                        "BidValue": "87,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "88,740,000",
+                        "Village": "Krong",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 11,202.660 Volume of earth (m3)",
+                        "Bid": "2.325 km",
+                        "InContract": "2.325 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "20,000,000est. 23,222,026",
+                        "DiscountRate": "-14 %",
+                        "Total": "46,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "88,581,818R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2435 @@
+{
+    "location": {
+        "province": "Prey Veng",
+        "district": "Kampong Trabaek",
+        "commune": "Kampong Trabaek"
+    },
+    "projects": [
+        {
+            "project_name": "Earth road",
+            "project_link": "/pid/project/home/view.castle?pid=e102c064-39a3-4804-814f-9c9d00f0229d",
+            "project_html_data": {
+                "Pid": "e102c064-39a3-4804-814f-9c9d00f0229d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Pol  Sastra",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road",
+                        "Objective": "At the end of 2009, the people of all villages in commune will have good road for traveling.",
+                        "Relatedcontract(s)": "140307/09/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "36,597,800",
+                        "LocalRevenue": "210,000",
+                        "CarryOver": "0",
+                        "Other": "2,000,000",
+                        "Total": "38,807,800"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "AnlongReach",
+                        "BeneficiaryTotal": "1,502",
+                        "BeneficiaryWomen": "839",
+                        "Households": "266"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Boeng Khyang",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,725.000 Volume of earth (m3)",
+                        "Qty": "0.990 km",
+                        "UnitCost": "36,818,018",
+                        "Total": "36,449,838"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "It will not cause any damage to forest, Wildlife Park and area of cultural temples."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-Jul-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "It’s not highland target"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Mar-2009",
+                            "Technicalclearancesign-off": "28-Jul-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307090101",
+            "contract_html_data": {
+                "Id": "140307090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/09/01-01",
+                        "TechnicalSupervisor": "Pol  Sastra",
+                        "Project'sName": "Earth road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Prak Eang, [ Prak Eang ]",
+                        "Competitivebidding": "Yes ( 14-Sep-2009 )",
+                        "Numberofcontractor": "14",
+                        "Contractsigndate(Form50)": "05-Oct-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Oct-2009",
+                        "Plannedworkcompletiondate": "20-Dec-2009",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "29-Oct-2010",
+                        "Closeddateon": "02-Aug-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "14,012,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "210,000"
+                    },
+                    {
+                        "FundSource": "IFAD CIDF",
+                        "Cost": "20,808,300"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NheukPhalKun",
+                        "Contractor": "N.P.Kenterprise",
+                        "BidValue": "37,598,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PrakEang",
+                        "Contractor": "PrakEang",
+                        "BidValue": "18,620,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HeangLun",
+                        "Contractor": "HeangLunn",
+                        "BidValue": "28,428,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HoeungDavin",
+                        "Contractor": "Davitakphivat",
+                        "BidValue": "37,933,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "Yes",
+                        "Reason": "Didnotfillinunitcost."
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LeukSamphan",
+                        "Contractor": "LekSamphan",
+                        "BidValue": "32,100,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PrakThong",
+                        "Contractor": "PrakThong",
+                        "BidValue": "27,146,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SroyKokKheang",
+                        "Contractor": "SroyKokKheang",
+                        "BidValue": "26,350,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "HongKunthy",
+                        "Contractor": "HongKunthy",
+                        "BidValue": "0R",
+                        "DiscountRate": "-100%",
+                        "Rejected": "Yes",
+                        "Reason": "Thecontractorwithdrewhisbidform."
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "PechBe",
+                        "Contractor": "PechBe",
+                        "BidValue": "29,510,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "Yes",
+                        "Reason": "ThecontractordidnotfillinbidformonIDcard,companynameandthebidder'sname."
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "LySothy",
+                        "Contractor": "LySothy",
+                        "BidValue": "19,000,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "ChournSophanna",
+                        "Contractor": "ChournSophanna",
+                        "BidValue": "27,950,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "KhimPhoeun",
+                        "Contractor": "KhimPhoeun",
+                        "BidValue": "21,095,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "PenAsda",
+                        "Contractor": "PenAsda",
+                        "BidValue": "22,580,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "TumSeang",
+                        "Contractor": "SamnangAkpiwatTouTov",
+                        "BidValue": "29,000,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "35,030,300",
+                        "Village": "Anlong Reach",
+                        "Description": "[ 1010101 ] Earth road Routine maintenanceDimension #1 : 2.500 Width (m)Dimension #2 : 380.000 Volume of earth (m3)",
+                        "Bid": "1.600 km",
+                        "InContract": "1.600 km",
+                        "Actualquantity": "1.600 km",
+                        "UnitCost/Estimated": "500,000est. 1,240,400",
+                        "DiscountRate": "-60 %",
+                        "Total": "800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "31-Dec-2009",
+                        "Actualworkcompletiondate": "04-Jan-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "04-Jan-2010",
+                            "Progress": "5 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "08-Jan-2010",
+                            "Progress": "30 %",
+                            "ReportBy": "Chea Savoeun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "03-Feb-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Chin Vanna",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "13-Jan-2010",
+                        "Source": "CSF",
+                        "Description": "1stinstallment",
+                        "Gross": "14012000R",
+                        "Net": "13603883R",
+                        "Tax": "408117R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "31-Mar-2010",
+                        "Source": "IFAD",
+                        "Description": "2ndinstallment",
+                        "Gross": "14012000R",
+                        "Net": "13603884R",
+                        "Tax": "408116R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "Date": "05-Aug-2010",
+                        "Source": "LC",
+                        "Description": "3rdinstallment",
+                        "Gross": "210000R",
+                        "Net": "203824R",
+                        "Tax": "6176R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "Date": "05-Aug-2010",
+                        "Source": "IFAD",
+                        "Description": "3rdinstallment",
+                        "Gross": "6796300R",
+                        "Net": "6598409R",
+                        "Tax": "197891R",
+                        "Verified": "TheavyPheng"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "35,030,300R",
+                        "ActualPaymentCumulativeToDate(A)Net": "34,010,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,020,300R",
+                        "ContractValue(B)Gross": "35,030,300R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Road rehabilitation and road maintenaince",
+            "project_link": "/pid/project/home/view.castle?pid=30163c69-18e4-4b52-b584-9dfa010788c0",
+            "project_html_data": {
+                "Pid": "30163c69-18e4-4b52-b584-9dfa010788c0",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ly  Sethy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Road rehabilitation and road maintenaince",
+                        "Objective": "At the end of 2011 in commune have good road for traveling.",
+                        "Relatedcontract(s)": "140307/10/01-01 140307/11/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "58,370,300",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "8,342,700",
+                        "Total": "67,213,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolRoka",
+                        "BeneficiaryTotal": "1,419",
+                        "BeneficiaryWomen": "756",
+                        "Households": "304"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tuol Roka",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 12,363.710 Volume of earth (m3)",
+                        "Qty": "1.870 km",
+                        "UnitCost": "31,895,426",
+                        "Total": "59,644,447"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The out put of project will not damage to forest, wild life, wet land, national park and cultural temple and project not expand length of road more than 25% of total existing length."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "30-Jul-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Prey Veng Province is not High Land target."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Jul-2010",
+                            "Technicalclearancesign-off": "30-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307110101",
+            "contract_html_data": {
+                "Id": "140307110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/11/01-01",
+                        "TechnicalSupervisor": "Ly Sethy",
+                        "Project'sName": "Road rehabilitation and road maintenaince",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Has Sarit, [ Has Sarit ]",
+                        "Competitivebidding": "Yes ( 26-May-2011 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "06-Jun-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Jul-2011",
+                        "Plannedworkcompletiondate": "09-Sep-2011",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "61,644,908"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhunYeang",
+                        "Contractor": "ChhunYeang",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "YChhunLy",
+                        "Contractor": "YChhunLy",
+                        "BidValue": "47,880,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HasSarit",
+                        "Contractor": "HasSarit",
+                        "BidValue": "37,499,800R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "40,230,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChhounRothana",
+                        "Contractor": "ChhounRothana",
+                        "BidValue": "44,000,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PinRith",
+                        "Contractor": "PinRith",
+                        "BidValue": "58,399,890R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "62,144,908",
+                        "Village": "Anlong Chak",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 3,978.790 Volume of earth (m3)",
+                        "Bid": "0.900 km",
+                        "InContract": "0.900 km",
+                        "Actualquantity": "0.900 km",
+                        "UnitCost/Estimated": "21,894,000est. 31,895,426",
+                        "DiscountRate": "-31 %",
+                        "Total": "19,704,600"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Nov-2011",
+                        "Actualworkcompletiondate": "20-Jan-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-Dec-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Chin Vanna",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "20-Jan-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Chin Vanna",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "24857963R",
+                        "Net": "24126846R",
+                        "Tax": "731117R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "23-Jan-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "24857963R",
+                        "Net": "24126846R",
+                        "Tax": "731117R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Jul-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "11928982R",
+                        "Net": "11578131R",
+                        "Tax": "350851R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Jul-2012",
+                        "Source": "LC",
+                        "Description": "3rdPayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "62,144,908R",
+                        "ActualPaymentCumulativeToDate(A)Net": "60,317,117R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,827,791R",
+                        "ContractValue(B)Gross": "62,144,908R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand road repaire and maintenance",
+            "project_link": "/pid/project/home/view.castle?pid=88fc6367-3280-4876-8d44-9f7900fbdfe8",
+            "project_html_data": {
+                "Pid": "88fc6367-3280-4876-8d44-9f7900fbdfe8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Sok Leat",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand road repaire and maintenance",
+                        "Objective": "At the end of 2011 in commune have good road for traveling.",
+                        "Relatedcontract(s)": "140307/11/02-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "66,308,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "66,308,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPhdau",
+                        "BeneficiaryTotal": "1,237",
+                        "BeneficiaryWomen": "610",
+                        "Households": "271"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Anlong Reach",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 2,072.000 Volume of earth (m3)",
+                        "Qty": "1.750 km",
+                        "UnitCost": "30,072,170",
+                        "Total": "52,626,298"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "b"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Aug-2011",
+                            "Technicalclearancesign-off": "24-Sep-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/11/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307110201",
+            "contract_html_data": {
+                "Id": "140307110201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/11/02-01",
+                        "TechnicalSupervisor": "Sok Leat",
+                        "Project'sName": "Sand road repaire and maintenance",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Nam Kim, [ Nam Kim ]",
+                        "Competitivebidding": "Yes ( 01-Dec-2011 )",
+                        "Numberofcontractor": "14",
+                        "Contractsigndate(Form50)": "13-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Dec-2011",
+                        "Plannedworkcompletiondate": "30-Jan-2012",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "63,678,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhunYeang",
+                        "Contractor": "ChhunYeang",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NeangSon",
+                        "Contractor": "NeangSon",
+                        "BidValue": "55,839,114R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "YuosDara",
+                        "Contractor": "YuosDara",
+                        "BidValue": "49,775,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HasSarit",
+                        "Contractor": "HasSarit",
+                        "BidValue": "37,400,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HeungKeng",
+                        "Contractor": "HeungKeng",
+                        "BidValue": "42,600,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ChhengEngSrun",
+                        "Contractor": "ChhengEngSrun",
+                        "BidValue": "36,915,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "NamKim",
+                        "Contractor": "NamKim",
+                        "BidValue": "31,470,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "ChhounRothana",
+                        "Contractor": "ChhounRothana",
+                        "BidValue": "36,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "UkSina",
+                        "Contractor": "UkSina",
+                        "BidValue": "55,600,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "ChounSophanna",
+                        "Contractor": "ChounSophanna",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "KhoemPhoeun",
+                        "Contractor": "KhoemPhoeun",
+                        "BidValue": "40,800,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "SoVanney",
+                        "Contractor": "SoVanney",
+                        "BidValue": "33,500,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "",
+                        "Contractor": "ChhoeunPhay",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "64,178,400",
+                        "Village": "Anlong Reach",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 2,072.000 Volume of earth (m3)",
+                        "Bid": "1.750 km",
+                        "InContract": "1.750 km",
+                        "Actualquantity": "1.750 km",
+                        "UnitCost/Estimated": "17,000,000est. 30,072,170",
+                        "DiscountRate": "-43 %",
+                        "Total": "29,750,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Dec-2011",
+                        "Actualworkcompletiondate": "03-Feb-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Jan-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "03-Feb-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "25671400R",
+                        "Net": "24916359R",
+                        "Tax": "755041R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "16-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "25671400R",
+                        "Net": "24916359R",
+                        "Tax": "755041R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "12335600R",
+                        "Net": "11972788R",
+                        "Tax": "362812R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "07-Aug-2012",
+                        "Source": "LC",
+                        "Description": "3rdPayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "64,178,400R",
+                        "ActualPaymentCumulativeToDate(A)Net": "62,290,800R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,887,600R",
+                        "ContractValue(B)Gross": "64,178,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road repair",
+            "project_link": "/pid/project/home/view.castle?pid=9806988e-1f0f-48ec-8815-9fd6009d2bb3",
+            "project_html_data": {
+                "Pid": "9806988e-1f0f-48ec-8815-9fd6009d2bb3",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhoeung Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road repair",
+                        "Objective": "At the end of 2011,  commune will have good road for traveling and transport products",
+                        "Relatedcontract(s)": "140307/12/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "78,893,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "78,893,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KampongTrabaek",
+                        "BeneficiaryTotal": "1,115",
+                        "BeneficiaryWomen": "577",
+                        "Households": "301"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Trabaek",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 5,580.000 Volume of earth (m3)",
+                        "Qty": "0.750 km",
+                        "UnitCost": "50,048,394",
+                        "Total": "37,536,296"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "16-May-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Jan-2012",
+                            "Technicalclearancesign-off": "19-Jan-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307120101",
+            "contract_html_data": {
+                "Id": "140307120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/12/01-01",
+                        "TechnicalSupervisor": "Chhoeung Sichan",
+                        "Project'sName": "Earth Road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ly Menghak, [  ]",
+                        "Competitivebidding": "Yes ( 10-Oct-2012 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "12-Nov-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Nov-2012",
+                        "Plannedworkcompletiondate": "14-Jan-2013",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "86,950,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "YChhunLy",
+                        "Contractor": "YChhunLy",
+                        "BidValue": "47,250,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NamKim",
+                        "Contractor": "NamKim",
+                        "BidValue": "52,800,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UkSina",
+                        "Contractor": "UkSina",
+                        "BidValue": "43,722,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HoemNagry",
+                        "Contractor": "HoemNagry",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HunSamAng",
+                        "Contractor": "YinKimchheang",
+                        "BidValue": "46,950,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "HoengHorn",
+                        "Contractor": "SamnangPeanich",
+                        "BidValue": "40,125,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "LyMenghak",
+                        "BidValue": "39,900,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "87,450,000",
+                        "Village": "Kampong Trabaek",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 5,580.000 Volume of earth (m3)",
+                        "Bid": "0.750 km",
+                        "InContract": "0.750 km",
+                        "Actualquantity": "0.750 km",
+                        "UnitCost/Estimated": "10,000,000est. 50,048,394",
+                        "DiscountRate": "-80 %",
+                        "Total": "7,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-Mar-2013",
+                        "Actualworkcompletiondate": "21-Apr-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-Mar-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "21-Apr-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "27-Mar-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "34980000R",
+                        "Net": "31800000R",
+                        "Tax": "3180000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "22-May-2013",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "34980000R",
+                        "Net": "31800000R",
+                        "Tax": "3180000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "69,960,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "63,600,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "6,360,000R",
+                        "ContractValue(B)Gross": "87,450,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Sand Road",
+            "project_link": "/pid/project/home/view.castle?pid=068839d1-83f8-4bc2-8f2f-a1c7010da139",
+            "project_html_data": {
+                "Pid": "068839d1-83f8-4bc2-8f2f-a1c7010da139",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhen Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road",
+                        "Objective": "Not Translate",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "91,194,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "91,194,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolRoka",
+                        "BeneficiaryTotal": "1,511",
+                        "BeneficiaryWomen": "633",
+                        "Households": "270"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Anlong Reach",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 2,236.000 Volume of earth (m3)",
+                        "Qty": "1.800 km",
+                        "UnitCost": "24,187,749",
+                        "Total": "43,537,948"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Mar-2013",
+                            "Technicalclearancesign-off": "05-Apr-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "Sand Road",
+            "project_link": "/pid/project/home/view.castle?pid=e634f3f7-8261-4652-8aad-a21d006e843e",
+            "project_html_data": {
+                "Pid": "e634f3f7-8261-4652-8aad-a21d006e843e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhen Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140307/13/01-01 ",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "91,194,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "91,194,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolRoka",
+                        "BeneficiaryTotal": "1,511",
+                        "BeneficiaryWomen": "633",
+                        "Households": "270"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Anlong Reach",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 2,236.000 Volume of earth (m3)",
+                        "Qty": "1.800 km",
+                        "UnitCost": "24,187,749",
+                        "Total": "43,537,948"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Mar-2013",
+                            "Technicalclearancesign-off": "05-Apr-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307130101",
+            "contract_html_data": {
+                "Id": "140307130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/13/01-01",
+                        "TechnicalSupervisor": "Chhen Sichan",
+                        "Project'sName": "Sand Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Mov Ratha, [ Mov Ratha ]",
+                        "Contractsigndate(Form50)": "17-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Jun-2013",
+                        "Plannedworkcompletiondate": "25-Jul-2013",
+                        "CreatedBy": "Ou Kolab",
+                        "Mobile": "088 8747666",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "88,656,777"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "89,156,777",
+                        "Village": "Anlong Reach",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 2,236.000 Volume of earth (m3)",
+                        "Bid": "1.800 km",
+                        "InContract": "1.800 km",
+                        "Actualquantity": "1.800 km",
+                        "UnitCost/Estimated": "24,187,000est. 24,187,749",
+                        "DiscountRate": "0 %",
+                        "Total": "43,536,600"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "21-Jun-2013",
+                        "Actualworkcompletiondate": "05-Aug-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "08-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "05-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Ou Kolab",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "09-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "35162710R",
+                        "Net": "34113806R",
+                        "Tax": "1048904R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "500000R",
+                        "Net": "500000R",
+                        "Tax": "0R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "35662710R",
+                        "Net": "34613806R",
+                        "Tax": "1048904R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "71,325,420R",
+                        "ActualPaymentCumulativeToDate(A)Net": "69,227,612R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,097,808R",
+                        "ContractValue(B)Gross": "89,156,777R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=7b53c894-bdcc-4526-a1b5-a3ab0072f932",
+            "project_html_data": {
+                "Pid": "7b53c894-bdcc-4526-a1b5-a3ab0072f932",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhen Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "At the end of 2014,  commune will have good road for traveling and transport products",
+                        "Relatedcontract(s)": "140307/14/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "65,114,600",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,114,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPhdau",
+                        "BeneficiaryTotal": "1,278",
+                        "BeneficiaryWomen": "633",
+                        "Households": "202"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Phdau",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 16,547.000 Volume of earth (m3)",
+                        "Qty": "2.400 km",
+                        "UnitCost": "50,441,944",
+                        "Total": "121,060,666"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Jan-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Apr-2014",
+                            "Technicalclearancesign-off": "24-Apr-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307140101",
+            "contract_html_data": {
+                "Id": "140307140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/14/01-01",
+                        "TechnicalSupervisor": "Chhen Sichan",
+                        "Project'sName": "Earth Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Uk Sina, [ Uk Sina ]",
+                        "Competitivebidding": "Yes ( 11-Jun-2014 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "20-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jul-2014",
+                        "Plannedworkcompletiondate": "10-Sep-2014",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "80,701,250"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UkSina",
+                        "Contractor": "UkSina",
+                        "BidValue": "25,200,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SOSOVANNDARA",
+                        "Contractor": "SOSOVANNDARA",
+                        "BidValue": "26,420,000R",
+                        "DiscountRate": "-50%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "YinSophap",
+                        "Contractor": "YinSophap",
+                        "BidValue": "29,900,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "28,500,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "81,001,250",
+                        "Village": "Preaek Phdau",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 16,547.000 Volume of earth (m3)",
+                        "Bid": "0.800 km",
+                        "InContract": "2.350 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "31,250,000est. 50,441,944",
+                        "DiscountRate": "-38 %",
+                        "Total": "73,437,500"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "23-Jul-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Jul-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "05-Aug-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "81,001,250R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth Road",
+            "project_link": "/pid/project/home/view.castle?pid=80758fb9-8855-40c8-8b5c-a3ab0077ddb8",
+            "project_html_data": {
+                "Pid": "80758fb9-8855-40c8-8b5c-a3ab0077ddb8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhen Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth Road",
+                        "Objective": "At the end of 2014,  commune will have good road for traveling and transport products",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "65,114,600",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "65,114,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPhdau",
+                        "BeneficiaryTotal": "1,278",
+                        "BeneficiaryWomen": "633",
+                        "Households": "202"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Phdau",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 16,547.000 Volume of earth (m3)",
+                        "Qty": "2.400 km",
+                        "UnitCost": "50,441,944",
+                        "Total": "121,060,666"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The output of project will not damage to forest, wild life, wet land, national park and cultural temple."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "15-Jan-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Apr-2014",
+                            "Technicalclearancesign-off": "24-Apr-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "Sand Road",
+            "project_link": "/pid/project/home/view.castle?pid=f4b53b8d-4d5d-4949-a748-a4aa00f0f90e",
+            "project_html_data": {
+                "Pid": "f4b53b8d-4d5d-4949-a748-a4aa00f0f90e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhen Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Sand Road",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140307/15/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "76,352,400",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "76,352,400"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPhdau",
+                        "BeneficiaryTotal": "1,311",
+                        "BeneficiaryWomen": "646",
+                        "Households": "275"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Trabaek",
+                        "Description": "Sand Road Repair [ 1010104 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 1,344.000 Volume of earth (m3)",
+                        "Qty": "0.600 km",
+                        "UnitCost": "34,628,839",
+                        "Total": "20,777,303"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-Mar-2015",
+                            "Technicalclearancesign-off": "19-Mar-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307150101",
+            "contract_html_data": {
+                "Id": "140307150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/15/01-01",
+                        "TechnicalSupervisor": "Chhen Sichan",
+                        "Project'sName": "Sand Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Uk Sina, [ Uk Sina ]",
+                        "Competitivebidding": "Yes ( 09-Apr-2015 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "21-May-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "21-May-2015",
+                        "Plannedworkcompletiondate": "25-Jun-2015",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "77,294,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Imphol",
+                        "Contractor": "Imphol",
+                        "BidValue": "33,300,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NamKim",
+                        "Contractor": "NamKim",
+                        "BidValue": "43,400,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "UkSina",
+                        "Contractor": "UkSina",
+                        "BidValue": "32,780,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "77,594,000",
+                        "Village": "Anlong Chak",
+                        "Description": "[ 1010104 ] Sand Road RepairDimension #1 : 3.600 Width (m)Dimension #2 : 4,770.000 Volume of earth (m3)",
+                        "Bid": "1.100 km",
+                        "InContract": "1.500 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "29,500,000est. 34,001,229",
+                        "DiscountRate": "-13 %",
+                        "Total": "44,250,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "21-May-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "26-May-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "25-Dec-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "77,594,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Not Translate",
+            "project_link": "/pid/project/home/view.castle?pid=39d135bb-4c55-4c93-8744-a63200f6294c",
+            "project_html_data": {
+                "Pid": "39d135bb-4c55-4c93-8744-a63200f6294c",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban Drainage and Flood Protection",
+                        "TechnicalAssistant": "Chhen Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Not Translate",
+                        "Objective": "Not Translate",
+                        "Relatedcontract(s)": "140307/16/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "91,030,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "91,030,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KampongTrabaek",
+                        "BeneficiaryTotal": "1,312",
+                        "BeneficiaryWomen": "658",
+                        "Households": "332"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Trabaek",
+                        "Description": "Box drainage New [ 1100402 ]Dimension #1 : 0.500 Width (m)Dimension #2 : 270.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "80,687,813",
+                        "Total": "80,687,813"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not Translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Feb-2016",
+                            "Technicalclearancesign-off": "29-Feb-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307160101",
+            "contract_html_data": {
+                "Id": "140307160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/16/01-01",
+                        "TechnicalSupervisor": "Chhen Sichan",
+                        "Project'sName": "Not Translate",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban Drainage and Flood Protection",
+                        "Contractor": "Mov Ratha, [ Mov Ratha ]",
+                        "Competitivebidding": "Yes ( 06-Apr-2016 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "02-May-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "03-May-2016",
+                        "Plannedworkcompletiondate": "31-May-2016",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "65,831,188"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UkSina",
+                        "Contractor": "UkSina",
+                        "BidValue": "53,950,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MovRatha",
+                        "Contractor": "MovRatha",
+                        "BidValue": "53,900,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "TesChanSovann",
+                        "Contractor": "Teschansovann",
+                        "BidValue": "54,250,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MonDavid",
+                        "Contractor": "DevidDevelopment",
+                        "BidValue": "54,300,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "66,131,188",
+                        "Village": "Kampong Trabaek",
+                        "Description": "[ 1100402 ] Box drainage NewDimension #1 : 0.500 Width (m)Dimension #2 : 203.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": "1.000 Line",
+                        "UnitCost/Estimated": "60,119,262est. 80,687,813",
+                        "DiscountRate": "-25 %",
+                        "Total": "60,119,262"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "03-May-2016",
+                        "Actualworkcompletiondate": "11-Jan-2017",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-May-2016",
+                            "Progress": "50 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "14-Jul-2016",
+                            "Progress": "100 %",
+                            "ReportBy": "Bun Samath",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "66,131,188R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=1eb58d72-58da-4c5c-ac89-a9cb00670a26",
+            "project_html_data": {
+                "Pid": "1eb58d72-58da-4c5c-ac89-a9cb00670a26",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chhen Sichan",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "Not translate",
+                        "Relatedcontract(s)": "140307/17/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "60,352,400",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "60,352,400"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPhdau",
+                        "BeneficiaryTotal": "1,356",
+                        "BeneficiaryWomen": "665",
+                        "Households": "275"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Anlong Chak",
+                        "Description": "Sand Road Upgrade [ 1010104 ]Dimension #1 : 3.600 Width (m)Dimension #2 : 4,786.000 Volume of earth (m3)",
+                        "Qty": "1.500 km",
+                        "UnitCost": "34,317,763",
+                        "Total": "51,476,645"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Feb-2017",
+                            "Technicalclearancesign-off": "09-Mar-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307170101",
+            "contract_html_data": {
+                "Id": "140307170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/17/01-01",
+                        "TechnicalSupervisor": "Chhen Sichan",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ly Limheng, [ Ly Limheng ]",
+                        "Competitivebidding": "Yes ( 25-Apr-2017 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "16-May-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-May-2017",
+                        "Plannedworkcompletiondate": "17-Jun-2017",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "91,750,001"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UkSina",
+                        "Contractor": "UkSina",
+                        "BidValue": "74,030,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MovRatha",
+                        "Contractor": "MovRatha",
+                        "BidValue": "73,920,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "92,050,001",
+                        "Village": "Preaek Phdau",
+                        "Description": "[ 1010104 ] Sand Road UpgradeDimension #1 : 3.600 Width (m)Dimension #2 : 3,467.000 Volume of earth (m3)",
+                        "Bid": "0.700 km",
+                        "InContract": "1.130 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "31,818,182est. 34,317,763",
+                        "DiscountRate": "-7 %",
+                        "Total": "35,954,546"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "92,050,001R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=1df575d7-cfcb-4048-a997-ab0a00af995e",
+            "project_html_data": {
+                "Pid": "1df575d7-cfcb-4048-a997-ab0a00af995e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "Not translate",
+                        "Relatedcontract(s)": "140307/18/01-01 ",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "90,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "90,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "TuolRoka",
+                        "BeneficiaryTotal": "826",
+                        "BeneficiaryWomen": "355",
+                        "Households": "137"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Anlong Reach",
+                        "Description": "Sand Road​ width <4m Repair [ 1010122 ]Dimension #1 : 3.600 Width (m)Dimension #2 : 9,845.000 Volume of earth (m3)",
+                        "Qty": "2.800 km",
+                        "UnitCost": "39,967,091",
+                        "Total": "111,907,855"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not translate"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "09-Mar-2018",
+                            "Technicalclearancesign-off": "05-Apr-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "140307/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=140307180101",
+            "contract_html_data": {
+                "Id": "140307180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 140307 ] Prey Veng \\ Kampong Trabaek \\ Kampong Trabaek",
+                        "Contract": "140307/18/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "HENG DARA, [ Heng Dara ]",
+                        "Competitivebidding": "Yes ( 07-May-2018 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "20-Jun-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "21-Jun-2018",
+                        "Plannedworkcompletiondate": "28-Aug-2018",
+                        "CreatedBy": "Bun Samath",
+                        "Mobile": "",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "108,420,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "NamKim",
+                        "Contractor": "NamKim",
+                        "BidValue": "52,800,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SOSOVANNDARA",
+                        "Contractor": "SOSOVANNDARA",
+                        "BidValue": "55,200,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LyLimheng",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "45,600,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HengDara",
+                        "Contractor": "HENGDARA",
+                        "BidValue": "43,200,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "108,720,000",
+                        "Village": "Anlong Reach",
+                        "Description": "[ 1010122 ] Sand Road​ width <4m RepairDimension #1 : 3.600 Width (m)Dimension #2 : 9,845.000 Volume of earth (m3)",
+                        "Bid": "2.400 km",
+                        "InContract": "2.800 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "18,000,000est. 39,967,091",
+                        "DiscountRate": "-55 %",
+                        "Total": "50,400,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "108,720,000R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

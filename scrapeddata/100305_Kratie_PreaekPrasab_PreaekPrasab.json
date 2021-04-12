@@ -1,0 +1,1854 @@
+{
+    "location": {
+        "province": "Kratie",
+        "district": "Preaek Prasab",
+        "commune": "Preaek Prasab"
+    },
+    "projects": [
+        {
+            "project_name": "Laterite road repairing",
+            "project_link": "/pid/project/home/view.castle?pid=a05e8a20-34be-49bd-9add-9c610095a3c6",
+            "project_html_data": {
+                "Pid": "a05e8a20-34be-49bd-9add-9c610095a3c6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Nhep Chhun Sroeun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repairing",
+                        "Objective": "Facility the access road to people for travailing and transportation.",
+                        "Relatedcontract(s)": "100305/09/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "46,684,940",
+                        "LocalRevenue": "1,000,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "47,684,940"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuLung",
+                        "BeneficiaryTotal": "1,010",
+                        "BeneficiaryWomen": "650",
+                        "Households": "202"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ou Lung",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 5,954.000 Volume of earth (m3)",
+                        "Qty": "2.250 km",
+                        "UnitCost": "21,193,307",
+                        "Total": "47,684,941"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "23-Apr-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not in the watch list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Apr-2009",
+                            "Technicalclearancesign-off": "03-Jun-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100305/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100305090101",
+            "contract_html_data": {
+                "Id": "100305090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Contract": "100305/09/01-01( 2 )",
+                        "TechnicalSupervisor": "Nhep Chhun Sroeun",
+                        "Project'sName": "Laterite road repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Poun Chandet, [ Poun Chandet ]",
+                        "Competitivebidding": "Yes ( 19-Jun-2009 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "10-Jul-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2009",
+                        "Plannedworkcompletiondate": "18-Mar-2010",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "20-Apr-2010",
+                        "Closeddateon": "12-Sep-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "48,067,068"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PoaIp",
+                        "Contractor": "SamNangSok",
+                        "BidValue": "41,184,934R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChovChheng",
+                        "Contractor": "ChovChheng",
+                        "BidValue": "43,532,199R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SengKimchang",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "39,712,500R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "VaSophal",
+                        "Contractor": "PhalMeanchey",
+                        "BidValue": "41,880,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "PrakSophy",
+                        "Contractor": "SamnangTaiheng",
+                        "BidValue": "42,525,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PounChandet",
+                        "Contractor": "PounChandet",
+                        "BidValue": "38,144,250R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": "winner"
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "YKimLun",
+                        "Contractor": "YKimLun",
+                        "BidValue": "39,578,499R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "UpMab",
+                        "Contractor": "ChanMahasambat",
+                        "BidValue": "44,684,939R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "OunLout",
+                        "Contractor": "OunLout",
+                        "BidValue": "43,875,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "49,067,068",
+                        "Village": "Ou Lung",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 7,356.000 Volume of earth (m3)",
+                        "Bid": "2.250 km",
+                        "InContract": "2.810 km",
+                        "Actualquantity": "2.810 km",
+                        "UnitCost/Estimated": "16,953,000est. 21,193,307",
+                        "DiscountRate": "-20 %",
+                        "Total": "47,637,930"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "11-Jan-2010",
+                        "Actualworkcompletiondate": "12-Mar-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "11-Jan-2010",
+                            "Progress": "5 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "work starting."
+                        },
+                        {
+                            "Date": "04-Mar-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "50% completed, could withdraw first payment."
+                        },
+                        {
+                            "Date": "12-Mar-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "Work 100% completed, could withdrew second payment."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "10-Mar-2010",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "19626827R",
+                        "Net": "19038022R",
+                        "Tax": "588805R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "19-Mar-2010",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "19626827R",
+                        "Net": "19038022R",
+                        "Tax": "588805R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "21-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "8813414R",
+                        "Net": "8591886R",
+                        "Tax": "221528R",
+                        "Verified": "KongSophea"
+                    },
+                    {
+                        "Date": "21-Sep-2010",
+                        "Source": "LC",
+                        "Description": "LocalContribution",
+                        "Gross": "1000000R",
+                        "Net": "970000R",
+                        "Tax": "30000R",
+                        "Verified": "KongSophea"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "49,067,068R",
+                        "ActualPaymentCumulativeToDate(A)Net": "47,637,930R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,429,138R",
+                        "ContractValue(B)Gross": "49,067,068R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Natural gravel road",
+            "project_link": "/pid/project/home/view.castle?pid=d6b53cdc-378f-41d2-92a3-9dd400b2a978",
+            "project_html_data": {
+                "Pid": "d6b53cdc-378f-41d2-92a3-9dd400b2a978",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Nhep Chhun Sroeun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Natural gravel road",
+                        "Objective": "People has access road, easy to travel and transportation, to increase their living condition.",
+                        "Relatedcontract(s)": "100305/10/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "73,347,456",
+                        "LocalRevenue": "500,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "73,847,456"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPrasabKandal",
+                        "BeneficiaryTotal": "1,268",
+                        "BeneficiaryWomen": "632",
+                        "Households": "254"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Prasab Kandal",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 6,475.170 Volume of earth (m3)",
+                        "Qty": "2.000 km",
+                        "UnitCost": "36,923,728",
+                        "Total": "73,847,456"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "12-Aug-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Not in HP"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Aug-2010",
+                            "Technicalclearancesign-off": "30-Aug-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100305/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100305100101",
+            "contract_html_data": {
+                "Id": "100305100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Contract": "100305/10/01-01",
+                        "TechnicalSupervisor": "Nhep Chhun Sroeun",
+                        "Project'sName": "Natural gravel road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Seng chanthy, [ Seng chanthy ]",
+                        "Competitivebidding": "Yes ( 17-Sep-2010 )",
+                        "Numberofcontractor": "17",
+                        "Contractsigndate(Form50)": "04-Oct-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Nov-2010",
+                        "Plannedworkcompletiondate": "25-Dec-2010",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "15-Feb-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "74,851,276"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "IngTry",
+                        "Contractor": "IngTry",
+                        "BidValue": "44,308,474R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SiekLeangHai",
+                        "Contractor": "SiekLeangHai",
+                        "BidValue": "71,870,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChovChheng",
+                        "Contractor": "ChovChheng",
+                        "BidValue": "46,800,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SengKimchang",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "VaSophal",
+                        "Contractor": "PhalMeanchey",
+                        "BidValue": "55,200,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PrakSophy",
+                        "Contractor": "SamnangTaiheng",
+                        "BidValue": "44,600,000R",
+                        "DiscountRate": "-40%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "OunLout",
+                        "Contractor": "OunLout",
+                        "BidValue": "42,462,288R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "Yes",
+                        "Reason": "Notsigninthebidsubmission"
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KingKimsour",
+                        "Contractor": "K.KSangsong",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "MaoKimSrang",
+                        "Contractor": "MaoKimSrang",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "SosRoYMas",
+                        "Contractor": "HimSammaKiApivath",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "VengTy",
+                        "Contractor": "VengTy",
+                        "BidValue": "48,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "SenEng",
+                        "Contractor": "SenEng",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "ChhengVuoch",
+                        "Contractor": "ChhengVuoch",
+                        "BidValue": "72,340,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "Sengchanthy",
+                        "Contractor": "Sengchanthy",
+                        "BidValue": "38,376,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "15",
+                        "Director'sName": "RetRy",
+                        "Contractor": "RetRy",
+                        "BidValue": "40,600,000R",
+                        "DiscountRate": "-45%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "16",
+                        "Director'sName": "VengKimLeng",
+                        "Contractor": "VengKimLeng",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "17",
+                        "Director'sName": "TrimKosal",
+                        "Contractor": "TrimKosal",
+                        "BidValue": "44,800,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "75,351,276",
+                        "Village": "Preaek Prasab Kandal",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 12,460.000 Volume of earth (m3)",
+                        "Bid": "2.000 km",
+                        "InContract": "3.850 km",
+                        "Actualquantity": "3.850 km",
+                        "UnitCost/Estimated": "19,188,000est. 36,923,728",
+                        "DiscountRate": "-48 %",
+                        "Total": "73,873,800"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "17-Nov-2010",
+                        "Actualworkcompletiondate": "05-Jul-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Nov-2010",
+                            "Progress": "5 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "work start."
+                        },
+                        {
+                            "Date": "20-Dec-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "50% work completed could withdrew he first payment."
+                        },
+                        {
+                            "Date": "03-Jan-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Tat Ny",
+                            "Note": "100% work completed, could withdrew second payment."
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "30140510R",
+                        "Net": "29254024R",
+                        "Tax": "886486R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "07-Feb-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "29640510R",
+                        "Net": "28763730R",
+                        "Tax": "876780R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "07-Feb-2011",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "11-Jul-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "15070256R",
+                        "Net": "14627014R",
+                        "Tax": "443242R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "75,351,276R",
+                        "ActualPaymentCumulativeToDate(A)Net": "73,130,062R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,221,214R",
+                        "ContractValue(B)Gross": "75,351,276R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Toul Tnout and Toulbyrong dam rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=77f0597f-c68c-443d-a021-9f7800ffac49",
+            "project_html_data": {
+                "Pid": "77f0597f-c68c-443d-a021-9f7800ffac49",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Nhep Chhun Sroeun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Toul Tnout and Toulbyrong dam rehabilitation",
+                        "Objective": "Having water resource for agriculture to increase people livelihood.",
+                        "Relatedcontract(s)": "100305/11/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "81,631,000",
+                        "LocalRevenue": "600,000",
+                        "CarryOver": "31,742,831",
+                        "Other": "0",
+                        "Total": "113,973,831"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "DeiDohKraom",
+                        "BeneficiaryTotal": "500",
+                        "BeneficiaryWomen": "270",
+                        "Households": "100"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Dei Doh Kraom",
+                        "Description": "Earth dam Repair [ 1020301 ]Dimension #1 : 3.300 Max. height (m)Dimension #2 : 2,396.290 Volume (m3)",
+                        "Qty": "0.120 km",
+                        "UnitCost": "175,850,452",
+                        "Total": "21,102,054"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "05-Jul-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Outside of highland people list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Oct-2011",
+                            "Technicalclearancesign-off": "21-Nov-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100305/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100305110101",
+            "contract_html_data": {
+                "Id": "100305110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Contract": "100305/11/01-01",
+                        "TechnicalSupervisor": "Nhep Chhun Sroeun",
+                        "Project'sName": "Toul Tnout and Toulbyrong dam rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Lim Det, [  ]",
+                        "Competitivebidding": "Yes ( 19-Dec-2011 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "28-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Feb-2012",
+                        "Plannedworkcompletiondate": "15-Mar-2012",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "70,369,800"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhitHarch",
+                        "Contractor": "ChhitHarch",
+                        "BidValue": "81,690,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "YinSothea",
+                        "Contractor": "SotheaSamnang",
+                        "BidValue": "82,492,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HuotSiveng",
+                        "Contractor": "HuotSiveng",
+                        "BidValue": "79,642,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SimPhea",
+                        "Contractor": "SimPhea",
+                        "BidValue": "82,003,200R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimDet",
+                        "Contractor": "LimDet",
+                        "BidValue": "68,990,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KungSavy",
+                        "Contractor": "KungSavy",
+                        "BidValue": "81,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "70,369,800",
+                        "Village": "Thma Reab",
+                        "Description": "[ 1020301 ] Earth dam RepairDimension #1 : 1.880 Max. height (m)Dimension #2 : 3,061.700 Volume (m3)",
+                        "Bid": "0.350 km",
+                        "InContract": "0.350 km",
+                        "Actualquantity": "0.350 km",
+                        "UnitCost/Estimated": "117,000,000est. 73,155,673",
+                        "DiscountRate": "60 %",
+                        "Total": "40,950,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Feb-2012",
+                        "Actualworkcompletiondate": "04-Dec-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "13-Mar-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-May-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "19-Mar-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "28147920R",
+                        "Net": "27320040R",
+                        "Tax": "827880R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "28-May-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "28147920R",
+                        "Net": "27320040R",
+                        "Tax": "827880R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "13673960R",
+                        "Net": "13271785R",
+                        "Tax": "402175R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "400000R",
+                        "Net": "388235R",
+                        "Tax": "11765R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "70,369,800R",
+                        "ActualPaymentCumulativeToDate(A)Net": "68,300,100R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,069,700R",
+                        "ContractValue(B)Gross": "70,369,800R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Natural gravel road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=e5b2f318-65ba-45c8-8ad2-a0af00a8987f",
+            "project_html_data": {
+                "Pid": "e5b2f318-65ba-45c8-8ad2-a0af00a8987f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Nhep Chhun Sroeun",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Natural gravel road rehabilitation",
+                        "Objective": "Having good road for people traveling and goods transportation to increase people livelihood.",
+                        "Relatedcontract(s)": "100305/12/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "98,396,000",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "41,165,202",
+                        "Other": "0",
+                        "Total": "139,961,202"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPrang",
+                        "BeneficiaryTotal": "1,532",
+                        "BeneficiaryWomen": "826",
+                        "Households": "306"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Prang",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 5,397.780 Volume of earth (m3)",
+                        "Qty": "2.425 km",
+                        "UnitCost": "28,798,408",
+                        "Total": "69,836,139"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project did not require environment study."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "02-May-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Outside of highland people list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-May-2012",
+                            "Technicalclearancesign-off": "19-Jun-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100305/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100305120101",
+            "contract_html_data": {
+                "Id": "100305120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Contract": "100305/12/01-01",
+                        "TechnicalSupervisor": "Nhep Chhun Sroeun",
+                        "Project'sName": "Natural gravel road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chang Manimech, [ Seng Kimchang ]",
+                        "Competitivebidding": "Yes ( 10-Jul-2012 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "20-Jul-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Oct-2012",
+                        "Plannedworkcompletiondate": "15-Nov-2012",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "72,216,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PoaIp",
+                        "Contractor": "SamNangSok",
+                        "BidValue": "54,500,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengKimchang",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "49,650,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PounChandet",
+                        "Contractor": "PounChandet",
+                        "BidValue": "72,344,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "OunLout",
+                        "Contractor": "OunLout",
+                        "BidValue": "53,900,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "Sengchanthy",
+                        "Contractor": "Sengchanthy",
+                        "BidValue": "49,893,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "Rothyruraldevelopment",
+                        "BidValue": "56,925,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "72,216,000",
+                        "Village": "Preaek Prang",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 5,397.780 Volume of earth (m3)",
+                        "Bid": "2.425 km",
+                        "InContract": "3.600 km",
+                        "Actualquantity": "3.600 km",
+                        "UnitCost/Estimated": "18,000,000est. 28,798,408",
+                        "DiscountRate": "-37 %",
+                        "Total": "64,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Oct-2012",
+                        "Actualworkcompletiondate": "16-May-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Oct-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Nov-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Nov-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "28886400R",
+                        "Net": "28036800R",
+                        "Tax": "849600R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "15-Nov-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "28486400R",
+                        "Net": "27648859R",
+                        "Tax": "837541R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "15-Nov-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "400000R",
+                        "Net": "388235R",
+                        "Tax": "11765R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "29-May-2013",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "14443200R",
+                        "Net": "14018400R",
+                        "Tax": "424800R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "72,216,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "70,092,294R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,123,706R",
+                        "ContractValue(B)Gross": "72,216,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Box drainage",
+            "project_link": "/pid/project/home/view.castle?pid=d790b1ef-1bbf-4ad8-9bae-a2de00f68171",
+            "project_html_data": {
+                "Pid": "d790b1ef-1bbf-4ad8-9bae-a2de00f68171",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban Drainage and Flood Protection",
+                        "TechnicalAssistant": "ImNora",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Box drainage",
+                        "Objective": "Drain water from the road",
+                        "Relatedcontract(s)": "100305/13/01-01 ",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "113,555,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "46,228,302",
+                        "Other": "0",
+                        "Total": "159,783,302"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekPrasabKraom",
+                        "BeneficiaryTotal": "2,805",
+                        "BeneficiaryWomen": "1,431",
+                        "Households": "578"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Prasab Kraom",
+                        "Description": "Box drainage New [ 1100402 ]Dimension #1 : 0.400 Width (m)Dimension #2 : 1.200 Length (m)",
+                        "Qty": "1.200 Line",
+                        "UnitCost": "102,802,083",
+                        "Total": "123,362,500"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Reason": "This project required environment study.Under environmental watchlist.",
+                            "Submissiondate": "",
+                            "ApprovebyNCDDon": "11-Sep-2013 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Jun-2013",
+                            "Technicalclearancesign-off": "14-Oct-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100305/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100305130101",
+            "contract_html_data": {
+                "Id": "100305130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Contract": "100305/13/01-01",
+                        "TechnicalSupervisor": "ImNora",
+                        "Project'sName": "Box drainage",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban Drainage and Flood Protection",
+                        "Contractor": "Chang Manimech, [ Seng Kimchang ]",
+                        "Competitivebidding": "Yes ( 30-Oct-2013 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "20-Nov-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "22-Nov-2013",
+                        "Plannedworkcompletiondate": "23-Dec-2013",
+                        "CreatedBy": "Chrun Sao",
+                        "Mobile": "012 358 323",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "120,250,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SengKimchang",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "109,500,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SeanSen",
+                        "Contractor": "SeanSen",
+                        "BidValue": "113,000,000R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChanVon",
+                        "Contractor": "ChanVon",
+                        "BidValue": "124,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SeanNareoun",
+                        "Contractor": "SeanNareoun",
+                        "BidValue": "125,000,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "PhapPhon",
+                        "BidValue": "139,900,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "LayhengthongColtd",
+                        "BidValue": "139,900,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "120,450,000",
+                        "Village": "Preaek Prasab Kraom",
+                        "Description": "[ 1100401 ] Pipe drainage NewDimension #1 : 0.600 Diameter (m)Dimension #2 : 0.100 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": "1.000 Line",
+                        "UnitCost/Estimated": "17,500,000est. 22,335,300",
+                        "DiscountRate": "-22 %",
+                        "Total": "17,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "26-Nov-2013",
+                        "Actualworkcompletiondate": "25-Mar-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-Feb-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "25-Mar-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Chrun Sao",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "120,450,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=ec4dcc16-c80e-4d62-96ec-a3f400905cf8",
+            "project_html_data": {
+                "Pid": "ec4dcc16-c80e-4d62-96ec-a3f400905cf8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "ImNora",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "100305/14/01-01 ",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "105,450,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "57,625,886",
+                        "Other": "0",
+                        "Total": "163,075,886"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreyKur",
+                        "BeneficiaryTotal": "1,029",
+                        "BeneficiaryWomen": "537",
+                        "Households": "226"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Kur",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 14,008.530 Volume of earth (m3)",
+                        "Qty": "2.950 km",
+                        "UnitCost": "38,838,284",
+                        "Total": "114,572,938"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "14-Jul-2014 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "16-Jul-2014"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "27-May-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-Jun-2014",
+                            "Technicalclearancesign-off": "31-Jul-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100305/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100305140101",
+            "contract_html_data": {
+                "Id": "100305140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Contract": "100305/14/01-01",
+                        "TechnicalSupervisor": "ImNora",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Chang Manimech, [ Seng Kimchang ]",
+                        "Competitivebidding": "Yes ( 08-Sep-2014 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "02-Oct-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Nov-2014",
+                        "Plannedworkcompletiondate": "15-Dec-2014",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "156,550,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PoaIp",
+                        "Contractor": "SamNangSok",
+                        "BidValue": "144,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "Yes",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengKimchang",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "142,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "YKimLun",
+                        "Contractor": "YKimLun",
+                        "BidValue": "144,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "TaingDaret",
+                        "BidValue": "145,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "156,750,000",
+                        "Village": "Prey Kur",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 3.000 Width (m)Dimension #2 : 88.630 Volume of earth (m3)",
+                        "Bid": "0.100 km",
+                        "InContract": "0.100 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "36,600,000est. 10,667,677",
+                        "DiscountRate": "243 %",
+                        "Total": "3,660,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "31-Oct-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "20-Nov-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Cheng Sokdom",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "22-Dec-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Cheng Sokdom",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "156,750,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=0317105d-cd99-4585-b10c-a56a00aaf469",
+            "project_html_data": {
+                "Pid": "0317105d-cd99-4585-b10c-a56a00aaf469",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "100305/15/01-01 ",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "102,510,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "102,510,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "OuLung",
+                        "BeneficiaryTotal": "1,265",
+                        "BeneficiaryWomen": "620",
+                        "Households": "435"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ou Lung",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 9,297.150 Volume of earth (m3)",
+                        "Qty": "2.250 km",
+                        "UnitCost": "31,421,153",
+                        "Total": "70,697,594"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "10-Aug-2015 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "19-Aug-2015"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "21-Apr-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Jul-2015",
+                            "Technicalclearancesign-off": "25-Aug-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "100305/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=100305150101",
+            "contract_html_data": {
+                "Id": "100305150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Contract": "100305/15/01-01",
+                        "TechnicalSupervisor": "",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "luot Syna, [ Orn luot ]",
+                        "Competitivebidding": "Yes ( 15-Sep-2015 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "08-Oct-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2015",
+                        "Plannedworkcompletiondate": "28-Dec-2015",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": "",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "37,458,400"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MaunhSun",
+                        "Contractor": "Sirivathani",
+                        "BidValue": "41,900,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SengKimchang",
+                        "Contractor": "Changmanymech",
+                        "BidValue": "39,500,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "Ornluot",
+                        "Contractor": "luotSyna",
+                        "BidValue": "36,920,000R",
+                        "DiscountRate": "-55%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LayHengthong",
+                        "Contractor": "LayhengthongCo-Ltd",
+                        "BidValue": "68,700,000R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "DipSokun",
+                        "Contractor": "Sokunsakcheng",
+                        "BidValue": "51,980,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "RetRy",
+                        "Contractor": "RetRy",
+                        "BidValue": "45,425,000R",
+                        "DiscountRate": "-44%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "37,658,400",
+                        "Village": "Ou Lung",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 9,297.150 Volume of earth (m3)",
+                        "Bid": "2.250 km",
+                        "InContract": "2.250 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "13,600,000est. 31,421,153",
+                        "DiscountRate": "-57 %",
+                        "Total": "30,600,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-Dec-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Dec-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Cheng Sokdom",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Dec-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Cheng Sokdom",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "37,658,400R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=f04c9801-d53d-4d2d-9f78-a6ce00b63322",
+            "project_html_data": {
+                "Pid": "f04c9801-d53d-4d2d-9f78-a6ce00b63322",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 100305 ] Kratie \\ Preaek Prasab \\ Preaek Prasab",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "CreatedBy": "Cheng Sokdom",
+                        "Mobile": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "106,740,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "106,740,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "DeiDohKraom",
+                        "BeneficiaryTotal": "1,604",
+                        "BeneficiaryWomen": "857",
+                        "Households": "359"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Dei Doh Kraom",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 5,420.030 Volume of earth (m3)",
+                        "Qty": "1.150 km",
+                        "UnitCost": "28,864,932",
+                        "Total": "33,194,672"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This area is in environmental watchlist.",
+                            "Submissiondate": "This project required environment study.Under environmental watchlist.",
+                            "ApprovebyNCDDon": "20-Jul-2016 (Date Environmental Analysis Report and Environmental Management Plan sent to Safeguard Working Group (SWG) of NCDDs)",
+                            "Approvebydepartmenton": "28-Jul-2016"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "09-Jun-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Jul-2016",
+                            "Technicalclearancesign-off": "05-Aug-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        }
+    ]
+}

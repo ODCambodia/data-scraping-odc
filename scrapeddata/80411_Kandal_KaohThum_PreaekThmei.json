@@ -1,0 +1,2424 @@
+{
+    "location": {
+        "province": "Kandal",
+        "district": "Kaoh Thum",
+        "commune": "Preaek Thmei"
+    },
+    "projects": [
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=7baf4864-130e-43be-a8af-9c9500f021bd",
+            "project_html_data": {
+                "Pid": "7baf4864-130e-43be-a8af-9c9500f021bd",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "SOK TON",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "BY the end of 2009, people will have good road for traveling.",
+                        "Relatedcontract(s)": "080411/09/02-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "80,000,000",
+                        "LocalRevenue": "450,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "80,450,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChamLeu",
+                        "BeneficiaryTotal": "1,938",
+                        "BeneficiaryWomen": "980",
+                        "Households": "453"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Cham Leu",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 304.000 Volume of earth (m3)",
+                        "Qty": "0.900 km",
+                        "UnitCost": "47,963,093",
+                        "Total": "43,166,784"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the area with forest, temple or environmental protected area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Jan-2009",
+                            "Technicalclearancesign-off": "20-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/09/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411090201",
+            "contract_html_data": {
+                "Id": "080411090201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/09/02-01",
+                        "TechnicalSupervisor": "SOK TON",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lim Ou, [ Lim Ou ]",
+                        "Competitivebidding": "Yes ( 05-Jun-2009 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "12-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jun-2009",
+                        "Plannedworkcompletiondate": "30-Jul-2009",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "31-Dec-2009",
+                        "Closeddateon": "05-Feb-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "43,211,700"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "450,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HuyVansy",
+                        "Contractor": "HuyVansy",
+                        "BidValue": "43,110,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Fifthlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySainleng",
+                        "Contractor": "SreySainleng",
+                        "BidValue": "43,020,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "43,065,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Fourthlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MakMok",
+                        "Contractor": "MakMok",
+                        "BidValue": "43,065,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SangSenghort",
+                        "Contractor": "SangSenghort",
+                        "BidValue": "42,400,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "LimOu",
+                        "Contractor": "LimOu",
+                        "BidValue": "42,390,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "43,661,700",
+                        "Village": "Cham Leu",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 304.000 Volume of earth (m3)",
+                        "Bid": "0.900 km",
+                        "InContract": "0.900 km",
+                        "Actualquantity": "0.900 km",
+                        "UnitCost/Estimated": "47,100,000est. 47,963,093",
+                        "DiscountRate": "-2 %",
+                        "Total": "42,390,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "16-Jun-2009",
+                        "Actualworkcompletiondate": "05-Aug-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "14-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "05-Aug-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "17464680R",
+                        "Net": "16940740R",
+                        "Tax": "523940R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "18-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "17464680R",
+                        "Net": "16940740R",
+                        "Tax": "523940R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "15-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "8282340R",
+                        "Net": "8072020R",
+                        "Tax": "210320R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "15-Feb-2010",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentatfinalstep(100%)",
+                        "Gross": "450000R",
+                        "Net": "436500R",
+                        "Tax": "13500R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "43,661,700R",
+                        "ActualPaymentCumulativeToDate(A)Net": "42,390,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,271,700R",
+                        "ContractValue(B)Gross": "43,661,700R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Earth road repair",
+            "project_link": "/pid/project/home/view.castle?pid=594acfc8-c7b8-4e01-91ef-9ca800c43923",
+            "project_html_data": {
+                "Pid": "594acfc8-c7b8-4e01-91ef-9ca800c43923",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "SOK TON",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Earth road repair",
+                        "Objective": "By the end of 2009, people will have good road for traveling.",
+                        "Relatedcontract(s)": "080411/09/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "60,000,000",
+                        "LocalRevenue": "550,000",
+                        "CarryOver": "4,985,599",
+                        "Other": "0",
+                        "Total": "65,535,599"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KampongSvayLeu",
+                        "BeneficiaryTotal": "1,898",
+                        "BeneficiaryWomen": "991",
+                        "Households": "475"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Thmei",
+                        "Description": "Earth road Repair [ 1010101 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,461.000 Volume of earth (m3)",
+                        "Qty": "0.700 km",
+                        "UnitCost": "22,930,119",
+                        "Total": "16,051,083"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "",
+                            "Approvaldate": "05-Mar-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Jan-2009",
+                            "Technicalclearancesign-off": "20-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411090101",
+            "contract_html_data": {
+                "Id": "080411090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/09/01-01",
+                        "TechnicalSupervisor": "SOK TON",
+                        "Project'sName": "Earth road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lim Ou, [ Lim Ou ]",
+                        "Competitivebidding": "Yes ( 05-Jun-2009 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "12-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "12-Jun-2009",
+                        "Plannedworkcompletiondate": "24-Jul-2009",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "23-Mar-2010",
+                        "Closeddateon": "05-Feb-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "25,169,100"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "550,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HuyVansy",
+                        "Contractor": "HuyVansy",
+                        "BidValue": "25,190,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Fourthlowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySainleng",
+                        "Contractor": "SreySainleng",
+                        "BidValue": "25,201,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Fifthlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "25,080,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MakMok",
+                        "Contractor": "MakMok",
+                        "BidValue": "25,220,800R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SangSenghort",
+                        "Contractor": "SangSenghort",
+                        "BidValue": "24,980,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "LimOu",
+                        "Contractor": "LimOu",
+                        "BidValue": "24,970,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "25,719,100",
+                        "Village": "Kampong Svay Leu",
+                        "Description": "[ 1010101 ] Earth road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,456.000 Volume of earth (m3)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.400 km",
+                        "Actualquantity": "0.400 km",
+                        "UnitCost/Estimated": "22,700,000est. 22,930,119",
+                        "DiscountRate": "-1 %",
+                        "Total": "9,080,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Jun-2009",
+                        "Actualworkcompletiondate": "27-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Yim Sokunmalin",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "27-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "10287640R",
+                        "Net": "9979011R",
+                        "Tax": "308629R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "18-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "10287640R",
+                        "Net": "9979011R",
+                        "Tax": "308629R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "15-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "4593820R",
+                        "Net": "4478478R",
+                        "Tax": "115342R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "15-Feb-2010",
+                        "Source": "LC",
+                        "Description": "FullLCpaymentatfinalstep(100%)",
+                        "Gross": "550000R",
+                        "Net": "533500R",
+                        "Tax": "16500R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "25,719,100R",
+                        "ActualPaymentCumulativeToDate(A)Net": "24,970,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "749,100R",
+                        "ContractValue(B)Gross": "25,719,100R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete road project",
+            "project_link": "/pid/project/home/view.castle?pid=67e7946e-7b1a-4ec9-815e-9dd1008e86c2",
+            "project_html_data": {
+                "Pid": "67e7946e-7b1a-4ec9-815e-9dd1008e86c2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete road project",
+                        "Objective": "At the end of the year 2010 people will have good road for traveling",
+                        "Relatedcontract(s)": "080411/10/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "51,408,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "51,408,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekThmei",
+                        "BeneficiaryTotal": "2,501",
+                        "BeneficiaryWomen": "1,300",
+                        "Households": "503"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Thmei",
+                        "Description": "Mass concrete road New [ 1010202 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.200 Thickness of concrete (mm)",
+                        "Qty": "0.153 km",
+                        "UnitCost": "351,022,820",
+                        "Total": "53,706,491"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Location of project site is not in a protect area of the environment"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road",
+                            "Approvaldate": "21-Dec-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-May-2010",
+                            "Technicalclearancesign-off": "09-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411100101",
+            "contract_html_data": {
+                "Id": "080411100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/10/01-01",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "Concrete road project",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khuon Sam At, [ Khuon Sam At ]",
+                        "Competitivebidding": "Yes ( 30-Jul-2010 )",
+                        "Numberofcontractor": "8",
+                        "Contractsigndate(Form50)": "09-Aug-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Aug-2010",
+                        "Plannedworkcompletiondate": "09-Mar-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "27-Dec-2010",
+                        "Closeddateon": "25-Mar-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "39,451,360"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "46,555,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KhuonSamAt",
+                        "Contractor": "KhuonSamAt",
+                        "BidValue": "39,168,000R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "DySothea",
+                        "Contractor": "DySothea",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HeangThida",
+                        "Contractor": "HeangThida",
+                        "BidValue": "47,000,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "GnivBunhoeun",
+                        "Contractor": "Diamangconstraction",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "39,900,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "Mr.CheaHeang",
+                        "Contractor": "SomnorngCheaHeang",
+                        "BidValue": "48,011,400R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "42,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "39,951,360",
+                        "Village": "Preaek Thmei",
+                        "Description": "[ 1010202 ] Mass concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.200 Thickness of concrete (mm)",
+                        "Bid": "0.153 km",
+                        "InContract": "0.153 km",
+                        "Actualquantity": "0.153 km",
+                        "UnitCost/Estimated": "256,000,000est. 351,022,820",
+                        "DiscountRate": "-27 %",
+                        "Total": "39,168,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "09-Aug-2010",
+                        "Actualworkcompletiondate": "21-Sep-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "08-Sep-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "21-Sep-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "25-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "15980544R",
+                        "Net": "15510528R",
+                        "Tax": "470016R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "25-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "15480544R",
+                        "Net": "15025234R",
+                        "Tax": "455310R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "25-Oct-2010",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "06-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "3rdpmt",
+                        "Gross": "7990272R",
+                        "Net": "7755264R",
+                        "Tax": "235008R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "39,951,360R",
+                        "ActualPaymentCumulativeToDate(A)Net": "38,776,320R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,175,040R",
+                        "ContractValue(B)Gross": "39,951,360R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Single cell box culvert",
+            "project_link": "/pid/project/home/view.castle?pid=4a3e7b6f-3fba-49e9-adce-9dd800bcdc5f",
+            "project_html_data": {
+                "Pid": "4a3e7b6f-3fba-49e9-adce-9dd800bcdc5f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Social",
+                        "Sub-Sector": "Domestic Sanitation",
+                        "TechnicalAssistant": "YEM SOKHOM",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Single cell box culvert",
+                        "Objective": "At the end of the year 2010 people will have pipe drainage to reduced flood in his village",
+                        "Relatedcontract(s)": "080411/10/02-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "56,625,009",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "56,625,009"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekTaDuong",
+                        "BeneficiaryTotal": "2,082",
+                        "BeneficiaryWomen": "1,070",
+                        "Households": "449"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ta Duong",
+                        "Description": "Pipe drainage New [ 1100401 ]Dimension #1 : 0.600 Diameter (m)Dimension #2 : 115.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "16,913,500",
+                        "Total": "16,913,500"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Location of project site is not in a protect area of the environment"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Voluntary",
+                            "Reason": "The project upgraded on existing road",
+                            "Approvaldate": "06-Jan-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "17-May-2010",
+                            "Technicalclearancesign-off": "09-Jul-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/10/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411100201",
+            "contract_html_data": {
+                "Id": "080411100201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/10/02-01",
+                        "TechnicalSupervisor": "YEM SOKHOM",
+                        "Project'sName": "Single cell box culvert",
+                        "Sector": "Social",
+                        "Sub-Sector": "Domestic Sanitation",
+                        "Contractor": "Khuon Sam At, [ Khuon Sam At ]",
+                        "Competitivebidding": "Yes ( 30-Jul-2010 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "09-Aug-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Aug-2010",
+                        "Plannedworkcompletiondate": "09-Mar-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "27-Dec-2010",
+                        "Closeddateon": "21-Mar-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "42,748,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KaoSampha",
+                        "Contractor": "KaoSampha",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhonTep",
+                        "Contractor": "PhonTep",
+                        "BidValue": "48,999,999R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "58,300,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KhuonSamAt",
+                        "Contractor": "KhuonSamAt",
+                        "BidValue": "42,400,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "DySothea",
+                        "Contractor": "DySothea",
+                        "BidValue": "58,999,600R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "HeangThida",
+                        "Contractor": "HeangThida",
+                        "BidValue": "49,500,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "GnivBunhoeun",
+                        "Contractor": "Diamangconstraction",
+                        "BidValue": "52,470,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "YouLingting",
+                        "Contractor": "PunleurReaksmeyAkpivaoth",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "TryNgol",
+                        "Contractor": "TryNgol",
+                        "BidValue": "51,000,000R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "43,248,000",
+                        "Village": "Preaek Ta Hing",
+                        "Description": "[ 1100401 ] Pipe drainage NewDimension #1 : 0.600 Diameter (m)Dimension #2 : 235.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": "1.000 Line",
+                        "UnitCost/Estimated": "18,800,000est. 28,160,700",
+                        "DiscountRate": "-33 %",
+                        "Total": "18,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-Sep-2010",
+                        "Actualworkcompletiondate": "17-Sep-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Aug-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Sep-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "17299200R",
+                        "Net": "16790400R",
+                        "Tax": "508800R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "22-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "16799200R",
+                        "Net": "16305106R",
+                        "Tax": "494094R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "22-Sep-2010",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "500000R",
+                        "Net": "485294R",
+                        "Tax": "14706R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "22-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "3rdpmt",
+                        "Gross": "8649600R",
+                        "Net": "8395200R",
+                        "Tax": "254400R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "43,248,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "41,976,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,272,000R",
+                        "ContractValue(B)Gross": "43,248,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Mass concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=4006093a-596a-475e-b8b2-9f6400b7c3e8",
+            "project_html_data": {
+                "Pid": "4006093a-596a-475e-b8b2-9f6400b7c3e8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "SOK TON",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Mass concrete road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080411/11/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "91,679,969",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "91,679,969"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekThmei",
+                        "BeneficiaryTotal": "2,501",
+                        "BeneficiaryWomen": "1,300",
+                        "Households": "503"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Thmei",
+                        "Description": "Mass concrete road Repair [ 1010202 ]Dimension #1 : 7.000 Width (m)Dimension #2 : 0.200 Thickness of concrete (mm)",
+                        "Qty": "0.176 km",
+                        "UnitCost": "520,908,915",
+                        "Total": "91,679,969"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "17-Jan-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "31-May-2011",
+                            "Technicalclearancesign-off": "27-Jul-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411110101",
+            "contract_html_data": {
+                "Id": "080411110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/11/01-01",
+                        "TechnicalSupervisor": "SOK TON",
+                        "Project'sName": "Mass concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lim Ou, [ Lim Ou ]",
+                        "Competitivebidding": "Yes ( 11-Aug-2011 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "18-Aug-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Aug-2011",
+                        "Plannedworkcompletiondate": "04-Oct-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "11-May-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "114,600,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SreySainleng",
+                        "Contractor": "SreySainleng",
+                        "BidValue": "75,768,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LySokim",
+                        "Contractor": "LySokim",
+                        "BidValue": "65,000,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "75,000,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HeangThida",
+                        "Contractor": "HeangThida",
+                        "BidValue": "80,000,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "GnivBunhoeun",
+                        "Contractor": "Diamangconstraction",
+                        "BidValue": "64,900,000R",
+                        "DiscountRate": "-29%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "TitMeas",
+                        "Contractor": "KearHak",
+                        "BidValue": "81,840,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "LimOu",
+                        "Contractor": "LimOu",
+                        "BidValue": "64,000,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "Mr.NavChou",
+                        "Contractor": "Diamond",
+                        "BidValue": "68,000,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "SokKimlay",
+                        "Contractor": "SokKimlay",
+                        "BidValue": "78,355,200R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "HeungKeng",
+                        "Contractor": "HeungKeng",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "115,600,000",
+                        "Village": "Preaek Thmei",
+                        "Description": "[ 1010202 ] Mass concrete road RepairDimension #1 : 7.000 Width (m)Dimension #2 : 0.200 Thickness of concrete (mm)",
+                        "Bid": "0.176 km",
+                        "InContract": "0.289 km",
+                        "Actualquantity": "0.289 km",
+                        "UnitCost/Estimated": "363,636,363est. 520,908,915",
+                        "DiscountRate": "-30 %",
+                        "Total": "105,090,909"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "19-Aug-2011",
+                        "Actualworkcompletiondate": "17-Oct-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "07-Sep-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "17-Oct-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Sep-2011",
+                        "Source": "CSF",
+                        "Description": "1stPmt",
+                        "Gross": "46240000R",
+                        "Net": "42036364R",
+                        "Tax": "4203636R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-Nov-2011",
+                        "Source": "CSF",
+                        "Description": "2ndPmt",
+                        "Gross": "46240000R",
+                        "Net": "42036364R",
+                        "Tax": "4203636R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-May-2012",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "22120000R",
+                        "Net": "20109091R",
+                        "Tax": "2010909R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "24-May-2012",
+                        "Source": "LC",
+                        "Description": "3rd",
+                        "Gross": "1000000R",
+                        "Net": "909091R",
+                        "Tax": "90909R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "115,600,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "105,090,910R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "10,509,090R",
+                        "ContractValue(B)Gross": "115,600,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concrete bridge",
+            "project_link": "/pid/project/home/view.castle?pid=cb0e4e6f-f9a0-4dfb-b16e-a07b00f23773",
+            "project_html_data": {
+                "Pid": "cb0e4e6f-f9a0-4dfb-b16e-a07b00f23773",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prach Sovannarith",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete bridge",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080411/12/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "100,490,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "100,490,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "KampongSvayLeu",
+                        "BeneficiaryTotal": "2,032",
+                        "BeneficiaryWomen": "1,032",
+                        "Households": "465"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Svay Leu",
+                        "Description": "Miscellaneous Road Bridges (Concrete) New [ 1010599 ]Dimension #1 : 17.400 Length (m)Dimension #2 : 4.000 Width (m)",
+                        "Qty": "1.000 Place",
+                        "UnitCost": "100,490,000",
+                        "Total": "100,490,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project have no environment impact"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project build  on existing place "
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not located  in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-May-2012",
+                            "Technicalclearancesign-off": "03-May-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411120101",
+            "contract_html_data": {
+                "Id": "080411120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/12/01-01",
+                        "TechnicalSupervisor": "Prach Sovannarith",
+                        "Project'sName": "Concrete bridge",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Srey Sainleng, [ Srey Sainleng ]",
+                        "Competitivebidding": "Yes ( 17-May-2012 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "25-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "02-Jun-2012",
+                        "Plannedworkcompletiondate": "17-Jul-2012",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "04-Apr-2013"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "91,840,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SreySainleng",
+                        "Contractor": "SreySainleng",
+                        "BidValue": "92,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "99,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslate",
+                        "BidValue": "95,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SimThoeun",
+                        "Contractor": "S.T.E.C.Co.Ltd",
+                        "BidValue": "96,972,850R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "93,840,000",
+                        "Village": "Kampong Svay Leu",
+                        "Description": "[ 1010599 ] Miscellaneous Road Bridges (Concrete) NewDimension #1 : 17.400 Length (m)Dimension #2 : 4.000 Width (m)",
+                        "Bid": "1.000 Place",
+                        "InContract": "1.000 Place",
+                        "Actualquantity": "1.000 Place",
+                        "UnitCost/Estimated": "92,000,000est. 100,490,000",
+                        "DiscountRate": "-8 %",
+                        "Total": "92,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "12-Jun-2012",
+                        "Actualworkcompletiondate": "04-Oct-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Jul-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Yi Sothea",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "04-Oct-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "23-Jul-2012",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "37536000R",
+                        "Net": "36432000R",
+                        "Tax": "1104000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "04-Oct-2012",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "35536000R",
+                        "Net": "34409824R",
+                        "Tax": "1126176R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "04-Oct-2012",
+                        "Source": "LC",
+                        "Description": "2nd",
+                        "Gross": "2000000R",
+                        "Net": "1941176R",
+                        "Tax": "58824R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Mar-2013",
+                        "Source": "CSF",
+                        "Description": "3rd",
+                        "Gross": "18768000R",
+                        "Net": "18216000R",
+                        "Tax": "552000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "93,840,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "90,999,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,841,000R",
+                        "ContractValue(B)Gross": "93,840,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Reinforcement Steel Concrete Road",
+            "project_link": "/pid/project/home/view.castle?pid=6bf94da4-49e4-4cd0-8f0a-a21801214aee",
+            "project_html_data": {
+                "Pid": "6bf94da4-49e4-4cd0-8f0a-a21801214aee",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prak Lak",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Reinforcement Steel Concrete Road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080411/13/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "129,128,049",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "129,128,049"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekYeayHay",
+                        "BeneficiaryTotal": "736",
+                        "BeneficiaryWomen": "353",
+                        "Households": "150"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Yeay Hay",
+                        "Description": "Steel-reinforced concrete road Upgrade [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.250 km",
+                        "UnitCost": "332,810,184",
+                        "Total": "83,202,546"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project construct out of safeguard watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Feb-2013",
+                            "Technicalclearancesign-off": "08-Apr-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411130101",
+            "contract_html_data": {
+                "Id": "080411130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/13/01-01",
+                        "TechnicalSupervisor": "Prak Lak",
+                        "Project'sName": "Reinforcement Steel Concrete Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khuon Sam At, [ Khuon Sam At ]",
+                        "Competitivebidding": "Yes ( 22-May-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "31-May-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "22-Jun-2013",
+                        "Plannedworkcompletiondate": "22-Jul-2013",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "130,876,960"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "127,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KhuonSamAt",
+                        "Contractor": "KhuonSamAt",
+                        "BidValue": "119,433,600R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslate",
+                        "BidValue": "120,000,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "131,376,960",
+                        "Village": "Kampong Sambuor Leu",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.127 km",
+                        "InContract": "0.127 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "316,800,000est. 361,618,134",
+                        "DiscountRate": "-12 %",
+                        "Total": "40,233,600"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Jul-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "09-Aug-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "25-Dec-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "131,376,960R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Steel reinforcement concrete road construction",
+            "project_link": "/pid/project/home/view.castle?pid=5077bb21-39c0-4c90-a528-a368009a0b9e",
+            "project_html_data": {
+                "Pid": "5077bb21-39c0-4c90-a528-a368009a0b9e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Prak Lak",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Steel reinforcement concrete road construction",
+                        "Objective": "To facilitated for transportation",
+                        "Relatedcontract(s)": "080411/14/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "102,152,849",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "102,152,849"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekTaDuong",
+                        "BeneficiaryTotal": "2,214",
+                        "BeneficiaryWomen": "1,180",
+                        "Households": "452"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Ta Duong",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Qty": "0.156 km",
+                        "UnitCost": "307,754,910",
+                        "Total": "48,009,766"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project was not in watch list area"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "21-Feb-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project was not in minority watch list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Apr-2014",
+                            "Technicalclearancesign-off": "03-Jun-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411140101",
+            "contract_html_data": {
+                "Id": "080411140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/14/01-01",
+                        "TechnicalSupervisor": "Prak Lak",
+                        "Project'sName": "Steel reinforcement concrete road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khuon Sam At, [ Khuon Sam At ]",
+                        "Competitivebidding": "Yes ( 18-Jun-2014 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "01-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Jul-2014",
+                        "Plannedworkcompletiondate": "20-Sep-2014",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "105,141,140"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SokLy",
+                        "Contractor": "SokLy",
+                        "BidValue": "89,000,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "83,456,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhuonSamAt",
+                        "Contractor": "KhuonSamAt",
+                        "BidValue": "80,999,080R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SeanSen",
+                        "Contractor": "SeanSen",
+                        "BidValue": "85,956,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "HakSong",
+                        "Contractor": "HakSong",
+                        "BidValue": "97,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "90,146,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "LimOu",
+                        "Contractor": "LimOu",
+                        "BidValue": "94,000,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "105,641,140",
+                        "Village": "Preaek Ta Duong",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 4.000 Width (m)Dimension #2 : 0.150 Thickness of concrete (mm)",
+                        "Bid": "0.156 km",
+                        "InContract": "0.202 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "326,920,000est. 307,754,910",
+                        "DiscountRate": "6 %",
+                        "Total": "66,037,840"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "21-Aug-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "05-Sep-2014",
+                            "Progress": "40 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Sep-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Oct-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "105,641,140R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Reinforcement Steel Concrete Road",
+            "project_link": "/pid/project/home/view.castle?pid=7eec7445-b47a-4396-a2c6-a5540114eb87",
+            "project_html_data": {
+                "Pid": "7eec7445-b47a-4396-a2c6-a5540114eb87",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "On Navong",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Reinforcement Steel Concrete Road",
+                        "Objective": "Enable in traveling and transportation.",
+                        "Relatedcontract(s)": "080411/15/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "103,488,420",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "103,488,420"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekThmei",
+                        "BeneficiaryTotal": "3,108",
+                        "BeneficiaryWomen": "1,654",
+                        "Households": "643"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Thmei",
+                        "Description": "Steel-reinforced concrete road Upgrade [ 1010203 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.352 km",
+                        "UnitCost": "294,001,193",
+                        "Total": "103,488,420"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not under the watch list location. "
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "12-Mar-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Apr-2015",
+                            "Technicalclearancesign-off": "29-Apr-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411150101",
+            "contract_html_data": {
+                "Id": "080411150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/15/01-01",
+                        "TechnicalSupervisor": "On Navong",
+                        "Project'sName": "Reinforcement Steel Concrete Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khuon Sam At, [ Khuon Sam At ]",
+                        "Competitivebidding": "Yes ( 19-May-2015 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "28-May-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jun-2015",
+                        "Plannedworkcompletiondate": "20-Jul-2015",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "113,980,800"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "SokLy",
+                        "Contractor": "SokLy",
+                        "BidValue": "84,000,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MolSonghak",
+                        "Contractor": "HomBuntong",
+                        "BidValue": "84,480,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KhuonSamAt",
+                        "Contractor": "KhuonSamAt",
+                        "BidValue": "78,284,800R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "84,374,400R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimOu",
+                        "Contractor": "LimOu",
+                        "BidValue": "86,000,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "ChournEng",
+                        "Contractor": "LHC",
+                        "BidValue": "88,084,480R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SienPiseth",
+                        "Contractor": "SienPiseth",
+                        "BidValue": "89,760,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "114,980,800",
+                        "Village": "Preaek Thmei",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.352 km",
+                        "InContract": "0.470 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "222,400,000est. 294,001,193",
+                        "DiscountRate": "-24 %",
+                        "Total": "104,528,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jul-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "31-Jul-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "23-Sep-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "114,980,800R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=6235db61-e5df-4eb9-8ce2-aa18009e3f5d",
+            "project_html_data": {
+                "Pid": "6235db61-e5df-4eb9-8ce2-aa18009e3f5d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "On Navong",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "At the end of the year 2017 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080411/17/01-01 ",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "104,224,106",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "104,224,106"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekThon",
+                        "BeneficiaryTotal": "1,216",
+                        "BeneficiaryWomen": "644",
+                        "Households": "287"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Cham Kraom",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.400 km",
+                        "UnitCost": "236,318,863",
+                        "Total": "94,527,545"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road with more expansion"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Approvaldate": "13-Jan-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Mar-2017",
+                            "Technicalclearancesign-off": "03-Apr-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080411/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080411170101",
+            "contract_html_data": {
+                "Id": "080411170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80411 ] Kandal \\ Kaoh Thum \\ Preaek Thmei",
+                        "Contract": "080411/17/01-01",
+                        "TechnicalSupervisor": "On Navong",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Khuon Sam At, [ Khuon Sam At ]",
+                        "Competitivebidding": "Yes ( 18-Apr-2017 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "28-Apr-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "08-May-2017",
+                        "Plannedworkcompletiondate": "29-Jun-2017",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "115,385,440"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "500,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LuyHang",
+                        "Contractor": "LuyHang",
+                        "BidValue": "66,112,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KhuonSamAt",
+                        "Contractor": "KhuonSamAt",
+                        "BidValue": "65,868,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SREYSOPHAL",
+                        "Contractor": "SREYSOPHAL",
+                        "BidValue": "69,056,000R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "79,968,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChournEng",
+                        "Contractor": "LHC",
+                        "BidValue": "67,328,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "115,885,440",
+                        "Village": "Cham Kraom",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 3.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.400 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "148,800,000est. 236,318,863",
+                        "DiscountRate": "-37 %",
+                        "Total": "59,520,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "08-May-2017",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "05-Jul-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "16-Aug-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "115,885,440R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

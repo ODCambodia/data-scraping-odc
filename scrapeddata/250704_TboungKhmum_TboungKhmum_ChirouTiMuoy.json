@@ -1,0 +1,1875 @@
+{
+    "location": {
+        "province": "Tboung Khmum",
+        "district": "Tboung Khmum",
+        "commune": "Chirou Ti Muoy"
+    },
+    "projects": [
+        {
+            "project_name": "Canal rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=ea5e4d0c-7e8a-422e-8c79-9c6400acefec",
+            "project_html_data": {
+                "Pid": "ea5e4d0c-7e8a-422e-8c79-9c6400acefec",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Ven  Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal rehabilitation",
+                        "Objective": "Inceasing food security and improving local living condition",
+                        "Relatedcontract(s)": "031605/09/01-01 ",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "48,446,200",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "48,446,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouKraomTiMuoy",
+                        "BeneficiaryTotal": "586",
+                        "BeneficiaryWomen": "326",
+                        "Households": "149"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chirou Kraom Ti Muoy",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.800 Depth (m)Dimension #2 : 22.377 Average width (m)",
+                        "Qty": "0.200 km",
+                        "UnitCost": "138,417,714",
+                        "Total": "27,683,543"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This commune is not listed in the environmental watched list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.",
+                            "Reason": "The project site is on public land"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "These villages are not in the watched list of HP"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-Apr-2009",
+                            "Technicalclearancesign-off": "27-May-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031605/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031605090101",
+            "contract_html_data": {
+                "Id": "031605090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "031605/09/01-01",
+                        "TechnicalSupervisor": "Ven  Vorn",
+                        "Project'sName": "Canal rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Thao Vibol, [ Thao Vibol ]",
+                        "Competitivebidding": "Yes ( 29-Jun-2009 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "06-Jul-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Dec-2009",
+                        "Plannedworkcompletiondate": "25-Dec-2009",
+                        "CreatedBy": "Chheth Bunloeur",
+                        "Mobile": "012 997 458",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "25-Mar-2010",
+                        "Closeddateon": "26-Aug-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "48,101,700"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "710,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "TengSokHuor",
+                        "Contractor": "TengSokHuor",
+                        "BidValue": "47,400,500R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ThaoVibol",
+                        "Contractor": "ThaoVibol",
+                        "BidValue": "47,390,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HengRavuth",
+                        "Contractor": "HengRavuth",
+                        "BidValue": "47,407,500R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "48,811,700",
+                        "Village": "Chirou Kraom Ti Pir",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 3.500 Depth (m)Dimension #2 : 22.377 Average width (m)",
+                        "Bid": "0.150 km",
+                        "InContract": "0.150 km",
+                        "Actualquantity": "0.150 km",
+                        "UnitCost/Estimated": "135,400,000est. 138,417,714",
+                        "DiscountRate": "-2 %",
+                        "Total": "20,310,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Dec-2009",
+                        "Actualworkcompletiondate": "26-Feb-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Feb-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Mak Neang",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Feb-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Mak Neang",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Mar-2010",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "39049400R",
+                        "Net": "37912040R",
+                        "Tax": "1137360R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "06-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "9052300R",
+                        "Net": "8788640R",
+                        "Tax": "263660R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "06-Sep-2010",
+                        "Source": "LC",
+                        "Description": "2ndPayment",
+                        "Gross": "710000R",
+                        "Net": "689320R",
+                        "Tax": "20680R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "48,811,700R",
+                        "ActualPaymentCumulativeToDate(A)Net": "47,390,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,421,700R",
+                        "ContractValue(B)Gross": "48,811,700R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=08a64d86-b58e-4c37-aa7d-9e67010ece43",
+            "project_html_data": {
+                "Pid": "08a64d86-b58e-4c37-aa7d-9e67010ece43",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Soth Kosal",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "The people in commune have good road and easy traveling.",
+                        "Relatedcontract(s)": "031605/10/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "62,320,490",
+                        "LocalRevenue": "705,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "63,025,490"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouLeu",
+                        "BeneficiaryTotal": "842",
+                        "BeneficiaryWomen": "450",
+                        "Households": "191"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chuor Kandal",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 268.010 Volume of earth (m3)",
+                        "Qty": "0.300 km",
+                        "UnitCost": "24,001,300",
+                        "Total": "7,200,390"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "11-Dec-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "15-Dec-2010",
+                            "Technicalclearancesign-off": "21-Feb-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031605/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031605100101",
+            "contract_html_data": {
+                "Id": "031605100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "031605/10/01-01( 1 )",
+                        "TechnicalSupervisor": "Soth Kosal",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Av Meng Yuy, [ Av Meng Yuy ]",
+                        "Competitivebidding": "Yes ( 11-Mar-2011 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "23-Mar-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "30-Jul-2011",
+                        "Plannedworkcompletiondate": "15-Dec-2011",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "60,496,940"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "700,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "AvMengYuy",
+                        "Contractor": "AvMengYuy",
+                        "BidValue": "59,997,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KeamSaruon",
+                        "Contractor": "KeamSaruon",
+                        "BidValue": "62,265,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NgounSrun",
+                        "Contractor": "NgounSrun",
+                        "BidValue": "60,900,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "PenSopheap",
+                        "BidValue": "63,000,000R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "Saromsatya",
+                        "BidValue": "61,950,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "61,196,940",
+                        "Village": "Chirou Leu",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 741.360 Volume of earth (m3)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": "0.500 km",
+                        "UnitCost/Estimated": "28,570,000est. 28,842,300",
+                        "DiscountRate": "-1 %",
+                        "Total": "14,285,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "06-May-2011",
+                        "Actualworkcompletiondate": "15-Dec-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "14-Jun-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Dec-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Jun-2011",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "23778776R",
+                        "Net": "23079400R",
+                        "Tax": "699376R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "15-Jun-2011",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "700000R",
+                        "Net": "679412R",
+                        "Tax": "20588R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Feb-2012",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "24478776R",
+                        "Net": "23758812R",
+                        "Tax": "719964R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Aug-2012",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "12239388R",
+                        "Net": "11879406R",
+                        "Tax": "359982R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "61,196,940R",
+                        "ActualPaymentCumulativeToDate(A)Net": "59,397,030R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,799,910R",
+                        "ContractValue(B)Gross": "61,196,940R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road upgrade",
+            "project_link": "/pid/project/home/view.castle?pid=b612b011-3e29-4e7d-86a0-9f3c0095c942",
+            "project_html_data": {
+                "Pid": "b612b011-3e29-4e7d-86a0-9f3c0095c942",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ven Vorn",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road upgrade",
+                        "Objective": "Have road easy for traveling and transporting agricultural products to market, easy going to school and hospital, improving people's living standard which contributes to poverty reduction.",
+                        "Relatedcontract(s)": "031605/11/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "59,276,423",
+                        "LocalRevenue": "700,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "59,976,423"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "PreaekTouch",
+                        "BeneficiaryTotal": "1,009",
+                        "BeneficiaryWomen": "515",
+                        "Households": "267"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Preaek Touch",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 2,345.690 Volume of earth (m3)",
+                        "Qty": "0.550 km",
+                        "UnitCost": "33,180,211",
+                        "Total": "18,249,116"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project location is on public land."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people. "
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "26-Jul-2011",
+                            "Technicalclearancesign-off": "01-Sep-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031605/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031605110101",
+            "contract_html_data": {
+                "Id": "031605110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "031605/11/01-01( 1 )",
+                        "TechnicalSupervisor": "Ven Vorn",
+                        "Project'sName": "Laterite road upgrade",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lim Vuthy, [ Lim Vuthy ]",
+                        "Competitivebidding": "Yes ( 23-Sep-2011 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "07-Oct-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jan-2012",
+                        "Plannedworkcompletiondate": "15-Feb-2012",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "07-Sep-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "36,724,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "710,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "AvMengYuy",
+                        "Contractor": "AvMengYuy",
+                        "BidValue": "57,999,999R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ThaoVibol",
+                        "Contractor": "ThaoVibol",
+                        "BidValue": "53,875,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HongThany",
+                        "Contractor": "HongThany",
+                        "BidValue": "42,897,500R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HunSitha",
+                        "Contractor": "HunSitha",
+                        "BidValue": "49,950,000R",
+                        "DiscountRate": "-16%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimVuthy",
+                        "Contractor": "LimVuthy",
+                        "BidValue": "36,700,000R",
+                        "DiscountRate": "-38%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "TheingRita",
+                        "Contractor": "TheingRita",
+                        "BidValue": "53,279,998R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "ChanVon",
+                        "Contractor": "ChanVon",
+                        "BidValue": "54,000,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "Yes",
+                        "Reason": "Thebidderdidnotsignonthecodeofconduct."
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "ThoeunSophoeun",
+                        "Contractor": "ThoeunSophoeun",
+                        "BidValue": "51,950,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "Yes",
+                        "Reason": "Thebidderdidnotsignonthebiddingproposal."
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "",
+                        "Contractor": "LyLimheng",
+                        "BidValue": "39,999,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "37,434,000",
+                        "Village": "Preaek Touch",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 3.500 Width (m)Dimension #2 : 2,345.690 Volume of earth (m3)",
+                        "Bid": "0.550 km",
+                        "InContract": "0.550 km",
+                        "Actualquantity": "0.550 km",
+                        "UnitCost/Estimated": "20,000,000est. 33,180,211",
+                        "DiscountRate": "-40 %",
+                        "Total": "11,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jan-2012",
+                        "Actualworkcompletiondate": "07-Mar-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "12-Feb-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "07-Mar-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "05-Mar-2012",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "14973600R",
+                        "Net": "14533200R",
+                        "Tax": "440400R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "05-Mar-2012",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "14973600R",
+                        "Net": "14533200R",
+                        "Tax": "440400R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Sep-2012",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "6776800R",
+                        "Net": "6577482R",
+                        "Tax": "199318R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Sep-2012",
+                        "Source": "LC",
+                        "Description": "Finalpayment",
+                        "Gross": "710000R",
+                        "Net": "689118R",
+                        "Tax": "20882R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "37,434,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "36,333,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,101,000R",
+                        "ContractValue(B)Gross": "37,434,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=38fa27bd-592e-48b1-bb40-a09b00fba811",
+            "project_html_data": {
+                "Pid": "38fa27bd-592e-48b1-bb40-a09b00fba811",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Phan Sokchea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "Local people easy traveling.",
+                        "Relatedcontract(s)": "031605/12/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "98,464,105",
+                        "LocalRevenue": "700,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "99,164,105"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouKraomTiMuoy",
+                        "BeneficiaryTotal": "631",
+                        "BeneficiaryWomen": "339",
+                        "Households": "149"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chirou Kraom Ti Muoy",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 7,833.330 Volume of earth (m3)",
+                        "Qty": "2.450 km",
+                        "UnitCost": "38,466,900",
+                        "Total": "94,243,905"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Jul-2012",
+                            "Technicalclearancesign-off": "02-Aug-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031605/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031605120101",
+            "contract_html_data": {
+                "Id": "031605120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "031605/12/01-01",
+                        "TechnicalSupervisor": "Phan Sokchea",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ly Chhuon, [ Ly Chhuon ]",
+                        "Competitivebidding": "Yes ( 23-Aug-2012 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "03-Sep-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Nov-2012",
+                        "Plannedworkcompletiondate": "20-Dec-2012",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "96,200,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "700,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LuyHang",
+                        "Contractor": "LuyHang",
+                        "BidValue": "97,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LyChhuon",
+                        "Contractor": "LyChhuon",
+                        "BidValue": "95,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "LonhPengeing",
+                        "BidValue": "95,500,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HoutChailim",
+                        "Contractor": "HoutChailim",
+                        "BidValue": "96,200,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "96,900,000",
+                        "Village": "Chirou Kraom Ti Muoy",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 7,833.330 Volume of earth (m3)",
+                        "Bid": "2.450 km",
+                        "InContract": "2.450 km",
+                        "Actualquantity": "2.450 km",
+                        "UnitCost/Estimated": "38,571,429est. 38,466,900",
+                        "DiscountRate": "0 %",
+                        "Total": "94,500,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Nov-2012",
+                        "Actualworkcompletiondate": "14-Jan-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "17-Dec-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "14-Jan-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "28-Dec-2012",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "38760000R",
+                        "Net": "37620000R",
+                        "Tax": "1140000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "12-Mar-2013",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "38760000R",
+                        "Net": "37620000R",
+                        "Tax": "1140000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "19-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "Finalpayment",
+                        "Gross": "18680000R",
+                        "Net": "18130588R",
+                        "Tax": "549412R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Jul-2013",
+                        "Source": "LC",
+                        "Description": "Finalpayment",
+                        "Gross": "700000R",
+                        "Net": "679412R",
+                        "Tax": "20588R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "96,900,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "94,050,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,850,000R",
+                        "ContractValue(B)Gross": "96,900,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=9426975f-480a-4ddd-bbd8-a1af0094b34a",
+            "project_html_data": {
+                "Pid": "9426975f-480a-4ddd-bbd8-a1af0094b34a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Phan Sokchea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "Provides better access and easy traveling to people.",
+                        "Relatedcontract(s)": "031605/13/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "80,702,170",
+                        "LocalRevenue": "770,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "81,472,170"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouLeu",
+                        "BeneficiaryTotal": "846",
+                        "BeneficiaryWomen": "456",
+                        "Households": "196"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Ruessei",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 2,026.230 Volume of earth (m3)",
+                        "Qty": "1.250 km",
+                        "UnitCost": "37,289,616",
+                        "Total": "46,612,020"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road. "
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Apr-2013",
+                            "Technicalclearancesign-off": "26-Apr-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031605/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031605130101",
+            "contract_html_data": {
+                "Id": "031605130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "031605/13/01-01",
+                        "TechnicalSupervisor": "Phan Sokchea",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ly Chhuon, [ Ly Chhuon ]",
+                        "Competitivebidding": "Yes ( 29-May-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "10-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "11-Jun-2013",
+                        "Plannedworkcompletiondate": "27-Jul-2013",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "79,370,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "700,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HakHao",
+                        "Contractor": "HakHao",
+                        "BidValue": "78,725,001R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LyChhuon",
+                        "Contractor": "LyChhuon",
+                        "BidValue": "78,500,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HoutChailim",
+                        "Contractor": "HoutChailim",
+                        "BidValue": "79,250,001R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "80,070,001",
+                        "Village": "Kampong Ruessei",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 2,026.230 Volume of earth (m3)",
+                        "Bid": "1.250 km",
+                        "InContract": "1.250 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "37,380,953est. 37,289,616",
+                        "DiscountRate": "0 %",
+                        "Total": "46,726,191"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "80,070,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=e4b47e6f-ba20-41f9-92a6-a30800b8da7a",
+            "project_html_data": {
+                "Pid": "e4b47e6f-ba20-41f9-92a6-a30800b8da7a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Phan Sokchea",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "Commune have good road, easy for people traveling.",
+                        "Relatedcontract(s)": "031605/14/01-01 ",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "81,153,800",
+                        "LocalRevenue": "800,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "81,953,800"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouKraomTiPir",
+                        "BeneficiaryTotal": "803",
+                        "BeneficiaryWomen": "400",
+                        "Households": "154"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Kampong Ruessei",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 603.770 Volume of earth (m3)",
+                        "Qty": "0.250 km",
+                        "UnitCost": "65,214,400",
+                        "Total": "16,303,600"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "03-Mar-2014",
+                            "Technicalclearancesign-off": "11-Apr-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "031605/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=031605140101",
+            "contract_html_data": {
+                "Id": "031605140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "031605/14/01-01",
+                        "TechnicalSupervisor": "Phan Sokchea",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sear Pun, [ Sear Pun ]",
+                        "Competitivebidding": "Yes ( 28-Apr-2014 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "12-May-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "12-May-2014",
+                        "Plannedworkcompletiondate": "30-May-2014",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "79,780,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "800,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LyChhuon",
+                        "Contractor": "LyChhuon",
+                        "BidValue": "79,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "EirKimleang",
+                        "Contractor": "EirKimleang",
+                        "BidValue": "80,150,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HoutChailim",
+                        "Contractor": "HoutChailim",
+                        "BidValue": "80,800,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SearPun",
+                        "Contractor": "SearPun",
+                        "BidValue": "79,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "80,579,999",
+                        "Village": "Kampong Ruessei",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 663.770 Volume of earth (m3)",
+                        "Bid": "0.250 km",
+                        "InContract": "0.250 km",
+                        "Actualquantity": "0.250 km",
+                        "UnitCost/Estimated": "55,474,452est. 65,214,400",
+                        "DiscountRate": "-15 %",
+                        "Total": "13,868,613"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "13-May-2014",
+                        "Actualworkcompletiondate": "23-Jun-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Jun-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Om Ponnaka",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "27-Jun-2014",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "64464000R",
+                        "Net": "62568000R",
+                        "Tax": "1896000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "64,464,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "62,568,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,896,000R",
+                        "ContractValue(B)Gross": "80,580,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=abbd3f8e-ddd8-42e0-9c6c-a457010ca5ee",
+            "project_html_data": {
+                "Pid": "abbd3f8e-ddd8-42e0-9c6c-a457010ca5ee",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Phy sousdey",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "Commune have good road, easy for people traveling.",
+                        "CreatedBy": "Om Ponnaka",
+                        "Mobile": "012887040"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "No budget available."
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouKraomTiMuoy",
+                        "BeneficiaryTotal": "633",
+                        "BeneficiaryWomen": "324",
+                        "Households": "183"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chirou Leu",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,105.420 Volume of earth (m3)",
+                        "Qty": "0.400 km",
+                        "UnitCost": "46,706,000",
+                        "Total": "18,682,400"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "",
+                            "Technicalclearancesign-off": ""
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        },
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=e67240af-eacf-4e90-962d-a58300a3c369",
+            "project_html_data": {
+                "Pid": "e67240af-eacf-4e90-962d-a58300a3c369",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Phy sousdey",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "Provides better access and easy traveling to people.",
+                        "Relatedcontract(s)": "250704/15/01-01 ",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "54,661,600",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "54,661,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouKraomTiMuoy",
+                        "BeneficiaryTotal": "633",
+                        "BeneficiaryWomen": "324",
+                        "Households": "183"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chirou Leu",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,105.420 Volume of earth (m3)",
+                        "Qty": "0.400 km",
+                        "UnitCost": "46,706,000",
+                        "Total": "18,682,400"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Mar-2015",
+                            "Technicalclearancesign-off": "27-Mar-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "250704/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=250704150101",
+            "contract_html_data": {
+                "Id": "250704150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "250704/15/01-01",
+                        "TechnicalSupervisor": "Phy sousdey",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sear Pich, [ Sear Pich ]",
+                        "Competitivebidding": "Yes ( 28-Apr-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "20-May-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "21-May-2015",
+                        "Plannedworkcompletiondate": "27-May-2015",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "53,460,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "EirKimleang",
+                        "Contractor": "EirKimleang",
+                        "BidValue": "54,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SearPich",
+                        "Contractor": "SearPich",
+                        "BidValue": "53,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SoSokhun",
+                        "Contractor": "SoSokhun",
+                        "BidValue": "53,600,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "54,060,000",
+                        "Village": "Chirou Leu",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,105.420 Volume of earth (m3)",
+                        "Bid": "0.400 km",
+                        "InContract": "0.400 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "45,250,000est. 46,706,000",
+                        "DiscountRate": "-3 %",
+                        "Total": "18,100,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "54,060,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Steel-reinforced concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=eed5355f-8569-4425-a89b-a72e00f07e9f",
+            "project_html_data": {
+                "Pid": "eed5355f-8569-4425-a89b-a72e00f07e9f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Phy sousdey",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Steel-reinforced concrete road",
+                        "Objective": "Commune have good road, easy for people traveling.",
+                        "Relatedcontract(s)": "250704/16/01-01 ",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "49,197,300",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "49,197,300"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChirouKandal",
+                        "BeneficiaryTotal": "754",
+                        "BeneficiaryWomen": "391",
+                        "Households": "178"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chirou Kandal",
+                        "Description": "Steel-reinforced concrete road Repair [ 1010203 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.150 km",
+                        "UnitCost": "327,982,000",
+                        "Total": "49,197,300"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not in highland people safeguards watch list."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Apr-2016",
+                            "Technicalclearancesign-off": "04-May-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "250704/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=250704160101",
+            "contract_html_data": {
+                "Id": "250704160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Contract": "250704/16/01-01",
+                        "TechnicalSupervisor": "Phy sousdey",
+                        "Project'sName": "Steel-reinforced concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Seang Sam ath, [ Seang Sam ath ]",
+                        "Competitivebidding": "Yes ( 19-May-2016 )",
+                        "Numberofcontractor": "6",
+                        "Contractsigndate(Form50)": "02-Jun-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jun-2016",
+                        "Plannedworkcompletiondate": "25-Jun-2016",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "54,216,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LyChhuon",
+                        "Contractor": "LyChhuon",
+                        "BidValue": "48,900,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MovMuoyHeng",
+                        "Contractor": "MovMuoyHeng",
+                        "BidValue": "31,500,000R",
+                        "DiscountRate": "-36%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HoutChailim",
+                        "Contractor": "HoutChailim",
+                        "BidValue": "49,185,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ThengRita",
+                        "Contractor": "ThengRita",
+                        "BidValue": "49,500,000R",
+                        "DiscountRate": "1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChengPeov",
+                        "Contractor": "ChengPeov",
+                        "BidValue": "28,800,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "SeangSamath",
+                        "Contractor": "SeangSamath",
+                        "BidValue": "30,975,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "54,516,000",
+                        "Village": "Chirou Kandal",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road RepairDimension #1 : 3.500 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.150 km",
+                        "InContract": "0.240 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "206,500,000est. 327,982,000",
+                        "DiscountRate": "-37 %",
+                        "Total": "49,560,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "54,516,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Steel-reinforced concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=97c02be2-3710-42ae-8bf3-a9fa00973d57",
+            "project_html_data": {
+                "Pid": "97c02be2-3710-42ae-8bf3-a9fa00973d57",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 250704 ] Tboung Khmum \\ Tboung Khmum \\ Chirou Ti Muoy",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Phy Sousdey",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Steel-reinforced concrete road",
+                        "Objective": "Provides better access and easy traveling to people.",
+                        "CreatedBy": "Phan Sokchea",
+                        "Mobile": "092 666 224"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "58,247,200",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "58,247,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChuorKandal",
+                        "BeneficiaryTotal": "823",
+                        "BeneficiaryWomen": "421",
+                        "Households": "204"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chuor Kandal",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 3.500 Width (m)Dimension #2 : 120.000 Thickness of concrete (mm)",
+                        "Qty": "0.200 km",
+                        "UnitCost": "291,236,000",
+                        "Total": "58,247,200"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "Commune is not in environment safeguards watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Project location is on an old and existing road. "
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "Commune is not inhabited by highland people and is not in highland people's safeguards watch list. "
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Apr-2017",
+                            "Technicalclearancesign-off": "08-May-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "",
+            "contract_link": "",
+            "contract_html_data": []
+        }
+    ]
+}

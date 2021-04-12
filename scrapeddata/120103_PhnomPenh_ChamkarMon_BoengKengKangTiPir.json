@@ -1,0 +1,2263 @@
+{
+    "location": {
+        "province": "Phnom Penh",
+        "district": "Chamkar Mon",
+        "commune": "Boeng Keng Kang Ti Pir"
+    },
+    "projects": [
+        {
+            "project_name": "Concrete route 1x 2",
+            "project_link": "/pid/project/home/view.castle?pid=a1cf658d-1d59-4d8f-9274-9cb20095950d",
+            "project_html_data": {
+                "Pid": "a1cf658d-1d59-4d8f-9274-9cb20095950d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng DY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concrete route 1x 2",
+                        "Objective": "Traffic rehabilitation in and out of village",
+                        "Relatedcontract(s)": "120103/09/01-01 ",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "45,556,000",
+                        "LocalRevenue": "4,555,600",
+                        "CarryOver": "7,967,040",
+                        "Other": "0",
+                        "Total": "58,078,640"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum5",
+                        "BeneficiaryTotal": "1,666",
+                        "BeneficiaryWomen": "855",
+                        "Households": "315"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 5",
+                        "Description": "Mass concrete road New [ 1010202 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 100.000 Thickness of concrete (mm)",
+                        "Qty": "0.124 km",
+                        "UnitCost": "288,330,645",
+                        "Total": "35,753,000"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project implemented at the existing location"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Improvement project for rehabilitating road but not expending width ."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "no"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "14-Dec-2008",
+                            "Technicalclearancesign-off": "29-Dec-2008"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103090101",
+            "contract_html_data": {
+                "Id": "120103090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/09/01-01",
+                        "TechnicalSupervisor": "Heng DY",
+                        "Project'sName": "Concrete route 1x 2",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Chang Manimech, [ Kao Leang Hay ]",
+                        "Competitivebidding": "Yes ( 20-Feb-2009 )",
+                        "Numberofcontractor": "11",
+                        "Contractsigndate(Form50)": "20-Mar-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Mar-2009",
+                        "Plannedworkcompletiondate": "26-Jun-2009",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "11-Nov-2009"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "38,709,992"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "4,607,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HimSovannary",
+                        "Contractor": "HimSovannaryConstruction",
+                        "BidValue": "41,680,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySotha",
+                        "Contractor": "C.R.D",
+                        "BidValue": "40,004,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "41,915,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SamSivon",
+                        "Contractor": "SamSivonConstruction",
+                        "BidValue": "58,544,000R",
+                        "DiscountRate": "10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "39,928,500R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MeasSovanny",
+                        "Contractor": "N.R.Construction",
+                        "BidValue": "49,306,290R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "KinKinann",
+                        "Contractor": "KinKinann",
+                        "BidValue": "41,680,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SoNayuth",
+                        "Contractor": "PhengPhengConstruction",
+                        "BidValue": "43,248,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "HabKhom",
+                        "Contractor": "HabKhom",
+                        "BidValue": "48,960,000R",
+                        "DiscountRate": "-8%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "TriLisa",
+                        "Contractor": "AtechGroupCo.Ltd",
+                        "BidValue": "40,698,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "KaoLeangHay",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "39,400,000R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "43,316,992",
+                        "Village": "Phum 5",
+                        "Description": "[ 1010202 ] Mass concrete road NewDimension #1 : 5.000 Width (m)Dimension #2 : 100.000 Thickness of concrete (mm)",
+                        "Bid": "0.124 km",
+                        "InContract": "0.124 km",
+                        "Actualquantity": "0.124 km",
+                        "UnitCost/Estimated": "241,393,807est. 288,330,645",
+                        "DiscountRate": "-16 %",
+                        "Total": "29,932,832"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "27-Mar-2009",
+                        "Actualworkcompletiondate": "11-May-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Apr-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "MEN Arunraksmey",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "11-May-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "MEN Arunraksmey",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "09-May-2009",
+                        "Source": "CSF",
+                        "Description": "Firstpayment40%",
+                        "Gross": "15483997R",
+                        "Net": "15019477R",
+                        "Tax": "464520R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "09-May-2009",
+                        "Source": "LC",
+                        "Description": "Firstpayment40%",
+                        "Gross": "1842800R",
+                        "Net": "1787516R",
+                        "Tax": "55284R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "Secondpayment40%",
+                        "Gross": "15483997R",
+                        "Net": "15019477R",
+                        "Tax": "464520R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Aug-2009",
+                        "Source": "LC",
+                        "Description": "Secondpayment40%",
+                        "Gross": "1842800R",
+                        "Net": "1787516R",
+                        "Tax": "55284R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Dec-2009",
+                        "Source": "CSF",
+                        "Description": "Finalpayment20%",
+                        "Gross": "7741998R",
+                        "Net": "7509738R",
+                        "Tax": "232260R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "30-Dec-2009",
+                        "Source": "LC",
+                        "Description": "Finalpayment20%",
+                        "Gross": "921400R",
+                        "Net": "893758R",
+                        "Tax": "27642R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "43,316,992R",
+                        "ActualPaymentCumulativeToDate(A)Net": "42,017,482R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,299,510R",
+                        "ContractValue(B)Gross": "43,316,992R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Drainage pipe",
+            "project_link": "/pid/project/home/view.castle?pid=9c84bc13-d9ca-4d6d-9314-9da600e8b9f2",
+            "project_html_data": {
+                "Pid": "9c84bc13-d9ca-4d6d-9314-9da600e8b9f2",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng DY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Drainage pipe",
+                        "Objective": "To Discharge sewage and rainy water from the village",
+                        "Relatedcontract(s)": "120103/10/01-01 ",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "63,976,000",
+                        "LocalRevenue": "6,397,600",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "70,373,600"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum3",
+                        "BeneficiaryTotal": "143",
+                        "BeneficiaryWomen": "98",
+                        "Households": "26"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 5",
+                        "Description": "Pipe drainage New [ 1100401 ]Dimension #1 : 0.500 Diameter (m)Dimension #2 : 91.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "12,316,400",
+                        "Total": "12,316,400"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "None"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "None"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Apr-2010",
+                            "Technicalclearancesign-off": "07-May-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103100101",
+            "contract_html_data": {
+                "Id": "120103100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/10/01-01",
+                        "TechnicalSupervisor": "Heng DY",
+                        "Project'sName": "Drainage pipe",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Song Eang Constraction, [ Thab Eang ]",
+                        "Competitivebidding": "Yes ( 25-May-2010 )",
+                        "Numberofcontractor": "15",
+                        "Contractsigndate(Form50)": "07-Jul-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "28-Jul-2010",
+                        "Plannedworkcompletiondate": "05-Nov-2010",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": "",
+                        "Closeddateon": "29-Mar-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "45,043,213"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "5,004,801"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HimSovannary",
+                        "Contractor": "HimSovannaryConstruction",
+                        "BidValue": "68,809,000R",
+                        "DiscountRate": "2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySotha",
+                        "Contractor": "C.R.D",
+                        "BidValue": "67,535,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "64,545,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SamSivon",
+                        "Contractor": "SamSivonConstruction",
+                        "BidValue": "64,161,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "62,985,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MeasSovanny",
+                        "Contractor": "N.R.Construction",
+                        "BidValue": "63,427,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "KinKinann",
+                        "Contractor": "KinKinann",
+                        "BidValue": "61,490,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "TenYani",
+                        "Contractor": "TenYani",
+                        "BidValue": "53,989,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "NovRithy",
+                        "Contractor": "C.YContruction",
+                        "BidValue": "60,817,835R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "TyMeng",
+                        "Contractor": "TyMeng",
+                        "BidValue": "55,968,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "11",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "62,706,800R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "12",
+                        "Director'sName": "KaoLeangHay",
+                        "Contractor": "ChangManimech",
+                        "BidValue": "59,999,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "13",
+                        "Director'sName": "ThabEang",
+                        "Contractor": "SongEangConstraction",
+                        "BidValue": "49,066,680R",
+                        "DiscountRate": "-27%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "14",
+                        "Director'sName": "SokChuong",
+                        "Contractor": "SokChuong",
+                        "BidValue": "61,490,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "15",
+                        "Director'sName": "PreapSovannarith",
+                        "Contractor": "SovannarithConstraction",
+                        "BidValue": "54,418,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "50,048,014",
+                        "Village": "Phum 5",
+                        "Description": "[ 1100401 ] Pipe drainage NewDimension #1 : 0.500 Diameter (m)Dimension #2 : 91.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": "1.000 Line",
+                        "UnitCost/Estimated": "9,098,180est. 12,316,400",
+                        "DiscountRate": "-26 %",
+                        "Total": "9,098,180"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "28-Jul-2010",
+                        "Actualworkcompletiondate": "29-Sep-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Aug-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "MEN Arunraksmey",
+                            "Note": "First progress report 50%"
+                        },
+                        {
+                            "Date": "29-Sep-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "MEN Arunraksmey",
+                            "Note": "Second Progress report 100%"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "08-Sep-2010",
+                        "Source": "CSF",
+                        "Description": "Firstpayment40%",
+                        "Gross": "18017285R",
+                        "Net": "17487365R",
+                        "Tax": "529920R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "08-Sep-2010",
+                        "Source": "LC",
+                        "Description": "Firstpayment40%",
+                        "Gross": "2001920R",
+                        "Net": "1943040R",
+                        "Tax": "58880R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "21-Dec-2010",
+                        "Source": "CSF",
+                        "Description": "Secondpayment40%",
+                        "Gross": "18017285R",
+                        "Net": "17487365R",
+                        "Tax": "529920R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "21-Dec-2010",
+                        "Source": "LC",
+                        "Description": "Secondpayment40%",
+                        "Gross": "2001920R",
+                        "Net": "1943040R",
+                        "Tax": "58880R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "Thirdpayment20%",
+                        "Gross": "9008643R",
+                        "Net": "8743683R",
+                        "Tax": "264960R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "11-Apr-2011",
+                        "Source": "LC",
+                        "Description": "Thirdpayment20%",
+                        "Gross": "1000961R",
+                        "Net": "971520R",
+                        "Tax": "29441R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "50,048,014R",
+                        "ActualPaymentCumulativeToDate(A)Net": "48,576,013R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,472,001R",
+                        "ContractValue(B)Gross": "50,048,014R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Concret AC road construction",
+            "project_link": "/pid/project/home/view.castle?pid=9c85a12c-90e8-4b82-b6c8-9f0500ffa0de",
+            "project_html_data": {
+                "Pid": "9c85a12c-90e8-4b82-b6c8-9f0500ffa0de",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng DY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Concret AC road construction",
+                        "Objective": "The people have a good road for transportation.",
+                        "Relatedcontract(s)": "120103/11/01-01 ",
+                        "CreatedBy": "Sambath Rattana",
+                        "Mobile": "NA"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "94,654,105",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "94,654,105"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum1",
+                        "BeneficiaryTotal": "892",
+                        "BeneficiaryWomen": "450",
+                        "Households": "174"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 1",
+                        "Description": "Asphalt Concrete (AC) road New [ 1010207 ]Dimension #1 : 7.800 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Qty": "0.188 km",
+                        "UnitCost": "503,040,955",
+                        "Total": "94,571,700"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The construction is on the existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "18-Jan-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-May-2011",
+                            "Technicalclearancesign-off": "02-Jun-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103110101",
+            "contract_html_data": {
+                "Id": "120103110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/11/01-01",
+                        "TechnicalSupervisor": "Heng DY",
+                        "Project'sName": "Concret AC road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Sam Sivon Construction, [ Sam Sivon ]",
+                        "Competitivebidding": "Yes ( 17-Jun-2011 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "07-Jul-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Jul-2011",
+                        "Plannedworkcompletiondate": "18-Oct-2011",
+                        "CreatedBy": "Sambath Rattana",
+                        "Mobile": "NA",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "88,632,540"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "6,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HimSovannary",
+                        "Contractor": "HimSovannaryConstruction",
+                        "BidValue": "81,968,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySotha",
+                        "Contractor": "C.R.D",
+                        "BidValue": "78,132,800R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "77,456,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SamSivon",
+                        "Contractor": "SamSivonConstruction",
+                        "BidValue": "67,868,000R",
+                        "DiscountRate": "-28%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "77,550,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "KinKinann",
+                        "Contractor": "KinKinann",
+                        "BidValue": "87,984,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "SoNayuth",
+                        "Contractor": "PhengPhengConstruction",
+                        "BidValue": "93,060,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "",
+                        "Contractor": "(​PLL)",
+                        "BidValue": "94,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "",
+                        "Contractor": "អិលអឹមអេចអ៊ីមផតអិចផត",
+                        "BidValue": "71,853,600R",
+                        "DiscountRate": "-24%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "",
+                        "Contractor": "SeangSopheap",
+                        "BidValue": "94,571,700R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "94,632,540",
+                        "Village": "Phum 1",
+                        "Description": "[ 1010207 ] Asphalt Concrete (AC) road NewDimension #1 : 7.800 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Bid": "0.188 km",
+                        "InContract": "0.257 km",
+                        "Actualquantity": "0.257 km",
+                        "UnitCost/Estimated": "361,000,000est. 503,040,955",
+                        "DiscountRate": "-28 %",
+                        "Total": "92,777,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Jul-2011",
+                        "Actualworkcompletiondate": "29-Aug-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Aug-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Sambath Rattana",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "14-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "1stpayment80%",
+                        "Gross": "70906032R",
+                        "Net": "68820560R",
+                        "Tax": "2085472R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "14-Dec-2011",
+                        "Source": "LC",
+                        "Description": "1stpayment80%",
+                        "Gross": "4800000R",
+                        "Net": "4658824R",
+                        "Tax": "141176R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "75,706,032R",
+                        "ActualPaymentCumulativeToDate(A)Net": "73,479,384R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "2,226,648R",
+                        "ContractValue(B)Gross": "94,632,540R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Asphalt Concrete road repairing",
+            "project_link": "/pid/project/home/view.castle?pid=7748c467-df87-47aa-a61c-a045008f4a88",
+            "project_html_data": {
+                "Pid": "7748c467-df87-47aa-a61c-a045008f4a88",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng DY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Asphalt Concrete road repairing",
+                        "Objective": "The people have a good road for transportation and traveing",
+                        "Relatedcontract(s)": "120102/12/02-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "350,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "350,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum1",
+                        "BeneficiaryTotal": "1,049",
+                        "BeneficiaryWomen": "650",
+                        "Households": "193"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 1",
+                        "Description": "Asphalt Concrete (AC) road New [ 1010207 ]Dimension #1 : 7.000 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Qty": "0.117 km",
+                        "UnitCost": "431,909,829",
+                        "Total": "50,533,450"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The construction is on the existing location",
+                            "Approvaldate": "25-Jan-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The zone there is no highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Mar-2012",
+                            "Technicalclearancesign-off": "05-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120102/12/02-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120102120201",
+            "contract_html_data": {
+                "Id": "120102120201",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120102/12/02-01",
+                        "TechnicalSupervisor": "Heng DY",
+                        "Project'sName": "Asphalt Concrete road repairing",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Him Sovannary Construction , [ Him Sovannary ]",
+                        "Competitivebidding": "Yes ( 19-Apr-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "04-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-May-2012",
+                        "Plannedworkcompletiondate": "12-Jun-2012",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "50,138,040"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "4,740,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HimSovannary",
+                        "Contractor": "HimSovannaryConstruction",
+                        "BidValue": "49,959,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySotha",
+                        "Contractor": "C.R.D",
+                        "BidValue": "50,383,359R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "50,333,400R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "54,878,040",
+                        "Village": "Phum 1",
+                        "Description": "[ 1010207 ] Asphalt Concrete (AC) road NewDimension #1 : 7.000 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Bid": "0.117 km",
+                        "InContract": "0.126 km",
+                        "Actualquantity": "0.126 km",
+                        "UnitCost/Estimated": "427,000,000est. 431,909,829",
+                        "DiscountRate": "-1 %",
+                        "Total": "53,802,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "09-May-2012",
+                        "Actualworkcompletiondate": "24-May-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-May-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "54,878,040R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pipe drainage construction",
+            "project_link": "/pid/project/home/view.castle?pid=a05aa051-6646-4acb-b60b-a04500a06b5a",
+            "project_html_data": {
+                "Pid": "a05aa051-6646-4acb-b60b-a04500a06b5a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng DY",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pipe drainage construction",
+                        "Objective": "There is no flood during the heavy rain",
+                        "Relatedcontract(s)": "120103/12/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "48,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "48,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum1",
+                        "BeneficiaryTotal": "1,293",
+                        "BeneficiaryWomen": "675",
+                        "Households": "236"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 1",
+                        "Description": "Pipe drainage New [ 1100401 ]Dimension #1 : 0.500 Diameter (m)Dimension #2 : 232.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "31,919,120",
+                        "Total": "31,919,120"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not located in watch"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project is on the existing location",
+                            "Approvaldate": "25-Jan-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There is no highland people living here"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Mar-2012",
+                            "Technicalclearancesign-off": "05-Apr-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103120101",
+            "contract_html_data": {
+                "Id": "120103120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/12/01-01",
+                        "TechnicalSupervisor": "Heng DY",
+                        "Project'sName": "Pipe drainage construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Meas Panglin, [ Sok Sarourn ]",
+                        "Competitivebidding": "Yes ( 19-Apr-2012 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "03-May-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "04-May-2012",
+                        "Plannedworkcompletiondate": "04-Jul-2012",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "25,489,472"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,860,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HimSovannary",
+                        "Contractor": "HimSovannaryConstruction",
+                        "BidValue": "31,320,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SreySotha",
+                        "Contractor": "C.R.D",
+                        "BidValue": "36,192,000R",
+                        "DiscountRate": "13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KinKinann",
+                        "Contractor": "KinKinann",
+                        "BidValue": "27,840,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "MANYMIX",
+                        "BidValue": "29,000,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SokSarourn",
+                        "Contractor": "MeasPanglin",
+                        "BidValue": "27,840,000R",
+                        "DiscountRate": "-13%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "",
+                        "Contractor": "YortBunyetConstruction",
+                        "BidValue": "44,312,000R",
+                        "DiscountRate": "39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslate",
+                        "BidValue": "30,160,000R",
+                        "DiscountRate": "-6%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "28,349,472",
+                        "Village": "Phum 1",
+                        "Description": "[ 1100401 ] Pipe drainage NewDimension #1 : 0.500 Diameter (m)Dimension #2 : 232.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": "1.000 Line",
+                        "UnitCost/Estimated": "27,793,600est. 31,919,120",
+                        "DiscountRate": "-13 %",
+                        "Total": "27,793,600"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-May-2012",
+                        "Actualworkcompletiondate": "22-Jun-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "22-Jun-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "28,349,472R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Asphalt  concrete road construction",
+            "project_link": "/pid/project/home/view.castle?pid=9d31574b-9597-4bf5-b110-a1f3009f5058",
+            "project_html_data": {
+                "Pid": "9d31574b-9597-4bf5-b110-a1f3009f5058",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng Dy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Asphalt  concrete road construction",
+                        "Objective": "The community have a good road for traveling and transportation.",
+                        "Relatedcontract(s)": "120103/13/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "126,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "126,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum4",
+                        "BeneficiaryTotal": "995",
+                        "BeneficiaryWomen": "495",
+                        "Households": "170"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 4",
+                        "Description": "Asphalt Concrete (AC) road New [ 1010207 ]Dimension #1 : 8.200 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Qty": "0.158 km",
+                        "UnitCost": "529,510,759",
+                        "Total": "83,662,700"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project locate in the existing road and is not in watch list."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project construct on the exiting road."
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "There is no highland people living here."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-Mar-2013",
+                            "Technicalclearancesign-off": "16-May-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103130101",
+            "contract_html_data": {
+                "Id": "120103130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/13/01-01",
+                        "TechnicalSupervisor": "Heng Dy",
+                        "Project'sName": "Asphalt  concrete road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Him Sovannary Construction , [ Him Sovannary ]",
+                        "Competitivebidding": "Yes ( 31-May-2013 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "11-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "18-Jun-2013",
+                        "Plannedworkcompletiondate": "19-Aug-2013",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "78,225,717"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "7,189,083"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "HimSovannary",
+                        "Contractor": "HimSovannaryConstruction",
+                        "BidValue": "62,410,000R",
+                        "DiscountRate": "-25%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "67,392,000R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "67,371,200R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "Notyettranslate",
+                        "BidValue": "66,900,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "",
+                        "Contractor": "CRD",
+                        "BidValue": "77,736,000R",
+                        "DiscountRate": "-7%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "85,414,800",
+                        "Village": "Phum 4",
+                        "Description": "[ 1010207 ] Asphalt Concrete (AC) road NewDimension #1 : 8.200 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Bid": "0.158 km",
+                        "InContract": "0.212 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "395,000,000est. 529,510,759",
+                        "DiscountRate": "-25 %",
+                        "Total": "83,740,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "18-Jun-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Jun-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "85,414,800R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pipe drainage construction",
+            "project_link": "/pid/project/home/view.castle?pid=a6820401-679c-489d-bac3-a3e400f431ec",
+            "project_html_data": {
+                "Pid": "a6820401-679c-489d-bac3-a3e400f431ec",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng Dy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pipe drainage construction",
+                        "Objective": "There is no flood in the village",
+                        "Relatedcontract(s)": "120103/14/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "48,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "48,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum7",
+                        "BeneficiaryTotal": "382",
+                        "BeneficiaryWomen": "165",
+                        "Households": "75"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 7",
+                        "Description": "Pipe drainage New [ 1100401 ]Dimension #1 : 0.500 Diameter (m)Dimension #2 : 395.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "76,997,677",
+                        "Total": "76,997,677"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list and locate in the existing construction"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project is on public existing construction location"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The  project is not in zone of the highland people group living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "21-Apr-2014",
+                            "Technicalclearancesign-off": "07-May-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103140101",
+            "contract_html_data": {
+                "Id": "120103140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/14/01-01",
+                        "TechnicalSupervisor": "Heng Dy",
+                        "Project'sName": "Pipe drainage construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "MANYMIX, [  ]",
+                        "Competitivebidding": "Yes ( 28-May-2014 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "04-Jul-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "11-Jul-2014",
+                        "Plannedworkcompletiondate": "29-Sep-2014",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "67,320,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "",
+                        "Contractor": "MANYMIX",
+                        "BidValue": "59,250,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SunDany",
+                        "Contractor": "DANY",
+                        "BidValue": "62,805,000R",
+                        "DiscountRate": "-18%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "LunDavy",
+                        "Contractor": "D.V.LImportExportCo.Ltd",
+                        "BidValue": "75,050,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LinSokunthea",
+                        "Contractor": "LinSokuntheaCo.Ltd",
+                        "BidValue": "70,100,000R",
+                        "DiscountRate": "-9%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SamSyvon",
+                        "Contractor": "SamSyvon",
+                        "BidValue": "79,000,000R",
+                        "DiscountRate": "3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "67,320,000",
+                        "Village": "Phum 7",
+                        "Description": "[ 1100401 ] Pipe drainage NewDimension #1 : 0.500 Diameter (m)Dimension #2 : 408.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": "1.000 Line",
+                        "UnitCost/Estimated": "61,200,000est. 76,997,677",
+                        "DiscountRate": "-21 %",
+                        "Total": "61,200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "11-Jul-2014",
+                        "Actualworkcompletiondate": "29-Sep-2014",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "29-Aug-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "29-Sep-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Mom Sokany",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "67,320,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Pipe drainage construction",
+            "project_link": "/pid/project/home/view.castle?pid=8c3e08c9-4561-44c0-a88f-a4d6010def31",
+            "project_html_data": {
+                "Pid": "8c3e08c9-4561-44c0-a88f-a4d6010def31",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng Dy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Pipe drainage construction",
+                        "Objective": "Drain flood water in the village during the heavy rain",
+                        "Relatedcontract(s)": "120103/15/01-01 ",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "67,680,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "67,680,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum2",
+                        "BeneficiaryTotal": "1,156",
+                        "BeneficiaryWomen": "503",
+                        "Households": "193"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 6",
+                        "Description": "Pipe drainage New [ 1100401 ]Dimension #1 : 0.500 Diameter (m)Dimension #2 : 307.000 Length (m)",
+                        "Qty": "1.000 Line",
+                        "UnitCost": "78,223,600",
+                        "Total": "78,223,600"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project is on the existing location"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project is not in the highland people group area"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-May-2015",
+                            "Technicalclearancesign-off": "10-Jun-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103150101",
+            "contract_html_data": {
+                "Id": "120103150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/15/01-01",
+                        "TechnicalSupervisor": "Heng Dy",
+                        "Project'sName": "Pipe drainage construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Hai Manimex, [ Kao Lienghai ]",
+                        "Competitivebidding": "Yes ( 17-Jul-2015 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "30-Jul-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "31-Jul-2015",
+                        "Plannedworkcompletiondate": "29-Oct-2015",
+                        "CreatedBy": "Mom Sokany",
+                        "Mobile": "012 947 359",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "79,377,540"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "RosThae",
+                        "Contractor": "RosThae",
+                        "BidValue": "77,978,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "LinSokunthea",
+                        "Contractor": "LinSokuntheaCo.Ltd",
+                        "BidValue": "67,540,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KaoLienghai",
+                        "Contractor": "HaiManimex",
+                        "BidValue": "58,145,800R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "79,377,540",
+                        "Village": "Phum 6",
+                        "Description": "[ 1100401 ] Pipe drainage NewDimension #1 : 0.500 Diameter (m)Dimension #2 : 381.000 Length (m)",
+                        "Bid": "1.000 Line",
+                        "InContract": "1.000 Line",
+                        "Actualquantity": "1.000 Line",
+                        "UnitCost/Estimated": "72,161,400est. 78,223,600",
+                        "DiscountRate": "-8 %",
+                        "Total": "72,161,400"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "79,377,540R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "to prepare the road of (B.T)",
+            "project_link": "/pid/project/home/view.castle?pid=d19eefa2-9817-4b3d-9258-a6ab00ff486a",
+            "project_html_data": {
+                "Pid": "d19eefa2-9817-4b3d-9258-a6ab00ff486a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng Dy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "to prepare the road of (B.T)",
+                        "Objective": "To ease the traffic in and out of the village",
+                        "Relatedcontract(s)": "120103/16/01-01 ",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "83,440,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "83,440,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum3",
+                        "BeneficiaryTotal": "1,967",
+                        "BeneficiaryWomen": "1,038",
+                        "Households": "300"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 3",
+                        "Description": "Asphalt Concrete (AC) road New [ 1010207 ]Dimension #1 : 8.000 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Qty": "0.147 km",
+                        "UnitCost": "626,696,000",
+                        "Total": "92,124,312"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "yes"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "yes"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "yes"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "07-Jun-2016",
+                            "Technicalclearancesign-off": "29-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103160101",
+            "contract_html_data": {
+                "Id": "120103160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/16/01-01",
+                        "TechnicalSupervisor": "Heng Dy",
+                        "Project'sName": "to prepare the road of (B.T)",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "RTT Construction Co.ltd, [ Sok Saroun ]",
+                        "Competitivebidding": "Yes ( 13-Jul-2016 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "02-Aug-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "09-Aug-2016",
+                        "Plannedworkcompletiondate": "31-Aug-2016",
+                        "CreatedBy": "MEN Arunraksmey",
+                        "Mobile": "012 984 620",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "109,914,112"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "63,409,920R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "74,793,600R",
+                        "DiscountRate": "-19%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SamSyvon",
+                        "Contractor": "SamSyvon",
+                        "BidValue": "63,504,000R",
+                        "DiscountRate": "-31%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SokSaroun",
+                        "Contractor": "RTTConstructionCo.ltd",
+                        "BidValue": "61,716,480R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "109,914,112",
+                        "Village": "Phum 3",
+                        "Description": "[ 1010207 ] Asphalt Concrete (AC) road NewDimension #1 : 8.000 Width (m)Dimension #2 : 50.000 Thickness of AC (mm)",
+                        "Bid": "0.147 km",
+                        "InContract": "0.238 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "419,840,000est. 626,696,000",
+                        "DiscountRate": "-33 %",
+                        "Total": "99,921,920"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "109,914,112R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=aca2ed47-2c6c-4543-92be-aa9300a7420a",
+            "project_html_data": {
+                "Pid": "aca2ed47-2c6c-4543-92be-aa9300a7420a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "TechnicalAssistant": "Heng Dy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "120103/18/01-01 ",
+                        "CreatedBy": "Uon Sengly",
+                        "Mobile": "012 89 80 52"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "72,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "72,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Phum2",
+                        "BeneficiaryTotal": "1,134",
+                        "BeneficiaryWomen": "601",
+                        "Households": "180"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Phum 2",
+                        "Description": "Sticking rubber road​ width >7m New [ 1010252 ]Dimension #1 : 7.200 Width (m)Dimension #2 : 50.000 Thickness of Rubber",
+                        "Qty": "0.102 ",
+                        "UnitCost": "586,514,000",
+                        "Total": "59,824,428"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "19-Jun-2018",
+                            "Technicalclearancesign-off": "12-Jul-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "120103/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=120103180101",
+            "contract_html_data": {
+                "Id": "120103180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 120103 ] Phnom Penh \\ Chamkar Mon \\ Boeng Keng Kang Ti Pir",
+                        "Contract": "120103/18/01-01",
+                        "TechnicalSupervisor": "Heng Dy",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Urban transport",
+                        "Contractor": "Lim Mao, [ Lim Mao ]",
+                        "Competitivebidding": "Yes ( 22-Aug-2018 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "06-Sep-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "05-Nov-2018",
+                        "Plannedworkcompletiondate": "30-Dec-2018",
+                        "CreatedBy": "Uon Sengly",
+                        "Mobile": "012 89 80 52",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,856,700"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LimMao",
+                        "Contractor": "LimMao",
+                        "BidValue": "58,029,636R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "SamSyvon",
+                        "Contractor": "SamSyvon",
+                        "BidValue": "58,328,700R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SokSaroun",
+                        "Contractor": "RTTConstructionCo.ltd",
+                        "BidValue": "58,650,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "64,856,652",
+                        "Village": "Phum 2",
+                        "Description": "[ 1010252 ] Sticking rubber road​ width >7m NewDimension #1 : 7.200 Width (m)Dimension #2 : 50.000 Thickness of Rubber",
+                        "Bid": "0.102 ",
+                        "InContract": "0.114 ",
+                        "Actualquantity": " ",
+                        "UnitCost/Estimated": "568,918,000est. 586,514,000",
+                        "DiscountRate": "-3 %",
+                        "Total": "64,856,652"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "64,856,700R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

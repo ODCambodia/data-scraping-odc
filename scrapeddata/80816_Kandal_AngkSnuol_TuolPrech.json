@@ -1,0 +1,1885 @@
+{
+    "location": {
+        "province": "Kandal",
+        "district": "Angk Snuol",
+        "commune": "Tuol Prech"
+    },
+    "projects": [
+        {
+            "project_name": "Laterite road repair",
+            "project_link": "/pid/project/home/view.castle?pid=6ba00e6c-b756-43d4-a9f8-9c6900e9d175",
+            "project_html_data": {
+                "Pid": "6ba00e6c-b756-43d4-a9f8-9c6900e9d175",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "HENG CHHUONG",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road repair",
+                        "Objective": "At the end of the year 2009 people will have good road for traveling",
+                        "Relatedcontract(s)": "080816/09/01-01 ",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "47,422,900",
+                        "LocalRevenue": "1,363,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "48,785,900"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Khlong",
+                        "BeneficiaryTotal": "274",
+                        "BeneficiaryWomen": "141",
+                        "Households": "53"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tonloab",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 3.000 Width (m)Dimension #2 : 105.000 Volume of earth (m3)",
+                        "Qty": "0.200 km",
+                        "UnitCost": "19,437,672",
+                        "Total": "3,887,534"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "06-Jan-2009",
+                            "Technicalclearancesign-off": "09-Apr-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816090101",
+            "contract_html_data": {
+                "Id": "080816090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/09/01-01",
+                        "TechnicalSupervisor": "HENG CHHUONG",
+                        "Project'sName": "Laterite road repair",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "K.T.P, [ Ki Tongpra ]",
+                        "Competitivebidding": "Yes ( 26-May-2009 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "03-Jun-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jul-2009",
+                        "Plannedworkcompletiondate": "01-Aug-2009",
+                        "CreatedBy": "Yim Sokunmalin",
+                        "Mobile": "011 911 536",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "31-Dec-2009",
+                        "Closeddateon": "12-Feb-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "41,351,100"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,363,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KiTongpra",
+                        "Contractor": "K.T.P",
+                        "BidValue": "41,470,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "KhovDarith",
+                        "Contractor": "KhovDarith",
+                        "BidValue": "41,600,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "GnivBunhoeun",
+                        "Contractor": "Diamangconstraction",
+                        "BidValue": "42,760,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": "Fourthlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "TyMeng",
+                        "Contractor": "TyMeng",
+                        "BidValue": "42,200,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "42,714,100",
+                        "Village": "Tonloab",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 3.000 Width (m)Dimension #2 : 105.000 Volume of earth (m3)",
+                        "Bid": "0.200 km",
+                        "InContract": "0.200 km",
+                        "Actualquantity": "0.200 km",
+                        "UnitCost/Estimated": "18,850,000est. 19,437,672",
+                        "DiscountRate": "-3 %",
+                        "Total": "3,770,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jul-2009",
+                        "Actualworkcompletiondate": "23-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "13-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting\n"
+                        },
+                        {
+                            "Date": "23-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Chreay Chamroeun",
+                            "Note": "Base on the minute of PMC 's evaluation meeting"
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "15-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stinstallmentpayment(40%)",
+                        "Gross": "15722640R",
+                        "Net": "15250961R",
+                        "Tax": "471679R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "15-Jul-2009",
+                        "Source": "LC",
+                        "Description": "FullLCpamentat1ststep(100%)",
+                        "Gross": "1363000R",
+                        "Net": "1322110R",
+                        "Tax": "40890R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "12-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndinstallmentpayment(accum.80%)",
+                        "Gross": "17085640R",
+                        "Net": "16573071R",
+                        "Tax": "512569R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "04-Mar-2010",
+                        "Source": "CSF",
+                        "Description": "Finalpayment(accum.100%)",
+                        "Gross": "8542820R",
+                        "Net": "8323858R",
+                        "Tax": "218962R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "42,714,100R",
+                        "ActualPaymentCumulativeToDate(A)Net": "41,470,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,244,100R",
+                        "ContractValue(B)Gross": "42,714,100R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=9d5a2fe0-52f4-4f36-9814-9e5900ebb59a",
+            "project_html_data": {
+                "Pid": "9d5a2fe0-52f4-4f36-9814-9e5900ebb59a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ly Sarin",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080816/10/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "70,000,000",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "70,000,000"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChambakKaong",
+                        "BeneficiaryTotal": "546",
+                        "BeneficiaryWomen": "253",
+                        "Households": "102"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tonloab",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,212.500 Volume of earth (m3)",
+                        "Qty": "3.570 km",
+                        "UnitCost": "17,796,125",
+                        "Total": "63,532,166"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road",
+                            "Approvaldate": "16-Nov-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "02-Nov-2010",
+                            "Technicalclearancesign-off": "15-Nov-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816100101",
+            "contract_html_data": {
+                "Id": "080816100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/10/01-01",
+                        "TechnicalSupervisor": "Ly Sarin",
+                        "Project'sName": "Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sam Sovoeun, [ Sam Sovoeun ]",
+                        "Competitivebidding": "Yes ( 03-Dec-2010 )",
+                        "Numberofcontractor": "9",
+                        "Contractsigndate(Form50)": "14-Dec-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "17-Dec-2010",
+                        "Plannedworkcompletiondate": "02-Feb-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "58,960,566"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,268,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UmOl",
+                        "Contractor": "SamolSamat",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MeakThong",
+                        "Contractor": "MeakThong",
+                        "BidValue": "50,000,000R",
+                        "DiscountRate": "-21%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SokLy",
+                        "Contractor": "SokLy",
+                        "BidValue": "41,000,000R",
+                        "DiscountRate": "-35%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MenThan",
+                        "Contractor": "MenThan",
+                        "BidValue": "51,051,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "SamSovoeun",
+                        "Contractor": "SamSovoeun",
+                        "BidValue": "40,000,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "MokSophorn",
+                        "Contractor": "SamMok",
+                        "BidValue": "44,625,000R",
+                        "DiscountRate": "-30%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "ChhumChamroeun",
+                        "Contractor": "LongNget",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-23%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "SaunSily",
+                        "Contractor": "KhyBoard",
+                        "BidValue": "53,999,820R",
+                        "DiscountRate": "-15%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "NamKhom",
+                        "Contractor": "RungRoeung",
+                        "BidValue": "41,983,200R",
+                        "DiscountRate": "-34%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "60,228,566",
+                        "Village": "Tonloab",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,451.520 Volume of earth (m3)",
+                        "Bid": "3.570 km",
+                        "InContract": "5.270 km",
+                        "Actualquantity": "5.270 km",
+                        "UnitCost/Estimated": "11,204,481est. 17,796,125",
+                        "DiscountRate": "-37 %",
+                        "Total": "59,047,614"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "19-Jan-2011",
+                        "Actualworkcompletiondate": "09-Aug-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Mar-2011",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "09-Aug-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "17-Mar-2011",
+                        "Source": "CSF",
+                        "Description": "1stpmt",
+                        "Gross": "22823426R",
+                        "Net": "22152149R",
+                        "Tax": "671277R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "17-Mar-2011",
+                        "Source": "LC",
+                        "Description": "1stpmt",
+                        "Gross": "1268000R",
+                        "Net": "1230706R",
+                        "Tax": "37294R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "24,091,426R",
+                        "ActualPaymentCumulativeToDate(A)Net": "23,382,855R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "708,571R",
+                        "ContractValue(B)Gross": "60,228,566R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=5da403e7-f784-43cb-bd19-9f4f00edb0fa",
+            "project_html_data": {
+                "Pid": "5da403e7-f784-43cb-bd19-9f4f00edb0fa",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ly Sarin",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road",
+                        "Objective": "Accessible road",
+                        "Relatedcontract(s)": "080816/11/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "67,471,086",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "67,471,086"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Rumlech",
+                        "BeneficiaryTotal": "572",
+                        "BeneficiaryWomen": "298",
+                        "Households": "108"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Meun Riem",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 228.210 Volume of earth (m3)",
+                        "Qty": "0.520 km",
+                        "UnitCost": "21,505,050",
+                        "Total": "11,182,626"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project is not in the watch list"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "The project location is not in the region of highland people living"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "01-Aug-2011",
+                            "Technicalclearancesign-off": "22-Aug-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816110101",
+            "contract_html_data": {
+                "Id": "080816110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/11/01-01",
+                        "TechnicalSupervisor": "Ly Sarin",
+                        "Project'sName": "Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Song Eang Constraction, [ Thab Eang ]",
+                        "Competitivebidding": "Yes ( 13-Sep-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "23-Sep-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "19-Oct-2011",
+                        "Plannedworkcompletiondate": "02-Dec-2011",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "66,353,960"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,117,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "MenThan",
+                        "Contractor": "MenThan",
+                        "BidValue": "60,971,000R",
+                        "DiscountRate": "-10%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "MokSophorn",
+                        "Contractor": "SamMok",
+                        "BidValue": "58,162,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": "Secondlowestacceptablebid"
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ThabEang",
+                        "Contractor": "SongEangConstraction",
+                        "BidValue": "46,148,000R",
+                        "DiscountRate": "-32%",
+                        "Rejected": "No",
+                        "Reason": "Lowestacceptablebid"
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "",
+                        "Contractor": "SeangSopheap",
+                        "BidValue": "59,974,000R",
+                        "DiscountRate": "-11%",
+                        "Rejected": "No",
+                        "Reason": "Thirdlowestacceptablebid"
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "67,470,960",
+                        "Village": "Meun Riem",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 228.210 Volume of earth (m3)",
+                        "Bid": "0.520 km",
+                        "InContract": "0.520 km",
+                        "Actualquantity": "0.520 km",
+                        "UnitCost/Estimated": "400,000est. 21,505,050",
+                        "DiscountRate": "-98 %",
+                        "Total": "208,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Nov-2011",
+                        "Actualworkcompletiondate": "28-Dec-2011",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "28-Dec-2011",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "25871384R",
+                        "Net": "25110461R",
+                        "Tax": "760923R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "06-Dec-2011",
+                        "Source": "LC",
+                        "Description": "1st",
+                        "Gross": "1117000R",
+                        "Net": "1084147R",
+                        "Tax": "32853R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "29-Dec-2011",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "26988384R",
+                        "Net": "26194608R",
+                        "Tax": "793776R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "53,976,768R",
+                        "ActualPaymentCumulativeToDate(A)Net": "52,389,216R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,587,552R",
+                        "ContractValue(B)Gross": "67,470,960R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite Road",
+            "project_link": "/pid/project/home/view.castle?pid=4eebc33e-a5d8-4c00-b132-a0d300942ce4",
+            "project_html_data": {
+                "Pid": "4eebc33e-a5d8-4c00-b132-a0d300942ce4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Ly Sarin",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite Road",
+                        "Objective": "At the end of the year 2012 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080816/12/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "62,860,031",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "62,860,031"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengAnhchanh",
+                        "BeneficiaryTotal": "587",
+                        "BeneficiaryWomen": "331",
+                        "Households": "76"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Khlong",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 739.640 Volume of earth (m3)",
+                        "Qty": "0.850 km",
+                        "UnitCost": "26,652,565",
+                        "Total": "22,654,680"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road with more expansion"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "16-Aug-2012",
+                            "Technicalclearancesign-off": "31-Aug-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816120101",
+            "contract_html_data": {
+                "Id": "080816120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/12/01-01",
+                        "TechnicalSupervisor": "Ly Sarin",
+                        "Project'sName": "Laterite Road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Thab eing, [ Thab Eng ]",
+                        "Contractsigndate(Form50)": "26-Dec-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Dec-2012",
+                        "Plannedworkcompletiondate": "04-Mar-2013",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "70,053,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,372,000"
+                    }
+                ],
+                "Bidding": [
+                    []
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "71,425,500",
+                        "Village": "Khlong",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 739.640 Volume of earth (m3)",
+                        "Bid": "0.850 km",
+                        "InContract": "1.289 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "25,000,000est. 26,652,565",
+                        "DiscountRate": "-6 %",
+                        "Total": "32,225,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "27-Dec-2012",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "21-Jun-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "13-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Jun-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "28570200R",
+                        "Net": "27729900R",
+                        "Tax": "840300R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "15-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "28570200R",
+                        "Net": "27729900R",
+                        "Tax": "840300R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "57,140,400R",
+                        "ActualPaymentCumulativeToDate(A)Net": "55,459,800R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,680,600R",
+                        "ContractValue(B)Gross": "71,425,500R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road",
+            "project_link": "/pid/project/home/view.castle?pid=a73f7a18-c4cf-4847-96c5-a1b90106ad68",
+            "project_html_data": {
+                "Pid": "a73f7a18-c4cf-4847-96c5-a1b90106ad68",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Moung Dol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road",
+                        "Objective": "At the end of the year 2013 people will have good road for traveling ",
+                        "Relatedcontract(s)": "080816/13/01-01 ",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "73,211,146",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "73,211,146"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "BoengAnhchanh",
+                        "BeneficiaryTotal": "601",
+                        "BeneficiaryWomen": "328",
+                        "Households": "75"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Boeng Anhchanh",
+                        "Description": "Laterite road New [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 541.780 Volume of earth (m3)",
+                        "Qty": "1.350 km",
+                        "UnitCost": "39,527,921",
+                        "Total": "53,362,693"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project upgraded on existing road"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "26-Feb-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "11-Mar-2013",
+                            "Technicalclearancesign-off": "28-Mar-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816130101",
+            "contract_html_data": {
+                "Id": "080816130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/13/01-01",
+                        "TechnicalSupervisor": "Moung Dol",
+                        "Project'sName": "Laterite road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Thab eing, [ Thab Eng ]",
+                        "Competitivebidding": "Yes ( 17-May-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "03-Jun-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "04-Jun-2013",
+                        "Plannedworkcompletiondate": "02-Jul-2013",
+                        "CreatedBy": "Mr. On Navong",
+                        "Mobile": "016337106",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "79,895,500"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,532,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UmOl",
+                        "Contractor": "SamolSamat",
+                        "BidValue": "73,000,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ThabEng",
+                        "Contractor": "Thabeing",
+                        "BidValue": "72,900,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "PhatSophalConstructionEnterprise(PPL)",
+                        "BidValue": "81,270,000R",
+                        "DiscountRate": "11%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "81,427,500",
+                        "Village": "Boeng Khnar",
+                        "Description": "[ 1010102 ] Laterite road NewDimension #1 : 4.000 Width (m)Dimension #2 : 421.000 Volume of earth (m3)",
+                        "Bid": "0.540 km",
+                        "InContract": "0.565 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "45,000,000est. 36,756,394",
+                        "DiscountRate": "22 %",
+                        "Total": "25,425,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "04-Jun-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "16-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "08-Aug-2013",
+                            "Progress": "60 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "19-Aug-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Mr. On Navong",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "16-Jul-2013",
+                        "Source": "CSF",
+                        "Description": "1st",
+                        "Gross": "32571000R",
+                        "Net": "29610000R",
+                        "Tax": "2961000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "21-Aug-2013",
+                        "Source": "CSF",
+                        "Description": "2nd",
+                        "Gross": "32571000R",
+                        "Net": "29610000R",
+                        "Tax": "2961000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "65,142,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "59,220,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "5,922,000R",
+                        "ContractValue(B)Gross": "81,427,500R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road construction",
+            "project_link": "/pid/project/home/view.castle?pid=76af1b14-2ab3-4e78-96e9-a39a00d1204d",
+            "project_html_data": {
+                "Pid": "76af1b14-2ab3-4e78-96e9-a39a00d1204d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Moung Dol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road construction",
+                        "Objective": "At the end of this year, people who lives in 4 villages have a good literite road for using",
+                        "Relatedcontract(s)": "080816/14/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "77,584,043",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "77,584,043"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Khlong",
+                        "BeneficiaryTotal": "304",
+                        "BeneficiaryWomen": "152",
+                        "Households": "57"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Srae Kach",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 161.000 Volume of earth (m3)",
+                        "Qty": "0.820 km",
+                        "UnitCost": "19,445,270",
+                        "Total": "15,945,121"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project was not in watch list area"
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "06-Jun-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project was not in minority watch list"
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "10-Jul-2014",
+                            "Technicalclearancesign-off": "30-Jul-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816140101",
+            "contract_html_data": {
+                "Id": "080816140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/14/01-01",
+                        "TechnicalSupervisor": "Moung Dol",
+                        "Project'sName": "Laterite road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Samol Samat, [ Um Ol ]",
+                        "Competitivebidding": "Yes ( 18-Aug-2014 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "27-Aug-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "29-Aug-2014",
+                        "Plannedworkcompletiondate": "15-Oct-2014",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "84,646,997"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "1,600,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UmOl",
+                        "Contractor": "SamolSamat",
+                        "BidValue": "76,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChhonPoalong",
+                        "Contractor": "ChhonPoalong",
+                        "BidValue": "77,646,400R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NOVSENGHAK",
+                        "Contractor": "NOVSENGHAK",
+                        "BidValue": "77,499,997R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "86,246,996",
+                        "Village": "Srae Kach",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 161.000 Volume of earth (m3)",
+                        "Bid": "0.820 km",
+                        "InContract": "0.820 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "18,292,683est. 19,445,270",
+                        "DiscountRate": "-6 %",
+                        "Total": "15,000,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "29-Aug-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "04-Sep-2014",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "06-Oct-2014",
+                            "Progress": "80 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "24-Oct-2014",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "86,246,997R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=37705d3c-f1b3-47c6-bfc3-a4eb009c093f",
+            "project_html_data": {
+                "Pid": "37705d3c-f1b3-47c6-bfc3-a4eb009c093f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Moung Dol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road rehabilitation",
+                        "Objective": "In this year, the people who live in 4 villages will get a new laterite road for transportation.",
+                        "Relatedcontract(s)": "080816/15/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "78,513,449",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "78,513,449"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "AngkSraePou",
+                        "BeneficiaryTotal": "468",
+                        "BeneficiaryWomen": "241",
+                        "Households": "90"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Prey Totueng",
+                        "Description": "Laterite road Repair [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,195.000 Volume of earth (m3)",
+                        "Qty": "0.674 km",
+                        "UnitCost": "32,525,743",
+                        "Total": "21,922,351"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Approvaldate": "18-Dec-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-May-2015",
+                            "Technicalclearancesign-off": "12-Jun-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816150101",
+            "contract_html_data": {
+                "Id": "080816150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/15/01-01",
+                        "TechnicalSupervisor": "Moung Dol",
+                        "Project'sName": "Laterite road rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Samol Samat, [ Um Ol ]",
+                        "Competitivebidding": "Yes ( 29-Jun-2015 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "10-Jul-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jul-2015",
+                        "Plannedworkcompletiondate": "31-Aug-2015",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "83,535,609"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UmOl",
+                        "Contractor": "SamolSamat",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PhatSophal",
+                        "Contractor": "PhatSophalConstructionEnterprise",
+                        "BidValue": "74,400,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SamSyvon",
+                        "Contractor": "SamSyvon",
+                        "BidValue": "58,324,800R",
+                        "DiscountRate": "-26%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "LyVirak",
+                        "Contractor": "AngPuth",
+                        "BidValue": "63,000,000R",
+                        "DiscountRate": "-20%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "85,535,609",
+                        "Village": "Prey Totueng",
+                        "Description": "[ 1010102 ] Laterite road RepairDimension #1 : 4.000 Width (m)Dimension #2 : 1,195.000 Volume of earth (m3)",
+                        "Bid": "0.674 km",
+                        "InContract": "1.410 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "44,510,386est. 32,525,743",
+                        "DiscountRate": "37 %",
+                        "Total": "62,759,644"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "05-Aug-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "20-Aug-2015",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "04-Sep-2015",
+                            "Progress": "60 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "23-Oct-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "85,535,609R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Laterite road construction",
+            "project_link": "/pid/project/home/view.castle?pid=2ebd84b9-cb7e-4241-86cc-a75f00afff7f",
+            "project_html_data": {
+                "Pid": "2ebd84b9-cb7e-4241-86cc-a75f00afff7f",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Moung Dol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Laterite road construction",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080816/16/01-01 ",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "67,033,403",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "67,033,403"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Khlong",
+                        "BeneficiaryTotal": "312",
+                        "BeneficiaryWomen": "157",
+                        "Households": "61"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Khlong",
+                        "Description": "Laterite road Upgrade [ 1010102 ]Dimension #1 : 4.000 Width (m)Dimension #2 : 1,110.000 Volume of earth (m3)",
+                        "Qty": "0.520 km",
+                        "UnitCost": "31,800,592",
+                        "Total": "16,536,308"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "04-Feb-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "27-May-2016",
+                            "Technicalclearancesign-off": "13-Jun-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816160101",
+            "contract_html_data": {
+                "Id": "080816160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/16/01-01",
+                        "TechnicalSupervisor": "Moung Dol",
+                        "Project'sName": "Laterite road construction",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Sam Syvon, [ Sam Syvon ]",
+                        "Competitivebidding": "Yes ( 01-Jun-2016 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "10-Jul-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-Jul-2016",
+                        "Plannedworkcompletiondate": "20-Sep-2016",
+                        "CreatedBy": "Sam Piseth",
+                        "Mobile": "012 400 092",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "47,697,038"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "UmOl",
+                        "Contractor": "SamolSamat",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-33%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "Mr.NavChou",
+                        "Contractor": "Diamond",
+                        "BidValue": "66,928,322R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SamSyvon",
+                        "Contractor": "SamSyvon",
+                        "BidValue": "39,000,000R",
+                        "DiscountRate": "-42%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "49,697,038",
+                        "Village": "Khlong",
+                        "Description": "[ 1010102 ] Laterite road UpgradeDimension #1 : 4.000 Width (m)Dimension #2 : 1,110.000 Volume of earth (m3)",
+                        "Bid": "0.520 km",
+                        "InContract": "0.520 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "18,335,684est. 31,800,592",
+                        "DiscountRate": "-42 %",
+                        "Total": "9,534,556"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-Jul-2016",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "25-Apr-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "26-Jun-2018",
+                            "Progress": "100 %",
+                            "ReportBy": "Sam Piseth",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "49,697,038R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "concrete road",
+            "project_link": "/pid/project/home/view.castle?pid=248ba4ac-7e29-4364-a2d6-aa0a00bcd28d",
+            "project_html_data": {
+                "Pid": "248ba4ac-7e29-4364-a2d6-aa0a00bcd28d",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Moung Dol",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "concrete road",
+                        "Objective": "To facilitated for Transportation",
+                        "Relatedcontract(s)": "080816/17/01-01 ",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "109,091,556",
+                        "LocalRevenue": "0",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "109,091,556"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Tonloab",
+                        "BeneficiaryTotal": "1,833",
+                        "BeneficiaryWomen": "927",
+                        "Households": "367"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Tonloab",
+                        "Description": "Steel-reinforced concrete road New [ 1010203 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Qty": "0.272 km",
+                        "UnitCost": "401,071,897",
+                        "Total": "109,091,556"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Approvaldate": "09-Mar-2017"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "This project is not located in watch list area."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-Mar-2017",
+                            "Technicalclearancesign-off": "15-Mar-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "080816/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=080816170101",
+            "contract_html_data": {
+                "Id": "080816170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 80816 ] Kandal \\ Angk Snuol \\ Tuol Prech",
+                        "Contract": "080816/17/01-01",
+                        "TechnicalSupervisor": "Moung Dol",
+                        "Project'sName": "concrete road",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Ang Puth, [ Ly Virak ]",
+                        "Competitivebidding": "Yes ( 04-May-2017 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "16-May-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "20-May-2017",
+                        "Plannedworkcompletiondate": "18-Jun-2017",
+                        "CreatedBy": "Vann Sophal",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "106,972,794"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "2,000,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LyVirak",
+                        "Contractor": "AngPuth",
+                        "BidValue": "54,000,000R",
+                        "DiscountRate": "-51%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ThanBunnarath",
+                        "Contractor": "T&TrustConstruction",
+                        "BidValue": "63,920,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "62,288,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KhuChamnan",
+                        "Contractor": "KhuChamnanConstruction",
+                        "BidValue": "62,240,000R",
+                        "DiscountRate": "-43%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "108,972,794",
+                        "Village": "Tonloab",
+                        "Description": "[ 1010203 ] Steel-reinforced concrete road NewDimension #1 : 5.000 Width (m)Dimension #2 : 150.000 Thickness of concrete (mm)",
+                        "Bid": "0.272 km",
+                        "InContract": "0.499 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "198,529,412est. 401,071,897",
+                        "DiscountRate": "-51 %",
+                        "Total": "99,066,177"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "20-May-2017",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "10-Jul-2017",
+                            "Progress": "50 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "14-Sep-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Vann Sophal",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "108,972,794R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        }
+    ]
+}

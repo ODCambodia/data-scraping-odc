@@ -1,0 +1,2300 @@
+{
+    "location": {
+        "province": "Takeo",
+        "district": "Prey Kabbas",
+        "commune": "Char"
+    },
+    "projects": [
+        {
+            "project_name": "Canal rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=5d45cab9-98d7-4abb-9c48-9c6300f87b1e",
+            "project_html_data": {
+                "Pid": "5d45cab9-98d7-4abb-9c48-9c6300f87b1e",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal rehabilitation",
+                        "Objective": "For Irrigation.",
+                        "Relatedcontract(s)": "210604/09/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2009",
+                        "NationalTransfer*": "34,850,200",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "35,250,200"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SraePou",
+                        "BeneficiaryTotal": "1,240",
+                        "BeneficiaryWomen": "650",
+                        "Households": "269"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chant Mongkol",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.250 Depth (m)Dimension #2 : 6.860 Average width (m)",
+                        "Qty": "0.530 km",
+                        "UnitCost": "36,134,094",
+                        "Total": "19,151,070"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Reason": "Public Land.",
+                            "Approvaldate": "05-Mar-2009"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "20-Apr-2009",
+                            "Technicalclearancesign-off": "20-May-2009"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/09/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604090101",
+            "contract_html_data": {
+                "Id": "210604090101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/09/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "Canal rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "KorngSokKhim, [ Korng SokKhim ]",
+                        "Competitivebidding": "Yes ( 19-Jun-2009 )",
+                        "Numberofcontractor": "7",
+                        "Contractsigndate(Form50)": "01-Jul-2009",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "03-Jul-2009",
+                        "Plannedworkcompletiondate": "31-Jul-2009",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "23-Apr-2010",
+                        "Closeddateon": "03-Feb-2010"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "34,417,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LakChiep",
+                        "Contractor": "LakChiep",
+                        "BidValue": "31,150,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "SamnangTouTaoBunchenda",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SieSokHeng",
+                        "Contractor": "SieSokHieng",
+                        "BidValue": "30,800,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "30,500,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,Lowestbidprice,winner."
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "KorngSokTry",
+                        "Contractor": "SamnangTouTao",
+                        "BidValue": "30,800,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "PanHorng",
+                        "Contractor": "PanhorngSamnangTouTao",
+                        "BidValue": "31,051,500R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "CheaKoi",
+                        "Contractor": "CheaKoi",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "34,816,987",
+                        "Village": "Chant Mongkol",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 2.140 Depth (m)Dimension #2 : 6.860 Average width (m)",
+                        "Bid": "0.530 km",
+                        "InContract": "0.530 km",
+                        "Actualquantity": "0.530 km",
+                        "UnitCost/Estimated": "35,138,302est. 36,134,094",
+                        "DiscountRate": "-3 %",
+                        "Total": "18,623,300"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "03-Jul-2009",
+                        "Actualworkcompletiondate": "28-Jul-2009",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "15-Jul-2009",
+                            "Progress": "50 %",
+                            "ReportBy": "Koam Sothun",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "28-Jul-2009",
+                            "Progress": "100 %",
+                            "ReportBy": "Koam Sothun",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "20-Jul-2009",
+                        "Source": "CSF",
+                        "Description": "1stpayment",
+                        "Gross": "13526800R",
+                        "Net": "13120996R",
+                        "Tax": "405804R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "20-Jul-2009",
+                        "Source": "LC",
+                        "Description": "1stpayment",
+                        "Gross": "400000R",
+                        "Net": "388000R",
+                        "Tax": "12000R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "Date": "05-Aug-2009",
+                        "Source": "CSF",
+                        "Description": "2ndpayment",
+                        "Gross": "13926800R",
+                        "Net": "13508996R",
+                        "Tax": "417804R",
+                        "Verified": "LyDavy"
+                    },
+                    {
+                        "Date": "04-Feb-2010",
+                        "Source": "CSF",
+                        "Description": "3rdpayment",
+                        "Gross": "6963400R",
+                        "Net": "6784908R",
+                        "Tax": "178492R",
+                        "Verified": "SothChhengLen"
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "34,817,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "33,802,900R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "1,014,100R",
+                        "ContractValue(B)Gross": "34,817,000R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal rehabilitation",
+            "project_link": "/pid/project/home/view.castle?pid=8aebe501-2b14-4a9a-9c2a-9de300f564a3",
+            "project_html_data": {
+                "Pid": "8aebe501-2b14-4a9a-9c2a-9de300f564a3",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal rehabilitation",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210604/10/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2010",
+                        "NationalTransfer*": "48,964,900",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "49,364,900"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SraePou",
+                        "BeneficiaryTotal": "1,240",
+                        "BeneficiaryWomen": "650",
+                        "Households": "269"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Srae Pou",
+                        "Description": "Unlined Earth canal Upgrade [ 1020101 ]Dimension #1 : 2.500 Depth (m)Dimension #2 : 9.180 Average width (m)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "38,141,299",
+                        "Total": "19,070,650"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "08-Jul-2010"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Jul-2010",
+                            "Technicalclearancesign-off": "18-Aug-2010"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/10/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604100101",
+            "contract_html_data": {
+                "Id": "210604100101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/10/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "Canal rehabilitation",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "KorngSokKhim, [ Korng SokKhim ]",
+                        "Competitivebidding": "Yes ( 01-Sep-2010 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "13-Sep-2010",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "14-Sep-2010",
+                        "Plannedworkcompletiondate": "06-Oct-2010",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Eligible",
+                        "Confirmation": "15-Feb-2011",
+                        "Closeddateon": "09-Apr-2011"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "29,392,704"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "27,800,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,Lowestbidprice,winner."
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PheNget",
+                        "Contractor": "SamnangPheNget",
+                        "BidValue": "28,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KoaPuthTheng",
+                        "Contractor": "SamnangCheaNhanh",
+                        "BidValue": "27,900,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "KorngSokTry",
+                        "Contractor": "SamnangTouTao",
+                        "BidValue": "28,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "ChuPiset",
+                        "Contractor": "ChuPiset",
+                        "BidValue": "28,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "29,792,704",
+                        "Village": "Srae Pou",
+                        "Description": "[ 1020101 ] Unlined Earth canal UpgradeDimension #1 : 2.500 Depth (m)Dimension #2 : 9.180 Average width (m)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": "0.500 km",
+                        "UnitCost/Estimated": "37,066,667est. 38,141,299",
+                        "DiscountRate": "-3 %",
+                        "Total": "18,533,333"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "14-Sep-2010",
+                        "Actualworkcompletiondate": "05-Oct-2010",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "27-Sep-2010",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "05-Oct-2010",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "06-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "11517082R",
+                        "Net": "11178344R",
+                        "Tax": "338738R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "06-Oct-2010",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "400000R",
+                        "Net": "388236R",
+                        "Tax": "11764R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "18-Oct-2010",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "11917082R",
+                        "Net": "11566580R",
+                        "Tax": "350502R",
+                        "Verified": "LyPhanny"
+                    },
+                    {
+                        "Date": "21-Apr-2011",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "5958540R",
+                        "Net": "5783289R",
+                        "Tax": "175251R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "29,792,704R",
+                        "ActualPaymentCumulativeToDate(A)Net": "28,916,449R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "876,255R",
+                        "ContractValue(B)Gross": "29,792,704R",
+                        "TaxDescription": "Tax Deduction Rate: 3 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal",
+            "project_link": "/pid/project/home/view.castle?pid=b7b1a790-0c17-4016-bcba-9fa400fe98a8",
+            "project_html_data": {
+                "Pid": "b7b1a790-0c17-4016-bcba-9fa400fe98a8",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210604/11/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2011",
+                        "NationalTransfer*": "51,531,136",
+                        "LocalRevenue": "400,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "51,931,136"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "ChantMongkol",
+                        "BeneficiaryTotal": "770",
+                        "BeneficiaryWomen": "403",
+                        "Households": "160"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Chal",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 2.820 Depth (m)Dimension #2 : 10.460 Average width (m)",
+                        "Qty": "0.387 km",
+                        "UnitCost": "82,329,330",
+                        "Total": "31,861,451"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Public",
+                            "Reason": "Public land.",
+                            "Approvaldate": "09-Sep-2011"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "13-Sep-2011",
+                            "Technicalclearancesign-off": "17-Nov-2011"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/11/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604110101",
+            "contract_html_data": {
+                "Id": "210604110101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/11/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "KorngSokKhim, [ Korng SokKhim ]",
+                        "Competitivebidding": "Yes ( 02-Dec-2011 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "14-Dec-2011",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Dec-2011",
+                        "Plannedworkcompletiondate": "30-Jan-2012",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": "",
+                        "Closeddateon": "20-Jul-2012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "33,480,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "400,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KorngSokKhim",
+                        "Contractor": "KorngSokKhim",
+                        "BidValue": "30,800,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ChuPiset",
+                        "Contractor": "ChuPiset",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "KiSengNgoun",
+                        "Contractor": "KiSengNgoun",
+                        "BidValue": "31,500,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "SumChan",
+                        "Contractor": "SumChan",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "33,880,000",
+                        "Village": "Svay Chal",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 2.870 Depth (m)Dimension #2 : 10.460 Average width (m)",
+                        "Bid": "0.387 km",
+                        "InContract": "0.387 km",
+                        "Actualquantity": "0.387 km",
+                        "UnitCost/Estimated": "79,586,563est. 82,329,330",
+                        "DiscountRate": "-3 %",
+                        "Total": "30,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Dec-2011",
+                        "Actualworkcompletiondate": "18-Jan-2012",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "06-Jan-2012",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "18-Jan-2012",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "20-Jan-2012",
+                        "Source": "CSF",
+                        "Description": "1stPayment",
+                        "Gross": "13152000R",
+                        "Net": "11956364R",
+                        "Tax": "1195636R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Jan-2012",
+                        "Source": "LC",
+                        "Description": "1stPayment",
+                        "Gross": "400000R",
+                        "Net": "363636R",
+                        "Tax": "36364R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "20-Jan-2012",
+                        "Source": "CSF",
+                        "Description": "2ndPayment",
+                        "Gross": "13552000R",
+                        "Net": "12320000R",
+                        "Tax": "1232000R",
+                        "Verified": ""
+                    },
+                    {
+                        "Date": "31-Jul-2012",
+                        "Source": "CSF",
+                        "Description": "3rdPayment",
+                        "Gross": "6776000R",
+                        "Net": "6160000R",
+                        "Tax": "616000R",
+                        "Verified": ""
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "33,880,000R",
+                        "ActualPaymentCumulativeToDate(A)Net": "30,800,000R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "3,080,000R",
+                        "ContractValue(B)Gross": "33,880,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal",
+            "project_link": "/pid/project/home/view.castle?pid=c2776883-a44f-4cfa-afc2-a11e00aa7b71",
+            "project_html_data": {
+                "Pid": "c2776883-a44f-4cfa-afc2-a11e00aa7b71",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210604/12/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2012",
+                        "NationalTransfer*": "94,631,366",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "94,831,366"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SraePou",
+                        "BeneficiaryTotal": "721",
+                        "BeneficiaryWomen": "415",
+                        "Households": "134"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Srae Pou",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 12.100 Depth (m)Dimension #2 : 7.800 Average width (m)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "42,878,402",
+                        "Total": "21,439,201"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project required land acquisition report.Voluntary",
+                            "Approvaldate": "20-Oct-2012"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "23-Oct-2012",
+                            "Technicalclearancesign-off": "26-Nov-2012"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/12/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604120101",
+            "contract_html_data": {
+                "Id": "210604120101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/12/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "SamnangHimSien, [ Him Sien ]",
+                        "Competitivebidding": "Yes ( 17-Dec-2012 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "26-Dec-2012",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "01-Jan-2013",
+                        "Plannedworkcompletiondate": "15-Feb-2013",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "49,192,157"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "KangSoPhouen",
+                        "Contractor": "KangSoPhouen",
+                        "BidValue": "28,993,500R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HimSien",
+                        "Contractor": "SamnangHimSien",
+                        "BidValue": "22,900,000R",
+                        "DiscountRate": "-58%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "ChhimVantha",
+                        "Contractor": "ChhimVantha",
+                        "BidValue": "26,000,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "49,392,156",
+                        "Village": "Srae Pou",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.440 Depth (m)Dimension #2 : 5.940 Average width (m)",
+                        "Bid": "0.500 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": "0.500 km",
+                        "UnitCost/Estimated": "17,960,784est. 42,878,402",
+                        "DiscountRate": "-58 %",
+                        "Total": "8,980,392"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "01-Jan-2013",
+                        "Actualworkcompletiondate": "15-Feb-2013",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Jan-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "15-Feb-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "49,392,157R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal",
+            "project_link": "/pid/project/home/view.castle?pid=f2f300c8-cbd5-4c3d-8729-a1e4009c2184",
+            "project_html_data": {
+                "Pid": "f2f300c8-cbd5-4c3d-8729-a1e4009c2184",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210604/13/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2013",
+                        "NationalTransfer*": "68,796,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "11,909,209",
+                        "Other": "80,000",
+                        "Total": "80,985,209"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Char",
+                        "BeneficiaryTotal": "815",
+                        "BeneficiaryWomen": "510",
+                        "Households": "153"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Svay Chal",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 3.110 Depth (m)Dimension #2 : 9.780 Average width (m)",
+                        "Qty": "0.580 km",
+                        "UnitCost": "125,547,172",
+                        "Total": "72,817,360"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land.",
+                            "Approvaldate": "19-Apr-2013"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "22-Apr-2013",
+                            "Technicalclearancesign-off": "29-May-2013"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/13/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604130101",
+            "contract_html_data": {
+                "Id": "210604130101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/13/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Him Sean, [ Him Sean ]",
+                        "Competitivebidding": "Yes ( 21-Jun-2013 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "09-Jul-2013",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "10-Jul-2013",
+                        "Plannedworkcompletiondate": "30-Jul-2013",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "80,708,413"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Chhimvanntha",
+                        "Contractor": "Chhimvanntha",
+                        "BidValue": "72,500,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HimSean",
+                        "Contractor": "HimSean",
+                        "BidValue": "72,000,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PannHorng",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "72,800,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "80,908,414",
+                        "Village": "Svay Chal",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 3.110 Depth (m)Dimension #2 : 9.780 Average width (m)",
+                        "Bid": "0.580 km",
+                        "InContract": "0.580 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "125,517,241est. 125,547,172",
+                        "DiscountRate": "0 %",
+                        "Total": "72,800,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "10-Jul-2013",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "19-Jul-2013",
+                            "Progress": "50 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        },
+                        {
+                            "Date": "30-Jul-2013",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "80,908,413R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal",
+            "project_link": "/pid/project/home/view.castle?pid=83e14538-e203-42a0-a16e-a39300b2cc0a",
+            "project_html_data": {
+                "Pid": "83e14538-e203-42a0-a16e-a39300b2cc0a",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210604/14/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2014",
+                        "NationalTransfer*": "48,500,000",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "436,796",
+                        "Other": "2,100,000",
+                        "Total": "51,236,796"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Char",
+                        "BeneficiaryTotal": "815",
+                        "BeneficiaryWomen": "510",
+                        "Households": "153"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chant Mongkol",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 3.390 Depth (m)Dimension #2 : 10.480 Average width (m)",
+                        "Qty": "0.500 km",
+                        "UnitCost": "135,608,389",
+                        "Total": "67,804,195"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land.",
+                            "Approvaldate": "01-Jun-2014"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "04-Jun-2014",
+                            "Technicalclearancesign-off": "25-Jul-2014"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/14/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604140101",
+            "contract_html_data": {
+                "Id": "210604140101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/14/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "Canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Him Sean, [ Him Sean ]",
+                        "Competitivebidding": "Yes ( 13-Aug-2014 )",
+                        "Numberofcontractor": "5",
+                        "Contractsigndate(Form50)": "27-Aug-2014",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "27-Oct-2014",
+                        "Plannedworkcompletiondate": "20-Dec-2014",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "60,336,483"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "Chhimvanntha",
+                        "Contractor": "Chhimvanntha",
+                        "BidValue": "25,000,000R",
+                        "DiscountRate": "-46%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "22,000,000R",
+                        "DiscountRate": "-52%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "NorngTu",
+                        "Contractor": "Notyettranslation",
+                        "BidValue": "19,000,000R",
+                        "DiscountRate": "-59%",
+                        "Rejected": "No",
+                        "Reason": "Notyettranslation."
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "HimSean",
+                        "Contractor": "HimSean",
+                        "BidValue": "19,990,000R",
+                        "DiscountRate": "-57%",
+                        "Rejected": "No",
+                        "Reason": "Validbid,lowestbidprice,winner."
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "NgournSophorl",
+                        "Contractor": "SeakPhally",
+                        "BidValue": "28,900,000R",
+                        "DiscountRate": "-37%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "60,536,483",
+                        "Village": "Chant Mongkol",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 3.390 Depth (m)Dimension #2 : 10.480 Average width (m)",
+                        "Bid": "0.340 km",
+                        "InContract": "0.500 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "58,796,118est. 135,608,389",
+                        "DiscountRate": "-57 %",
+                        "Total": "29,398,059"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "27-Oct-2014",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "24-Mar-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "60,536,483R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "Canal and put culvert across the canal",
+            "project_link": "/pid/project/home/view.castle?pid=5332f57e-15a0-4258-83e0-a4d700a966f4",
+            "project_html_data": {
+                "Pid": "5332f57e-15a0-4258-83e0-a4d700a966f4",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "Canal and put culvert across the canal",
+                        "Objective": "For irrigation.",
+                        "Relatedcontract(s)": "210604/15/01-01 ",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2015",
+                        "NationalTransfer*": "44,255,632",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "20,000,000",
+                        "Other": "0",
+                        "Total": "64,455,632"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Char",
+                        "BeneficiaryTotal": "815",
+                        "BeneficiaryWomen": "510",
+                        "Households": "153"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chant Mongkol",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 3.640 Depth (m)Dimension #2 : 11.100 Average width (m)",
+                        "Qty": "0.200 km",
+                        "UnitCost": "98,743,000",
+                        "Total": "19,748,600"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": "The project location is not in the watch list area and the other cultural area."
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "Public land.",
+                            "Approvaldate": "07-May-2015"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": "No High land people."
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "08-May-2015",
+                            "Technicalclearancesign-off": "01-Jul-2015"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/15/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604150101",
+            "contract_html_data": {
+                "Id": "210604150101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/15/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "Canal and put culvert across the canal",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Him Sean, [ Him Sean ]",
+                        "Competitivebidding": "Yes ( 22-Jul-2015 )",
+                        "Numberofcontractor": "10",
+                        "Contractsigndate(Form50)": "07-Aug-2015",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "08-Aug-2015",
+                        "Plannedworkcompletiondate": "28-Aug-2015",
+                        "CreatedBy": "Long Sotheary",
+                        "Mobile": "N/A",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "64,150,000"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LachPhan",
+                        "Contractor": "LachPhanPonleuAkphiwat",
+                        "BidValue": "31,000,000R",
+                        "DiscountRate": "-47%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PangSarindy",
+                        "Contractor": "VanSokChea",
+                        "BidValue": "35,500,000R",
+                        "DiscountRate": "-39%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "PhanSengnea",
+                        "Contractor": "PhanSengnea",
+                        "BidValue": "16,500,000R",
+                        "DiscountRate": "-72%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "ParngSokhom",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "45,000,000R",
+                        "DiscountRate": "-22%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "5",
+                        "Director'sName": "LackCheap",
+                        "Contractor": "LackCheap",
+                        "BidValue": "30,130,000R",
+                        "DiscountRate": "-48%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "6",
+                        "Director'sName": "NorngTu",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "17,000,000R",
+                        "DiscountRate": "-71%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "7",
+                        "Director'sName": "HimSean",
+                        "Contractor": "HimSean",
+                        "BidValue": "15,000,000R",
+                        "DiscountRate": "-74%",
+                        "Rejected": "No",
+                        "Reason": "Notyettranslation."
+                    },
+                    {
+                        "No": "8",
+                        "Director'sName": "KaemChanthy",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "16,500,000R",
+                        "DiscountRate": "-72%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "9",
+                        "Director'sName": "SarKhart",
+                        "Contractor": "NeangSokha",
+                        "BidValue": "24,700,000R",
+                        "DiscountRate": "-57%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "10",
+                        "Director'sName": "MeyChandy",
+                        "Contractor": "MeyChandy",
+                        "BidValue": "34,400,000R",
+                        "DiscountRate": "-41%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "64,350,000",
+                        "Village": "Chant Mongkol",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 2.500 Depth (m)Dimension #2 : 9.000 Average width (m)",
+                        "Bid": "0.200 km",
+                        "InContract": "0.200 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "1,000,000est. 98,743,000",
+                        "DiscountRate": "-99 %",
+                        "Total": "200,000"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "08-Aug-2015",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "28-Aug-2015",
+                            "Progress": "100 %",
+                            "ReportBy": "Long Sotheary",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "64,350,000R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=dac715bc-a529-48aa-9283-a6f200a83298",
+            "project_html_data": {
+                "Pid": "dac715bc-a529-48aa-9283-a6f200a83298",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210604/16/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2016",
+                        "NationalTransfer*": "76,067,796",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "76,267,796"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "AmpilLech",
+                        "BeneficiaryTotal": "844",
+                        "BeneficiaryWomen": "425",
+                        "Households": "187"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Ampil Kaeut",
+                        "Description": "Unlined Earth canal Repair [ 1020101 ]Dimension #1 : 1.720 Depth (m)Dimension #2 : 6.660 Average width (m)",
+                        "Qty": "1.000 km",
+                        "UnitCost": "31,927,812",
+                        "Total": "31,927,812"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": "",
+                            "Approvaldate": "03-Oct-2016"
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Oct-2016",
+                            "Technicalclearancesign-off": "18-Nov-2016"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/16/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604160101",
+            "contract_html_data": {
+                "Id": "210604160101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/16/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Irrigation",
+                        "Contractor": "Him Sean, [ Him Sean ]",
+                        "Competitivebidding": "Yes ( 07-Dec-2016 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "30-Dec-2016",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "15-Jan-2017",
+                        "Plannedworkcompletiondate": "28-Feb-2017",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "76,067,796"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "ChhimVantha",
+                        "Contractor": "ChhimVantha",
+                        "BidValue": "49,000,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "PanHorng",
+                        "Contractor": "PanHorng",
+                        "BidValue": "48,500,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "HimSean",
+                        "Contractor": "HimSean",
+                        "BidValue": "48,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "76,267,796",
+                        "Village": "Sla",
+                        "Description": "[ 1020101 ] Unlined Earth canal RepairDimension #1 : 1.920 Depth (m)Dimension #2 : 7.250 Average width (m)",
+                        "Bid": "0.000 km",
+                        "InContract": "0.450 km",
+                        "Actualquantity": "0.450 km",
+                        "UnitCost/Estimated": "35,439,137est. 31,524,972",
+                        "DiscountRate": "12 %",
+                        "Total": "15,947,612"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "15-Jan-2017",
+                        "Actualworkcompletiondate": "29-Mar-2017",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    [
+                        {
+                            "Date": "30-Mar-2017",
+                            "Progress": "100 %",
+                            "ReportBy": "Un Bunchannalin",
+                            "Note": ""
+                        }
+                    ]
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "76,267,796R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=51b9f5f1-6282-4dbe-838d-a93b00a7bd30",
+            "project_html_data": {
+                "Pid": "51b9f5f1-6282-4dbe-838d-a93b00a7bd30",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210604/17/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2017",
+                        "NationalTransfer*": "78,828,083",
+                        "LocalRevenue": "300,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "79,128,083"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Char",
+                        "BeneficiaryTotal": "1,507",
+                        "BeneficiaryWomen": "769",
+                        "Households": "271"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Char",
+                        "Description": "Natural Gravel road Repair [ 1010103 ]Dimension #1 : 5.000 Width (m)Dimension #2 : 739.000 Volume of earth (m3)",
+                        "Qty": "0.545 km",
+                        "UnitCost": "43,506,846",
+                        "Total": "23,711,231"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "05-Apr-2017",
+                            "Technicalclearancesign-off": "09-May-2017"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/17/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604170101",
+            "contract_html_data": {
+                "Id": "210604170101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/17/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation., [ Norng Tu ]",
+                        "Competitivebidding": "Yes ( 23-May-2017 )",
+                        "Numberofcontractor": "3",
+                        "Contractsigndate(Form50)": "12-Jun-2017",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "13-Jun-2017",
+                        "Plannedworkcompletiondate": "15-Jul-2017",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Pending",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "78,828,083"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "300,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "PanHorng",
+                        "Contractor": "PanHorng",
+                        "BidValue": "57,500,000R",
+                        "DiscountRate": "-2%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "NorngTu",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "56,000,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "SrauyHeang",
+                        "Contractor": "SrauyHeang",
+                        "BidValue": "56,400,000R",
+                        "DiscountRate": "-4%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "79,128,083",
+                        "Village": "Char",
+                        "Description": "[ 1010103 ] Natural Gravel road RepairDimension #1 : 5.000 Width (m)Dimension #2 : 739.000 Volume of earth (m3)",
+                        "Bid": "0.545 km",
+                        "InContract": "0.545 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "41,604,755est. 43,506,846",
+                        "DiscountRate": "-4 %",
+                        "Total": "22,674,591"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "79,128,083R",
+                        "TaxDescription": "Tax Deduction Rate: 10 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=eef26574-18d1-48a0-bae7-ab5300f91ef6",
+            "project_html_data": {
+                "Pid": "eef26574-18d1-48a0-bae7-ab5300f91ef6",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Soun San",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210604/18/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2018",
+                        "NationalTransfer*": "74,101,204",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "74,301,204"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "SraePou",
+                        "BeneficiaryTotal": "1,496",
+                        "BeneficiaryWomen": "747",
+                        "Households": "345"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Chant Mongkol",
+                        "Description": "Natural Gravel road width 4.1-5m Repair [ 1010118 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 5,474.000 Volume of earth (m3)",
+                        "Qty": "2.000 km",
+                        "UnitCost": "44,227,878",
+                        "Total": "88,455,756"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "28-May-2018",
+                            "Technicalclearancesign-off": "11-Jun-2018"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/18/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604180101",
+            "contract_html_data": {
+                "Id": "210604180101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/18/01-01",
+                        "TechnicalSupervisor": "Soun San",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Not yet translation., [ Bun Chenda ]",
+                        "Competitivebidding": "Yes ( 27-Jun-2018 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "06-Jul-2018",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "25-Jul-2018",
+                        "Plannedworkcompletiondate": "27-Nov-2018",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "74,101,204"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "",
+                        "Contractor": "",
+                        "BidValue": "72,400,000R",
+                        "DiscountRate": "-1%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HimSean",
+                        "Contractor": "HimSean",
+                        "BidValue": "73,400,000R",
+                        "DiscountRate": "0%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "70,000,000R",
+                        "DiscountRate": "-5%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "AemBunthoeun",
+                        "Contractor": "HengChetra",
+                        "BidValue": "71,500,000R",
+                        "DiscountRate": "-3%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "74,301,205",
+                        "Village": "Chant Mongkol",
+                        "Description": "[ 1010118 ] Natural Gravel road width 4.1-5m RepairDimension #1 : 4.500 Width (m)Dimension #2 : 5,474.000 Volume of earth (m3)",
+                        "Bid": "1.660 km",
+                        "InContract": "1.762 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "42,168,675est. 44,227,878",
+                        "DiscountRate": "-5 %",
+                        "Total": "74,301,205"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "74,301,204R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        },
+        {
+            "project_name": "",
+            "project_link": "/pid/project/home/view.castle?pid=ec5cfcd0-905d-42c5-a335-ac8300fefc0b",
+            "project_html_data": {
+                "Pid": "ec5cfcd0-905d-42c5-a335-ac8300fefc0b",
+                "ProjectSummary": [
+                    {
+                        "Location": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "TechnicalAssistant": "Chheng Chanthy",
+                        "NatureofProject": "Infrastructure",
+                        "Name": "",
+                        "Objective": "",
+                        "Relatedcontract(s)": "210604/19/01-01 ",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012"
+                    }
+                ],
+                "Budget": [
+                    {
+                        "CalendarYear": "2019",
+                        "NationalTransfer*": "82,846,545",
+                        "LocalRevenue": "200,000",
+                        "CarryOver": "0",
+                        "Other": "0",
+                        "Total": "83,046,545"
+                    }
+                ],
+                "Beneficiary": [
+                    {
+                        "No": "1",
+                        "Village": "Sla",
+                        "BeneficiaryTotal": "555",
+                        "BeneficiaryWomen": "275",
+                        "Households": "104"
+                    }
+                ],
+                "Outputs_Estimated_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Village": "Sla",
+                        "Description": "Natural Gravel road width 4.1-5m Repair [ 1010118 ]Dimension #1 : 4.500 Width (m)Dimension #2 : 3,858.000 Volume of earth (m3)",
+                        "Qty": "1.150 km",
+                        "UnitCost": "45,387,139",
+                        "Total": "52,195,210"
+                    }
+                ],
+                "Technical_Clearance": {
+                    "Evironmental_Safeguard": [
+                        {
+                            "Impact": "This project did not require environment study.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Land_Safeguard": [
+                        {
+                            "Impact": "This project did not require land acquisition report.Public",
+                            "Reason": ""
+                        }
+                    ],
+                    "Highland_Safeguard": [
+                        {
+                            "Impact": "This project did not require highland people report.",
+                            "Reason": ""
+                        }
+                    ],
+                    "Signoff": [
+                        {
+                            "Feasibilitystudycompletedon": "25-Apr-2019",
+                            "Technicalclearancesign-off": "07-May-2019"
+                        }
+                    ]
+                }
+            },
+            "contract_id": "210604/19/01-01",
+            "contract_link": "/pid/contract/home/view.castle?id=210604190101",
+            "contract_html_data": {
+                "Id": "210604190101",
+                "ContractSummary": [
+                    {
+                        "AreaName": "[ 210604 ] Takeo \\ Prey Kabbas \\ Char",
+                        "Contract": "210604/19/01-01",
+                        "TechnicalSupervisor": "Chheng Chanthy",
+                        "Project'sName": "",
+                        "Sector": "Economic",
+                        "Sub-Sector": "Rural Transport",
+                        "Contractor": "Lack Cheap, [ Lack Cheap ]",
+                        "Competitivebidding": "Yes ( 31-May-2019 )",
+                        "Numberofcontractor": "4",
+                        "Contractsigndate(Form50)": "14-Jun-2019",
+                        "Guaranteeperiod": "6 Month",
+                        "Plannedworkstartdate": "14-Jun-2019",
+                        "Plannedworkcompletiondate": "14-Aug-2019",
+                        "CreatedBy": "Un Bunchannalin",
+                        "Mobile": "012",
+                        "RILGPStatus": "Ineligible",
+                        "Confirmation": ""
+                    }
+                ],
+                "Budget": [
+                    {
+                        "FundSource": "Commune/Sangkat Fund",
+                        "Cost": "82,846,545"
+                    },
+                    {
+                        "FundSource": "Local Contribution",
+                        "Cost": "200,000"
+                    }
+                ],
+                "Bidding": [
+                    {
+                        "No": "1",
+                        "Director'sName": "LackCheap",
+                        "Contractor": "LackCheap",
+                        "BidValue": "71,400,000R",
+                        "DiscountRate": "-17%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "2",
+                        "Director'sName": "HimSean",
+                        "Contractor": "HimSean",
+                        "BidValue": "75,252,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "3",
+                        "Director'sName": "BunChenda",
+                        "Contractor": "Notyettranslation.",
+                        "BidValue": "73,500,000R",
+                        "DiscountRate": "-14%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    },
+                    {
+                        "No": "4",
+                        "Director'sName": "MeyChandy",
+                        "Contractor": "MeyChandy",
+                        "BidValue": "75,400,000R",
+                        "DiscountRate": "-12%",
+                        "Rejected": "No",
+                        "Reason": ""
+                    }
+                ],
+                "Outputs_Actual_Cost": [
+                    {
+                        "Nr.": "1",
+                        "Totalcontractcostincludetax": "83,046,545",
+                        "Village": "Sla",
+                        "Description": "[ 1010118 ] Natural Gravel road width 4.1-5m RepairDimension #1 : 4.500 Width (m)Dimension #2 : 3,858.000 Volume of earth (m3)",
+                        "Bid": "1.150 km",
+                        "InContract": "1.150 km",
+                        "Actualquantity": " km",
+                        "UnitCost/Estimated": "34,782,608est. 45,387,139",
+                        "DiscountRate": "-23 %",
+                        "Total": "39,999,999"
+                    }
+                ],
+                "progress": [
+                    {
+                        "Actualworkstartdate": "",
+                        "Actualworkcompletiondate": "",
+                        "ActualworkstartdateDescription": "PIM 3.13.1 start of work meeting date",
+                        "ActualworkcompletiondateDescription": "PIM 3.13.7 section A/B 80% payment approval date."
+                    },
+                    []
+                ],
+                "payment": [
+                    {
+                        "Date": "Nopaymentregisterrecorded."
+                    },
+                    {
+                        "ActualPaymentCumulativeToDate(A)Gross": "0R",
+                        "ActualPaymentCumulativeToDate(A)Net": "0R",
+                        "ActualPaymentCumulativeToDate(A)Tax": "0R",
+                        "ContractValue(B)Gross": "83,046,545R",
+                        "TaxDescription": "Tax Deduction Rate: 0 %"
+                    }
+                ]
+            }
+        }
+    ]
+}
